@@ -182,16 +182,18 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "fantasy-content-generator:Fantasy Generators": false
     }
   },
-  "active": "24b2555f8c6dd081",
+  "active": "89213d689014c168",
   "lastOpenFiles": [
-    "NPCs",
-    "Encounters",
+    "Adventures in the Weird West/Locations/@.md",
+    "Adventures in the Weird West/Overall Map.md",
+    "Adventures in the Weird West/NPCs",
+    "Adventures in the Weird West/Encounters",
     "Adventures in the Weird West/Locations",
     "Untitled.md",
-    "Adventures in the Weird West/Overall Map.md",
     "Adventures in the Weird West",
     "Welcome.md"
   ]
