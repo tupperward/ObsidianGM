@@ -1,3 +1,30 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Nymph
+size: Medium
+type: Fae
+hd: 2
+hp: 9
+speed: "30' ((Swim 60'))"
+zone: Frontline
+morale: 4
+appearing: 1d4
+armor: "0 [as Unarmored]"
+weak: Cold Iron Weapons
+actions:
+  - name: "Nymph's Kiss [Cast, Touch | Will]"
+    desc: "Cursed (Cd8 Rounds, immediately suffocating and can only breathe water)."
+abilities:
+  - name: Amphibious
+    desc: Can breathe air or water.
+  - name: Magic Ward I
+    desc: "The first time it is unwillingly affected by a Spell each Round, the Caster must spend an extra 1 Mana to affect it."
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Medium Fae*
 
 **HD**: 2 (9 HP)
@@ -18,16 +45,17 @@ Nymph's Kiss [Cast, Touch | Will]: Cursed (Cd8 Rounds, immediately suffocating a
 **Magic Ward I:** The first time it is unwillingly affected by a Spell each Round, the Caster must spend an extra 1 Mana to affect it.
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Nymph
 size: Medium
 type: Fae
 hd: 2
 hp: 9
-speed: "30', (Swim 60')"
+speed: "30' ((Swim 60'))"
 zone: Frontline
 morale: 4
-appearing: d4
+appearing: 1d4
 armor: "0 [as Unarmored]"
 weak: Cold Iron Weapons
 actions:

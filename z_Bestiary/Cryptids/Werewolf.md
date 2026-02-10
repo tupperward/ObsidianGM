@@ -1,3 +1,36 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Werewolf
+size: Medium
+type: Cryptid (Shapechanger)
+hd: 4
+hp: 18
+speed: "40'"
+zone: Frontline
+morale: 9
+appearing: 1
+senses: Darksight
+armor: "2 [as Chain]"
+immune: Physical
+weak: "Fire, Silvered Weapons"
+actions:
+  - name: Combo
+    desc: 2×Claw and 1×Bite
+  - name: "Bite [Melee Attack, a Restrained Target]"
+    desc: "3 (1d6) and pass — Will or be cursed with Werewolf Lycanthropy."
+  - name: "Claws [Melee Attack]"
+    desc: 2 (1d4)
+abilities:
+  - name: Bloodthirst
+    desc: It is Berserk and Beings at or below half HP make Checks against it as if Vulnerable.
+  - name: Shapechanger
+    desc: This is a form that a Humanlike cursed with lycanthropy can become when the curse takes hold. They revert automatically if they die.
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Medium Cryptid (Shapechanger)*
 
 **HD**: 4 (18 HP)
@@ -22,6 +55,7 @@ Claws [Melee Attack]: 2 (d4)
 **Shapechanger:** This is a form that a Humanlike cursed with lycanthropy can become when the curse takes hold. They revert automatically if they die.
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Werewolf
 size: Medium
@@ -40,9 +74,9 @@ actions:
   - name: Combo
     desc: 2×Claw and 1×Bite
   - name: "Bite [Melee Attack, a Restrained Target]"
-    desc: "3 (d6) and pass [Will] or be cursed with Werewolf Lycanthropy."
+    desc: "3 (1d6) and pass — Will or be cursed with Werewolf Lycanthropy."
   - name: "Claws [Melee Attack]"
-    desc: 2 (d4)
+    desc: 2 (1d4)
 abilities:
   - name: Bloodthirst
     desc: It is Berserk and Beings at or below half HP make Checks against it as if Vulnerable.

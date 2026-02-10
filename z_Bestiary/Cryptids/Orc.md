@@ -1,3 +1,28 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Orc
+size: Medium
+type: Cryptid
+hd: 2
+hp: 8
+speed: "40'"
+zone: Frontline
+morale: 8
+appearing: 2d4
+senses: Darksight
+armor: "1 [as Leather]"
+actions:
+  - name: "Weapon [Attack]"
+    desc: 4 (1d8) or (by Weapon).
+abilities:
+  - name: Hulking
+    desc: Counts as Large for Grapples and Shoves.
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Medium Cryptid*
 
 **HD**: 2 (8 HP)
@@ -17,6 +42,7 @@ Weapon [Attack]: 4 (d8) or (by Weapon).
 **Hulking:** Counts as Large for Grapples and Shoves.
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Orc
 size: Medium
@@ -31,7 +57,7 @@ senses: Darksight
 armor: "1 [as Leather]"
 actions:
   - name: "Weapon [Attack]"
-    desc: 4 (d8) or (by Weapon).
+    desc: 4 (1d8) or (by Weapon).
 abilities:
   - name: Hulking
     desc: Counts as Large for Grapples and Shoves.

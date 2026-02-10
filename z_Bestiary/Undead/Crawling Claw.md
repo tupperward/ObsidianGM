@@ -1,3 +1,25 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Crawling Claw
+size: Small
+type: Undead
+hd: 2
+hp: 2
+speed: "25'"
+zone: Frontline
+morale: 12
+appearing: 1d20
+senses: Blindsight
+armor: "1 [as Leather]"
+immune: Poison
+weak: Silvered Weapons
+status_immunities: "Charmed, Fatigued, Sickened, Suffocating"
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Small Undead*
 
 **HD**: 2 (2 HP)
@@ -16,6 +38,7 @@
 Claw [Melee Attack]: 2 (d4)
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Crawling Claw
 size: Small
@@ -25,7 +48,7 @@ hp: 2
 speed: "25'"
 zone: Frontline
 morale: 12
-appearing: d20
+appearing: 1d20
 senses: Blindsight
 armor: "1 [as Leather]"
 immune: Poison

@@ -1,3 +1,20 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Veteran
+size: Medium
+type: Humanlike
+hd: 2
+hp: 9
+speed: "25'"
+zone: Frontline
+morale: 9
+armor: "3 [as Plate]"
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Medium Humanlike*
 
 **HD**: 2 (9 HP)
@@ -12,6 +29,7 @@ Combo: 2×Weapon
 Weapon [Attack]: 3 (d6) or (by Weapon)
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Veteran
 size: Medium

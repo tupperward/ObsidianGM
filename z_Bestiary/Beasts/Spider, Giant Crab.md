@@ -1,3 +1,22 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: "Spider, Giant Crab"
+size: Medium
+type: Beast
+hd: 2
+hp: 9
+speed: "40' (Cling)"
+zone: Frontline
+morale: 7
+appearing: 1d4
+senses: Darksight
+armor: "1 [as Leather]"
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Medium Beast*
 
 **HD**: 2 (9 HP)
@@ -13,6 +32,7 @@
 Bite [Melee Attack]: 4 (d8) and pass [Endure] with a +2 bonus or become Sickened (Cd4, +1 Fatigue each Round).
 
 ```statblock
+dice: true
 layout: Vagabond
 name: "Spider, Giant Crab"
 size: Medium
@@ -22,7 +42,7 @@ hp: 9
 speed: "40' (Cling)"
 zone: Frontline
 morale: 7
-appearing: d4
+appearing: 1d4
 senses: Darksight
 armor: "1 [as Leather]"
 columns: 2

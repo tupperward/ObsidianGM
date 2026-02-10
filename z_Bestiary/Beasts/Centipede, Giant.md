@@ -1,3 +1,21 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: "Centipede, Giant"
+size: Small
+type: Beast
+hd: 2
+hp: 2
+speed: "20' (Climb)"
+zone: Frontline
+morale: 7
+appearing: 2d4
+armor: "0 [as Unarmored]"
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Small Beast*
 
 **HD**: 2 (2 HP)
@@ -12,6 +30,7 @@
 Bite [Melee Attack]: Pass [Endure] or become Sickened (Cd4, Paralyzed)
 
 ```statblock
+dice: true
 layout: Vagabond
 name: "Centipede, Giant"
 size: Small

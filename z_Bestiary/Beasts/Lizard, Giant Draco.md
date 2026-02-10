@@ -1,3 +1,22 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: "Lizard, Giant Draco"
+size: Large
+type: Beast
+hd: 4
+hp: 18
+speed: "40' (70' with Glide)"
+zone: Frontline
+morale: 7
+appearing: 1d8
+senses: Darksight
+armor: "2 [as Chain]"
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Large Beast*
 
 **HD**: 4 (18 HP)
@@ -13,6 +32,7 @@
 Bite [Melee Attack]: 5 (d10)
 
 ```statblock
+dice: true
 layout: Vagabond
 name: "Lizard, Giant Draco"
 size: Large
@@ -22,7 +42,7 @@ hp: 18
 speed: "40' (70' with Glide)"
 zone: Frontline
 morale: 7
-appearing: d8
+appearing: 1d8
 senses: Darksight
 armor: "2 [as Chain]"
 columns: 2

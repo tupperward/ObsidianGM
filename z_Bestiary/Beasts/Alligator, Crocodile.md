@@ -1,3 +1,27 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: "Alligator, Crocodile"
+size: Large
+type: Beast
+hd: 3
+hp: 13
+speed: "30' (Swim)"
+zone: Frontline
+morale: 7
+appearing: 1d8
+armor: "2 [as Chain]"
+actions:
+  - name: "Bite [Melee Attack]"
+    desc: 4 (1d8) and Restrained if the Target is its size or smaller. This attack always hits a Target Restrained by this attack.
+abilities:
+  - name: Hold Breath
+    desc: Can hold its breath for 1 hour.
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Large Beast*
 
 **HD**: 3 (13 HP)
@@ -16,6 +40,7 @@ Bite [Melee Attack]: 4 (d8) and Restrained if the Target is its size or smaller.
 **Hold Breath:** Can hold its breath for 1 hour.
 
 ```statblock
+dice: true
 layout: Vagabond
 name: "Alligator, Crocodile"
 size: Large
@@ -25,11 +50,11 @@ hp: 13
 speed: "30' (Swim)"
 zone: Frontline
 morale: 7
-appearing: d8
+appearing: 1d8
 armor: "2 [as Chain]"
 actions:
   - name: "Bite [Melee Attack]"
-    desc: 4 (d8) and Restrained if the Target is its size or smaller. This attack always hits a Target Restrained by this attack.
+    desc: 4 (1d8) and Restrained if the Target is its size or smaller. This attack always hits a Target Restrained by this attack.
 abilities:
   - name: Hold Breath
     desc: Can hold its breath for 1 hour.

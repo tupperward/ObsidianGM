@@ -1,3 +1,22 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Rhagodessa
+size: Large
+type: Cryptid (Beast)
+hd: 4
+hp: 20
+speed: "50' (Cling)"
+zone: Frontline
+morale: 9
+appearing: 1d6
+senses: Darksight
+armor: "2 [as Chain]"
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Large Cryptid (Beast)*
 
 **HD**: 4 (20 HP)
@@ -15,6 +34,7 @@ Bite [Melee Attack]: 9 (2d8)
 Sucker [Melee Attack]: Restrained
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Rhagodessa
 size: Large
@@ -24,7 +44,7 @@ hp: 20
 speed: "50' (Cling)"
 zone: Frontline
 morale: 9
-appearing: d6
+appearing: 1d6
 senses: Darksight
 armor: "2 [as Chain]"
 columns: 2

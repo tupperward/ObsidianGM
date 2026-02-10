@@ -1,3 +1,21 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: "Ant, Giant"
+size: Medium
+type: Beast
+hd: 2
+hp: 9
+speed: "60'"
+zone: Frontline
+morale: 7
+appearing: 2d6+2
+armor: "3 — (+1) Chain"
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Medium Beast*
 
 **HD**: 2 (9 HP)
@@ -12,6 +30,7 @@
 Bite [Melee Attack]: 7 (2d6)
 
 ```statblock
+dice: true
 layout: Vagabond
 name: "Ant, Giant"
 size: Medium
@@ -22,7 +41,7 @@ speed: "60'"
 zone: Frontline
 morale: 7
 appearing: 2d6+2
-armor: "3 [as (+1) Chain]"
+armor: "3 — (+1) Chain"
 columns: 2
 forceColumns: true
 bestiary: true

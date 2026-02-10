@@ -1,3 +1,21 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Chimera
+size: Large
+type: Cryptid
+hd: 9
+hp: 40
+speed: "10' (Fly 30')"
+zone: Frontline
+morale: 9
+appearing: 1d2
+armor: "3 — (+1) Chain"
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Large Cryptid*
 
 **HD**: 9 (40 HP)
@@ -17,6 +35,7 @@ Breath [Cast, 10'×60' Line] (Recharge Cd6): 10 (3d6)
 Dragon's Bite [Melee Attack]: (3d4)
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Chimera
 size: Large
@@ -26,8 +45,8 @@ hp: 40
 speed: "10' (Fly 30')"
 zone: Frontline
 morale: 9
-appearing: d2
-armor: "3 [as (+1) Chain]"
+appearing: 1d2
+armor: "3 — (+1) Chain"
 columns: 2
 forceColumns: true
 bestiary: true

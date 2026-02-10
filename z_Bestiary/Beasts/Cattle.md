@@ -1,3 +1,21 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Cattle
+size: Large
+type: Beast
+hd: 4
+hp: 18
+speed: "25'"
+zone: Frontline
+morale: 2
+appearing: 2d6
+armor: "1 [as Leather]"
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Large Beast*
 
 **HD**: 4 (18 HP)
@@ -12,6 +30,7 @@
 Horn [Melee Attack]: 2 (d4)
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Cattle
 size: Large

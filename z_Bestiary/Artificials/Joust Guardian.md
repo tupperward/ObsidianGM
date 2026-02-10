@@ -1,3 +1,33 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Joust Guardian
+size: Large
+type: Artificial
+hd: 6
+hp: 27
+speed: "30'"
+zone: Frontline
+morale: "-"
+appearing: 1
+armor: "3 [as Plate]"
+immune: Poison
+status_immunities: "Berserk, Charmed, Confused, Fatigued, Frightened, Unconscious, Sickened, Suffocating"
+actions:
+  - name: Combo
+    desc: 1×Lance and 1×Cannon
+  - name: "Lance [Melee Attack, Near]"
+    desc: 13 (2d12)
+  - name: "Cannon [Ranged Attack (Sphere 10ft)]"
+    desc: 11 (3d6)
+abilities:
+  - name: Immutable
+    desc: "It can't be transformed."
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Large Artificial*
 
 **HD**: 6 (27 HP)
@@ -20,6 +50,7 @@ Cannon [Ranged Attack (Sphere 10')]: 11 (3d6)
 **Immutable:** It can't be transformed.
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Joust Guardian
 size: Large
@@ -38,7 +69,7 @@ actions:
     desc: 1×Lance and 1×Cannon
   - name: "Lance [Melee Attack, Near]"
     desc: 13 (2d12)
-  - name: "Cannon [Ranged Attack (Sphere 10')]"
+  - name: "Cannon [Ranged Attack (Sphere 10ft)]"
     desc: 11 (3d6)
 abilities:
   - name: Immutable

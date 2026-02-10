@@ -1,3 +1,25 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Violet Fungus
+size: Medium
+type: Primordial (Plant)
+hd: 3
+hp: 13
+speed: "5'"
+zone: Frontline
+morale: 12
+appearing: 1d4
+senses: "Blindsight, Telepathy (Far, mushrooms only)"
+armor: "1 [as Leather]"
+immune: Poison
+weak: Fire
+status_immunities: Sickened
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Medium Primordial (Plant)*
 
 **HD**: 3 (13 HP)
@@ -17,6 +39,7 @@ Combo: 2×Tendril
 Tendril [Melee Attack]: 5 (2d4) and pass [Endure] or become Sickened (Cd8, +1 Fatigue each Round)
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Violet Fungus
 size: Medium
@@ -26,7 +49,7 @@ hp: 13
 speed: "5'"
 zone: Frontline
 morale: 12
-appearing: d4
+appearing: 1d4
 senses: "Blindsight, Telepathy (Far, mushrooms only)"
 armor: "1 [as Leather]"
 immune: Poison

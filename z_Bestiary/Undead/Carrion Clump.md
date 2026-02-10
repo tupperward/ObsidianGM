@@ -1,3 +1,25 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Carrion Clump
+size: Medium
+type: Undead
+hd: 2
+hp: 9
+speed: "10'"
+zone: Frontline
+morale: 12
+appearing: 1d6
+senses: Blindsight
+armor: "1 [as Leather]"
+immune: Poison
+weak: Acid; Silvered Weapons
+status_immunities: "Charmed, Fatigued, Sickened, Suffocating"
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Medium Undead*
 
 **HD**: 2 (9 HP)
@@ -16,6 +38,7 @@
 Viscera Sling [Ranged Attack]: 3 (d6) and pass [Endure] or become Sickened (Cd6, stinks and can't speak from retching).
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Carrion Clump
 size: Medium
@@ -25,7 +48,7 @@ hp: 9
 speed: "10'"
 zone: Frontline
 morale: 12
-appearing: d6
+appearing: 1d6
 senses: Blindsight
 armor: "1 [as Leather]"
 immune: Poison

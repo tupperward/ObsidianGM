@@ -1,3 +1,40 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Unicorn
+size: Large
+type: Fae (Divine)
+hd: 4
+hp: 18
+speed: "80'"
+zone: Midline
+morale: 7
+appearing: 1
+senses: "Allsight, Telepathy"
+armor: "3 — (+1) Chain"
+weak: Cold Iron Weapons
+status_immunities: "Charmed, Confused, Frightened"
+actions:
+  - name: "Heal [Cast, Touch (1/Day)]"
+    desc: "Regains 7 (2d6) HP and removes the Blinded, Confused, Paralyzed, or Sickened Status"
+  - name: Combo
+    desc: 2×Hoof and 1×Horn
+  - name: "Hoof [Melee Attack]"
+    desc: 4 (1d8)
+  - name: "Horn [Melee Attack]"
+    desc: 4 (1d8)
+  - name: "Teleport [Cast (1/Day)]"
+    desc: Teleports itself and any Being mounting it up to Far
+abilities:
+  - name: Magic Ward III
+    desc: "The first time it is unwillingly affected by a Spell each Round, the Caster must spend an extra 3 Mana to affect it."
+  - name: Regenerate I
+    desc: "Regains 4 (1d8) HP on each of its Turns. Beings who are truly alien to the mortal realm or whose intrinsic nature aligns them with forces of good or evil. Their essence is typically tied to either an aligned plane (such as Hellspawn and negative planes or Divines and positive planes), or they are the eldritch horrors from the incomprehensible beyond."
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Large Fae (Divine)*
 
 **HD**: 4 (18 HP)
@@ -24,6 +61,7 @@ Teleport [Cast] (1/Day): Teleports itself and any Being mounting it up to Far
 **Regenerate I:** Regains 4 (d8) HP on each of its Turns. Beings who are truly alien to the mortal realm or whose intrinsic nature aligns them with forces of good or evil. Their essence is typically tied to either an aligned plane (such as Hellspawn and negative planes or Divines and positive planes), or they are the eldritch horrors from the incomprehensible beyond.
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Unicorn
 size: Large
@@ -35,25 +73,25 @@ zone: Midline
 morale: 7
 appearing: 1
 senses: "Allsight, Telepathy"
-armor: "3 [as (+1) Chain]"
+armor: "3 — (+1) Chain"
 weak: Cold Iron Weapons
 status_immunities: "Charmed, Confused, Frightened"
 actions:
-  - name: "Heal [Cast, Touch] (1/Day)"
+  - name: "Heal [Cast, Touch (1/Day)]"
     desc: "Regains 7 (2d6) HP and removes the Blinded, Confused, Paralyzed, or Sickened Status"
   - name: Combo
     desc: 2×Hoof and 1×Horn
   - name: "Hoof [Melee Attack]"
-    desc: 4 (d8)
+    desc: 4 (1d8)
   - name: "Horn [Melee Attack]"
-    desc: 4 (d8)
-  - name: "Teleport [Cast] (1/Day)"
+    desc: 4 (1d8)
+  - name: "Teleport [Cast (1/Day)]"
     desc: Teleports itself and any Being mounting it up to Far
 abilities:
   - name: Magic Ward III
     desc: "The first time it is unwillingly affected by a Spell each Round, the Caster must spend an extra 3 Mana to affect it."
   - name: Regenerate I
-    desc: "Regains 4 (d8) HP on each of its Turns. Beings who are truly alien to the mortal realm or whose intrinsic nature aligns them with forces of good or evil. Their essence is typically tied to either an aligned plane (such as Hellspawn and negative planes or Divines and positive planes), or they are the eldritch horrors from the incomprehensible beyond."
+    desc: "Regains 4 (1d8) HP on each of its Turns. Beings who are truly alien to the mortal realm or whose intrinsic nature aligns them with forces of good or evil. Their essence is typically tied to either an aligned plane (such as Hellspawn and negative planes or Divines and positive planes), or they are the eldritch horrors from the incomprehensible beyond."
 columns: 2
 forceColumns: true
 bestiary: true

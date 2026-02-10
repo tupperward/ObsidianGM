@@ -1,3 +1,28 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Knight
+size: Medium
+type: Humanlike
+hd: 3
+hp: 13
+speed: "25'"
+zone: Frontline
+morale: 10
+armor: "3 [as Plate]"
+actions:
+  - name: "Greatsword [Melee Attack]"
+    desc: 5 (1d10)
+  - name: "Rally [Action]"
+    desc: Grants its Allies who hear it a 1d4 bonus to their damage rolls and Will Saves for 1 Round.
+abilities:
+  - name: Leadership
+    desc: "While it is alive and in sight, its Allies always pass Morale Checks and can't be Frightened."
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Medium Humanlike*
 
 **HD**: 3 (13 HP)
@@ -16,6 +41,7 @@ Rally [Action]: Grants its Allies who hear it a d4 bonus to their damage rolls a
 **Leadership:** While it is alive and in sight, its Allies always pass Morale Checks and can't be Frightened.
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Knight
 size: Medium
@@ -28,9 +54,9 @@ morale: 10
 armor: "3 [as Plate]"
 actions:
   - name: "Greatsword [Melee Attack]"
-    desc: 5 (d10)
+    desc: 5 (1d10)
   - name: "Rally [Action]"
-    desc: Grants its Allies who hear it a d4 bonus to their damage rolls and Will Saves for 1 Round.
+    desc: Grants its Allies who hear it a 1d4 bonus to their damage rolls and Will Saves for 1 Round.
 abilities:
   - name: Leadership
     desc: "While it is alive and in sight, its Allies always pass Morale Checks and can't be Frightened."

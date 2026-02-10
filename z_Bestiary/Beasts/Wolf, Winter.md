@@ -1,3 +1,33 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: "Wolf, Winter"
+size: Large
+type: Beast
+hd: 6
+hp: 27
+speed: "50'"
+zone: Frontline
+morale: 9
+appearing: 1d4
+armor: "2 — (+1) Leather"
+immune: Cold
+weak: Fire
+actions:
+  - name: "Frost Breath [Cast, Close Aura | Endure (Recharge Cd4)]"
+    desc: 15 (6d4)
+  - name: "Bite [Melee Attack]"
+    desc: 7 (2d6)
+abilities:
+  - name: Pack Hunter
+    desc: "Targets within 5ft of one of this Being's Allies are Vulnerable to its attacks."
+  - name: Pounce
+    desc: "If it moves at least 20ft before an attack on the same Turn, the Target is also knocked Prone if it is Large or smaller."
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Large Beast*
 
 **HD**: 6 (27 HP)
@@ -20,6 +50,7 @@ Bite [Melee Attack]: 7 (2d6)
 **Pounce:** If it moves at least 20' before an attack on the same Turn, the Target is also knocked Prone if it is Large or smaller.
 
 ```statblock
+dice: true
 layout: Vagabond
 name: "Wolf, Winter"
 size: Large
@@ -29,20 +60,20 @@ hp: 27
 speed: "50'"
 zone: Frontline
 morale: 9
-appearing: d4
-armor: "2 [as (+1) Leather]"
+appearing: 1d4
+armor: "2 — (+1) Leather"
 immune: Cold
 weak: Fire
 actions:
-  - name: "Frost Breath [Cast, Close Aura | Endure] (Recharge Cd4)"
+  - name: "Frost Breath [Cast, Close Aura | Endure (Recharge Cd4)]"
     desc: 15 (6d4)
   - name: "Bite [Melee Attack]"
     desc: 7 (2d6)
 abilities:
   - name: Pack Hunter
-    desc: "Targets within 5' of one of this Being's Allies are Vulnerable to its attacks."
+    desc: "Targets within 5ft of one of this Being's Allies are Vulnerable to its attacks."
   - name: Pounce
-    desc: "If it moves at least 20' before an attack on the same Turn, the Target is also knocked Prone if it is Large or smaller."
+    desc: "If it moves at least 20ft before an attack on the same Turn, the Target is also knocked Prone if it is Large or smaller."
 columns: 2
 forceColumns: true
 bestiary: true

@@ -1,3 +1,22 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Wyvern
+size: Huge
+type: Cryptid (Wyrm)
+hd: 14
+hp: 64
+speed: "30' (Fly 60')"
+zone: Frontline
+morale: 10
+appearing: 1
+armor: "3 [as Plate]"
+weak: Shock
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Huge Cryptid (Wyrm)*
 
 **HD**: 14 (64 HP)
@@ -16,6 +35,7 @@ Claw [Melee Attack]: 3 (d6)
 Bite [Melee Attack]: 9 (2d8)
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Wyvern
 size: Huge

@@ -89,7 +89,8 @@
             "speed",
             "zone",
             "morale",
-            "appearing"
+            "appearing",
+            "hp"
           ],
           "nested": [
             {
@@ -99,8 +100,16 @@
                 "hd"
               ],
               "display": "HD",
-              "conditioned": true,
-              "callback": "let str = [monster.hd]; if (monster.hp != null) { str.push('(' + monster.hp + ' HP)'); } return str.join(' ');"
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "vb-hp",
+              "properties": [
+                "hp"
+              ],
+              "display": "HP",
+              "conditioned": true
             },
             {
               "type": "property",
@@ -234,7 +243,10 @@
         "borderColor": "#dbc906",
         "contentFont": " \"Paradigm Pro\",Calibri, Helvetica, Arial, sans-serif",
         "headingFont": "\"Eskapade Fraktur Black\" ,Georgia, serif",
-        "barColor": "#2041c5"
+        "barColor": "#2041c5",
+        "subheadingFont": "headingFont",
+        "subheadingFontColor": "headingFontColor",
+        "sectionHeadingFont": "\"Eskapade Fractur\""
       }
     }
   ],
@@ -251,13 +263,13 @@
   "paths": [
     "/"
   ],
-  "autoParse": false,
+  "autoParse": true,
   "disableSRD": true,
   "tryToRenderLinks": false,
-  "debug": false,
+  "debug": true,
   "notifiedOfFantasy": false,
   "hideConditionHelp": false,
   "alwaysImport": false,
   "defaultLayoutsIntegrated": true,
-  "atomicWrite": false
+  "atomicWrite": true
 }

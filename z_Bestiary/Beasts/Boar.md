@@ -1,3 +1,27 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Boar
+size: Medium
+type: Beast
+hd: 3
+hp: 13
+speed: "50'"
+zone: Frontline
+morale: 9
+appearing: 1d6
+armor: "1 [as Leather]"
+actions:
+  - name: "Tusk [Melee Attack]"
+    desc: 5 (2d4)
+abilities:
+  - name: Relentless
+    desc: "Once per Day, if it is reduced to 0 HP, it instead regains 1d4 HP."
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Medium Beast*
 
 **HD**: 3 (13 HP)
@@ -16,6 +40,7 @@ Tusk [Melee Attack]: 5 (2d4)
 **Relentless:** Once per Day, if it is reduced to 0 HP, it instead regains d4 HP.
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Boar
 size: Medium
@@ -32,7 +57,7 @@ actions:
     desc: 5 (2d4)
 abilities:
   - name: Relentless
-    desc: "Once per Day, if it is reduced to 0 HP, it instead regains d4 HP."
+    desc: "Once per Day, if it is reduced to 0 HP, it instead regains 1d4 HP."
 columns: 2
 forceColumns: true
 bestiary: true

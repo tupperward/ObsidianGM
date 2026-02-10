@@ -1,3 +1,35 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Flying Spellbook
+size: Small
+type: Artificial
+hd: 1
+hp: 1
+speed: "0' (Fly 30')"
+zone: Backline
+morale: "-"
+appearing: 1d6
+senses: Blindsight
+armor: "0 [as Unarmored]"
+immune: Poison
+weak: Fire
+status_immunities: "Sickened, Suffocating"
+actions:
+  - name: "Freeze [Cast, Remote | Endure (Recharge Cd4)]"
+    desc: "3 (1d6) and its Speed is reduced by 10ft, Cd4."
+  - name: "Zap [Cast, Bolt | Reflex (Recharge Cd4)]"
+    desc: 3 (1d6) and Dazed (Cd4)
+abilities:
+  - name: Antimagic Vulnerability
+    desc: It is Dazed for Cd4 if affected by the Dispel Spell or other antimagic.
+  - name: Nimble
+    desc: "Attacks against it can't be Favored if it can Move."
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Small Artificial*
 
 **HD**: 1 (1 HP)
@@ -22,6 +54,7 @@ Zap [Cast, Bolt | Reflex] (Recharge Cd4): 3 (d6) and Dazed (Cd4)
 **Nimble:** Attacks against it can't be Favored if it can Move.
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Flying Spellbook
 size: Small
@@ -31,17 +64,17 @@ hp: 1
 speed: "0' (Fly 30')"
 zone: Backline
 morale: "-"
-appearing: d6
+appearing: 1d6
 senses: Blindsight
 armor: "0 [as Unarmored]"
 immune: Poison
 weak: Fire
 status_immunities: "Sickened, Suffocating"
 actions:
-  - name: "Freeze [Cast, Remote | Endure] (Recharge Cd4)"
-    desc: "3 (d6) and its Speed is reduced by 10' (Cd4)."
-  - name: "Zap [Cast, Bolt | Reflex] (Recharge Cd4)"
-    desc: 3 (d6) and Dazed (Cd4)
+  - name: "Freeze [Cast, Remote | Endure (Recharge Cd4)]"
+    desc: "3 (1d6) and its Speed is reduced by 10ft, Cd4."
+  - name: "Zap [Cast, Bolt | Reflex (Recharge Cd4)]"
+    desc: 3 (1d6) and Dazed (Cd4)
 abilities:
   - name: Antimagic Vulnerability
     desc: It is Dazed for Cd4 if affected by the Dispel Spell or other antimagic.

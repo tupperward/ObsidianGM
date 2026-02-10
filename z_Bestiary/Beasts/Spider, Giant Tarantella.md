@@ -1,3 +1,22 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: "Spider, Giant Tarantella"
+size: Medium
+type: Beast
+hd: 4
+hp: 18
+speed: "40' (Climb, Cling)"
+zone: Frontline
+morale: 8
+appearing: 1
+senses: Darksight
+armor: "2 [as Chain]"
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Medium Beast*
 
 **HD**: 4 (18 HP)
@@ -14,6 +33,7 @@ Bite [Melee Attack]: 4 (d8) and pass [Endure] or become Sickened (Cd4, Vulnerabl
 Anyone who witnesses this dancing must pass [Will] or also become Charmed this way for (Cd4)).
 
 ```statblock
+dice: true
 layout: Vagabond
 name: "Spider, Giant Tarantella"
 size: Medium

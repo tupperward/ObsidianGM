@@ -1,3 +1,21 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Ape
+size: Medium
+type: Beast
+hd: 4
+hp: 18
+speed: "40' (Climb)"
+zone: Frontline
+morale: 7
+appearing: 1d4
+armor: "0 [as Unarmored]"
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Medium Beast*
 
 **HD**: 4 (18 HP)
@@ -13,6 +31,7 @@ Combo: 2×Claw
 Claw [Melee Attack]: 2 (d4)
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Ape
 size: Medium
@@ -22,7 +41,7 @@ hp: 18
 speed: "40' (Climb)"
 zone: Frontline
 morale: 7
-appearing: d4
+appearing: 1d4
 armor: "0 [as Unarmored]"
 columns: 2
 forceColumns: true

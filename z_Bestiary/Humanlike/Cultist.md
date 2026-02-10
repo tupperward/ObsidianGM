@@ -1,3 +1,26 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Cultist
+size: Medium
+type: Humanlike
+hd: 1
+hp: 4
+speed: "30'"
+zone: Midline
+morale: 12
+armor: "1 [as Leather]"
+actions:
+  - name: "Dagger [Melee Attack, Thrown]"
+    desc: 2 (1d4)
+abilities:
+  - name: Zealot
+    desc: "Can't be Charmed or Frightened."
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Medium Humanlike*
 
 **HD**: 1 (4 HP)
@@ -15,6 +38,7 @@ Dagger [Melee Attack, Thrown]: 2 (d4)
 **Zealot:** Can't be Charmed or Frightened.
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Cultist
 size: Medium
@@ -27,7 +51,7 @@ morale: 12
 armor: "1 [as Leather]"
 actions:
   - name: "Dagger [Melee Attack, Thrown]"
-    desc: 2 (d4)
+    desc: 2 (1d4)
 abilities:
   - name: Zealot
     desc: "Can't be Charmed or Frightened."

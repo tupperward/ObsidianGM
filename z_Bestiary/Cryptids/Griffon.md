@@ -1,3 +1,22 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Griffon
+size: Large
+type: Cryptid
+hd: 7
+hp: 31
+speed: "30' (Fly 80')"
+zone: Frontline
+morale: 8
+appearing: 1d4
+armor: "2 [as Chain]"
+weak: Shock
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Large Cryptid*
 
 **HD**: 7 (31 HP)
@@ -15,6 +34,7 @@ Beak [Melee Attack]: 9 (2d8)
 Claw [Melee Attack]: 2 (d4)
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Griffon
 size: Large
@@ -24,7 +44,7 @@ hp: 31
 speed: "30' (Fly 80')"
 zone: Frontline
 morale: 8
-appearing: d4
+appearing: 1d4
 armor: "2 [as Chain]"
 weak: Shock
 columns: 2

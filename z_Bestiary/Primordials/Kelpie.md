@@ -1,3 +1,32 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Kelpie
+size: Medium
+type: Primordial (Shapechanger)
+hd: 5
+hp: 22
+speed: "30' (Swim)"
+zone: Backline
+morale: 4
+appearing: 1d4
+armor: "2 [as Chain]"
+weak: Shock
+actions:
+  - name: "Entangle [Grapple, an Enemy in Water]"
+    desc: Restrained
+  - name: "Enlure [Cast, Sight | Will (-2 penalty) (1/Day)]"
+    desc: "Charmed (Cd6, it must Move closer to this Being)"
+abilities:
+  - name: Amphibious
+    desc: It can breathe air and water.
+  - name: Shapechange
+    desc: "It can skip its Move to turn into a green woman, or an aquatic horse (use the hippocampus statblock). It maintains its HP in these forms."
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Medium Primordial (Shapechanger)*
 
 **HD**: 5 (22 HP)
@@ -19,6 +48,7 @@ Enlure [Cast, Sight | Will (-2 penalty)] (1/Day): Charmed (Cd6, it must Move clo
 **Shapechange:** It can skip its Move to turn into a green woman, or an aquatic horse (use the hippocampus statblock). It maintains its HP in these forms.
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Kelpie
 size: Medium
@@ -28,13 +58,13 @@ hp: 22
 speed: "30' (Swim)"
 zone: Backline
 morale: 4
-appearing: d4
+appearing: 1d4
 armor: "2 [as Chain]"
 weak: Shock
 actions:
   - name: "Entangle [Grapple, an Enemy in Water]"
     desc: Restrained
-  - name: "Enlure [Cast, Sight | Will (-2 penalty)] (1/Day)"
+  - name: "Enlure [Cast, Sight | Will (-2 penalty) (1/Day)]"
     desc: "Charmed (Cd6, it must Move closer to this Being)"
 abilities:
   - name: Amphibious

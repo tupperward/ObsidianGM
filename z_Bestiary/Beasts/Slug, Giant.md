@@ -1,3 +1,22 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: "Slug, Giant"
+size: Giant
+type: Beast
+hd: 12
+hp: 54
+speed: "10' (Cling)"
+zone: Midline
+morale: 7
+appearing: 1
+armor: "1 [as Unarmored plus Shield]"
+immune: Blunt from non-Relics
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Giant Beast*
 
 **HD**: 12 (54 HP)
@@ -14,6 +33,7 @@ Acid Spit [Ranged Attack, Near] (Recharge Cd4): 10 (3d6) and Burning (Cd6)
 Bite [Melee Attack]: 7 (2d6)
 
 ```statblock
+dice: true
 layout: Vagabond
 name: "Slug, Giant"
 size: Giant

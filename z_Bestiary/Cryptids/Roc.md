@@ -1,3 +1,32 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Roc
+size: Colossal
+type: Cryptid (Beast)
+hd: 36
+hp: 162
+speed: "20' (Fly 160')"
+zone: Frontline
+morale: 10
+appearing: 1
+senses: "Allsight, Darksight"
+armor: "4 — (+1) Plate"
+actions:
+  - name: Combo
+    desc: 2×Claw and 1×Beak
+  - name: "Beak [Melee Attack]"
+    desc: 28 (8d6)
+  - name: "Claw [Melee Attack, Near]"
+    desc: "10 (3d6) and Restrained if it's this Being's second Claw attack to hit it this Turn."
+abilities:
+  - name: Dive Bomb
+    desc: "If it flies at least 20ft toward a Target before making an attack, the attack deals double damage."
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Colossal Cryptid (Beast)*
 
 **HD**: 36 (162 HP)
@@ -19,6 +48,7 @@ Claw [Melee Attack, Near]: 10 (3d6) and Restrained if it's this Being's second C
 **Dive Bomb:** If it flies at least 20' toward a Target before making an attack, the attack deals double damage.
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Roc
 size: Colossal
@@ -30,7 +60,7 @@ zone: Frontline
 morale: 10
 appearing: 1
 senses: "Allsight, Darksight"
-armor: "4 [as (+1) Plate]"
+armor: "4 — (+1) Plate"
 actions:
   - name: Combo
     desc: 2×Claw and 1×Beak
@@ -40,7 +70,7 @@ actions:
     desc: "10 (3d6) and Restrained if it's this Being's second Claw attack to hit it this Turn."
 abilities:
   - name: Dive Bomb
-    desc: "If it flies at least 20' toward a Target before making an attack, the attack deals double damage."
+    desc: "If it flies at least 20ft toward a Target before making an attack, the attack deals double damage."
 columns: 2
 forceColumns: true
 bestiary: true

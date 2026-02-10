@@ -1,3 +1,35 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Firebat
+size: Small
+type: Primordial
+hd: 1
+hp: 1
+speed: "40' (Fly)"
+zone: Midline
+morale: 4
+appearing: 2d6
+senses: Darksight
+armor: "1 [as Leather]"
+immune: "Fire, Poison"
+weak: Cold
+status_immunities: "Fatigued, Sickened"
+actions:
+  - name: A bat-like creature of pure elemental fire. It latches onto its target with its fangs to hold it in place while it burns them alive.
+    desc: ""
+  - name: "Bite [Melee Attack]"
+    desc: Restrained
+abilities:
+  - name: Living Fire
+    desc: Close Beings are Burning (1d4). It is Burning (1d8) while in water.
+  - name: Illuminating
+    desc: Sheds Light out to Near.
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Small Primordial*
 
 **HD**: 1 (1 HP)
@@ -22,6 +54,7 @@ Bite [Melee Attack]: Restrained
 **Illuminating:** Sheds Light out to Near.
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Firebat
 size: Small
@@ -44,7 +77,7 @@ actions:
     desc: Restrained
 abilities:
   - name: Living Fire
-    desc: Close Beings are Burning (d4). It is Burning (d8) while in water.
+    desc: Close Beings are Burning (1d4). It is Burning (1d8) while in water.
   - name: Illuminating
     desc: Sheds Light out to Near.
 columns: 2

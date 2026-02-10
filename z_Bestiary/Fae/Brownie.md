@@ -1,3 +1,34 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Brownie
+size: Small
+type: Fae
+hd: 1
+hp: 1
+speed: "40'"
+zone: Backline
+morale: 7
+appearing: 2d6+1
+armor: "3 [as Plate]"
+weak: Cold Iron Weapons
+actions:
+  - name: "Dagger [Melee Attack]"
+    desc: 2 (1d4)
+  - name: "Dancing Lights [Cast, Remote]"
+    desc: Causes dancing lights of any shape no larger than Medium within Near
+  - name: "Dimension Door [Cast, Self (1/Day)]"
+    desc: "Teleports to an open Area it is aware of within 360ft"
+abilities:
+  - name: Ambush Innured
+    desc: "It can't be surprised, and can take an Action and Move before the first Turn of Combat."
+  - name: Magic Ward I
+    desc: "The first time it is unwillingly affected by a Spell each Round, the Caster must spend an extra 1 Mana to affect it."
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Small Fae*
 
 **HD**: 1 (1 HP)
@@ -20,6 +51,7 @@ Dimension Door [Cast, Self] (1/Day): Teleports to an open Area it is aware of wi
 **Magic Ward I:** The first time it is unwillingly affected by a Spell each Round, the Caster must spend an extra 1 Mana to affect it.
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Brownie
 size: Small
@@ -34,11 +66,11 @@ armor: "3 [as Plate]"
 weak: Cold Iron Weapons
 actions:
   - name: "Dagger [Melee Attack]"
-    desc: 2 (d4)
+    desc: 2 (1d4)
   - name: "Dancing Lights [Cast, Remote]"
     desc: Causes dancing lights of any shape no larger than Medium within Near
-  - name: "Dimension Door [Cast, Self] (1/Day)"
-    desc: "Teleports to an open Area it is aware of within 360'"
+  - name: "Dimension Door [Cast, Self (1/Day)]"
+    desc: "Teleports to an open Area it is aware of within 360ft"
 abilities:
   - name: Ambush Innured
     desc: "It can't be surprised, and can take an Action and Move before the first Turn of Combat."

@@ -1,3 +1,30 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: "Spider, Giant Black Widow"
+size: Medium
+type: Beast
+hd: 3
+hp: 13
+speed: "40' (Cling)"
+zone: Frontline
+morale: 8
+appearing: 1d3
+senses: Darksight
+armor: "1 [as Leather]"
+actions:
+  - name: "Bite [Melee Attack]"
+    desc: "7 (2d6) and pass — Endure or become Sickened (Cd4, +1 Fatigue each Round)."
+abilities:
+  - name: Webs
+    desc: "Its web is an Object with 4 HP and Armor: 5."
+  - name: Web Walker
+    desc: "It can sense any Being on the same web as it as if by Blindsight, and is not impeded by web as Difficult Terrain."
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Medium Beast*
 
 **HD**: 3 (13 HP)
@@ -18,6 +45,7 @@ Bite [Melee Attack]: 7 (2d6) and pass [Endure] or become Sickened (Cd4, +1 Fatig
 **Web Walker:** It can sense any Being on the same web as it as if by Blindsight, and is not impeded by web as Difficult Terrain.
 
 ```statblock
+dice: true
 layout: Vagabond
 name: "Spider, Giant Black Widow"
 size: Medium
@@ -27,12 +55,12 @@ hp: 13
 speed: "40' (Cling)"
 zone: Frontline
 morale: 8
-appearing: d3
+appearing: 1d3
 senses: Darksight
 armor: "1 [as Leather]"
 actions:
   - name: "Bite [Melee Attack]"
-    desc: "7 (2d6) and pass [Endure] or become Sickened (Cd4, +1 Fatigue each Round)."
+    desc: "7 (2d6) and pass — Endure or become Sickened (Cd4, +1 Fatigue each Round)."
 abilities:
   - name: Webs
     desc: "Its web is an Object with 4 HP and Armor: 5."

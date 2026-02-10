@@ -1,3 +1,31 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: "Living Statue, Iron"
+size: Medium
+type: Artificial
+hd: 4
+hp: 18
+speed: "10'"
+zone: Frontline
+morale: 11
+appearing: 1d4
+armor: "3 [as Plate]"
+immune: Poison
+status_immunities: "Blinded, Fatigued, Suffocating, Unconscious"
+actions:
+  - name: "Weapon [Melee Attack]"
+    desc: 4 (1d8) or (by Weapon)
+abilities:
+  - name: Immutable
+    desc: "It can't be transformed."
+  - name: Iron Absorption
+    desc: "When hit with a metal Weapon that isn't a Relic, the attacker must pass — Will or the Weapon becomes stuck in this Being's body, and can only be removed if this Being is killed."
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Medium Artificial*
 
 **HD**: 4 (18 HP)
@@ -19,6 +47,7 @@ Weapon [Melee Attack]: 4 (d8) or (by Weapon)
 **Iron Absorption:** When hit with a metal Weapon that isn't a Relic, the attacker must pass [Will] or the Weapon becomes stuck in this Being's body, and can only be removed if this Being is killed.
 
 ```statblock
+dice: true
 layout: Vagabond
 name: "Living Statue, Iron"
 size: Medium
@@ -28,18 +57,18 @@ hp: 18
 speed: "10'"
 zone: Frontline
 morale: 11
-appearing: d4
+appearing: 1d4
 armor: "3 [as Plate]"
 immune: Poison
 status_immunities: "Blinded, Fatigued, Suffocating, Unconscious"
 actions:
   - name: "Weapon [Melee Attack]"
-    desc: 4 (d8) or (by Weapon)
+    desc: 4 (1d8) or (by Weapon)
 abilities:
   - name: Immutable
     desc: "It can't be transformed."
   - name: Iron Absorption
-    desc: "When hit with a metal Weapon that isn't a Relic, the attacker must pass [Will] or the Weapon becomes stuck in this Being's body, and can only be removed if this Being is killed."
+    desc: "When hit with a metal Weapon that isn't a Relic, the attacker must pass — Will or the Weapon becomes stuck in this Being's body, and can only be removed if this Being is killed."
 columns: 2
 forceColumns: true
 bestiary: true

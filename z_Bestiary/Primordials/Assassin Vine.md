@@ -1,3 +1,24 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Assassin Vine
+size: Large
+type: Primordial (Plant)
+hd: 4
+hp: 18
+speed: "5'"
+zone: Frontline
+morale: 12
+appearing: 1d4
+senses: Blindsight
+armor: "0 [as Unarmored]"
+weak: "Fire, Poison, Slash"
+status_immunities: Sickened
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Large Primordial (Plant)*
 
 **HD**: 4 (18 HP)
@@ -16,6 +37,7 @@ Constrain [Melee Attack, Restrained Target]: 9 (2d8)
 Vine [Melee Attack, Near]: 4 (d8) and Restrained
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Assassin Vine
 size: Large
@@ -25,7 +47,7 @@ hp: 18
 speed: "5'"
 zone: Frontline
 morale: 12
-appearing: d4
+appearing: 1d4
 senses: Blindsight
 armor: "0 [as Unarmored]"
 weak: "Fire, Poison, Slash"

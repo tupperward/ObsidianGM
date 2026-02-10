@@ -1,3 +1,22 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Questing Beast
+size: Large
+type: Cryptid (Beast)
+hd: 8
+hp: 36
+speed: "60'"
+zone: Frontline
+morale: 9
+appearing: 1
+senses: Darksight
+armor: "2 [as Chain]"
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Large Cryptid (Beast)*
 
 **HD**: 8 (36 HP)
@@ -15,6 +34,7 @@ Bite [Melee Attack]: 6 (d12) and pass [Endure] or become Sickened (Cd6 damage)
 Claw [Melee Attack]: 3 (d6)
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Questing Beast
 size: Large

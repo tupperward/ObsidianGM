@@ -1,3 +1,29 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Triceratops
+size: Large
+type: Beast
+hd: 11
+hp: 49
+speed: "30'"
+zone: Frontline
+morale: 8
+appearing: 1d4
+armor: "3 [as Chain plus Shield]"
+actions:
+  - name: "Horn [Melee Attack]"
+    desc: 10 (3d6)
+  - name: "Stomp [Melee Attack]"
+    desc: 10 (3d6)
+abilities:
+  - name: Rampant
+    desc: "If it Moves at least 20ft in a straight line, it can automatically make one Horn Attack against anything in its path for the rest of the Turn (no Action)."
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Large Beast*
 
 **HD**: 11 (49 HP)
@@ -17,6 +43,7 @@ Stomp [Melee Attack]: 10 (3d6)
 **Rampant:** If it Moves at least 20' in a straight line, it can automatically make one Horn Attack against anything in its path for the rest of the Turn (no Action).
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Triceratops
 size: Large
@@ -26,7 +53,7 @@ hp: 49
 speed: "30'"
 zone: Frontline
 morale: 8
-appearing: d4
+appearing: 1d4
 armor: "3 [as Chain plus Shield]"
 actions:
   - name: "Horn [Melee Attack]"
@@ -35,7 +62,7 @@ actions:
     desc: 10 (3d6)
 abilities:
   - name: Rampant
-    desc: "If it Moves at least 20' in a straight line, it can automatically make one Horn Attack against anything in its path for the rest of the Turn (no Action)."
+    desc: "If it Moves at least 20ft in a straight line, it can automatically make one Horn Attack against anything in its path for the rest of the Turn (no Action)."
 columns: 2
 forceColumns: true
 bestiary: true

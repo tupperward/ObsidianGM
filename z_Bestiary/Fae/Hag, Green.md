@@ -1,3 +1,39 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: "Hag, Green"
+size: Medium
+type: Fae (Shapechanger)
+hd: 9
+hp: 40
+speed: "30'"
+zone: Frontline
+morale: 4
+appearing: 1
+senses: "Allsight, Darksight"
+armor: "3 — (+1) Chain"
+weak: Cold Iron Weapons
+actions:
+  - name: Combo
+    desc: 2×Claw
+  - name: "Claw [Melee Attack]"
+    desc: "4 (1d8) and Restrained if it's this Being's second Claw to hit it this Turn"
+  - name: "Shapeshift [Cast, Self (Focus)]"
+    desc: Takes on the appearance of a Medium Humanlike.
+abilities:
+  - name: Amphibious
+    desc: It can breathe air and water.
+  - name: Fade Out
+    desc: "When it Moves, it turns itself and anything it is carrying Invisible for the duration (Focus). If it has a Being Restrained, it turns them Invisible for the duration as well."
+  - name: Magic Ward II
+    desc: "The first time it is unwillingly affected by a Spell each Round, the Caster must spend an extra 2 Mana to affect it."
+  - name: Terror I
+    desc: "Enemies that can see it for the first time and at the start of their Turns must pass — Will or be Frightened (Cd4)."
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Medium Fae (Shapechanger)*
 
 **HD**: 9 (40 HP)
@@ -23,6 +59,7 @@ Shapeshift [Cast, Self (Focus)]: Takes on the appearance of a Medium Humanlike.
 **Terror I:** Enemies that can see it for the first time and at the start of their Turns must pass [Will] or be Frightened (Cd4).
 
 ```statblock
+dice: true
 layout: Vagabond
 name: "Hag, Green"
 size: Medium
@@ -34,13 +71,13 @@ zone: Frontline
 morale: 4
 appearing: 1
 senses: "Allsight, Darksight"
-armor: "3 [as (+1) Chain]"
+armor: "3 — (+1) Chain"
 weak: Cold Iron Weapons
 actions:
   - name: Combo
     desc: 2×Claw
   - name: "Claw [Melee Attack]"
-    desc: "4 (d8) and Restrained if it's this Being's second Claw to hit it this Turn"
+    desc: "4 (1d8) and Restrained if it's this Being's second Claw to hit it this Turn"
   - name: "Shapeshift [Cast, Self (Focus)]"
     desc: Takes on the appearance of a Medium Humanlike.
 abilities:
@@ -51,7 +88,7 @@ abilities:
   - name: Magic Ward II
     desc: "The first time it is unwillingly affected by a Spell each Round, the Caster must spend an extra 2 Mana to affect it."
   - name: Terror I
-    desc: "Enemies that can see it for the first time and at the start of their Turns must pass [Will] or be Frightened (Cd4)."
+    desc: "Enemies that can see it for the first time and at the start of their Turns must pass — Will or be Frightened (Cd4)."
 columns: 2
 forceColumns: true
 bestiary: true

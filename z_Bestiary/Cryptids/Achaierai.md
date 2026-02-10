@@ -1,3 +1,22 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Achaierai
+size: Large
+type: Cryptid
+hd: 4
+hp: 18
+speed: "30'"
+zone: Frontline
+morale: 5
+appearing: 1d6
+senses: Darksight
+armor: "1 [as Leather]"
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Large Cryptid*
 
 **HD**: 4 (18 HP)
@@ -16,6 +35,7 @@ Beak [Melee Attack]: 5 (d10)
 Talon [Melee Attack]: 4 (d8)
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Achaierai
 size: Large
@@ -25,7 +45,7 @@ hp: 18
 speed: "30'"
 zone: Frontline
 morale: 5
-appearing: d6
+appearing: 1d6
 senses: Darksight
 armor: "1 [as Leather]"
 columns: 2

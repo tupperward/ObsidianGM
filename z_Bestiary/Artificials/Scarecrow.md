@@ -1,3 +1,35 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Scarecrow
+size: Medium
+type: Artificial (Undead)
+hd: 5
+hp: 22
+speed: "30'"
+zone: Frontline
+morale: 2
+appearing: 1
+senses: Blindsight
+armor: "1 [as Leather]"
+immune: Poison
+weak: Fire
+status_immunities: "Blinded, Sickened, Suffocating"
+actions:
+  - name: "Scream [Cast, any Being who can hear it | Will (Recharge Cd4)]"
+    desc: "Frightened (Cd4, Paralyzed if failed by 5 or more)"
+  - name: Combo
+    desc: 2×Claw
+  - name: "Claw [Melee Attack]"
+    desc: 3 (1d6)
+abilities:
+  - name: Immutable
+    desc: "It can't be transformed."
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Medium Artificial (Undead)*
 
 **HD**: 5 (22 HP)
@@ -22,6 +54,7 @@ Claw [Melee Attack]: 3 (d6)
 **Immutable:** It can't be transformed.
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Scarecrow
 size: Medium
@@ -38,12 +71,12 @@ immune: Poison
 weak: Fire
 status_immunities: "Blinded, Sickened, Suffocating"
 actions:
-  - name: "Scream [Cast, any Being who can hear it | Will] (Recharge Cd4)"
+  - name: "Scream [Cast, any Being who can hear it | Will (Recharge Cd4)]"
     desc: "Frightened (Cd4, Paralyzed if failed by 5 or more)"
   - name: Combo
     desc: 2×Claw
   - name: "Claw [Melee Attack]"
-    desc: 3 (d6)
+    desc: 3 (1d6)
 abilities:
   - name: Immutable
     desc: "It can't be transformed."

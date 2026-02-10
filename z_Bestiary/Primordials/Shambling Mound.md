@@ -1,3 +1,33 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Shambling Mound
+size: Large
+type: Primordial (Plant)
+hd: 9
+hp: 40
+speed: "20' (Swim)"
+zone: Frontline
+morale: 12
+appearing: 1d4
+senses: Blindsight
+armor: "3 [as Plate]"
+immune: "Cold, Fire"
+actions:
+  - name: Combo
+    desc: 2×Slam
+  - name: "Slam [Melee Attack]"
+    desc: "9 (2d8) and Restrained and Suffocating if it's this Being's second Slam attack to hit it this Turn, and the Target is this Being's size or smaller"
+abilities:
+  - name: Amphibious
+    desc: It can breathe air and water.
+  - name: Shock-Absorb
+    desc: It treats all Shock damage as healing.
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Large Primordial (Plant)*
 
 **HD**: 9 (40 HP)
@@ -20,6 +50,7 @@ Slam [Melee Attack]: 9 (2d8) and Restrained and Suffocating if it's this Being's
 **Shock-Absorb:** It treats all Shock damage as healing.
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Shambling Mound
 size: Large
@@ -29,7 +60,7 @@ hp: 40
 speed: "20' (Swim)"
 zone: Frontline
 morale: 12
-appearing: d4
+appearing: 1d4
 senses: Blindsight
 armor: "3 [as Plate]"
 immune: "Cold, Fire"

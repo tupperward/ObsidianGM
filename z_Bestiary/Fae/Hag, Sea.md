@@ -1,3 +1,34 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: "Hag, Sea"
+size: Medium
+type: Fae
+hd: 3
+hp: 13
+speed: "30' (Swim)"
+zone: Midline
+morale: 4
+appearing: 1d4
+armor: "2 — (+1) Leather"
+weak: Shock; Cold Iron Weapons
+actions:
+  - name: "Death Glare [Cast, Sight (a Frightened Being) | Will (3/Day)]"
+    desc: 13 (3d8) and +2 (1d4) Fatigue
+  - name: "Claw [Melee Attack]"
+    desc: 3 (1d6)
+abilities:
+  - name: Amphibious
+    desc: It can breathe air and water.
+  - name: Magic Ward I
+    desc: "The first time it is unwillingly affected by a Spell each Round, the Caster must spend an extra 1 Mana to affect it."
+  - name: Terror I
+    desc: "Enemies that can see it for the first time and at the start of their Turns must pass a — Will Save or be Frightened until they pass this Check on a subsequent Turn, or for Cd4 Rounds afterwards."
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Medium Fae*
 
 **HD**: 3 (13 HP)
@@ -20,6 +51,7 @@ Claw [Melee Attack]: 3 (d6)
 **Terror I:** Enemies that can see it for the first time and at the start of their Turns must pass a [Will] Save or be Frightened until they pass this Check on a subsequent Turn, or for Cd4 Rounds afterwards.
 
 ```statblock
+dice: true
 layout: Vagabond
 name: "Hag, Sea"
 size: Medium
@@ -29,21 +61,21 @@ hp: 13
 speed: "30' (Swim)"
 zone: Midline
 morale: 4
-appearing: d4
-armor: "2 [as (+1) Leather]"
+appearing: 1d4
+armor: "2 — (+1) Leather"
 weak: Shock; Cold Iron Weapons
 actions:
-  - name: "Death Glare [Cast, Sight (a Frightened Being) | Will] (3/Day)"
-    desc: 13 (3d8) and +2 (d4) Fatigue
+  - name: "Death Glare [Cast, Sight (a Frightened Being) | Will (3/Day)]"
+    desc: 13 (3d8) and +2 (1d4) Fatigue
   - name: "Claw [Melee Attack]"
-    desc: 3 (d6)
+    desc: 3 (1d6)
 abilities:
   - name: Amphibious
     desc: It can breathe air and water.
   - name: Magic Ward I
     desc: "The first time it is unwillingly affected by a Spell each Round, the Caster must spend an extra 1 Mana to affect it."
   - name: Terror I
-    desc: "Enemies that can see it for the first time and at the start of their Turns must pass a [Will] Save or be Frightened until they pass this Check on a subsequent Turn, or for Cd4 Rounds afterwards."
+    desc: "Enemies that can see it for the first time and at the start of their Turns must pass a — Will Save or be Frightened until they pass this Check on a subsequent Turn, or for Cd4 Rounds afterwards."
 columns: 2
 forceColumns: true
 bestiary: true

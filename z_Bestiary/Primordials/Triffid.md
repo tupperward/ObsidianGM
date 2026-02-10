@@ -1,3 +1,29 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Triffid
+size: Medium
+type: Primordial (Plant)
+hd: 2
+hp: 9
+speed: "10'"
+zone: Midline
+morale: 4
+appearing: 2d6
+senses: Echolocation
+armor: "1 [as Leather]"
+weak: "Fire, Poison"
+actions:
+  - name: "Whorl [Melee Attack, Near]"
+    desc: 2 (1d4) and Sickened (Cd4 damage)
+abilities:
+  - name: Blinded
+    desc: "Blinded without its Echolocation. When a being dies and its soul or corpse remain animated, it becomes an undead. These creatures may remain animated through magical means, but are most-often the result of powerful curses. Generally, undead don't need to breathe, eat, drink, or sleep."
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Medium Primordial (Plant)*
 
 **HD**: 2 (9 HP)
@@ -18,6 +44,7 @@ Whorl [Melee Attack, Near]: 2 (d4) and Sickened (Cd4 damage)
 **Blinded:** Blinded without its Echolocation. When a being dies and its soul or corpse remain animated, it becomes an undead. These creatures may remain animated through magical means, but are most-often the result of powerful curses. Generally, undead don't need to breathe, eat, drink, or sleep.
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Triffid
 size: Medium
@@ -33,7 +60,7 @@ armor: "1 [as Leather]"
 weak: "Fire, Poison"
 actions:
   - name: "Whorl [Melee Attack, Near]"
-    desc: 2 (d4) and Sickened (Cd4 damage)
+    desc: 2 (1d4) and Sickened (Cd4 damage)
 abilities:
   - name: Blinded
     desc: "Blinded without its Echolocation. When a being dies and its soul or corpse remain animated, it becomes an undead. These creatures may remain animated through magical means, but are most-often the result of powerful curses. Generally, undead don't need to breathe, eat, drink, or sleep."

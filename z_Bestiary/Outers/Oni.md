@@ -1,3 +1,42 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Oni
+size: Large
+type: Outer (Hellspawn)
+hd: 8
+hp: 36
+speed: "30' (Fly)"
+zone: Backline
+morale: 11
+appearing: 1
+senses: Darksight
+armor: "2 [as Chain]"
+actions:
+  - name: "Cone of Cold [Cast, 60ft Cone | Endure (1/Day)]"
+    desc: 36 (8d8)
+  - name: "Charm Person [Cast, a Remote Humanlike | Will (1/Day, Focus)]"
+    desc: Charmed
+  - name: "Darkness [Cast, 20ft Sphere]"
+    desc: "The Area becomes magical darkness, and snuffs out any light sources."
+  - name: "Sleep [Cast, 20ft Sphere | Endure (1/Day)]"
+    desc: "Unconscious (Cd4, or woken up)"
+  - name: "Gaseous Form [Cast, Touch | Endure (1/Day)]"
+    desc: Turns into an incorporeal cloud of gas for the duration.
+  - name: Combo
+    desc: 2×Claw
+  - name: "Claw [Melee Attack]"
+    desc: 6 (1d8+2)
+  - name: "Invisibility [Cast, Touch | Will (Focus)]"
+    desc: Turns Invisible for the duration.
+abilities:
+  - name: Regenerate II
+    desc: Regains 9 (2d8) HP on its Turns.
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Large Outer (Hellspawn)*
 
 **HD**: 8 (36 HP)
@@ -24,6 +63,7 @@ Invisibility [Cast, Touch | Will] (Focus): Turns Invisible for the duration.
 **Regenerate II:** Regains 9 (2d8) HP on its Turns.
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Oni
 size: Large
@@ -37,21 +77,21 @@ appearing: 1
 senses: Darksight
 armor: "2 [as Chain]"
 actions:
-  - name: "Cone of Cold [Cast, 60' Cone | Endure] (1/Day)"
+  - name: "Cone of Cold [Cast, 60ft Cone | Endure (1/Day)]"
     desc: 36 (8d8)
-  - name: "Charm Person [Cast, a Remote Humanlike | Will] (1/Day, Focus)"
+  - name: "Charm Person [Cast, a Remote Humanlike | Will (1/Day, Focus)]"
     desc: Charmed
-  - name: "Darkness [Cast, 20' Sphere]"
+  - name: "Darkness [Cast, 20ft Sphere]"
     desc: "The Area becomes magical darkness, and snuffs out any light sources."
-  - name: "Sleep [Cast, 20' Sphere | Endure] (1/Day)"
+  - name: "Sleep [Cast, 20ft Sphere | Endure (1/Day)]"
     desc: "Unconscious (Cd4, or woken up)"
-  - name: "Gaseous Form [Cast, Touch | Endure] (1/Day)"
+  - name: "Gaseous Form [Cast, Touch | Endure (1/Day)]"
     desc: Turns into an incorporeal cloud of gas for the duration.
   - name: Combo
     desc: 2×Claw
   - name: "Claw [Melee Attack]"
-    desc: 6 (d8+2)
-  - name: "Invisibility [Cast, Touch | Will] (Focus)"
+    desc: 6 (1d8+2)
+  - name: "Invisibility [Cast, Touch | Will (Focus)]"
     desc: Turns Invisible for the duration.
 abilities:
   - name: Regenerate II

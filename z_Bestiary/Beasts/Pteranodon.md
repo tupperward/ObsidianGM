@@ -1,3 +1,21 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Pteranodon
+size: Medium
+type: Beast
+hd: 1
+hp: 4
+speed: "10' (Fly 60')"
+zone: Midline
+morale: 5
+appearing: 1d12
+armor: "1 [as Leather]"
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Medium Beast*
 
 **HD**: 1 (4 HP)
@@ -12,6 +30,7 @@
 Beak [Melee Attack]: 3 (d6)
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Pteranodon
 size: Medium
@@ -21,7 +40,7 @@ hp: 4
 speed: "10' (Fly 60')"
 zone: Midline
 morale: 5
-appearing: d12
+appearing: 1d12
 armor: "1 [as Leather]"
 columns: 2
 forceColumns: true

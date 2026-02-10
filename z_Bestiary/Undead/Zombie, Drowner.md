@@ -1,3 +1,25 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: "Zombie, Drowner"
+size: Medium
+type: Undead
+hd: 2
+hp: 9
+speed: "20' (Swim)"
+zone: Frontline
+morale: 12
+appearing: 3d8
+senses: Darksight
+armor: "0 [as Unarmored]"
+immune: Poison
+weak: Shock; Silvered Weapons
+status_immunities: "Berserk, Charmed, Confused, Fatigued, Frightened, Sickened, Suffocating"
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Medium Undead*
 
 **HD**: 2 (9 HP)
@@ -16,6 +38,7 @@
 Bite [Melee Attack, a Restrained Being]: 3 (d6)
 
 ```statblock
+dice: true
 layout: Vagabond
 name: "Zombie, Drowner"
 size: Medium

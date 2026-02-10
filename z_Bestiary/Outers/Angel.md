@@ -1,3 +1,24 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Angel
+size: Huge
+type: Outer (Divine)
+hd: 12
+hp: 54
+speed: "40' (Fly 80')"
+zone: Midline
+morale: 11
+appearing: 1
+senses: "Allsight, Telepathy"
+armor: "6 — (+3) Plate; Divine Armor"
+immune: Poison; Physical from non-Relics and Relic
+status_immunities: "Berserk, Blindness, Confused, Fatigued, Frightened, Paralyzed, Sickened, Suffocating"
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Huge Outer (Divine)*
 
 **HD**: 12 (54 HP)
@@ -15,6 +36,7 @@
 Dominator [2 Actions as below (d6 to determine)]: 1 (+3) Flaming Sword [Melee Attack]: 17 (4d6+3) and Burning (Cd6) 2 Burning Slash [Melee Attack, Near Cone | Half damage on a pass]: 13 (3d6+3) and Burning (Cd6)
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Angel
 size: Huge
@@ -26,7 +48,7 @@ zone: Midline
 morale: 11
 appearing: 1
 senses: "Allsight, Telepathy"
-armor: "6 [as (+3) Plate; Divine Armor]"
+armor: "6 — (+3) Plate; Divine Armor"
 immune: Poison; Physical from non-Relics and Relic
 status_immunities: "Berserk, Blindness, Confused, Fatigued, Frightened, Paralyzed, Sickened, Suffocating"
 columns: 2

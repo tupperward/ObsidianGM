@@ -1,3 +1,28 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Piercer
+size: Medium
+type: Cryptid
+hd: 3
+hp: 13
+speed: "5' (Cling)"
+zone: Frontline
+morale: 12
+appearing: 3d6
+senses: Darksight
+armor: "3 [as Plate]"
+actions:
+  - name: "Drop [Melee Attack]"
+    desc: 10 (3d6)
+abilities:
+  - name: Falling Ambush
+    desc: "Does not take falling damage from heights of 30ft or shorter."
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Medium Cryptid*
 
 **HD**: 3 (13 HP)
@@ -17,6 +42,7 @@ Drop [Melee Attack]: 10 (3d6)
 **Falling Ambush:** Does not take falling damage from heights of 30' or shorter.
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Piercer
 size: Medium
@@ -34,7 +60,7 @@ actions:
     desc: 10 (3d6)
 abilities:
   - name: Falling Ambush
-    desc: "Does not take falling damage from heights of 30' or shorter."
+    desc: "Does not take falling damage from heights of 30ft or shorter."
 columns: 2
 forceColumns: true
 bestiary: true

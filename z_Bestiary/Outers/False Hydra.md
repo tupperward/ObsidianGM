@@ -1,3 +1,35 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: False Hydra
+size: Medium
+type: Outer (Beyonder)
+hd: 6
+hp: 27
+speed: "25'"
+zone: Frontline
+morale: 4
+appearing: 1
+senses: Darksight
+armor: "3 — (+2) Leather"
+status_immunities: "Charmed, Confused"
+actions:
+  - name: Combo
+    desc: 1×Bite for each Head (Multiple Heads)
+  - name: "Bite [Melee Attack, Near]"
+    desc: 5 (1d10)
+  - name: "Song of Discord [Action, 5-mile Aura (only those who can hear it) | Will (Focus)]"
+    desc: "Charmed (until the song ends, it acts as if it can't see or hear this Being and creates false memories of illogical events)."
+abilities:
+  - name: Tunneler
+    desc: Can Move through loose earth using its Speed.
+  - name: Multiple Heads
+    desc: "It starts with one head, but grows another as it consumes humanoid Beings. Each time it grows a new head, it gains 3 HD (13 HP), and its stats change as shown below: # Consumed Heads Size TL 3 6 9 2 Medium Large Large Huge Huge 4.1 5.6 6.9 8.2 9.4 3 4 5 6"
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Medium Outer (Beyonder)*
 
 **HD**: 6 (27 HP)
@@ -21,6 +53,7 @@ Song of Discord [Action, 5-mile Aura (only those who can hear it) | Will] (Focus
 **Multiple Heads:** It starts with one head, but grows another as it consumes humanoid Beings. Each time it grows a new head, it gains 3 HD (13 HP), and its stats change as shown below: # Consumed Heads Size TL 3 6 9 2 Medium Large Large Huge Huge 4.1 5.6 6.9 8.2 9.4 3 4 5 6
 
 ```statblock
+dice: true
 layout: Vagabond
 name: False Hydra
 size: Medium
@@ -32,14 +65,14 @@ zone: Frontline
 morale: 4
 appearing: 1
 senses: Darksight
-armor: "3 [as (+2) Leather]"
+armor: "3 — (+2) Leather"
 status_immunities: "Charmed, Confused"
 actions:
   - name: Combo
     desc: 1×Bite for each Head (Multiple Heads)
   - name: "Bite [Melee Attack, Near]"
-    desc: 5 (d10)
-  - name: "Song of Discord [Action, 5-mile Aura (only those who can hear it) | Will] (Focus)"
+    desc: 5 (1d10)
+  - name: "Song of Discord [Action, 5-mile Aura (only those who can hear it) | Will (Focus)]"
     desc: "Charmed (until the song ends, it acts as if it can't see or hear this Being and creates false memories of illogical events)."
 abilities:
   - name: Tunneler

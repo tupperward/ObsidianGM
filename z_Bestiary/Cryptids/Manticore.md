@@ -1,3 +1,22 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Manticore
+size: Large
+type: Cryptid
+hd: 6
+hp: 27
+speed: "30' (Fly 50')"
+zone: Midline
+morale: 9
+appearing: 1d4
+senses: Darksight
+armor: "2 — (+1) Leather"
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Large Cryptid*
 
 **HD**: 6 (27 HP)
@@ -17,6 +36,7 @@ Claws [Melee Attack]: 2 (d4)
 Tail Spike [Ranged Attack]: 3 (d6)
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Manticore
 size: Large
@@ -26,9 +46,9 @@ hp: 27
 speed: "30' (Fly 50')"
 zone: Midline
 morale: 9
-appearing: d4
+appearing: 1d4
 senses: Darksight
-armor: "2 [as (+1) Leather]"
+armor: "2 — (+1) Leather"
 columns: 2
 forceColumns: true
 bestiary: true

@@ -1,3 +1,21 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: "Horse, War"
+size: Large
+type: Beast
+hd: 3
+hp: 13
+speed: "40'"
+zone: Midline
+morale: 9
+appearing: 1
+armor: "1 [as Leather]"
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Large Beast*
 
 **HD**: 3 (13 HP)
@@ -13,6 +31,7 @@ Combo: 2×Hoof
 Hoof [Melee Attack]: 3 (d6)
 
 ```statblock
+dice: true
 layout: Vagabond
 name: "Horse, War"
 size: Large

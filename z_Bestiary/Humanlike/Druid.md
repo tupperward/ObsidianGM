@@ -1,3 +1,20 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Druid
+size: Medium
+type: Humanlike
+hd: 2
+hp: 9
+speed: "30'"
+zone: Midline
+morale: 5
+armor: "1 [as Leather]"
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Medium Humanlike*
 
 **HD**: 2 (9 HP)
@@ -14,6 +31,7 @@ Cure Wounds [Cast, Touch (Ally)] (3/Day): Regain 3 (d6) HP
 Polymorph [Cast | Will] (Focus): It becomes a Beast of this Being's choice with HD 2 or lower.
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Druid
 size: Medium

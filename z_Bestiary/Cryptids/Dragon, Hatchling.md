@@ -1,3 +1,23 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: "Dragon, Hatchling"
+size: Medium
+type: Cryptid (Wyrm)
+hd: 5
+hp: 22
+speed: "30' (Fly 60')"
+zone: Frontline
+morale: 8
+appearing: 1
+senses: Blindsight
+armor: "2 [as Chain]"
+immune: See table below
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Medium Cryptid (Wyrm)*
 
 **HD**: 5 (22 HP)
@@ -21,6 +41,7 @@ White [Near Cone | Endure or Reflex]: 10 (3d6), and Dazed (Cd4, Speed reduced by
 Black [Near Line, 5' wide | Endure or Reflex]: 3 (d6) and Burning (Cd4) if failed Immune Fire Shock Poison Cold Acid
 
 ```statblock
+dice: true
 layout: Vagabond
 name: "Dragon, Hatchling"
 size: Medium

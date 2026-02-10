@@ -1,3 +1,23 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Aurumvorax
+size: Small
+type: Cryptid
+hd: 6
+hp: 6
+speed: "15'"
+zone: Frontline
+morale: 12
+appearing: 1
+senses: "Darksight, Seismicsense 60ft"
+armor: "3 — (+2) Leather"
+immune: "Fire, Poison"
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Small Cryptid*
 
 **HD**: 6 (6 HP)
@@ -16,6 +36,7 @@ Claw [Melee Attack]: 3 (d6)
 Jaw Lock [Melee Attack]: 5 (2d4) and Restrained until this Being dies.
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Aurumvorax
 size: Small
@@ -26,8 +47,8 @@ speed: "15'"
 zone: Frontline
 morale: 12
 appearing: 1
-senses: "Darksight, Seismicsense 60'"
-armor: "3 [as (+2) Leather]"
+senses: "Darksight, Seismicsense 60ft"
+armor: "3 — (+2) Leather"
 immune: "Fire, Poison"
 columns: 2
 forceColumns: true

@@ -1,0 +1,38 @@
+/* Vagabond Vault-Wide Styling */
+
+/* Headings - Eskapade Fraktur */
+h1, h2, h3, h4, h5, h6,
+.markdown-preview-view h1,
+.markdown-preview-view h2,
+.markdown-preview-view h3,
+.markdown-preview-view h4,
+.markdown-preview-view h5,
+.markdown-preview-view h6,
+.markdown-rendered h1,
+.markdown-rendered h2,
+.markdown-rendered h3,
+.markdown-rendered h4,
+.markdown-rendered h5,
+.markdown-rendered h6,
+.HyperMD-header,
+.cm-header,
+.inline-title {
+  font-family: "Eskapade Fraktur", "UnifrakturMaguntia", serif !important;
+  font-weight: 900;
+}
+
+/* Body text - OldTypefaces */
+body,
+.markdown-preview-view,
+.markdown-rendered,
+.markdown-source-view .cm-s-obsidian,
+.markdown-source-view .cm-line,
+.cm-s-obsidian .cm-line {
+  font-family: "OldTypefaces", "Palatino Linotype", Palatino, Georgia, serif;
+}
+
+/* File explorer and nav */
+.nav-file-title,
+.nav-folder-title {
+  font-family: "OldTypefaces", "Palatino Linotype", Palatino, Georgia, serif;
+}

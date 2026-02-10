@@ -1,3 +1,23 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Dragon Turtle
+size: Colossal
+type: Cryptid (Wyrm)
+hd: 30
+hp: 135
+speed: "10' (Swim 30')"
+zone: Frontline
+morale: 10
+appearing: 1
+senses: Darksight
+armor: "5 — (+2) Plate"
+immune: Fire
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Colossal Cryptid (Wyrm)*
 
 **HD**: 30 (135 HP)
@@ -17,6 +37,7 @@ Claw [Melee Attack]: 7 (2d6)
 Bite [Melee Attack]: 18 (4d8)
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Dragon Turtle
 size: Colossal
@@ -28,7 +49,7 @@ zone: Frontline
 morale: 10
 appearing: 1
 senses: Darksight
-armor: "5 [as (+2) Plate]"
+armor: "5 — (+2) Plate"
 immune: Fire
 columns: 2
 forceColumns: true

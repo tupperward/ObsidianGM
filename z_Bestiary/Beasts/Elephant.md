@@ -1,3 +1,29 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Elephant
+size: Huge
+type: Beast
+hd: 9
+hp: 40
+speed: "40'"
+zone: Frontline
+morale: 8
+appearing: 1d20
+armor: "2 [as Chain]"
+actions:
+  - name: "Trample [Melee Attack (Recharge Cd4)]"
+    desc: 18 (4d8)
+  - name: "Tusk [Melee Attack]"
+    desc: 7 (2d4)
+abilities:
+  - name: Charger
+    desc: "If it Moves at least 20ft in a straight line before making a Tusk Attack, the damage is doubled."
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Huge Beast*
 
 **HD**: 9 (40 HP)
@@ -17,6 +43,7 @@ Tusk [Melee Attack]: 7 (2d4)
 **Charger:** If it Moves at least 20' in a straight line before making a Tusk Attack, the damage is doubled.
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Elephant
 size: Huge
@@ -26,16 +53,16 @@ hp: 40
 speed: "40'"
 zone: Frontline
 morale: 8
-appearing: d20
+appearing: 1d20
 armor: "2 [as Chain]"
 actions:
-  - name: "Trample [Melee Attack] (Recharge Cd4)"
+  - name: "Trample [Melee Attack (Recharge Cd4)]"
     desc: 18 (4d8)
   - name: "Tusk [Melee Attack]"
     desc: 7 (2d4)
 abilities:
   - name: Charger
-    desc: "If it Moves at least 20' in a straight line before making a Tusk Attack, the damage is doubled."
+    desc: "If it Moves at least 20ft in a straight line before making a Tusk Attack, the damage is doubled."
 columns: 2
 forceColumns: true
 bestiary: true

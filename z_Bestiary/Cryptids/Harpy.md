@@ -1,3 +1,21 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Harpy
+size: Medium
+type: Cryptid
+hd: 3
+hp: 13
+speed: "10' (Fly 30')"
+zone: Frontline
+morale: 2
+appearing: 2d6
+armor: "1 [as Leather]"
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Medium Cryptid*
 
 **HD**: 3 (13 HP)
@@ -14,6 +32,7 @@ Claws [Melee Attack]: 3 (d6)
 Weapon [Attack]: 3 (d6) or (by Weapon)
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Harpy
 size: Medium

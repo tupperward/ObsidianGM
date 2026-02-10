@@ -1,3 +1,29 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: "Crayfish, Giant"
+size: Large
+type: Beast
+hd: 5
+hp: 22
+speed: "25' (Swim)"
+zone: Frontline
+morale: 8
+appearing: 1d6
+armor: "2 [as Chain]"
+actions:
+  - name: Combo
+    desc: 2×Claw
+  - name: "Claw [Melee Attack]"
+    desc: 9 (2d8) and Restrained if smaller.
+abilities:
+  - name: Amphibious
+    desc: It can breathe air and water.
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Large Beast*
 
 **HD**: 5 (22 HP)
@@ -17,6 +43,7 @@ Claw [Melee Attack]: 9 (2d8) and Restrained if smaller.
 **Amphibious:** It can breathe air and water.
 
 ```statblock
+dice: true
 layout: Vagabond
 name: "Crayfish, Giant"
 size: Large
@@ -26,7 +53,7 @@ hp: 22
 speed: "25' (Swim)"
 zone: Frontline
 morale: 8
-appearing: d6
+appearing: 1d6
 armor: "2 [as Chain]"
 actions:
   - name: Combo

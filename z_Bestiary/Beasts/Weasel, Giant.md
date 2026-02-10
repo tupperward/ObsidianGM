@@ -1,3 +1,29 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: "Weasel, Giant"
+size: Medium
+type: Beast
+hd: 3
+hp: 12
+speed: "40'"
+zone: Frontline
+morale: 9
+appearing: 1d8
+armor: "1 [as Leather]"
+actions:
+  - name: "Drain [Action, a Restrained Being]"
+    desc: 5 (2d6)
+  - name: "Bite [Melee Attack]"
+    desc: 2 (1d4) and Restrained.
+abilities:
+  - name: Pack Hunter
+    desc: "Targets within 5ft of one of this Being's Allies are Vulnerable to its attacks."
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Medium Beast*
 
 **HD**: 3 (12 HP)
@@ -17,6 +43,7 @@ Bite [Melee Attack]: 2 (d4) and Restrained.
 **Pack Hunter:** Targets within 5' of one of this Being's Allies are Vulnerable to its attacks.
 
 ```statblock
+dice: true
 layout: Vagabond
 name: "Weasel, Giant"
 size: Medium
@@ -26,16 +53,16 @@ hp: 12
 speed: "40'"
 zone: Frontline
 morale: 9
-appearing: d8
+appearing: 1d8
 armor: "1 [as Leather]"
 actions:
   - name: "Drain [Action, a Restrained Being]"
     desc: 5 (2d6)
   - name: "Bite [Melee Attack]"
-    desc: 2 (d4) and Restrained.
+    desc: 2 (1d4) and Restrained.
 abilities:
   - name: Pack Hunter
-    desc: "Targets within 5' of one of this Being's Allies are Vulnerable to its attacks."
+    desc: "Targets within 5ft of one of this Being's Allies are Vulnerable to its attacks."
 columns: 2
 forceColumns: true
 bestiary: true

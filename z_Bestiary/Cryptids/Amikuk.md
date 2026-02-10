@@ -1,3 +1,34 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Amikuk
+size: Large
+type: Cryptid
+hd: 4
+hp: 18
+speed: "30' (Climb)"
+zone: Backline
+morale: 5
+appearing: 1
+armor: "1 [as Leather]"
+immune: Cold
+actions:
+  - name: "Drown [Melee Attack, while submerged]"
+    desc: Restrained and pulled Close
+  - name: Combo
+    desc: 2×Claw and 1×Bite
+  - name: "Claw [Melee Attack, Near]"
+    desc: 3 (1d6)
+  - name: "Bite [Melee Attack]"
+    desc: 9 (2d8)
+abilities:
+  - name: Amphibious
+    desc: Breathes air and water.
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Large Cryptid*
 
 **HD**: 4 (18 HP)
@@ -20,6 +51,7 @@ Bite [Melee Attack]: 9 (2d8)
 **Amphibious:** Breathes air and water.
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Amikuk
 size: Large
@@ -38,7 +70,7 @@ actions:
   - name: Combo
     desc: 2×Claw and 1×Bite
   - name: "Claw [Melee Attack, Near]"
-    desc: 3 (d6)
+    desc: 3 (1d6)
   - name: "Bite [Melee Attack]"
     desc: 9 (2d8)
 abilities:

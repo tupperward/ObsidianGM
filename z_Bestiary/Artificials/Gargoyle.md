@@ -1,3 +1,33 @@
+---
+statblock: true
+layout: Vagabond
+dice: true
+name: Gargoyle
+size: Medium
+type: Artificial
+hd: 4
+hp: 18
+speed: "15' (Fly 30')"
+zone: Frontline
+morale: 11
+armor: "2 [as Chain]"
+immune: "Poison, Psychic"
+weak: Blunt
+status_immunities: "Fatigue, Sickened, Suffocating"
+actions:
+  - name: Combo
+    desc: 2×Claw and 1×Bite
+  - name: "Bite [Melee Attack]"
+    desc: 3 (1d6)
+  - name: "Claw [Melee Attack]"
+    desc: 1 (1d3)
+abilities:
+  - name: Immutable
+    desc: "It can't be transformed."
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Medium Artificial*
 
 **HD**: 4 (18 HP)
@@ -21,6 +51,7 @@ Claw [Melee Attack]: 1 (d3)
 
 ```statblock
 layout: Vagabond
+dice: true
 name: Gargoyle
 size: Medium
 type: Artificial
@@ -37,9 +68,9 @@ actions:
   - name: Combo
     desc: 2×Claw and 1×Bite
   - name: "Bite [Melee Attack]"
-    desc: 3 (d6)
+    desc: 3 (1d6)
   - name: "Claw [Melee Attack]"
-    desc: 1 (d3)
+    desc: 1 (1d3)
 abilities:
   - name: Immutable
     desc: "It can't be transformed."

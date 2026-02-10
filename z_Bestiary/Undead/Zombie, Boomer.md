@@ -1,3 +1,33 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: "Zombie, Boomer"
+size: Medium
+type: Undead
+hd: 3
+hp: 13
+speed: "20'"
+zone: Frontline
+morale: 12
+appearing: 1d8
+senses: Darksight
+armor: "0 [as Unarmored]"
+immune: Poison
+weak: Silvered Weapons
+status_immunities: "Berserk, Charmed, Confused, Fatigued, Frightened, Sickened, Suffocating"
+actions:
+  - name: "Boom [Action, Aura Near | Reflex]"
+    desc: "7 (2d6) and pass — Endure or Sickened (Cd4 damage). This Being dies."
+abilities:
+  - name: Nightwalker
+    desc: "Can't Move or Target over lines of salt or in areas illuminated by Sunlight. It is Incapacitated and Burning (1d8) while in Sunlight."
+  - name: Zombie
+    desc: "It can't be reduced below 1 HP unless damaged by a Crit, damage it is Weak to, or while in Sunlight."
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Medium Undead*
 
 **HD**: 3 (13 HP)
@@ -21,6 +51,7 @@ Boom [Action, Aura Near | Reflex]: 7 (2d6) and pass [Endure] or Sickened (Cd4 da
 **Zombie:** It can't be reduced below 1 HP unless damaged by a Crit, damage it is Weak to, or while in Sunlight.
 
 ```statblock
+dice: true
 layout: Vagabond
 name: "Zombie, Boomer"
 size: Medium
@@ -30,7 +61,7 @@ hp: 13
 speed: "20'"
 zone: Frontline
 morale: 12
-appearing: d8
+appearing: 1d8
 senses: Darksight
 armor: "0 [as Unarmored]"
 immune: Poison
@@ -38,10 +69,10 @@ weak: Silvered Weapons
 status_immunities: "Berserk, Charmed, Confused, Fatigued, Frightened, Sickened, Suffocating"
 actions:
   - name: "Boom [Action, Aura Near | Reflex]"
-    desc: "7 (2d6) and pass [Endure] or Sickened (Cd4 damage). This Being dies."
+    desc: "7 (2d6) and pass — Endure or Sickened (Cd4 damage). This Being dies."
 abilities:
   - name: Nightwalker
-    desc: "Can't Move or Target over lines of salt or in areas illuminated by Sunlight. It is Incapacitated and Burning (d8) while in Sunlight."
+    desc: "Can't Move or Target over lines of salt or in areas illuminated by Sunlight. It is Incapacitated and Burning (1d8) while in Sunlight."
   - name: Zombie
     desc: "It can't be reduced below 1 HP unless damaged by a Crit, damage it is Weak to, or while in Sunlight."
 columns: 2

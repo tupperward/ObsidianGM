@@ -1,3 +1,31 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: "Frog, Toad, Giant"
+size: Medium
+type: Beast
+hd: 2
+hp: 9
+speed: "20' (Climb, Cling, Swim)"
+zone: Midline
+morale: 6
+appearing: 1d6
+armor: "0 [as Unarmored]"
+actions:
+  - name: Combo
+    desc: 1×Tongue and 1×Bite
+  - name: "Bite [Melee Attack]"
+    desc: 3 (1d6)
+  - name: "Tongue [Melee Attack, Near (Medium or smaller Being)]"
+    desc: Restrained and pulled Close
+abilities:
+  - name: Amphibious
+    desc: Can breathe air or water.
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Medium Beast*
 
 **HD**: 2 (9 HP)
@@ -18,6 +46,7 @@ Tongue [Melee Attack, Near (Medium or smaller Being)]: Restrained and pulled Clo
 **Amphibious:** Can breathe air or water.
 
 ```statblock
+dice: true
 layout: Vagabond
 name: "Frog, Toad, Giant"
 size: Medium
@@ -27,13 +56,13 @@ hp: 9
 speed: "20' (Climb, Cling, Swim)"
 zone: Midline
 morale: 6
-appearing: d6
+appearing: 1d6
 armor: "0 [as Unarmored]"
 actions:
   - name: Combo
     desc: 1×Tongue and 1×Bite
   - name: "Bite [Melee Attack]"
-    desc: 3 (d6)
+    desc: 3 (1d6)
   - name: "Tongue [Melee Attack, Near (Medium or smaller Being)]"
     desc: Restrained and pulled Close
 abilities:

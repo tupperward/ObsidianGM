@@ -1,3 +1,38 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Thulhan
+size: Medium
+type: Outer (Beyonder)
+hd: 8
+hp: 36
+speed: "30'"
+zone: Frontline
+morale: 10
+appearing: 1d4
+senses: "Darksight, Telepathy"
+armor: "3 — (+1) Chain"
+immune: Magic
+status_immunities: Charmed
+actions:
+  - name: Combo
+    desc: 4×Tentacle and 1×Flay
+  - name: "Flay [Melee Attack, Paralyzed Target]"
+    desc: "5 (1d8+1) Fatigue. If it dies to Fatigue this way, its brain is extracted."
+  - name: "Mind Blast [Cast, Cone Far | Will (Recharge Cd4)]"
+    desc: 10 (3d6) and Paralyzed (1 Round)
+  - name: "Tentacle [Melee Attack, Paralyzed Target]"
+    desc: 2 (1d4) and Restrained if Medium or smaller
+abilities:
+  - name: Levitation (Focus)
+    desc: It has Fly.
+  - name: Magic Ward II
+    desc: "The first time it is unwillingly affected by a Spell each Round, the Caster must spend an extra 2 Mana to affect it."
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Medium Outer (Beyonder)*
 
 **HD**: 8 (36 HP)
@@ -23,6 +58,7 @@ Tentacle [Melee Attack, Paralyzed Target]: 2 (d4) and Restrained if Medium or sm
 **Magic Ward II:** The first time it is unwillingly affected by a Spell each Round, the Caster must spend an extra 2 Mana to affect it.
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Thulhan
 size: Medium
@@ -32,20 +68,20 @@ hp: 36
 speed: "30'"
 zone: Frontline
 morale: 10
-appearing: d4
+appearing: 1d4
 senses: "Darksight, Telepathy"
-armor: "3 [as (+1) Chain]"
+armor: "3 — (+1) Chain"
 immune: Magic
 status_immunities: Charmed
 actions:
   - name: Combo
     desc: 4×Tentacle and 1×Flay
   - name: "Flay [Melee Attack, Paralyzed Target]"
-    desc: "5 (d8+1) Fatigue. If it dies to Fatigue this way, its brain is extracted."
-  - name: "Mind Blast [Cast, Cone Far | Will] (Recharge Cd4)"
+    desc: "5 (1d8+1) Fatigue. If it dies to Fatigue this way, its brain is extracted."
+  - name: "Mind Blast [Cast, Cone Far | Will (Recharge Cd4)]"
     desc: 10 (3d6) and Paralyzed (1 Round)
   - name: "Tentacle [Melee Attack, Paralyzed Target]"
-    desc: 2 (d4) and Restrained if Medium or smaller
+    desc: 2 (1d4) and Restrained if Medium or smaller
 abilities:
   - name: Levitation (Focus)
     desc: It has Fly.

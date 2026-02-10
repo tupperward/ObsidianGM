@@ -98,11 +98,26 @@
   "playerMarker": "default",
   "monsterMarker": "default",
   "state": {
-    "creatures": [],
+    "creatures": [
+      {
+        "initiative": 0,
+        "static": false,
+        "modifier": 0,
+        "hp": 0,
+        "currentMaxHP": 0,
+        "id": "ID_09a8fa68b93a",
+        "currentHP": 0,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "hidden": false,
+        "friendly": false
+      }
+    ],
     "state": false,
     "name": null,
     "round": 1,
-    "logFile": "",
+    "logFile": null,
     "rollHP": false
   },
   "condense": false,

@@ -1,5 +1,6 @@
 {
   "enabledCssSnippets": [
-    "vagabond-statblocks"
+    "vagabond-statblocks",
+    "vagabond-vault"
   ]
 }

@@ -1,3 +1,36 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Zotz Demon
+size: Huge
+type: Outer (Hellspawn)
+hd: 14
+hp: 63
+speed: "20' (Fly 80')"
+zone: Frontline
+morale: 11
+appearing: 1d4
+senses: Echolocation
+armor: "4 — (+1) Plate"
+immune: Poison; Physical from non-Relics
+status_immunities: "Fatigued, Frightened"
+actions:
+  - name: "Shriek [Action, Far Aura | Will (Recharge Cd4)]"
+    desc: "Frightened (Cd6, it can't hear)"
+  - name: Combo
+    desc: "2×Claw and 1×Bite (+2) Claw — Melee Attack: 9 (2d6+2) (+2) Bite — Melee Attack: 15 (3d8+2) and this Being is healed for the damage dealt"
+abilities:
+  - name: Avatar of Death
+    desc: No Being within Near can be revived.
+  - name: Magic Ward II
+    desc: "The first time it is unwillingly affected by a Spell each Round, the Caster must spend an extra 2 Mana to affect it."
+  - name: Nimble
+    desc: "Attacks against it can't be Favored if it can Move. After the Spark of Creation, while the gods began performing the Melody of Time, the first of its audience members were Primordial creatures of pure elemental potential. It is theoried that all material came from these primal elementals, but there are some Beings with much closer ties to them. Over time, the energy of air, earth, fire, and water swirled together, creating the Primordial descendants."
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Huge Outer (Hellspawn)*
 
 **HD**: 14 (63 HP)
@@ -22,6 +55,7 @@ Combo: 2×Claw and 1×Bite (+2) Claw [Melee Attack]: 9 (2d6+2) (+2) Bite [Melee 
 **Nimble:** Attacks against it can't be Favored if it can Move. After the Spark of Creation, while the gods began performing the Melody of Time, the first of its audience members were Primordial creatures of pure elemental potential. It is theoried that all material came from these primal elementals, but there are some Beings with much closer ties to them. Over time, the energy of air, earth, fire, and water swirled together, creating the Primordial descendants.
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Zotz Demon
 size: Huge
@@ -31,16 +65,16 @@ hp: 63
 speed: "20' (Fly 80')"
 zone: Frontline
 morale: 11
-appearing: d4
+appearing: 1d4
 senses: Echolocation
-armor: "4 [as (+1) Plate]"
+armor: "4 — (+1) Plate"
 immune: Poison; Physical from non-Relics
 status_immunities: "Fatigued, Frightened"
 actions:
-  - name: "Shriek [Action, Far Aura | Will] (Recharge Cd4)"
+  - name: "Shriek [Action, Far Aura | Will (Recharge Cd4)]"
     desc: "Frightened (Cd6, it can't hear)"
   - name: Combo
-    desc: "2×Claw and 1×Bite (+2) Claw [Melee Attack]: 9 (2d6+2) (+2) Bite [Melee Attack]: 15 (3d8+2) and this Being is healed for the damage dealt"
+    desc: "2×Claw and 1×Bite (+2) Claw — Melee Attack: 9 (2d6+2) (+2) Bite — Melee Attack: 15 (3d8+2) and this Being is healed for the damage dealt"
 abilities:
   - name: Avatar of Death
     desc: No Being within Near can be revived.

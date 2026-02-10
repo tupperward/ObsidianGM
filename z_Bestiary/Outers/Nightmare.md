@@ -1,3 +1,36 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Nightmare
+size: Large
+type: Outer (Hellspawn)
+hd: 6
+hp: 27
+speed: "50' (Fly)"
+zone: Frontline
+morale: 7
+appearing: 1
+senses: Darksight
+armor: "5 — (+2) Plate"
+immune: "Fire, Poison"
+weak: Silvered Weapons
+actions:
+  - name: Combo
+    desc: 1×Bite and 1×Stomp
+  - name: "Bite [Melee Attack]"
+    desc: 5 (2d4)
+  - name: "Stomp [Melee Attack]"
+    desc: 3 (1d6) plus 3 (1d6 if Prone)) and Burning (Cd4)
+abilities:
+  - name: Fire Rider
+    desc: Allies mounted on it are Immune to Fire.
+  - name: Illuminating
+    desc: Sheds Light out to Near.
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Large Outer (Hellspawn)*
 
 **HD**: 6 (27 HP)
@@ -22,6 +55,7 @@ Stomp [Melee Attack]: 3 (d6) plus 3 (d6 if Prone)) and Burning (Cd4)
 **Illuminating:** Sheds Light out to Near.
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Nightmare
 size: Large
@@ -33,7 +67,7 @@ zone: Frontline
 morale: 7
 appearing: 1
 senses: Darksight
-armor: "5 [as (+2) Plate]"
+armor: "5 — (+2) Plate"
 immune: "Fire, Poison"
 weak: Silvered Weapons
 actions:
@@ -42,7 +76,7 @@ actions:
   - name: "Bite [Melee Attack]"
     desc: 5 (2d4)
   - name: "Stomp [Melee Attack]"
-    desc: 3 (d6) plus 3 (d6 if Prone)) and Burning (Cd4)
+    desc: 3 (1d6) plus 3 (1d6 if Prone)) and Burning (Cd4)
 abilities:
   - name: Fire Rider
     desc: Allies mounted on it are Immune to Fire.

@@ -1,3 +1,36 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: "Octopus, Giant"
+size: Large
+type: Beast
+hd: 8
+hp: 36
+speed: "10' (Swim 30')"
+zone: Frontline
+morale: 7
+appearing: 1
+senses: Darksight
+armor: "1 [as Leather]"
+actions:
+  - name: Combo
+    desc: "1×Tentacle per Tentacle it has, up to 4."
+  - name: "Beak [Melee Attack]"
+    desc: 3 (1d6)
+  - name: "Tentacle [Melee Attack, Near]"
+    desc: 2 (1d4) and Restrained if Medium or smaller
+abilities:
+  - name: Amphibious
+    desc: It can breathe air or water.
+  - name: Ink Cloud
+    desc: "If it retreats, the surrounding 20ft of water becomes obscured by ink for 1 minute."
+  - name: Tentacles
+    desc: "Starts with 8. Targetting a Tentacle causes a -3 penalty to the Attack Check, but severs it if at least 6 damage is dealt with the attack."
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Large Beast*
 
 **HD**: 8 (36 HP)
@@ -21,6 +54,7 @@ Tentacle [Melee Attack, Near]: 2 (d4) and Restrained if Medium or smaller
 **Tentacles:** Starts with 8. Targetting a Tentacle causes a -3 penalty to the Attack Check, but severs it if at least 6 damage is dealt with the attack.
 
 ```statblock
+dice: true
 layout: Vagabond
 name: "Octopus, Giant"
 size: Large
@@ -37,14 +71,14 @@ actions:
   - name: Combo
     desc: "1×Tentacle per Tentacle it has, up to 4."
   - name: "Beak [Melee Attack]"
-    desc: 3 (d6)
+    desc: 3 (1d6)
   - name: "Tentacle [Melee Attack, Near]"
-    desc: 2 (d4) and Restrained if Medium or smaller
+    desc: 2 (1d4) and Restrained if Medium or smaller
 abilities:
   - name: Amphibious
     desc: It can breathe air or water.
   - name: Ink Cloud
-    desc: "If it retreats, the surrounding 20' of water becomes obscured by ink for 1 minute."
+    desc: "If it retreats, the surrounding 20ft of water becomes obscured by ink for 1 minute."
   - name: Tentacles
     desc: "Starts with 8. Targetting a Tentacle causes a -3 penalty to the Attack Check, but severs it if at least 6 damage is dealt with the attack."
 columns: 2

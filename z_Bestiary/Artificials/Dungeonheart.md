@@ -1,3 +1,23 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Dungeonheart
+size: Huge
+type: Artificial
+hd: 10
+hp: 45
+speed: "0'"
+zone: "-"
+morale: "-"
+appearing: 1
+armor: "1 [as Leather]"
+weak: Pierce
+status_immunities: "Berserk, Charmed, Confused, Dazed, Frightened, Incapacitated, Suffocating, Unconscious"
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Huge Artificial*
 
 **HD**: 10 (45 HP)
@@ -20,6 +40,7 @@ Spawn: At the start of its Turn, roll d4. On a roll of 2 to 4, this Being spawns
 6 - Gelatinous Cube (p. 172)
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Dungeonheart
 size: Huge

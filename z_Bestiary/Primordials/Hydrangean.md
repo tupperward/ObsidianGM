@@ -1,3 +1,32 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Hydrangean
+size: Medium
+type: Prmordial (Plant)
+hd: 2
+hp: 9
+speed: "5'"
+zone: Frontline
+morale: 8
+appearing: 1d6
+armor: "1 [as Leather]"
+weak: "Fire, Poison, Slash"
+actions:
+  - name: Combo
+    desc: 1×Bite per head (Multi-Headed)
+  - name: "Bite [Melee Attack, Near]"
+    desc: "2 (1d4) Sharp-toothed carnivorous plants, with multiple serpentine petioles atop a digestive pitcher."
+abilities:
+  - name: Multi-Headed
+    desc: "It starts with 3 Heads. Targetting an area that could behead it causes a -3 penalty to the Check, but severs it if at least 2 damage is dealt in a single damage instance."
+  - name: Hydra Regrowth
+    desc: "Regains 4 HP at the start of its Turns. If it is missing one of its heads when this happens, two Heads sprout. This Ability doesn't work if it took damage from fire since its last Turn."
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Medium Prmordial (Plant)*
 
 **HD**: 2 (9 HP)
@@ -19,6 +48,7 @@ Bite [Melee Attack, Near]: 2 (d4) Sharp-toothed carnivorous plants, with multipl
 **Hydra Regrowth:** Regains 4 HP at the start of its Turns. If it is missing one of its heads when this happens, two Heads sprout. This Ability doesn't work if it took damage from fire since its last Turn.
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Hydrangean
 size: Medium
@@ -28,14 +58,14 @@ hp: 9
 speed: "5'"
 zone: Frontline
 morale: 8
-appearing: d6
+appearing: 1d6
 armor: "1 [as Leather]"
 weak: "Fire, Poison, Slash"
 actions:
   - name: Combo
     desc: 1×Bite per head (Multi-Headed)
   - name: "Bite [Melee Attack, Near]"
-    desc: "2 (d4) Sharp-toothed carnivorous plants, with multiple serpentine petioles atop a digestive pitcher."
+    desc: "2 (1d4) Sharp-toothed carnivorous plants, with multiple serpentine petioles atop a digestive pitcher."
 abilities:
   - name: Multi-Headed
     desc: "It starts with 3 Heads. Targetting an area that could behead it causes a -3 penalty to the Check, but severs it if at least 2 damage is dealt in a single damage instance."

@@ -1,3 +1,27 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Rabbit
+size: Small
+type: Beast
+hd: 1
+hp: 1
+speed: "45'"
+zone: Backline
+morale: 1
+appearing: 2d6
+armor: "0 [as Unarmored]"
+actions:
+  - name: "Bite [Melee Attack]"
+    desc: 1
+abilities:
+  - name: Nimble
+    desc: "Attacks against it can't be Favored if it can Move."
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Small Beast*
 
 **HD**: 1 (1 HP)
@@ -16,6 +40,7 @@ Bite [Melee Attack]: 1
 **Nimble:** Attacks against it can't be Favored if it can Move.
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Rabbit
 size: Small

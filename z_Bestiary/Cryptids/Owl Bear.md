@@ -1,3 +1,22 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Owl Bear
+size: Large
+type: Cryptid (Beast)
+hd: 5
+hp: 22
+speed: "40' (Climb)"
+zone: Frontline
+morale: 10
+appearing: 2d4
+senses: Darksight
+armor: "2 [as Chain]"
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Large Cryptid (Beast)*
 
 **HD**: 5 (22 HP)
@@ -15,6 +34,7 @@ Beak [Melee Attack]: 4 (d8)
 Claw [Melee Attack]: 4 (d8)
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Owl Bear
 size: Large

@@ -1,3 +1,21 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: "Beetle, Bombardier"
+size: Small
+type: Beast
+hd: 2
+hp: 2
+speed: "40'"
+zone: Frontline
+morale: 8
+appearing: 2d6
+armor: "1 [as Leather]"
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Small Beast*
 
 **HD**: 2 (2 HP)
@@ -13,6 +31,7 @@ Noxious Gas [Attack, Cone 10' | Endure] (Recharge Cd6): 7 (2d6), half on pass an
 Bite [Melee Attack]: 3 (d6)
 
 ```statblock
+dice: true
 layout: Vagabond
 name: "Beetle, Bombardier"
 size: Small

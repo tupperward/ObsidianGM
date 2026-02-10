@@ -1,3 +1,30 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Ettercap
+size: Medium
+type: Cryptid
+hd: 4
+hp: 18
+speed: "40' (Cling)"
+zone: Frontline
+morale: 10
+appearing: 1d6
+senses: Darksight
+armor: "1 [as Leather]"
+actions:
+  - name: "Bite [Melee Attack]"
+    desc: "7 (2d6) and pass — Endure or become Sickened (Cd4, +1 Fatigue each Round)."
+abilities:
+  - name: Webs
+    desc: "Its web is an Object with 4 HP and Armor: 5."
+  - name: Web Walker
+    desc: "It can sense any Being on the same web as it as if by Blindsight, and is not impeded by web as Difficult Terrain."
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Medium Cryptid*
 
 **HD**: 4 (18 HP)
@@ -18,6 +45,7 @@ Bite [Melee Attack]: 7 (2d6) and pass [Endure] or become Sickened (Cd4, +1 Fatig
 **Web Walker:** It can sense any Being on the same web as it as if by Blindsight, and is not impeded by web as Difficult Terrain.
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Ettercap
 size: Medium
@@ -27,12 +55,12 @@ hp: 18
 speed: "40' (Cling)"
 zone: Frontline
 morale: 10
-appearing: d6
+appearing: 1d6
 senses: Darksight
 armor: "1 [as Leather]"
 actions:
   - name: "Bite [Melee Attack]"
-    desc: "7 (2d6) and pass [Endure] or become Sickened (Cd4, +1 Fatigue each Round)."
+    desc: "7 (2d6) and pass — Endure or become Sickened (Cd4, +1 Fatigue each Round)."
 abilities:
   - name: Webs
     desc: "Its web is an Object with 4 HP and Armor: 5."

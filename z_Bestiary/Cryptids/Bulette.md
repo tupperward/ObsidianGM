@@ -1,3 +1,32 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Bulette
+size: Large
+type: Cryptid
+hd: 9
+hp: 40
+speed: "40'"
+zone: Frontline
+morale: 7
+appearing: 1d2
+senses: Seismicsense (Far)
+armor: "4 — (+1) Plate"
+actions:
+  - name: Combo
+    desc: 2×Claw and 1×Bite
+  - name: "Bite [Melee Attack]"
+    desc: 26 (4d12)
+  - name: "Claw [Melee Attack]"
+    desc: 10 (3d6)
+abilities:
+  - name: Soft Underbelly
+    desc: Its Armor is 0 while it is Prone.
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Large Cryptid*
 
 **HD**: 9 (40 HP)
@@ -19,6 +48,7 @@ Claw [Melee Attack]: 10 (3d6)
 **Soft Underbelly:** Its Armor is 0 while it is Prone.
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Bulette
 size: Large
@@ -28,9 +58,9 @@ hp: 40
 speed: "40'"
 zone: Frontline
 morale: 7
-appearing: d2
+appearing: 1d2
 senses: Seismicsense (Far)
-armor: "4 [as (+1) Plate]"
+armor: "4 — (+1) Plate"
 actions:
   - name: Combo
     desc: 2×Claw and 1×Bite

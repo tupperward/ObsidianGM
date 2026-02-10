@@ -1,3 +1,28 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Peryton
+size: Medium
+type: Cryptid (Beast)
+hd: 4
+hp: 18
+speed: "40' (Fly 60')"
+zone: Frontline
+morale: 9
+appearing: 2d4
+armor: "2 — (+1) Leather"
+immune: Physical from non-Relics
+actions:
+  - name: "Horn [Melee Attack]"
+    desc: 7 (2d6)
+abilities:
+  - name: Dive Bomb
+    desc: "If it flies at least 20ft toward a Target before making an attack, the attack deals an extra die of damage."
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Medium Cryptid (Beast)*
 
 **HD**: 4 (18 HP)
@@ -17,6 +42,7 @@ Horn [Melee Attack]: 7 (2d6)
 **Dive Bomb:** If it flies at least 20' toward a Target before making an attack, the attack deals an extra die of damage.
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Peryton
 size: Medium
@@ -27,14 +53,14 @@ speed: "40' (Fly 60')"
 zone: Frontline
 morale: 9
 appearing: 2d4
-armor: "2 [as (+1) Leather]"
+armor: "2 — (+1) Leather"
 immune: Physical from non-Relics
 actions:
   - name: "Horn [Melee Attack]"
     desc: 7 (2d6)
 abilities:
   - name: Dive Bomb
-    desc: "If it flies at least 20' toward a Target before making an attack, the attack deals an extra die of damage."
+    desc: "If it flies at least 20ft toward a Target before making an attack, the attack deals an extra die of damage."
 columns: 2
 forceColumns: true
 bestiary: true

@@ -1,3 +1,27 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Carbuncle
+size: Small
+type: Cryptid
+hd: 1
+hp: 1
+speed: "10'"
+zone: Backline
+morale: 1
+appearing: 1
+senses: Darksight
+armor: "3 — (+2) Hide"
+abilities:
+  - name: Scare to Death
+    desc: "If it fails a Morale Check or becomes Frightened, it dies."
+  - name: Shattering Death
+    desc: "When it dies, it shatters to dust."
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Small Cryptid*
 
 **HD**: 1 (1 HP)
@@ -17,6 +41,7 @@
 **Shattering Death:** When it dies, it shatters to dust.
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Carbuncle
 size: Small
@@ -28,7 +53,7 @@ zone: Backline
 morale: 1
 appearing: 1
 senses: Darksight
-armor: "3 [as (+2) Hide]"
+armor: "3 — (+2) Hide"
 abilities:
   - name: Scare to Death
     desc: "If it fails a Morale Check or becomes Frightened, it dies."

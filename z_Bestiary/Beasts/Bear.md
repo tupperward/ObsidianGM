@@ -1,3 +1,31 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Bear
+size: Medium
+type: Beast
+hd: 5
+hp: 22
+speed: "40' (Climb)"
+zone: Frontline
+morale: 8
+appearing: 1d4+1
+armor: "1 [as Leather]"
+actions:
+  - name: Combo
+    desc: "2×Claws and 1×Bite. If both Claws hit the same Target, the Bite can automatically hit the Target."
+  - name: "Claws [Melee Attack]"
+    desc: 3 (1d6)
+  - name: "Bite [Melee Attack]"
+    desc: 4 (1d8)
+abilities:
+  - name: Dense Muscled
+    desc: Grapples and Shoves as Large.
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Medium Beast*
 
 **HD**: 5 (22 HP)
@@ -18,6 +46,7 @@ Bite [Melee Attack]: 4 (d8)
 **Dense Muscled:** Grapples and Shoves as Large.
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Bear
 size: Medium
@@ -27,15 +56,15 @@ hp: 22
 speed: "40' (Climb)"
 zone: Frontline
 morale: 8
-appearing: d4+1
+appearing: 1d4+1
 armor: "1 [as Leather]"
 actions:
   - name: Combo
     desc: "2×Claws and 1×Bite. If both Claws hit the same Target, the Bite can automatically hit the Target."
   - name: "Claws [Melee Attack]"
-    desc: 3 (d6)
+    desc: 3 (1d6)
   - name: "Bite [Melee Attack]"
-    desc: 4 (d8)
+    desc: 4 (1d8)
 abilities:
   - name: Dense Muscled
     desc: Grapples and Shoves as Large.

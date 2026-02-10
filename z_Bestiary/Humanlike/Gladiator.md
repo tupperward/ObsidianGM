@@ -1,3 +1,26 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Gladiator
+size: Medium
+type: Humanlike
+hd: 2
+hp: 9
+speed: "30'"
+zone: Frontline
+morale: 7
+armor: "1 [as Leather]"
+actions:
+  - name: "Weapon [Attack]"
+    desc: 5 (1d8+1) or (by Weapon)
+abilities:
+  - name: Prowess
+    desc: +1 to attack damage it deals (already factored in).
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Medium Humanlike*
 
 **HD**: 2 (9 HP)
@@ -15,6 +38,7 @@ Weapon [Attack]: 5 (d8+1) or (by Weapon)
 **Prowess:** +1 to attack damage it deals (already factored in).
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Gladiator
 size: Medium
@@ -27,7 +51,7 @@ morale: 7
 armor: "1 [as Leather]"
 actions:
   - name: "Weapon [Attack]"
-    desc: 5 (d8+1) or (by Weapon)
+    desc: 5 (1d8+1) or (by Weapon)
 abilities:
   - name: Prowess
     desc: +1 to attack damage it deals (already factored in).

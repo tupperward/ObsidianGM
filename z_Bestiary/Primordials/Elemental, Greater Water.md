@@ -1,3 +1,30 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: "Elemental, Greater Water"
+size: Huge
+type: Primordial
+hd: 16
+hp: 72
+speed: "0' (Swim 50')"
+zone: Midline
+morale: 10
+appearing: 1
+senses: Blindsight
+armor: "5 — (+2) Plate"
+immune: "Acid, Poison; Physical from non-Relics"
+status_immunities: "Fatigued, Prone, Restrained, Sickened, Suffocating"
+actions:
+  - name: "Strike [Melee Attack]"
+    desc: 13 (3d8) plus 4 (1d8) if in water
+abilities:
+  - name: Waterbound
+    desc: Must stay Near a body of water.
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Huge Primordial*
 
 **HD**: 16 (72 HP)
@@ -19,6 +46,7 @@ Strike [Melee Attack]: 13 (3d8) plus 4 (d8) if in water
 **Waterbound:** Must stay Near a body of water.
 
 ```statblock
+dice: true
 layout: Vagabond
 name: "Elemental, Greater Water"
 size: Huge
@@ -30,12 +58,12 @@ zone: Midline
 morale: 10
 appearing: 1
 senses: Blindsight
-armor: "5 [as (+2) Plate]"
+armor: "5 — (+2) Plate"
 immune: "Acid, Poison; Physical from non-Relics"
 status_immunities: "Fatigued, Prone, Restrained, Sickened, Suffocating"
 actions:
   - name: "Strike [Melee Attack]"
-    desc: 13 (3d8) plus 4 (d8) if in water
+    desc: 13 (3d8) plus 4 (1d8) if in water
 abilities:
   - name: Waterbound
     desc: Must stay Near a body of water.

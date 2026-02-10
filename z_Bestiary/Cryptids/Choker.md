@@ -1,3 +1,22 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Choker
+size: Medium
+type: Cryptid
+hd: 3
+hp: 13
+speed: "20' (Climb)"
+zone: Frontline
+morale: 7
+appearing: 1d4
+senses: Darksight
+armor: "1 [as Leather]"
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Medium Cryptid*
 
 **HD**: 3 (13 HP)
@@ -13,6 +32,7 @@
 Choke [Melee Attack]: 2 (d4) and Restrained (Suffocating)
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Choker
 size: Medium
@@ -22,7 +42,7 @@ hp: 13
 speed: "20' (Climb)"
 zone: Frontline
 morale: 7
-appearing: d4
+appearing: 1d4
 senses: Darksight
 armor: "1 [as Leather]"
 columns: 2

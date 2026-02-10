@@ -1,3 +1,37 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Viskyd
+size: Small
+type: Outer (Hellspawn)
+hd: 1
+hp: 1
+speed: "10' (Fly 20')"
+zone: Frontline
+morale: 12
+appearing: 3d8
+senses: Darksight
+armor: "1 [as Leather]"
+immune: "Fire, Poison"
+weak: "Cold, Silvered Weapons"
+status_immunities: "Berserk, Charmed, Fatigued, Sickened"
+actions:
+  - name: "Pop [Action (Cd4 after having a Being Restrained), Aura Near | Reflex]"
+    desc: "3 (1d6). Further, all Close Viskyd Allies also Pop"
+  - name: "Bite [Melee Attack]"
+    desc: 2 (1d4) and Restrained if Medium or smaller
+abilities:
+  - name: Amorphous
+    desc: It can enter the space of other Beings and openings as small as 1 inch without squeezing.
+  - name: Magic Ward I
+    desc: "The first time it is unwillingly affected by a Spell each Round, the Caster must spend an extra 1 Mana to affect it."
+  - name: Sticky
+    desc: "Hinders attempts to end being Restrained by it. Beings that make physical contact with it must pass — Endure or be Restrained."
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Small Outer (Hellspawn)*
 
 **HD**: 1 (1 HP)
@@ -23,6 +57,7 @@ Bite [Melee Attack]: 2 (d4) and Restrained if Medium or smaller
 **Sticky:** Hinders attempts to end being Restrained by it. Beings that make physical contact with it must pass [Endure] or be Restrained.
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Viskyd
 size: Small
@@ -40,16 +75,16 @@ weak: "Cold, Silvered Weapons"
 status_immunities: "Berserk, Charmed, Fatigued, Sickened"
 actions:
   - name: "Pop [Action (Cd4 after having a Being Restrained), Aura Near | Reflex]"
-    desc: "3 (d6). Further, all Close Viskyd Allies also Pop"
+    desc: "3 (1d6). Further, all Close Viskyd Allies also Pop"
   - name: "Bite [Melee Attack]"
-    desc: 2 (d4) and Restrained if Medium or smaller
+    desc: 2 (1d4) and Restrained if Medium or smaller
 abilities:
   - name: Amorphous
     desc: It can enter the space of other Beings and openings as small as 1 inch without squeezing.
   - name: Magic Ward I
     desc: "The first time it is unwillingly affected by a Spell each Round, the Caster must spend an extra 1 Mana to affect it."
   - name: Sticky
-    desc: "Hinders attempts to end being Restrained by it. Beings that make physical contact with it must pass [Endure] or be Restrained."
+    desc: "Hinders attempts to end being Restrained by it. Beings that make physical contact with it must pass — Endure or be Restrained."
 columns: 2
 forceColumns: true
 bestiary: true

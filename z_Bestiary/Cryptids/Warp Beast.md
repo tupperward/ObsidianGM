@@ -1,3 +1,34 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Warp Beast
+size: Large
+type: Cryptid (Beast)
+hd: 6
+hp: 27
+speed: "40'"
+zone: Frontline
+morale: 9
+appearing: 2d4
+senses: Darksight
+armor: "2 [as Chain]"
+actions:
+  - name: Combo
+    desc: 2×Tentacle
+  - name: "Tentacle [Melee Attack 10ft]"
+    desc: 5 (2d4)
+abilities:
+  - name: Lesser Regenerate I
+    desc: "Regains 4 (1d8) HP on each of its Turns unless it took damage it was Weak to in the last Round. It can't be reduced below 1 HP except by damage it is Weak to."
+  - name: Sunlight Aversion
+    desc: "The troll's Armor and Lesser Regenerate trait are suspended while it is in sunlight, and it is Burning (1d6). If the troll dies within sunlight, it is turned to stone."
+  - name: Displacement I
+    desc: Attack and Cast Checks that directly Target it have a 1d4 penalty.
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Large Cryptid (Beast)*
 
 **HD**: 6 (27 HP)
@@ -20,6 +51,7 @@ Tentacle [Melee Attack 10']: 5 (2d4)
 **Displacement I:** Attack and Cast Checks that directly Target it have a d4 penalty.
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Warp Beast
 size: Large
@@ -35,15 +67,15 @@ armor: "2 [as Chain]"
 actions:
   - name: Combo
     desc: 2×Tentacle
-  - name: "Tentacle [Melee Attack 10']"
+  - name: "Tentacle [Melee Attack 10ft]"
     desc: 5 (2d4)
 abilities:
   - name: Lesser Regenerate I
-    desc: "Regains 4 (d8) HP on each of its Turns unless it took damage it was Weak to in the last Round. It can't be reduced below 1 HP except by damage it is Weak to."
+    desc: "Regains 4 (1d8) HP on each of its Turns unless it took damage it was Weak to in the last Round. It can't be reduced below 1 HP except by damage it is Weak to."
   - name: Sunlight Aversion
-    desc: "The troll's Armor and Lesser Regenerate trait are suspended while it is in sunlight, and it is Burning (d6). If the troll dies within sunlight, it is turned to stone."
+    desc: "The troll's Armor and Lesser Regenerate trait are suspended while it is in sunlight, and it is Burning (1d6). If the troll dies within sunlight, it is turned to stone."
   - name: Displacement I
-    desc: Attack and Cast Checks that directly Target it have a d4 penalty.
+    desc: Attack and Cast Checks that directly Target it have a 1d4 penalty.
 columns: 2
 forceColumns: true
 bestiary: true

@@ -1,3 +1,22 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Treant
+size: Huge
+type: Primordial (Plant)
+hd: 8
+hp: 36
+speed: "20'"
+zone: Frontline
+morale: 9
+appearing: 1d8
+armor: "4 — (+1) Plate"
+weak: "Fire, Poison; Damage from axes"
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Huge Primordial (Plant)*
 
 **HD**: 8 (36 HP)
@@ -15,6 +34,7 @@ Combo: 2×Slams
 Slam [Melee Attack]: 7 (2d6)
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Treant
 size: Huge
@@ -24,8 +44,8 @@ hp: 36
 speed: "20'"
 zone: Frontline
 morale: 9
-appearing: d8
-armor: "4 [as (+1) Plate]"
+appearing: 1d8
+armor: "4 — (+1) Plate"
 weak: "Fire, Poison; Damage from axes"
 columns: 2
 forceColumns: true

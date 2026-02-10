@@ -1,3 +1,28 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Cat
+size: Small
+type: Beast
+hd: 1
+hp: 1
+speed: "40' (Climb)"
+zone: Midline
+morale: 2
+appearing: 2d6
+senses: Darksight
+armor: "0 [as Unarmored]"
+actions:
+  - name: "Claw [Melee Attack]"
+    desc: 1
+abilities:
+  - name: Righting Reflex
+    desc: "It doesn't take falling damage from falling 40ft or less."
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Small Beast*
 
 **HD**: 1 (1 HP)
@@ -17,6 +42,7 @@ Claw [Melee Attack]: 1
 **Righting Reflex:** It doesn't take falling damage from falling 40' or less.
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Cat
 size: Small
@@ -34,7 +60,7 @@ actions:
     desc: 1
 abilities:
   - name: Righting Reflex
-    desc: "It doesn't take falling damage from falling 40' or less."
+    desc: "It doesn't take falling damage from falling 40ft or less."
 columns: 2
 forceColumns: true
 bestiary: true

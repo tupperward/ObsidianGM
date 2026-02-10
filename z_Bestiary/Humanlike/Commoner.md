@@ -1,3 +1,20 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Commoner
+size: Medium
+type: Humanlike
+hd: 1
+hp: 4
+speed: "30'"
+zone: Backline
+morale: 7
+armor: "0 [as Unarmored]"
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Medium Humanlike*
 
 **HD**: 1 (4 HP)
@@ -11,6 +28,7 @@
 Rock [Melee Attack, Thrown]: 1
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Commoner
 size: Medium

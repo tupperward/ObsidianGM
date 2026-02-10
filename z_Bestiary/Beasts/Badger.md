@@ -1,3 +1,22 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Badger
+size: Small
+type: Beast
+hd: 1
+hp: 1
+speed: "25'"
+zone: Frontline
+morale: 4
+appearing: 1d4+1
+armor: "0 [as Unarmored]"
+status_immunities: Sickened
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Small Beast*
 
 **HD**: 1 (1 HP)
@@ -15,6 +34,7 @@ Claw [Melee Attack]: 1 (d3)
 Bite [Melee Attack]: 2 (d4)
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Badger
 size: Small
@@ -24,7 +44,7 @@ hp: 1
 speed: "25'"
 zone: Frontline
 morale: 4
-appearing: d4+1
+appearing: 1d4+1
 armor: "0 [as Unarmored]"
 status_immunities: Sickened
 columns: 2

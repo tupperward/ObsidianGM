@@ -1,3 +1,32 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Cave Fisher
+size: Medium
+type: Cryptid
+hd: 3
+hp: 13
+speed: "30' (Cling)"
+zone: Backline
+morale: 6
+appearing: 1d4
+senses: Darksight
+armor: "1 [as Leather]"
+actions:
+  - name: Combo
+    desc: "1×Fish and 1×Claw, or 2×Claw"
+  - name: "Claw [Melee Attack]"
+    desc: 5 (2d4)
+  - name: "Fish [Ranged Attack]"
+    desc: Restrained by Filament and pulled Close.
+abilities:
+  - name: Filament
+    desc: As rope with 1 HD (4 HP)
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Medium Cryptid*
 
 **HD**: 3 (13 HP)
@@ -19,6 +48,7 @@ Fish [Ranged Attack]: Restrained by Filament and pulled Close.
 **Filament:** As rope with 1 HD (4 HP)
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Cave Fisher
 size: Medium
@@ -28,7 +58,7 @@ hp: 13
 speed: "30' (Cling)"
 zone: Backline
 morale: 6
-appearing: d4
+appearing: 1d4
 senses: Darksight
 armor: "1 [as Leather]"
 actions:

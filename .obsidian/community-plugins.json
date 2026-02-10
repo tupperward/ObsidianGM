@@ -6,10 +6,10 @@
   "rpg-manager",
   "initiative-tracker",
   "obsidian-5e-statblocks",
-  "obsidian-dice-roller",
   "obsidian-leaflet-plugin",
   "markdown-attributes",
   "obsidian-admonition",
   "image-window",
-  "omnisearch"
+  "omnisearch",
+  "obsidian-dice-roller"
 ]

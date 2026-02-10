@@ -1,3 +1,27 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Velociraptor
+size: Small
+type: Beast
+hd: 3
+hp: 12
+speed: "45'"
+zone: Frontline
+morale: 10
+appearing: 2d6
+armor: "1 [as Leather]"
+actions:
+  - name: "Bite [Melee Attack]"
+    desc: 3 (1d6)
+abilities:
+  - name: Pack Hunter
+    desc: "Targets within 5ft of one of this Being's Allies are Vulnerable to its attacks."
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Small Beast*
 
 **HD**: 3 (12 HP)
@@ -16,6 +40,7 @@ Bite [Melee Attack]: 3 (d6)
 **Pack Hunter:** Targets within 5' of one of this Being's Allies are Vulnerable to its attacks.
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Velociraptor
 size: Small
@@ -29,10 +54,10 @@ appearing: 2d6
 armor: "1 [as Leather]"
 actions:
   - name: "Bite [Melee Attack]"
-    desc: 3 (d6)
+    desc: 3 (1d6)
 abilities:
   - name: Pack Hunter
-    desc: "Targets within 5' of one of this Being's Allies are Vulnerable to its attacks."
+    desc: "Targets within 5ft of one of this Being's Allies are Vulnerable to its attacks."
 columns: 2
 forceColumns: true
 bestiary: true

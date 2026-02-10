@@ -1,3 +1,22 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Drake
+size: Medium
+type: Cryptid (Wyrm)
+hd: 7
+hp: 31
+speed: "30'"
+zone: Frontline
+morale: 10
+appearing: 1
+senses: Darksight
+armor: "3 — (+1) Chain"
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Medium Cryptid (Wyrm)*
 
 **HD**: 7 (31 HP)
@@ -15,6 +34,7 @@ Bite [Melee Attack]: 4 (d8)
 Claw [Melee Attack]: 3 (d6)
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Drake
 size: Medium
@@ -26,7 +46,7 @@ zone: Frontline
 morale: 10
 appearing: 1
 senses: Darksight
-armor: "3 [as (+1) Chain]"
+armor: "3 — (+1) Chain"
 columns: 2
 forceColumns: true
 bestiary: true

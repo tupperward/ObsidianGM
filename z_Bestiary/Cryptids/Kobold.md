@@ -1,3 +1,38 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Kobold
+size: Medium
+type: Cryptid (Wyrm)
+hd: 1
+hp: 4
+speed: "35'"
+zone: Midline
+morale: 4
+appearing: 2d6
+senses: Darksight
+armor: "1 [as Leather]"
+actions:
+  - name: "Weapon [Attack]"
+    desc: 3 (1d6) or (by Weapon)
+abilities:
+  - name: Pack Instincts
+    desc: "If one of its Allies is within 5ft of a Target of this Being's Attack, that Target is Vulnerable against the Attack. Type Changes"
+  - name: "Sling [Ranged Attack]"
+    desc: 2 (1d4)
+  - name: "Dagger [Melee Attack, Thrown]"
+    desc: "2 (1d4) Alchemist Alchemist's Fire — Melee Attack, Thrown (5/Day): 3 (1d6) and Burning (Cd6)"
+  - name: "Dagger [Melee Attack, Thrown]"
+    desc: 2 (1d4)
+  - name: Warrior Armor
+    desc: "2 [as Leather plus Shield]"
+  - name: "Spear [Melee Attack, Thrown]"
+    desc: 3 (1d6) Normal
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Medium Cryptid (Wyrm)*
 
 **HD**: 1 (4 HP)
@@ -22,6 +57,7 @@ Weapon [Attack]: 3 (d6) or (by Weapon)
 **Spear [Melee Attack, Thrown]:** 3 (d6) Normal
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Kobold
 size: Medium
@@ -36,20 +72,20 @@ senses: Darksight
 armor: "1 [as Leather]"
 actions:
   - name: "Weapon [Attack]"
-    desc: 3 (d6) or (by Weapon)
+    desc: 3 (1d6) or (by Weapon)
 abilities:
   - name: Pack Instincts
-    desc: "If one of its Allies is within 5' of a Target of this Being's Attack, that Target is Vulnerable against the Attack. Type Changes"
+    desc: "If one of its Allies is within 5ft of a Target of this Being's Attack, that Target is Vulnerable against the Attack. Type Changes"
   - name: "Sling [Ranged Attack]"
-    desc: 2 (d4)
+    desc: 2 (1d4)
   - name: "Dagger [Melee Attack, Thrown]"
-    desc: "2 (d4) Alchemist Alchemist's Fire [Melee Attack, Thrown] (5/Day): 3 (d6) and Burning (Cd6)"
+    desc: "2 (1d4) Alchemist Alchemist's Fire — Melee Attack, Thrown (5/Day): 3 (1d6) and Burning (Cd6)"
   - name: "Dagger [Melee Attack, Thrown]"
-    desc: 2 (d4)
+    desc: 2 (1d4)
   - name: Warrior Armor
     desc: "2 [as Leather plus Shield]"
   - name: "Spear [Melee Attack, Thrown]"
-    desc: 3 (d6) Normal
+    desc: 3 (1d6) Normal
 columns: 2
 forceColumns: true
 bestiary: true

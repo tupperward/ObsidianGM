@@ -1,3 +1,25 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Dog
+size: "— Small/Medium"
+type: Beast
+speed: "30'/40'"
+zone: Frontline
+morale: 3
+appearing: 2d6
+armor: "0 [as Unarmored]"
+actions:
+  - name: "Bite [Melee Attack]"
+    desc: 1/2 (1/1d4)
+abilities:
+  - name: Pack Hunter
+    desc: "Targets within 5ft of one of this Being's Allies are Vulnerable to its attacks."
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *[Small/Medium] Beast*
 
 **HD**: 1/1 (1/4 HP)
@@ -16,9 +38,10 @@ Bite [Melee Attack]: 1/2 (1/d4)
 **Pack Hunter:** Targets within 5' of one of this Being's Allies are Vulnerable to its attacks.
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Dog
-size: "[Small/Medium]"
+size: "— Small/Medium"
 type: Beast
 speed: "30'/40'"
 zone: Frontline
@@ -27,10 +50,10 @@ appearing: 2d6
 armor: "0 [as Unarmored]"
 actions:
   - name: "Bite [Melee Attack]"
-    desc: 1/2 (1/d4)
+    desc: 1/2 (1/1d4)
 abilities:
   - name: Pack Hunter
-    desc: "Targets within 5' of one of this Being's Allies are Vulnerable to its attacks."
+    desc: "Targets within 5ft of one of this Being's Allies are Vulnerable to its attacks."
 columns: 2
 forceColumns: true
 bestiary: true

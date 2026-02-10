@@ -1,3 +1,31 @@
+---
+statblock: true
+dice: true
+layout: Vagabond
+name: Catoblepas
+size: Large
+type: Cryptid
+hd: 7
+hp: 24
+speed: "20'"
+zone: Frontline
+morale: 8
+appearing: 1d3
+armor: "1 [as Leather]"
+actions:
+  - name: Combo
+    desc: 1×Tail and 1×Death Ray
+  - name: "Death Ray [Cast, Remote | Endure (Recharge Cd4)]"
+    desc: 24 (8d6) and +1 Fatigue
+  - name: "Tail [Melee Attack]"
+    desc: "3 (1d6) and pass an — Endure Save or knocked Prone and be Dazed for 1 Round."
+abilities:
+  - name: Stench
+    desc: Non-Catoblepas Beings that have to breathe are Sickened (Hinder on all Checks) while Near it.
+columns: 2
+forceColumns: true
+bestiary: true
+---
 *Large Cryptid*
 
 **HD**: 7 (24 HP)
@@ -18,6 +46,7 @@ Tail [Melee Attack]: 3 (d6) and pass an [Endure] Save or knocked Prone and be Da
 **Stench:** Non-Catoblepas Beings that have to breathe are Sickened (Hinder on all Checks) while Near it.
 
 ```statblock
+dice: true
 layout: Vagabond
 name: Catoblepas
 size: Large
@@ -27,15 +56,15 @@ hp: 24
 speed: "20'"
 zone: Frontline
 morale: 8
-appearing: d3
+appearing: 1d3
 armor: "1 [as Leather]"
 actions:
   - name: Combo
     desc: 1×Tail and 1×Death Ray
-  - name: "Death Ray [Cast, Remote | Endure] (Recharge Cd4)"
+  - name: "Death Ray [Cast, Remote | Endure (Recharge Cd4)]"
     desc: 24 (8d6) and +1 Fatigue
   - name: "Tail [Melee Attack]"
-    desc: "3 (d6) and pass an [Endure] Save or knocked Prone and be Dazed for 1 Round."
+    desc: "3 (1d6) and pass an — Endure Save or knocked Prone and be Dazed for 1 Round."
 abilities:
   - name: Stench
     desc: Non-Catoblepas Beings that have to breathe are Sickened (Hinder on all Checks) while Near it.
