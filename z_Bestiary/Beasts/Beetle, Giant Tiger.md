@@ -10,7 +10,7 @@ hp: 13
 speed: "50'"
 zone: Frontline
 morale: 9
-appearing: (2d6)
+appearing: "6 (2d6)"
 armor: "3 [as Plate]"
 actions:
   - name: "Bite [Melee Attack]"
@@ -50,7 +50,7 @@ hp: 13
 speed: "50'"
 zone: Frontline
 morale: 9
-appearing: (2d6)
+appearing: "6 (2d6)"
 armor: "3 [as Plate]"
 actions:
   - name: "Bite [Melee Attack]"

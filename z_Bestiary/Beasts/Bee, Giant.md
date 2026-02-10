@@ -10,7 +10,7 @@ hp: 1
 speed: "10' (Fly 50')"
 zone: Midline
 morale: 9
-appearing: 2d6
+appearing: "6 (2d6)"
 armor: "0 [as Unarmored]"
 columns: 2
 forceColumns: true
@@ -40,7 +40,7 @@ hp: 1
 speed: "10' (Fly 50')"
 zone: Midline
 morale: 9
-appearing: 2d6
+appearing: "6 (2d6)"
 armor: "0 [as Unarmored]"
 columns: 2
 forceColumns: true

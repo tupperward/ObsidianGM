@@ -10,7 +10,7 @@ hp: 27
 speed: "25'"
 zone: Midline
 morale: 12
-appearing: 2d4
+appearing: "4 (2d4)"
 senses: Darksight
 armor: "3 [as Plate]"
 immune: Poison; Physical from non-Relics
@@ -67,7 +67,7 @@ hp: 27
 speed: "25'"
 zone: Midline
 morale: 12
-appearing: 2d4
+appearing: "4 (2d4)"
 senses: Darksight
 armor: "3 [as Plate]"
 immune: Poison; Physical from non-Relics

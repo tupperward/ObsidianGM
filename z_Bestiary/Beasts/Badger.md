@@ -10,7 +10,7 @@ hp: 1
 speed: "25'"
 zone: Frontline
 morale: 4
-appearing: 1d4+1
+appearing: "2 (1d4+1)"
 armor: "0 [as Unarmored]"
 status_immunities: Sickened
 columns: 2
@@ -44,7 +44,7 @@ hp: 1
 speed: "25'"
 zone: Frontline
 morale: 4
-appearing: 1d4+1
+appearing: "2 (1d4+1)"
 armor: "0 [as Unarmored]"
 status_immunities: Sickened
 columns: 2

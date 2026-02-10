@@ -10,7 +10,7 @@ hp: 54
 speed: "10' (Climb, Cling)"
 zone: Frontline
 morale: 2
-appearing: 1d3
+appearing: "1 (1d3)"
 senses: Darksight
 armor: "3 [as Plate]"
 immune: "Cold, Shock"
@@ -48,7 +48,7 @@ hp: 54
 speed: "10' (Climb, Cling)"
 zone: Frontline
 morale: 2
-appearing: 1d3
+appearing: "1 (1d3)"
 senses: Darksight
 armor: "3 [as Plate]"
 immune: "Cold, Shock"

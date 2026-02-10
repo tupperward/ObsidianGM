@@ -10,7 +10,7 @@ hp: 12
 speed: "10'"
 zone: Frontline
 morale: 9
-appearing: 1d2
+appearing: "1 (1d2)"
 armor: "3 [as Plate]"
 immune: Fire
 weak: Cold
@@ -60,7 +60,7 @@ hp: 12
 speed: "10'"
 zone: Frontline
 morale: 9
-appearing: 1d2
+appearing: "1 (1d2)"
 armor: "3 [as Plate]"
 immune: Fire
 weak: Cold

@@ -10,7 +10,7 @@ hp: 27
 speed: "20'"
 zone: Midline
 morale: 8
-appearing: 1d4
+appearing: "2 (1d4)"
 senses: Darksight
 armor: "3 — (+1) Chain"
 columns: 2
@@ -43,7 +43,7 @@ hp: 27
 speed: "20'"
 zone: Midline
 morale: 8
-appearing: 1d4
+appearing: "2 (1d4)"
 senses: Darksight
 armor: "3 — (+1) Chain"
 columns: 2

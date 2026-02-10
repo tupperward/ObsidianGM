@@ -10,7 +10,7 @@ hp: 13
 speed: "30' (Swim)"
 zone: Midline
 morale: 8
-appearing: 2d12
+appearing: "12 (2d12)"
 senses: Darksight
 armor: "2 [as Chain]"
 immune: Poison
@@ -63,7 +63,7 @@ hp: 13
 speed: "30' (Swim)"
 zone: Midline
 morale: 8
-appearing: 2d12
+appearing: "12 (2d12)"
 senses: Darksight
 armor: "2 [as Chain]"
 immune: Poison

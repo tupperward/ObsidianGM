@@ -10,7 +10,7 @@ hp: 4
 speed: "30'"
 zone: Midline
 morale: 12
-appearing: 1d6
+appearing: "3 (1d6)"
 armor: "1 [as Leather]"
 immune: "Pierce, Poison, Slash"
 weak: Blunt; Silvered Weapons
@@ -56,7 +56,7 @@ hp: 4
 speed: "30'"
 zone: Midline
 morale: 12
-appearing: 1d6
+appearing: "3 (1d6)"
 armor: "1 [as Leather]"
 immune: "Pierce, Poison, Slash"
 weak: Blunt; Silvered Weapons

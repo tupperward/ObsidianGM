@@ -10,7 +10,7 @@ hp: 18
 speed: "40' (Phase)"
 zone: Midline
 morale: 6
-appearing: 1d6
+appearing: "3 (1d6)"
 armor: "2 [as Chain]"
 weak: Cold Iron Weapons
 actions:
@@ -52,7 +52,7 @@ hp: 18
 speed: "40' (Phase)"
 zone: Midline
 morale: 6
-appearing: 1d6
+appearing: "3 (1d6)"
 armor: "2 [as Chain]"
 weak: Cold Iron Weapons
 actions:

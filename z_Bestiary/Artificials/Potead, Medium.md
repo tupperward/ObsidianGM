@@ -10,7 +10,7 @@ hp: 22
 speed: "15'"
 zone: Frontline
 morale: 7
-appearing: 2d6
+appearing: "6 (2d6)"
 armor: "2 [as Chain]"
 immune: "Fire, Poison"
 status_immunities: "Fatigued, Sickened, Suffocating"
@@ -54,7 +54,7 @@ hp: 22
 speed: "15'"
 zone: Frontline
 morale: 7
-appearing: 2d6
+appearing: "6 (2d6)"
 armor: "2 [as Chain]"
 immune: "Fire, Poison"
 status_immunities: "Fatigued, Sickened, Suffocating"

@@ -10,7 +10,7 @@ hp: 36
 speed: "40'"
 zone: Frontline
 morale: 9
-appearing: 1d4
+appearing: "2 (1d4)"
 armor: "3 — (+1) Chain"
 columns: 2
 forceColumns: true
@@ -41,7 +41,7 @@ hp: 36
 speed: "40'"
 zone: Frontline
 morale: 9
-appearing: 1d4
+appearing: "2 (1d4)"
 armor: "3 — (+1) Chain"
 columns: 2
 forceColumns: true

@@ -10,7 +10,7 @@ hp: 40
 speed: "40'"
 zone: Frontline
 morale: 8
-appearing: 1d20
+appearing: "10 (1d20)"
 armor: "2 [as Chain]"
 actions:
   - name: "Trample [Melee Attack (Recharge Cd4)]"
@@ -53,7 +53,7 @@ hp: 40
 speed: "40'"
 zone: Frontline
 morale: 8
-appearing: 1d20
+appearing: "10 (1d20)"
 armor: "2 [as Chain]"
 actions:
   - name: "Trample [Melee Attack (Recharge Cd4)]"

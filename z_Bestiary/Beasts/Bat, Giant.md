@@ -10,7 +10,7 @@ hp: 4
 speed: "10' (Fly 60')"
 zone: Midline
 morale: 8
-appearing: 2d6
+appearing: "6 (2d6)"
 senses: Echolocation
 armor: "0 [as Unarmored]"
 actions:
@@ -52,7 +52,7 @@ hp: 4
 speed: "10' (Fly 60')"
 zone: Midline
 morale: 8
-appearing: 2d6
+appearing: "6 (2d6)"
 senses: Echolocation
 armor: "0 [as Unarmored]"
 actions:

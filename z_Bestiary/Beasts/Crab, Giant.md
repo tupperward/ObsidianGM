@@ -10,7 +10,7 @@ hp: 13
 speed: "20'"
 zone: Frontline
 morale: 12
-appearing: 1d6
+appearing: "3 (1d6)"
 armor: "3 [as Plate]"
 actions:
   - name: Combo
@@ -56,7 +56,7 @@ hp: 13
 speed: "20'"
 zone: Frontline
 morale: 12
-appearing: 1d6
+appearing: "3 (1d6)"
 armor: "3 [as Plate]"
 actions:
   - name: Combo

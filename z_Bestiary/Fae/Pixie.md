@@ -10,7 +10,7 @@ hp: 1
 speed: "30' (Fly 60')"
 zone: Backline
 morale: 7
-appearing: 2d4
+appearing: "4 (2d4)"
 senses: Telepathy (Near)
 armor: "3 [as Plate]"
 weak: Cold Iron Weapons
@@ -57,7 +57,7 @@ hp: 1
 speed: "30' (Fly 60')"
 zone: Backline
 morale: 7
-appearing: 2d4
+appearing: "4 (2d4)"
 senses: Telepathy (Near)
 armor: "3 [as Plate]"
 weak: Cold Iron Weapons

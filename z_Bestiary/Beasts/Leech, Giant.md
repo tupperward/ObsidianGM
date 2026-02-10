@@ -10,7 +10,7 @@ hp: 4
 speed: "10' (Swim 20')"
 zone: Frontline
 morale: 7
-appearing: 3d6
+appearing: "9 (3d6)"
 armor: "0 [as Unarmored]"
 actions:
   - name: "Drain [Melee Attack, Restrained Being]"
@@ -56,7 +56,7 @@ hp: 4
 speed: "10' (Swim 20')"
 zone: Frontline
 morale: 7
-appearing: 3d6
+appearing: "9 (3d6)"
 armor: "0 [as Unarmored]"
 actions:
   - name: "Drain [Melee Attack, Restrained Being]"

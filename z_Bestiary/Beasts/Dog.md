@@ -8,7 +8,7 @@ type: Beast
 speed: "30'/40'"
 zone: Frontline
 morale: 3
-appearing: 2d6
+appearing: "6 (2d6)"
 armor: "0 [as Unarmored]"
 actions:
   - name: "Bite [Melee Attack]"
@@ -46,7 +46,7 @@ type: Beast
 speed: "30'/40'"
 zone: Frontline
 morale: 3
-appearing: 2d6
+appearing: "6 (2d6)"
 armor: "0 [as Unarmored]"
 actions:
   - name: "Bite [Melee Attack]"

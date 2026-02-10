@@ -10,7 +10,7 @@ hp: 40
 speed: "10' (Fly 30')"
 zone: Frontline
 morale: 9
-appearing: 1d2
+appearing: "1 (1d2)"
 armor: "3 — (+1) Chain"
 columns: 2
 forceColumns: true
@@ -45,7 +45,7 @@ hp: 40
 speed: "10' (Fly 30')"
 zone: Frontline
 morale: 9
-appearing: 1d2
+appearing: "1 (1d2)"
 armor: "3 — (+1) Chain"
 columns: 2
 forceColumns: true

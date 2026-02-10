@@ -10,7 +10,7 @@ hp: 4
 speed: "0' (Swim 30')"
 zone: Frontline
 morale: 3
-appearing: 2d6
+appearing: "6 (2d6)"
 armor: "0 [as Unarmored]"
 actions:
   - name: "Shock [Attack, Aura Close | Endure]"
@@ -53,7 +53,7 @@ hp: 4
 speed: "0' (Swim 30')"
 zone: Frontline
 morale: 3
-appearing: 2d6
+appearing: "6 (2d6)"
 armor: "0 [as Unarmored]"
 actions:
   - name: "Shock [Attack, Aura Close | Endure]"

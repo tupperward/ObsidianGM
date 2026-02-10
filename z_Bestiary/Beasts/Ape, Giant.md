@@ -10,7 +10,7 @@ hp: 18
 speed: "40' (Climb)"
 zone: Frontline
 morale: 7
-appearing: 1d4
+appearing: "2 (1d4)"
 armor: "2 — (+1) Leather"
 columns: 2
 forceColumns: true
@@ -41,7 +41,7 @@ hp: 18
 speed: "40' (Climb)"
 zone: Frontline
 morale: 7
-appearing: 1d4
+appearing: "2 (1d4)"
 armor: "2 — (+1) Leather"
 columns: 2
 forceColumns: true

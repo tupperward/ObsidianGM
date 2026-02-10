@@ -10,7 +10,7 @@ hp: 13
 speed: "30' (Climb)"
 zone: Frontline
 morale: 10
-appearing: 1d4
+appearing: "2 (1d4)"
 armor: "2 [as Chain]"
 immune: "Fire, Poison"
 weak: Acid
@@ -66,7 +66,7 @@ hp: 13
 speed: "30' (Climb)"
 zone: Frontline
 morale: 10
-appearing: 1d4
+appearing: "2 (1d4)"
 armor: "2 [as Chain]"
 immune: "Fire, Poison"
 weak: Acid

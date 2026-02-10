@@ -10,7 +10,7 @@ hp: 27
 speed: "35' (Climb, Cling)"
 zone: Backline
 morale: 8
-appearing: 1d3
+appearing: "1 (1d3)"
 senses: Darksight
 armor: "1 [as Leather]"
 actions:
@@ -58,7 +58,7 @@ hp: 27
 speed: "35' (Climb, Cling)"
 zone: Backline
 morale: 8
-appearing: 1d3
+appearing: "1 (1d3)"
 senses: Darksight
 armor: "1 [as Leather]"
 actions:

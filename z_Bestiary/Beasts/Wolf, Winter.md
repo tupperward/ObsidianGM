@@ -10,7 +10,7 @@ hp: 27
 speed: "50'"
 zone: Frontline
 morale: 9
-appearing: 1d4
+appearing: "2 (1d4)"
 armor: "2 — (+1) Leather"
 immune: Cold
 weak: Fire
@@ -60,7 +60,7 @@ hp: 27
 speed: "50'"
 zone: Frontline
 morale: 9
-appearing: 1d4
+appearing: "2 (1d4)"
 armor: "2 — (+1) Leather"
 immune: Cold
 weak: Fire

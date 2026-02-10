@@ -10,7 +10,7 @@ hp: 1
 speed: "0' (Fly 50')"
 zone: Frontline
 morale: "-"
-appearing: 1d4
+appearing: "2 (1d4)"
 senses: Blindsight
 armor: "3 [as Plate]"
 immune: Poison
@@ -59,7 +59,7 @@ hp: 1
 speed: "0' (Fly 50')"
 zone: Frontline
 morale: "-"
-appearing: 1d4
+appearing: "2 (1d4)"
 senses: Blindsight
 armor: "3 [as Plate]"
 immune: Poison

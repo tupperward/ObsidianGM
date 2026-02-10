@@ -10,7 +10,7 @@ hp: 36
 speed: "0' (Swim 60')"
 zone: Frontline
 morale: 7
-appearing: 3d4
+appearing: "6 (3d4)"
 armor: "2 [as Chain]"
 actions:
   - name: "Bite [Melee Attack]"
@@ -53,7 +53,7 @@ hp: 36
 speed: "0' (Swim 60')"
 zone: Frontline
 morale: 7
-appearing: 3d4
+appearing: "6 (3d4)"
 armor: "2 [as Chain]"
 actions:
   - name: "Bite [Melee Attack]"

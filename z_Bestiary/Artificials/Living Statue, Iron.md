@@ -10,7 +10,7 @@ hp: 18
 speed: "10'"
 zone: Frontline
 morale: 11
-appearing: 1d4
+appearing: "2 (1d4)"
 armor: "3 [as Plate]"
 immune: Poison
 status_immunities: "Blinded, Fatigued, Suffocating, Unconscious"
@@ -57,7 +57,7 @@ hp: 18
 speed: "10'"
 zone: Frontline
 morale: 11
-appearing: 1d4
+appearing: "2 (1d4)"
 armor: "3 [as Plate]"
 immune: Poison
 status_immunities: "Blinded, Fatigued, Suffocating, Unconscious"

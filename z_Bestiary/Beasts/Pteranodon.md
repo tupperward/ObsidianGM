@@ -10,7 +10,7 @@ hp: 4
 speed: "10' (Fly 60')"
 zone: Midline
 morale: 5
-appearing: 1d12
+appearing: "6 (1d12)"
 armor: "1 [as Leather]"
 columns: 2
 forceColumns: true
@@ -40,7 +40,7 @@ hp: 4
 speed: "10' (Fly 60')"
 zone: Midline
 morale: 5
-appearing: 1d12
+appearing: "6 (1d12)"
 armor: "1 [as Leather]"
 columns: 2
 forceColumns: true

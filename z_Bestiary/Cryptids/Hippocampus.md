@@ -10,7 +10,7 @@ hp: 18
 speed: "30' (Fly, Swim)"
 zone: Frontline
 morale: 8
-appearing: 2d4
+appearing: "4 (2d4)"
 armor: "1 [as Leather]"
 weak: Shock
 columns: 2
@@ -43,7 +43,7 @@ hp: 18
 speed: "30' (Fly, Swim)"
 zone: Frontline
 morale: 8
-appearing: 2d4
+appearing: "4 (2d4)"
 armor: "1 [as Leather]"
 weak: Shock
 columns: 2

@@ -10,7 +10,7 @@ hp: 40
 speed: 0
 zone: Front
 morale: "-"
-appearing: 2d10
+appearing: "10 (2d10)"
 armor: "2 [as Bark]"
 immune: "Acid, Cold, Poison"
 weak: "Fire, damage from axes"
@@ -44,7 +44,7 @@ hp: 40
 speed: 0
 zone: Front
 morale: "-"
-appearing: 2d10
+appearing: "10 (2d10)"
 armor: "2 [as Bark]"
 immune: "Acid, Cold, Poison"
 weak: "Fire, damage from axes"

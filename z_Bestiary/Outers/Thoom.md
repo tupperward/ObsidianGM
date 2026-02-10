@@ -10,7 +10,7 @@ hp: 9
 speed: "25' (Swim)"
 zone: Backline
 morale: 4
-appearing: 1d4
+appearing: "2 (1d4)"
 senses: Darksight
 armor: "1 [as Leather]"
 actions:
@@ -58,7 +58,7 @@ hp: 9
 speed: "25' (Swim)"
 zone: Backline
 morale: 4
-appearing: 1d4
+appearing: "2 (1d4)"
 senses: Darksight
 armor: "1 [as Leather]"
 actions:

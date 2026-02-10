@@ -10,7 +10,7 @@ hp: 18
 speed: "20'"
 zone: Frontline
 morale: 10
-appearing: 1d4
+appearing: "2 (1d4)"
 senses: "Seismicsense 60ft"
 armor: "3 [as Plate]"
 immune: Poison
@@ -59,7 +59,7 @@ hp: 18
 speed: "20'"
 zone: Frontline
 morale: 10
-appearing: 1d4
+appearing: "2 (1d4)"
 senses: "Seismicsense 60ft"
 armor: "3 [as Plate]"
 immune: Poison

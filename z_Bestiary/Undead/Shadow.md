@@ -10,7 +10,7 @@ hp: 9
 speed: "30' (Phase)"
 zone: Frontline
 morale: 12
-appearing: 2d6
+appearing: "6 (2d6)"
 senses: Darksight
 armor: "1 [as Leather]"
 immune: Poison; Physical from non-Relics
@@ -61,7 +61,7 @@ hp: 9
 speed: "30' (Phase)"
 zone: Frontline
 morale: 12
-appearing: 2d6
+appearing: "6 (2d6)"
 senses: Darksight
 armor: "1 [as Leather]"
 immune: Poison; Physical from non-Relics

@@ -10,7 +10,7 @@ hp: 2
 speed: "10' (Fly 30')"
 zone: Midline
 morale: 7
-appearing: 1d6
+appearing: "3 (1d6)"
 senses: "Darksight, Telepathy (Near)"
 armor: "1 [as Leather]"
 weak: Shock
@@ -57,7 +57,7 @@ hp: 2
 speed: "10' (Fly 30')"
 zone: Midline
 morale: 7
-appearing: 1d6
+appearing: "3 (1d6)"
 senses: "Darksight, Telepathy (Near)"
 armor: "1 [as Leather]"
 weak: Shock

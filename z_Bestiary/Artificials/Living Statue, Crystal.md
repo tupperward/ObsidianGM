@@ -10,7 +10,7 @@ hp: 13
 speed: "30'"
 zone: Frontline
 morale: 11
-appearing: 1d4
+appearing: "2 (1d4)"
 armor: "3 — (+1) Chain"
 immune: Poison
 weak: Blunt
@@ -56,7 +56,7 @@ hp: 13
 speed: "30'"
 zone: Frontline
 morale: 11
-appearing: 1d4
+appearing: "2 (1d4)"
 armor: "3 — (+1) Chain"
 immune: Poison
 weak: Blunt

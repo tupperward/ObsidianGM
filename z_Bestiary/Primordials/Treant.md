@@ -10,7 +10,7 @@ hp: 36
 speed: "20'"
 zone: Frontline
 morale: 9
-appearing: 1d8
+appearing: "4 (1d8)"
 armor: "4 — (+1) Plate"
 weak: "Fire, Poison; Damage from axes"
 columns: 2
@@ -44,7 +44,7 @@ hp: 36
 speed: "20'"
 zone: Frontline
 morale: 9
-appearing: 1d8
+appearing: "4 (1d8)"
 armor: "4 — (+1) Plate"
 weak: "Fire, Poison; Damage from axes"
 columns: 2

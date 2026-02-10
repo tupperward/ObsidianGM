@@ -10,7 +10,7 @@ hp: 9
 speed: "30'"
 zone: Frontline
 morale: "-"
-appearing: 1d4
+appearing: "2 (1d4)"
 armor: "3 [as Plate]"
 immune: Poison
 status_immunities: "Blinded, Charmed, Fatigued, Frightened, Paralyzed, Sickened, Suffocating"
@@ -59,7 +59,7 @@ hp: 9
 speed: "30'"
 zone: Frontline
 morale: "-"
-appearing: 1d4
+appearing: "2 (1d4)"
 armor: "3 [as Plate]"
 immune: Poison
 status_immunities: "Blinded, Charmed, Fatigued, Frightened, Paralyzed, Sickened, Suffocating"

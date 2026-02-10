@@ -10,7 +10,7 @@ hp: 63
 speed: "20' (Fly 80')"
 zone: Frontline
 morale: 11
-appearing: 1d4
+appearing: "2 (1d4)"
 senses: Echolocation
 armor: "4 — (+1) Plate"
 immune: Poison; Physical from non-Relics
@@ -65,7 +65,7 @@ hp: 63
 speed: "20' (Fly 80')"
 zone: Frontline
 morale: 11
-appearing: 1d4
+appearing: "2 (1d4)"
 senses: Echolocation
 armor: "4 — (+1) Plate"
 immune: Poison; Physical from non-Relics

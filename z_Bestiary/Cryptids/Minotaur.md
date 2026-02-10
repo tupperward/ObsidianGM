@@ -10,7 +10,7 @@ hp: 27
 speed: "40'"
 zone: Frontline
 morale: 12
-appearing: 1d6
+appearing: "3 (1d6)"
 senses: Allsight (only in labyrinth)
 armor: "2 [as Chain]"
 columns: 2
@@ -44,7 +44,7 @@ hp: 27
 speed: "40'"
 zone: Frontline
 morale: 12
-appearing: 1d6
+appearing: "3 (1d6)"
 senses: Allsight (only in labyrinth)
 armor: "2 [as Chain]"
 columns: 2

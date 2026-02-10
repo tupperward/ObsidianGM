@@ -10,7 +10,7 @@ hp: 9
 speed: "40'"
 zone: Frontline
 morale: 9
-appearing: 3d6
+appearing: "9 (3d6)"
 senses: Darksight
 armor: "2 [as Chain]"
 immune: Poison
@@ -68,7 +68,7 @@ hp: 9
 speed: "40'"
 zone: Frontline
 morale: 9
-appearing: 3d6
+appearing: "9 (3d6)"
 senses: Darksight
 armor: "2 [as Chain]"
 immune: Poison

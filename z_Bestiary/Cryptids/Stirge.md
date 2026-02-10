@@ -10,7 +10,7 @@ hp: 1
 speed: "5' (Fly 40')"
 zone: Frontline
 morale: 4
-appearing: 3d6
+appearing: "9 (3d6)"
 armor: "1 [as Leather]"
 actions:
   - name: "Beak [Melee Attack]"
@@ -59,7 +59,7 @@ hp: 1
 speed: "5' (Fly 40')"
 zone: Frontline
 morale: 4
-appearing: 3d6
+appearing: "9 (3d6)"
 armor: "1 [as Leather]"
 actions:
   - name: "Beak [Melee Attack]"

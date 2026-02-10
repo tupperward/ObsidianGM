@@ -10,7 +10,7 @@ hp: 13
 speed: "30'"
 zone: Frontline
 morale: 9
-appearing: 1d6
+appearing: "3 (1d6)"
 senses: Darksight
 armor: "1 [as Leather]"
 actions:
@@ -52,7 +52,7 @@ hp: 13
 speed: "30'"
 zone: Frontline
 morale: 9
-appearing: 1d6
+appearing: "3 (1d6)"
 senses: Darksight
 armor: "1 [as Leather]"
 actions:

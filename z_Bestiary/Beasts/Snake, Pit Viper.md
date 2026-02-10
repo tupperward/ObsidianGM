@@ -10,7 +10,7 @@ hp: 9
 speed: "20'"
 zone: Midline
 morale: 7
-appearing: 1d6
+appearing: "3 (1d6)"
 armor: "1 [as Leather]"
 columns: 2
 forceColumns: true
@@ -40,7 +40,7 @@ hp: 9
 speed: "20'"
 zone: Midline
 morale: 7
-appearing: 1d6
+appearing: "3 (1d6)"
 armor: "1 [as Leather]"
 columns: 2
 forceColumns: true

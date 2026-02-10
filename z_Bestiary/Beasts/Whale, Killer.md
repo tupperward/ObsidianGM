@@ -10,7 +10,7 @@ hp: 27
 speed: "0' (Swim 80')"
 zone: Frontline
 morale: 7
-appearing: 1d6
+appearing: "3 (1d6)"
 senses: Echolocation
 armor: "1 [as Leather]"
 actions:
@@ -52,7 +52,7 @@ hp: 27
 speed: "0' (Swim 80')"
 zone: Frontline
 morale: 7
-appearing: 1d6
+appearing: "3 (1d6)"
 senses: Echolocation
 armor: "1 [as Leather]"
 actions:

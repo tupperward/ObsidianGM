@@ -10,7 +10,7 @@ hp: 67
 speed: "20'"
 zone: Frontline
 morale: 10
-appearing: 1d2
+appearing: "1 (1d2)"
 senses: "Blindsight, Seismicsense 60ft"
 armor: "3 — (+1) Chain"
 actions:
@@ -58,7 +58,7 @@ hp: 67
 speed: "20'"
 zone: Frontline
 morale: 10
-appearing: 1d2
+appearing: "1 (1d2)"
 senses: "Blindsight, Seismicsense 60ft"
 armor: "3 — (+1) Chain"
 actions:

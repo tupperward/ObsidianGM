@@ -10,7 +10,7 @@ hp: 36
 speed: "30'"
 zone: Frontline
 morale: "-"
-appearing: 1d2
+appearing: "1 (1d2)"
 senses: Blindsight
 armor: "2 [as Chain]"
 immune: Poison; Physical from non-Relics
@@ -67,7 +67,7 @@ hp: 36
 speed: "30'"
 zone: Frontline
 morale: "-"
-appearing: 1d2
+appearing: "1 (1d2)"
 senses: Blindsight
 armor: "2 [as Chain]"
 immune: Poison; Physical from non-Relics

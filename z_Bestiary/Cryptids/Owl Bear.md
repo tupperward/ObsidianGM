@@ -10,7 +10,7 @@ hp: 22
 speed: "40' (Climb)"
 zone: Frontline
 morale: 10
-appearing: 2d4
+appearing: "4 (2d4)"
 senses: Darksight
 armor: "2 [as Chain]"
 columns: 2
@@ -44,7 +44,7 @@ hp: 22
 speed: "40' (Climb)"
 zone: Frontline
 morale: 10
-appearing: 2d4
+appearing: "4 (2d4)"
 senses: Darksight
 armor: "2 [as Chain]"
 columns: 2

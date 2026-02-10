@@ -10,7 +10,7 @@ hp: 18
 speed: "40'"
 zone: Midline
 morale: 8
-appearing: 1d4
+appearing: "2 (1d4)"
 senses: Darksight
 armor: "3 — (+1) Chain"
 immune: "Fire, Poison"
@@ -46,7 +46,7 @@ hp: 18
 speed: "40'"
 zone: Midline
 morale: 8
-appearing: 1d4
+appearing: "2 (1d4)"
 senses: Darksight
 armor: "3 — (+1) Chain"
 immune: "Fire, Poison"

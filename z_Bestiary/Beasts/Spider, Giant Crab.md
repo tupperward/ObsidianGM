@@ -10,7 +10,7 @@ hp: 9
 speed: "40' (Cling)"
 zone: Frontline
 morale: 7
-appearing: 1d4
+appearing: "2 (1d4)"
 senses: Darksight
 armor: "1 [as Leather]"
 columns: 2
@@ -42,7 +42,7 @@ hp: 9
 speed: "40' (Cling)"
 zone: Frontline
 morale: 7
-appearing: 1d4
+appearing: "2 (1d4)"
 senses: Darksight
 armor: "1 [as Leather]"
 columns: 2

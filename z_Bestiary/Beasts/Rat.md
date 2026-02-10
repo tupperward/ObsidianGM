@@ -10,7 +10,7 @@ hp: 1
 speed: "30'"
 zone: Midline
 morale: 3
-appearing: 3d6
+appearing: "9 (3d6)"
 senses: Darksight
 armor: "0 [as Unarmored]"
 actions:
@@ -55,7 +55,7 @@ hp: 1
 speed: "30'"
 zone: Midline
 morale: 3
-appearing: 3d6
+appearing: "9 (3d6)"
 senses: Darksight
 armor: "0 [as Unarmored]"
 actions:

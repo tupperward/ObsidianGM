@@ -10,7 +10,7 @@ hp: 18
 speed: "30'"
 zone: Backline
 morale: 8
-appearing: 1d4
+appearing: "2 (1d4)"
 armor: "0 [as Unarmored]"
 weak: Fire
 actions:
@@ -55,7 +55,7 @@ hp: 18
 speed: "30'"
 zone: Backline
 morale: 8
-appearing: 1d4
+appearing: "2 (1d4)"
 armor: "0 [as Unarmored]"
 weak: Fire
 actions:

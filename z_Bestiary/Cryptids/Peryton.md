@@ -10,7 +10,7 @@ hp: 18
 speed: "40' (Fly 60')"
 zone: Frontline
 morale: 9
-appearing: 2d4
+appearing: "4 (2d4)"
 armor: "2 — (+1) Leather"
 immune: Physical from non-Relics
 actions:
@@ -52,7 +52,7 @@ hp: 18
 speed: "40' (Fly 60')"
 zone: Frontline
 morale: 9
-appearing: 2d4
+appearing: "4 (2d4)"
 armor: "2 — (+1) Leather"
 immune: Physical from non-Relics
 actions:

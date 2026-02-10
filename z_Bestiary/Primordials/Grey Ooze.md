@@ -10,7 +10,7 @@ hp: 13
 speed: "5'"
 zone: Frontline
 morale: 12
-appearing: 1d3
+appearing: "1 (1d3)"
 senses: Blindsight
 armor: "0 [as Unarmored]"
 immune: "Acid, Cold, Fire"
@@ -61,7 +61,7 @@ hp: 13
 speed: "5'"
 zone: Frontline
 morale: 12
-appearing: 1d3
+appearing: "1 (1d3)"
 senses: Blindsight
 armor: "0 [as Unarmored]"
 immune: "Acid, Cold, Fire"

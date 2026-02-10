@@ -10,7 +10,7 @@ hp: 9
 speed: "60'"
 zone: Frontline
 morale: 7
-appearing: 2d6+2
+appearing: "7 (2d6+2)"
 armor: "3 — (+1) Chain"
 columns: 2
 forceColumns: true
@@ -40,7 +40,7 @@ hp: 9
 speed: "60'"
 zone: Frontline
 morale: 7
-appearing: 2d6+2
+appearing: "7 (2d6+2)"
 armor: "3 — (+1) Chain"
 columns: 2
 forceColumns: true

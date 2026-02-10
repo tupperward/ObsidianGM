@@ -10,7 +10,7 @@ hp: 22
 speed: "30' (Phase)"
 zone: Frontline
 morale: 12
-appearing: 2d6
+appearing: "6 (2d6)"
 senses: Darksight
 armor: "3 [as Plate]"
 immune: Physical
@@ -64,7 +64,7 @@ hp: 22
 speed: "30' (Phase)"
 zone: Frontline
 morale: 12
-appearing: 2d6
+appearing: "6 (2d6)"
 senses: Darksight
 armor: "3 [as Plate]"
 immune: Physical

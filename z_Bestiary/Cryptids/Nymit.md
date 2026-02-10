@@ -10,7 +10,7 @@ hp: 9
 speed: "30'"
 zone: Frontline
 morale: 3
-appearing: 1d6
+appearing: "3 (1d6)"
 armor: "2 [as Chain]"
 weak: Blunt
 actions:
@@ -52,7 +52,7 @@ hp: 9
 speed: "30'"
 zone: Frontline
 morale: 3
-appearing: 1d6
+appearing: "3 (1d6)"
 armor: "2 [as Chain]"
 weak: Blunt
 actions:

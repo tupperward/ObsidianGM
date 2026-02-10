@@ -10,7 +10,7 @@ hp: 27
 speed: "0' (Fly 30')"
 zone: Frontline
 morale: 7
-appearing: 1d4
+appearing: "2 (1d4)"
 senses: Darksight
 armor: "2 [as Chain]"
 actions:
@@ -58,7 +58,7 @@ hp: 27
 speed: "0' (Fly 30')"
 zone: Frontline
 morale: 7
-appearing: 1d4
+appearing: "2 (1d4)"
 senses: Darksight
 armor: "2 [as Chain]"
 actions:

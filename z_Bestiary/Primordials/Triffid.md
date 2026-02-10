@@ -10,7 +10,7 @@ hp: 9
 speed: "10'"
 zone: Midline
 morale: 4
-appearing: 2d6
+appearing: "6 (2d6)"
 senses: Echolocation
 armor: "1 [as Leather]"
 weak: "Fire, Poison"
@@ -54,7 +54,7 @@ hp: 9
 speed: "10'"
 zone: Midline
 morale: 4
-appearing: 2d6
+appearing: "6 (2d6)"
 senses: Echolocation
 armor: "1 [as Leather]"
 weak: "Fire, Poison"

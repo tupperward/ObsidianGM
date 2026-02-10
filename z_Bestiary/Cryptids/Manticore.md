@@ -10,7 +10,7 @@ hp: 27
 speed: "30' (Fly 50')"
 zone: Midline
 morale: 9
-appearing: 1d4
+appearing: "2 (1d4)"
 senses: Darksight
 armor: "2 — (+1) Leather"
 columns: 2
@@ -46,7 +46,7 @@ hp: 27
 speed: "30' (Fly 50')"
 zone: Midline
 morale: 9
-appearing: 1d4
+appearing: "2 (1d4)"
 senses: Darksight
 armor: "2 — (+1) Leather"
 columns: 2

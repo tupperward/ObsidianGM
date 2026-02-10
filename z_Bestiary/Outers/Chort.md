@@ -10,7 +10,7 @@ hp: 31
 speed: "30'"
 zone: Frontline
 morale: 11
-appearing: 1d4
+appearing: "2 (1d4)"
 senses: "Allsight, Blindsight"
 armor: "3 — (+1) Chain"
 immune: "Fire, Poison; Physical from non-Relics"
@@ -59,7 +59,7 @@ hp: 31
 speed: "30'"
 zone: Frontline
 morale: 11
-appearing: 1d4
+appearing: "2 (1d4)"
 senses: "Allsight, Blindsight"
 armor: "3 — (+1) Chain"
 immune: "Fire, Poison; Physical from non-Relics"

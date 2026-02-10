@@ -10,7 +10,7 @@ hp: 18
 speed: "40' (70' with Glide)"
 zone: Frontline
 morale: 7
-appearing: 1d8
+appearing: "4 (1d8)"
 senses: Darksight
 armor: "2 [as Chain]"
 columns: 2
@@ -42,7 +42,7 @@ hp: 18
 speed: "40' (70' with Glide)"
 zone: Frontline
 morale: 7
-appearing: 1d8
+appearing: "4 (1d8)"
 senses: Darksight
 armor: "2 [as Chain]"
 columns: 2

@@ -10,7 +10,7 @@ hp: 27
 speed: "30' (Swim 40')"
 zone: Frontline
 morale: 9
-appearing: 1d3
+appearing: "1 (1d3)"
 armor: "2 [as Chain]"
 weak: Shock
 columns: 2
@@ -44,7 +44,7 @@ hp: 27
 speed: "30' (Swim 40')"
 zone: Frontline
 morale: 9
-appearing: 1d3
+appearing: "1 (1d3)"
 armor: "2 [as Chain]"
 weak: Shock
 columns: 2

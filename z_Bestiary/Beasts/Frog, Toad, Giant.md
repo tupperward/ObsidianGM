@@ -10,7 +10,7 @@ hp: 9
 speed: "20' (Climb, Cling, Swim)"
 zone: Midline
 morale: 6
-appearing: 1d6
+appearing: "3 (1d6)"
 armor: "0 [as Unarmored]"
 actions:
   - name: Combo
@@ -56,7 +56,7 @@ hp: 9
 speed: "20' (Climb, Cling, Swim)"
 zone: Midline
 morale: 6
-appearing: 1d6
+appearing: "3 (1d6)"
 armor: "0 [as Unarmored]"
 actions:
   - name: Combo

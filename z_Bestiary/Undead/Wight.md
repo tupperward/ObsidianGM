@@ -10,7 +10,7 @@ hp: 18
 speed: "25'"
 zone: Frontline
 morale: 12
-appearing: 2d8
+appearing: "8 (2d8)"
 senses: Darksight
 armor: "2 [as Chain]"
 immune: Poison; Physical from non-Relics
@@ -61,7 +61,7 @@ hp: 18
 speed: "25'"
 zone: Frontline
 morale: 12
-appearing: 2d8
+appearing: "8 (2d8)"
 senses: Darksight
 armor: "2 [as Chain]"
 immune: Poison; Physical from non-Relics

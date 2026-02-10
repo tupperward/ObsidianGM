@@ -10,7 +10,7 @@ hp: 9
 speed: "10'"
 zone: Frontline
 morale: 12
-appearing: 1d6
+appearing: "3 (1d6)"
 senses: Blindsight
 armor: "1 [as Leather]"
 immune: Poison
@@ -48,7 +48,7 @@ hp: 9
 speed: "10'"
 zone: Frontline
 morale: 12
-appearing: 1d6
+appearing: "3 (1d6)"
 senses: Blindsight
 armor: "1 [as Leather]"
 immune: Poison

@@ -10,7 +10,7 @@ hp: 18
 speed: "35'"
 zone: Frontline
 morale: 9
-appearing: 2d4
+appearing: "4 (2d4)"
 armor: "2 [as Chain]"
 weak: Cold Iron Weapons
 actions:
@@ -64,7 +64,7 @@ hp: 18
 speed: "35'"
 zone: Frontline
 morale: 9
-appearing: 2d4
+appearing: "4 (2d4)"
 armor: "2 [as Chain]"
 weak: Cold Iron Weapons
 actions:

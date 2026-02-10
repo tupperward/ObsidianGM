@@ -10,7 +10,7 @@ hp: 27
 speed: "10' (Swim 40'.)"
 zone: FrontlineMorale
 morale: 11
-appearing: 1d4
+appearing: "2 (1d4)"
 armor: "2 [as Chain]"
 weak: "Poison, Shock"
 actions:
@@ -64,7 +64,7 @@ hp: 27
 speed: "10' (Swim 40'.)"
 zone: FrontlineMorale
 morale: 11
-appearing: 1d4
+appearing: "2 (1d4)"
 armor: "2 [as Chain]"
 weak: "Poison, Shock"
 actions:

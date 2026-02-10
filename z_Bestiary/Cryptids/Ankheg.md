@@ -10,7 +10,7 @@ hp: 22
 speed: "40'"
 zone: Frontline
 morale: 5
-appearing: 1d6
+appearing: "3 (1d6)"
 senses: "Darksight, Seismicsense"
 armor: "3 [as Chain plus Shield]"
 actions:
@@ -58,7 +58,7 @@ hp: 22
 speed: "40'"
 zone: Frontline
 morale: 5
-appearing: 1d6
+appearing: "3 (1d6)"
 senses: "Darksight, Seismicsense"
 armor: "3 [as Chain plus Shield]"
 actions:

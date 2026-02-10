@@ -10,7 +10,7 @@ hp: 40
 speed: "20' (Swim)"
 zone: Frontline
 morale: 12
-appearing: 1d4
+appearing: "2 (1d4)"
 senses: Blindsight
 armor: "3 [as Plate]"
 immune: "Cold, Fire"
@@ -60,7 +60,7 @@ hp: 40
 speed: "20' (Swim)"
 zone: Frontline
 morale: 12
-appearing: 1d4
+appearing: "2 (1d4)"
 senses: Blindsight
 armor: "3 [as Plate]"
 immune: "Cold, Fire"

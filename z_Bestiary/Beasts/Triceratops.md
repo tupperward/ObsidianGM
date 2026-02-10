@@ -10,7 +10,7 @@ hp: 49
 speed: "30'"
 zone: Frontline
 morale: 8
-appearing: 1d4
+appearing: "2 (1d4)"
 armor: "3 [as Chain plus Shield]"
 actions:
   - name: "Horn [Melee Attack]"
@@ -53,7 +53,7 @@ hp: 49
 speed: "30'"
 zone: Frontline
 morale: 8
-appearing: 1d4
+appearing: "2 (1d4)"
 armor: "3 [as Chain plus Shield]"
 actions:
   - name: "Horn [Melee Attack]"

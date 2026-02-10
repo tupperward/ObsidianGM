@@ -10,7 +10,7 @@ hp: 9
 speed: "20'"
 zone: Frontline
 morale: 12
-appearing: 3d8
+appearing: "12 (3d8)"
 senses: Darksight
 armor: "0 [as Unarmored]"
 immune: Poison
@@ -61,7 +61,7 @@ hp: 9
 speed: "20'"
 zone: Frontline
 morale: 12
-appearing: 3d8
+appearing: "12 (3d8)"
 senses: Darksight
 armor: "0 [as Unarmored]"
 immune: Poison

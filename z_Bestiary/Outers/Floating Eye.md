@@ -10,7 +10,7 @@ hp: 1
 speed: "0' (Fly 30')"
 zone: Backline
 morale: 7
-appearing: 2d6
+appearing: "6 (2d6)"
 senses: "Darksight, Telepathy"
 armor: "0 [as Unarmored]"
 weak: "Acid, Pierce"
@@ -65,7 +65,7 @@ hp: 1
 speed: "0' (Fly 30')"
 zone: Backline
 morale: 7
-appearing: 2d6
+appearing: "6 (2d6)"
 senses: "Darksight, Telepathy"
 armor: "0 [as Unarmored]"
 weak: "Acid, Pierce"

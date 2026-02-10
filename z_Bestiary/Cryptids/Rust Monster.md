@@ -10,7 +10,7 @@ hp: 22
 speed: "15'"
 zone: Frontline
 morale: 7
-appearing: 1d2
+appearing: "1 (1d2)"
 senses: Darksight
 armor: "4 [as Plate plus Shield]"
 actions:
@@ -55,7 +55,7 @@ hp: 22
 speed: "15'"
 zone: Frontline
 morale: 7
-appearing: 1d2
+appearing: "1 (1d2)"
 senses: Darksight
 armor: "4 [as Plate plus Shield]"
 actions:

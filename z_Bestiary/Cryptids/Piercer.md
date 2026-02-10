@@ -10,7 +10,7 @@ hp: 13
 speed: "5' (Cling)"
 zone: Frontline
 morale: 12
-appearing: 3d6
+appearing: "9 (3d6)"
 senses: Darksight
 armor: "3 [as Plate]"
 actions:
@@ -52,7 +52,7 @@ hp: 13
 speed: "5' (Cling)"
 zone: Frontline
 morale: 12
-appearing: 3d6
+appearing: "9 (3d6)"
 senses: Darksight
 armor: "3 [as Plate]"
 actions:

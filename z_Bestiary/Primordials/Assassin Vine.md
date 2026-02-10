@@ -10,7 +10,7 @@ hp: 18
 speed: "5'"
 zone: Frontline
 morale: 12
-appearing: 1d4
+appearing: "2 (1d4)"
 senses: Blindsight
 armor: "0 [as Unarmored]"
 weak: "Fire, Poison, Slash"
@@ -47,7 +47,7 @@ hp: 18
 speed: "5'"
 zone: Frontline
 morale: 12
-appearing: 1d4
+appearing: "2 (1d4)"
 senses: Blindsight
 armor: "0 [as Unarmored]"
 weak: "Fire, Poison, Slash"

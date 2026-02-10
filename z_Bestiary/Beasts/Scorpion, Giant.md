@@ -10,7 +10,7 @@ hp: 18
 speed: "30' (Climb 10')"
 zone: Frontline
 morale: 11
-appearing: 1d6
+appearing: "3 (1d6)"
 armor: "3 — (+1) Chain"
 columns: 2
 forceColumns: true
@@ -42,7 +42,7 @@ hp: 18
 speed: "30' (Climb 10')"
 zone: Frontline
 morale: 11
-appearing: 1d6
+appearing: "3 (1d6)"
 armor: "3 — (+1) Chain"
 columns: 2
 forceColumns: true

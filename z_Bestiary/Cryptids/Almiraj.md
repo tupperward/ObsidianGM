@@ -10,7 +10,7 @@ hp: 1
 speed: "45'"
 zone: Backline
 morale: 1
-appearing: 2d6
+appearing: "6 (2d6)"
 armor: "1 [as Leather]"
 actions:
   - name: "Gore [Melee Attack]"
@@ -50,7 +50,7 @@ hp: 1
 speed: "45'"
 zone: Backline
 morale: 1
-appearing: 2d6
+appearing: "6 (2d6)"
 armor: "1 [as Leather]"
 actions:
   - name: "Gore [Melee Attack]"

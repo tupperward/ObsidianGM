@@ -10,7 +10,7 @@ hp: 1
 speed: "0' (Fly 30')"
 zone: Backline
 morale: "-"
-appearing: 1d6
+appearing: "3 (1d6)"
 senses: Blindsight
 armor: "0 [as Unarmored]"
 immune: Poison
@@ -64,7 +64,7 @@ hp: 1
 speed: "0' (Fly 30')"
 zone: Backline
 morale: "-"
-appearing: 1d6
+appearing: "3 (1d6)"
 senses: Blindsight
 armor: "0 [as Unarmored]"
 immune: Poison

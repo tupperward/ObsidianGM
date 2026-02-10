@@ -10,7 +10,7 @@ hp: 13
 speed: "10' (Fly 30')"
 zone: Frontline
 morale: 2
-appearing: 2d6
+appearing: "6 (2d6)"
 armor: "1 [as Leather]"
 columns: 2
 forceColumns: true
@@ -42,7 +42,7 @@ hp: 13
 speed: "10' (Fly 30')"
 zone: Frontline
 morale: 2
-appearing: 2d6
+appearing: "6 (2d6)"
 armor: "1 [as Leather]"
 columns: 2
 forceColumns: true

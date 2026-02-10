@@ -10,7 +10,7 @@ hp: 12
 speed: "45'"
 zone: Frontline
 morale: 10
-appearing: 2d6
+appearing: "6 (2d6)"
 armor: "1 [as Leather]"
 actions:
   - name: "Bite [Melee Attack]"
@@ -50,7 +50,7 @@ hp: 12
 speed: "45'"
 zone: Frontline
 morale: 10
-appearing: 2d6
+appearing: "6 (2d6)"
 armor: "1 [as Leather]"
 actions:
   - name: "Bite [Melee Attack]"

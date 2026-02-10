@@ -10,7 +10,7 @@ hp: 4
 speed: "50'"
 zone: Midline
 morale: 3
-appearing: 1d6
+appearing: "3 (1d6)"
 armor: "0 [as Unarmored]"
 columns: 2
 forceColumns: true
@@ -40,7 +40,7 @@ hp: 4
 speed: "50'"
 zone: Midline
 morale: 3
-appearing: 1d6
+appearing: "3 (1d6)"
 armor: "0 [as Unarmored]"
 columns: 2
 forceColumns: true

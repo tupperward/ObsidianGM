@@ -10,7 +10,7 @@ hp: 4
 speed: "0' (Swim 30')"
 zone: Midline
 morale: 10
-appearing: 2d6
+appearing: "6 (2d6)"
 senses: Darksight
 armor: "2 [as Chain]"
 actions:
@@ -58,7 +58,7 @@ hp: 4
 speed: "0' (Swim 30')"
 zone: Midline
 morale: 10
-appearing: 2d6
+appearing: "6 (2d6)"
 senses: Darksight
 armor: "2 [as Chain]"
 actions:

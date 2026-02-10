@@ -10,7 +10,7 @@ hp: 18
 speed: "30'"
 zone: Frontline
 morale: 10
-appearing: 1d6
+appearing: "3 (1d6)"
 armor: "2 [as Chain]"
 weak: Cold Iron Weapons
 status_immunities: "Charmed, Unconscious"
@@ -57,7 +57,7 @@ hp: 18
 speed: "30'"
 zone: Frontline
 morale: 10
-appearing: 1d6
+appearing: "3 (1d6)"
 armor: "2 [as Chain]"
 weak: Cold Iron Weapons
 status_immunities: "Charmed, Unconscious"

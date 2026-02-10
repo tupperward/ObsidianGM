@@ -10,7 +10,7 @@ hp: 1
 speed: "20' (Climb, Cling, Swim)"
 zone: Midline
 morale: 2
-appearing: 2d6
+appearing: "6 (2d6)"
 armor: "0 [as Unarmored]"
 actions:
   - name: "Bite [Melee Attack]"
@@ -50,7 +50,7 @@ hp: 1
 speed: "20' (Climb, Cling, Swim)"
 zone: Midline
 morale: 2
-appearing: 2d6
+appearing: "6 (2d6)"
 armor: "0 [as Unarmored]"
 actions:
   - name: "Bite [Melee Attack]"

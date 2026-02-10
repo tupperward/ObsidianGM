@@ -10,7 +10,7 @@ hp: 9
 speed: "30' ((Swim 60'))"
 zone: Frontline
 morale: 4
-appearing: 1d4
+appearing: "2 (1d4)"
 armor: "0 [as Unarmored]"
 weak: Cold Iron Weapons
 actions:
@@ -55,7 +55,7 @@ hp: 9
 speed: "30' ((Swim 60'))"
 zone: Frontline
 morale: 4
-appearing: 1d4
+appearing: "2 (1d4)"
 armor: "0 [as Unarmored]"
 weak: Cold Iron Weapons
 actions:

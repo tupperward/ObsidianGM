@@ -10,7 +10,7 @@ hp: 22
 speed: "40' (Climb)"
 zone: Frontline
 morale: 8
-appearing: 1d4+1
+appearing: "2 (1d4+1)"
 armor: "1 [as Leather]"
 actions:
   - name: Combo
@@ -56,7 +56,7 @@ hp: 22
 speed: "40' (Climb)"
 zone: Frontline
 morale: 8
-appearing: 1d4+1
+appearing: "2 (1d4+1)"
 armor: "1 [as Leather]"
 actions:
   - name: Combo

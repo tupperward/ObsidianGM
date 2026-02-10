@@ -10,7 +10,7 @@ hp: 13
 speed: "30' (Swim)"
 zone: Midline
 morale: 4
-appearing: 1d4
+appearing: "2 (1d4)"
 armor: "2 — (+1) Leather"
 weak: Shock; Cold Iron Weapons
 actions:
@@ -61,7 +61,7 @@ hp: 13
 speed: "30' (Swim)"
 zone: Midline
 morale: 4
-appearing: 1d4
+appearing: "2 (1d4)"
 armor: "2 — (+1) Leather"
 weak: Shock; Cold Iron Weapons
 actions:

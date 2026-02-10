@@ -10,7 +10,7 @@ hp: 1
 speed: "40' (Fly)"
 zone: Midline
 morale: 4
-appearing: 2d6
+appearing: "6 (2d6)"
 senses: Darksight
 armor: "1 [as Leather]"
 immune: "Fire, Poison"
@@ -64,7 +64,7 @@ hp: 1
 speed: "40' (Fly)"
 zone: Midline
 morale: 4
-appearing: 2d6
+appearing: "6 (2d6)"
 senses: Darksight
 armor: "1 [as Leather]"
 immune: "Fire, Poison"

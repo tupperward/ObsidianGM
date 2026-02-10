@@ -10,7 +10,7 @@ hp: 4
 speed: "35'"
 zone: Midline
 morale: 4
-appearing: 2d6
+appearing: "6 (2d6)"
 senses: Darksight
 armor: "1 [as Leather]"
 actions:
@@ -67,7 +67,7 @@ hp: 4
 speed: "35'"
 zone: Midline
 morale: 4
-appearing: 2d6
+appearing: "6 (2d6)"
 senses: Darksight
 armor: "1 [as Leather]"
 actions:

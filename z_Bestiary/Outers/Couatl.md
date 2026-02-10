@@ -10,7 +10,7 @@ hp: 40
 speed: "20' (Fly 60')"
 zone: Backline
 morale: 9
-appearing: 1d4
+appearing: "2 (1d4)"
 senses: "Allsight, Telepathy 120ft"
 armor: "3 — (+1) Chain"
 status_immunities: "Berserk, Blindness, Confused, Fatigued, Frightened, Paralyzed, Sickened, Suffocating"
@@ -46,7 +46,7 @@ hp: 40
 speed: "20' (Fly 60')"
 zone: Backline
 morale: 9
-appearing: 1d4
+appearing: "2 (1d4)"
 senses: "Allsight, Telepathy 120ft"
 armor: "3 — (+1) Chain"
 status_immunities: "Berserk, Blindness, Confused, Fatigued, Frightened, Paralyzed, Sickened, Suffocating"

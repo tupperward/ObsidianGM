@@ -10,7 +10,7 @@ hp: 36
 speed: "35' (Fly 30')"
 zone: Midline
 morale: 12
-appearing: 1d4
+appearing: "2 (1d4)"
 senses: "Darksight, Telepathy"
 armor: "4 — (+1) Plate"
 immune: "Cold, Poison; Physical from non-Relics"
@@ -76,7 +76,7 @@ hp: 36
 speed: "35' (Fly 30')"
 zone: Midline
 morale: 12
-appearing: 1d4
+appearing: "2 (1d4)"
 senses: "Darksight, Telepathy"
 armor: "4 — (+1) Plate"
 immune: "Cold, Poison; Physical from non-Relics"

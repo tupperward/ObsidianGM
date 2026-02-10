@@ -10,7 +10,7 @@ hp: 22
 speed: "20'"
 zone: Frontline
 morale: 11
-appearing: 1d4
+appearing: "2 (1d4)"
 armor: "3 — (+1) Chain"
 immune: "Fire, Poison"
 weak: "Blunt, Cold"
@@ -59,7 +59,7 @@ hp: 22
 speed: "20'"
 zone: Frontline
 morale: 11
-appearing: 1d4
+appearing: "2 (1d4)"
 armor: "3 — (+1) Chain"
 immune: "Fire, Poison"
 weak: "Blunt, Cold"

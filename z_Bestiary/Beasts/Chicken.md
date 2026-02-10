@@ -10,7 +10,7 @@ hp: 1
 speed: "30'"
 zone: Frontline
 morale: 2
-appearing: 3d8
+appearing: "12 (3d8)"
 armor: "0 [as Unarmored]"
 actions:
   - name: "Beak [Melee Attack]"
@@ -50,7 +50,7 @@ hp: 1
 speed: "30'"
 zone: Frontline
 morale: 2
-appearing: 3d8
+appearing: "12 (3d8)"
 armor: "0 [as Unarmored]"
 actions:
   - name: "Beak [Melee Attack]"

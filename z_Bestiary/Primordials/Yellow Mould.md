@@ -10,7 +10,7 @@ hp: 9
 speed: "0'"
 zone: "-"
 morale: 12
-appearing: 1d4
+appearing: "2 (1d4)"
 senses: "Blindsight, Telepathy (fungus only)"
 armor: "0 [as Unarmored]"
 immune: "Acid, Cold, Shock, Poison, Physical"
@@ -54,7 +54,7 @@ hp: 9
 speed: "0'"
 zone: "-"
 morale: 12
-appearing: 1d4
+appearing: "2 (1d4)"
 senses: "Blindsight, Telepathy (fungus only)"
 armor: "0 [as Unarmored]"
 immune: "Acid, Cold, Shock, Poison, Physical"

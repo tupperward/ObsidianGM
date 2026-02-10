@@ -10,7 +10,7 @@ hp: 9
 speed: "5'"
 zone: Frontline
 morale: 8
-appearing: 1d6
+appearing: "3 (1d6)"
 armor: "1 [as Leather]"
 weak: "Fire, Poison, Slash"
 actions:
@@ -58,7 +58,7 @@ hp: 9
 speed: "5'"
 zone: Frontline
 morale: 8
-appearing: 1d6
+appearing: "3 (1d6)"
 armor: "1 [as Leather]"
 weak: "Fire, Poison, Slash"
 actions:

@@ -10,7 +10,7 @@ hp: 1
 speed: "40' (Climb)"
 zone: Midline
 morale: 2
-appearing: 2d6
+appearing: "6 (2d6)"
 senses: Darksight
 armor: "0 [as Unarmored]"
 actions:
@@ -52,7 +52,7 @@ hp: 1
 speed: "40' (Climb)"
 zone: Midline
 morale: 2
-appearing: 2d6
+appearing: "6 (2d6)"
 senses: Darksight
 armor: "0 [as Unarmored]"
 actions:

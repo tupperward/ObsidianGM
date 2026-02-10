@@ -10,7 +10,7 @@ hp: 36
 speed: "40'"
 zone: Frontline
 morale: 12
-appearing: 1d4
+appearing: "2 (1d4)"
 senses: Blindsight
 armor: "3 [as Plate]"
 immune: Poison
@@ -56,7 +56,7 @@ hp: 36
 speed: "40'"
 zone: Frontline
 morale: 12
-appearing: 1d4
+appearing: "2 (1d4)"
 senses: Blindsight
 armor: "3 [as Plate]"
 immune: Poison

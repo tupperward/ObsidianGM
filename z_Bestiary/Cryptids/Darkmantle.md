@@ -10,7 +10,7 @@ hp: 4
 speed: "5' (Fly 30')"
 zone: Frontline
 morale: 8
-appearing: 1d4
+appearing: "2 (1d4)"
 senses: Echolocation
 armor: "0 [as Unarmored]"
 columns: 2
@@ -43,7 +43,7 @@ hp: 4
 speed: "5' (Fly 30')"
 zone: Frontline
 morale: 8
-appearing: 1d4
+appearing: "2 (1d4)"
 senses: Echolocation
 armor: "0 [as Unarmored]"
 columns: 2

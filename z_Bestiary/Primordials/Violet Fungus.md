@@ -10,7 +10,7 @@ hp: 13
 speed: "5'"
 zone: Frontline
 morale: 12
-appearing: 1d4
+appearing: "2 (1d4)"
 senses: "Blindsight, Telepathy (Far, mushrooms only)"
 armor: "1 [as Leather]"
 immune: Poison
@@ -49,7 +49,7 @@ hp: 13
 speed: "5'"
 zone: Frontline
 morale: 12
-appearing: 1d4
+appearing: "2 (1d4)"
 senses: "Blindsight, Telepathy (Far, mushrooms only)"
 armor: "1 [as Leather]"
 immune: Poison

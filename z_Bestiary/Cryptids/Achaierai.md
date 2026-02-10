@@ -10,7 +10,7 @@ hp: 18
 speed: "30'"
 zone: Frontline
 morale: 5
-appearing: 1d6
+appearing: "3 (1d6)"
 senses: Darksight
 armor: "1 [as Leather]"
 columns: 2
@@ -45,7 +45,7 @@ hp: 18
 speed: "30'"
 zone: Frontline
 morale: 5
-appearing: 1d6
+appearing: "3 (1d6)"
 senses: Darksight
 armor: "1 [as Leather]"
 columns: 2

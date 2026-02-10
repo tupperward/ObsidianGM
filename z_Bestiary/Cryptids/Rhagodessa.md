@@ -10,7 +10,7 @@ hp: 20
 speed: "50' (Cling)"
 zone: Frontline
 morale: 9
-appearing: 1d6
+appearing: "3 (1d6)"
 senses: Darksight
 armor: "2 [as Chain]"
 columns: 2
@@ -44,7 +44,7 @@ hp: 20
 speed: "50' (Cling)"
 zone: Frontline
 morale: 9
-appearing: 1d6
+appearing: "3 (1d6)"
 senses: Darksight
 armor: "2 [as Chain]"
 columns: 2

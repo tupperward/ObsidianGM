@@ -10,7 +10,7 @@ hp: 40
 speed: "40'"
 zone: Frontline
 morale: 7
-appearing: 1d2
+appearing: "1 (1d2)"
 senses: Seismicsense (Far)
 armor: "4 — (+1) Plate"
 actions:
@@ -58,7 +58,7 @@ hp: 40
 speed: "40'"
 zone: Frontline
 morale: 7
-appearing: 1d2
+appearing: "1 (1d2)"
 senses: Seismicsense (Far)
 armor: "4 — (+1) Plate"
 actions:

@@ -10,7 +10,7 @@ hp: 58
 speed: "40'"
 zone: Frontline
 morale: 4
-appearing: 1d4
+appearing: "2 (1d4)"
 armor: "3 [as Plate]"
 actions:
   - name: Combo
@@ -56,7 +56,7 @@ hp: 58
 speed: "40'"
 zone: Frontline
 morale: 4
-appearing: 1d4
+appearing: "2 (1d4)"
 armor: "3 [as Plate]"
 actions:
   - name: Combo

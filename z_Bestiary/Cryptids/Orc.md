@@ -10,7 +10,7 @@ hp: 8
 speed: "40'"
 zone: Frontline
 morale: 8
-appearing: 2d4
+appearing: "4 (2d4)"
 senses: Darksight
 armor: "1 [as Leather]"
 actions:
@@ -52,7 +52,7 @@ hp: 8
 speed: "40'"
 zone: Frontline
 morale: 8
-appearing: 2d4
+appearing: "4 (2d4)"
 senses: Darksight
 armor: "1 [as Leather]"
 actions:

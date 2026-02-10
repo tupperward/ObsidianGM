@@ -10,7 +10,7 @@ hp: 1
 speed: "30'"
 zone: Frontline
 morale: 12
-appearing: 1d6
+appearing: "3 (1d6)"
 armor: "1 [as Leather]"
 immune: "Fire, Pierce, Poison, Slash"
 weak: Blunt; Silvered Weapons
@@ -59,7 +59,7 @@ hp: 1
 speed: "30'"
 zone: Frontline
 morale: 12
-appearing: 1d6
+appearing: "3 (1d6)"
 armor: "1 [as Leather]"
 immune: "Fire, Pierce, Poison, Slash"
 weak: Blunt; Silvered Weapons

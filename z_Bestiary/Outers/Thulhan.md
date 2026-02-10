@@ -10,7 +10,7 @@ hp: 36
 speed: "30'"
 zone: Frontline
 morale: 10
-appearing: 1d4
+appearing: "2 (1d4)"
 senses: "Darksight, Telepathy"
 armor: "3 — (+1) Chain"
 immune: Magic
@@ -68,7 +68,7 @@ hp: 36
 speed: "30'"
 zone: Frontline
 morale: 10
-appearing: 1d4
+appearing: "2 (1d4)"
 senses: "Darksight, Telepathy"
 armor: "3 — (+1) Chain"
 immune: Magic

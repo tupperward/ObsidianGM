@@ -10,7 +10,7 @@ hp: 157
 speed: "30'"
 zone: Frontline
 morale: 9
-appearing: 1d12
+appearing: "6 (1d12)"
 armor: "4 — (+3) Leather"
 columns: 2
 forceColumns: true
@@ -41,7 +41,7 @@ hp: 157
 speed: "30'"
 zone: Frontline
 morale: 9
-appearing: 1d12
+appearing: "6 (1d12)"
 armor: "4 — (+3) Leather"
 columns: 2
 forceColumns: true

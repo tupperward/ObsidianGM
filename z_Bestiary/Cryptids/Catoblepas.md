@@ -10,7 +10,7 @@ hp: 24
 speed: "20'"
 zone: Frontline
 morale: 8
-appearing: 1d3
+appearing: "1 (1d3)"
 armor: "1 [as Leather]"
 actions:
   - name: Combo
@@ -56,7 +56,7 @@ hp: 24
 speed: "20'"
 zone: Frontline
 morale: 8
-appearing: 1d3
+appearing: "1 (1d3)"
 armor: "1 [as Leather]"
 actions:
   - name: Combo

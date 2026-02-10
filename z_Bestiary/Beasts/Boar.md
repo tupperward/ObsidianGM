@@ -10,7 +10,7 @@ hp: 13
 speed: "50'"
 zone: Frontline
 morale: 9
-appearing: 1d6
+appearing: "3 (1d6)"
 armor: "1 [as Leather]"
 actions:
   - name: "Tusk [Melee Attack]"
@@ -50,7 +50,7 @@ hp: 13
 speed: "50'"
 zone: Frontline
 morale: 9
-appearing: 1d6
+appearing: "3 (1d6)"
 armor: "1 [as Leather]"
 actions:
   - name: "Tusk [Melee Attack]"

@@ -10,7 +10,7 @@ hp: 27
 speed: "40'"
 zone: Frontline
 morale: 9
-appearing: 2d4
+appearing: "4 (2d4)"
 senses: Darksight
 armor: "2 [as Chain]"
 actions:
@@ -61,7 +61,7 @@ hp: 27
 speed: "40'"
 zone: Frontline
 morale: 9
-appearing: 2d4
+appearing: "4 (2d4)"
 senses: Darksight
 armor: "2 [as Chain]"
 actions:

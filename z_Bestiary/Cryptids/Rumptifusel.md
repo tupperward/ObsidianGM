@@ -10,7 +10,7 @@ hp: 13
 speed: "15' (Climb)"
 zone: Frontline
 morale: 3
-appearing: 1d4
+appearing: "2 (1d4)"
 senses: Darksight
 armor: "1 [as Leather]"
 weak: Poison
@@ -60,7 +60,7 @@ hp: 13
 speed: "15' (Climb)"
 zone: Frontline
 morale: 3
-appearing: 1d4
+appearing: "2 (1d4)"
 senses: Darksight
 armor: "1 [as Leather]"
 weak: Poison

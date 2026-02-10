@@ -10,7 +10,7 @@ hp: 31
 speed: "40'"
 zone: Frontline
 morale: 10
-appearing: 1d4
+appearing: "2 (1d4)"
 armor: "2 [as Chain]"
 weak: "Acid, Fire"
 actions:
@@ -61,7 +61,7 @@ hp: 31
 speed: "40'"
 zone: Frontline
 morale: 10
-appearing: 1d4
+appearing: "2 (1d4)"
 armor: "2 [as Chain]"
 weak: "Acid, Fire"
 actions:

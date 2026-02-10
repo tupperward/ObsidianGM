@@ -10,7 +10,7 @@ hp: 13
 speed: "5' (Fly 30')"
 zone: Midline
 morale: 7
-appearing: 1d6
+appearing: "3 (1d6)"
 senses: Darksight
 armor: "1 [as Leather]"
 immune: Fire
@@ -45,7 +45,7 @@ hp: 13
 speed: "5' (Fly 30')"
 zone: Midline
 morale: 7
-appearing: 1d6
+appearing: "3 (1d6)"
 senses: Darksight
 armor: "1 [as Leather]"
 immune: Fire

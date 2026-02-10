@@ -10,7 +10,7 @@ hp: 22
 speed: "25' (Swim)"
 zone: Frontline
 morale: 8
-appearing: 1d6
+appearing: "3 (1d6)"
 armor: "2 [as Chain]"
 actions:
   - name: Combo
@@ -53,7 +53,7 @@ hp: 22
 speed: "25' (Swim)"
 zone: Frontline
 morale: 8
-appearing: 1d6
+appearing: "3 (1d6)"
 armor: "2 [as Chain]"
 actions:
   - name: Combo

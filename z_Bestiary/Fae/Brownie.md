@@ -10,7 +10,7 @@ hp: 1
 speed: "40'"
 zone: Backline
 morale: 7
-appearing: 2d6+1
+appearing: "6 (2d6+1)"
 armor: "3 [as Plate]"
 weak: Cold Iron Weapons
 actions:
@@ -61,7 +61,7 @@ hp: 1
 speed: "40'"
 zone: Backline
 morale: 7
-appearing: 2d6+1
+appearing: "6 (2d6+1)"
 armor: "3 [as Plate]"
 weak: Cold Iron Weapons
 actions:

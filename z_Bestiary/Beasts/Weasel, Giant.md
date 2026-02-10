@@ -10,7 +10,7 @@ hp: 12
 speed: "40'"
 zone: Frontline
 morale: 9
-appearing: 1d8
+appearing: "4 (1d8)"
 armor: "1 [as Leather]"
 actions:
   - name: "Drain [Action, a Restrained Being]"
@@ -53,7 +53,7 @@ hp: 12
 speed: "40'"
 zone: Frontline
 morale: 9
-appearing: 1d8
+appearing: "4 (1d8)"
 armor: "1 [as Leather]"
 actions:
   - name: "Drain [Action, a Restrained Being]"

@@ -10,7 +10,7 @@ hp: 2
 speed: "20' (Climb)"
 zone: Frontline
 morale: 7
-appearing: 2d4
+appearing: "4 (2d4)"
 armor: "0 [as Unarmored]"
 columns: 2
 forceColumns: true
@@ -40,7 +40,7 @@ hp: 2
 speed: "20' (Climb)"
 zone: Frontline
 morale: 7
-appearing: 2d4
+appearing: "4 (2d4)"
 armor: "0 [as Unarmored]"
 columns: 2
 forceColumns: true

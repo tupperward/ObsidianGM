@@ -10,7 +10,7 @@ hp: 31
 speed: "30' (Fly 80')"
 zone: Frontline
 morale: 8
-appearing: 1d4
+appearing: "2 (1d4)"
 armor: "2 [as Chain]"
 weak: Shock
 columns: 2
@@ -44,7 +44,7 @@ hp: 31
 speed: "30' (Fly 80')"
 zone: Frontline
 morale: 8
-appearing: 1d4
+appearing: "2 (1d4)"
 armor: "2 [as Chain]"
 weak: Shock
 columns: 2

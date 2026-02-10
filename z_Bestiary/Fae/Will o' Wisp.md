@@ -10,7 +10,7 @@ hp: 27
 speed: "0' (Fly 50', Phase)"
 zone: Backline
 morale: 11
-appearing: 1d6
+appearing: "3 (1d6)"
 senses: Darksight
 armor: "4 — (+1) Plate"
 immune: Physical
@@ -76,7 +76,7 @@ hp: 27
 speed: "0' (Fly 50', Phase)"
 zone: Backline
 morale: 11
-appearing: 1d6
+appearing: "3 (1d6)"
 senses: Darksight
 armor: "4 — (+1) Plate"
 immune: Physical

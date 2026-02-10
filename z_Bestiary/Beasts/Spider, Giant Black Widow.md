@@ -10,7 +10,7 @@ hp: 13
 speed: "40' (Cling)"
 zone: Frontline
 morale: 8
-appearing: 1d3
+appearing: "1 (1d3)"
 senses: Darksight
 armor: "1 [as Leather]"
 actions:
@@ -55,7 +55,7 @@ hp: 13
 speed: "40' (Cling)"
 zone: Frontline
 morale: 8
-appearing: 1d3
+appearing: "1 (1d3)"
 senses: Darksight
 armor: "1 [as Leather]"
 actions:

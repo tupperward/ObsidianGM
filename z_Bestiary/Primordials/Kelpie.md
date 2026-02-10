@@ -10,7 +10,7 @@ hp: 22
 speed: "30' (Swim)"
 zone: Backline
 morale: 4
-appearing: 1d4
+appearing: "2 (1d4)"
 armor: "2 [as Chain]"
 weak: Shock
 actions:
@@ -58,7 +58,7 @@ hp: 22
 speed: "30' (Swim)"
 zone: Backline
 morale: 4
-appearing: 1d4
+appearing: "2 (1d4)"
 armor: "2 [as Chain]"
 weak: Shock
 actions:

@@ -10,7 +10,7 @@ hp: 22
 speed: "30' (Climb, Cling)"
 zone: Midline
 morale: 4
-appearing: 1d2
+appearing: "1 (1d2)"
 senses: Darksight
 armor: "2 [as Chain]"
 immune: Poison
@@ -74,7 +74,7 @@ hp: 22
 speed: "30' (Climb, Cling)"
 zone: Midline
 morale: 4
-appearing: 1d2
+appearing: "1 (1d2)"
 senses: Darksight
 armor: "2 [as Chain]"
 immune: Poison

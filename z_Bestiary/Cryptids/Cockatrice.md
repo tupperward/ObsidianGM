@@ -10,7 +10,7 @@ hp: 22
 speed: "30' (Fly 60')"
 zone: Frontline
 morale: 7
-appearing: 1d4
+appearing: "2 (1d4)"
 senses: Darksight
 armor: "1 [as Leather]"
 columns: 2
@@ -42,7 +42,7 @@ hp: 22
 speed: "30' (Fly 60')"
 zone: Frontline
 morale: 7
-appearing: 1d4
+appearing: "2 (1d4)"
 senses: Darksight
 armor: "1 [as Leather]"
 columns: 2

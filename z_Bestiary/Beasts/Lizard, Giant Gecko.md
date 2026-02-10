@@ -10,7 +10,7 @@ hp: 13
 speed: "40' (Climb)"
 zone: Frontline
 morale: 10
-appearing: 2d6
+appearing: "6 (2d6)"
 senses: Darksight
 armor: "1 [as Leather]"
 columns: 2
@@ -42,7 +42,7 @@ hp: 13
 speed: "40' (Climb)"
 zone: Frontline
 morale: 10
-appearing: 2d6
+appearing: "6 (2d6)"
 senses: Darksight
 armor: "1 [as Leather]"
 columns: 2
