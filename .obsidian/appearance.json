@@ -2,5 +2,6 @@
   "enabledCssSnippets": [
     "vagabond-statblocks",
     "vagabond-vault"
-  ]
+  ],
+  "showRibbon": true
 }

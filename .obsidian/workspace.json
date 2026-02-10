@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "48210e086d860740",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GameMastering/Adventures in the Weird West/Overall Map.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Overall Map"
-            }
-          },
-          {
             "id": "67c99af5732372a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Bestiary/Undead/Mummy Lord.md",
+                "file": "z_Bestiary/Beasts/Crayfish, Giant.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mummy Lord"
-            }
-          },
-          {
-            "id": "ee4b82b7aae86ac5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CLAUDE.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CLAUDE"
+              "title": "Crayfish, Giant"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Bestiary/Undead/Mummy Lord.md",
+                "file": "z_Bestiary/Beasts/Crayfish, Giant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Mummy Lord"
+              "title": "Backlinks for Crayfish, Giant"
             }
           },
           {
@@ -185,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Bestiary/Undead/Mummy Lord.md",
+                "file": "z_Bestiary/Beasts/Crayfish, Giant.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Mummy Lord"
+              "title": "Outline of Crayfish, Giant"
             }
           },
           {
@@ -214,12 +185,44 @@
               "title": "Dice Tray"
             }
           }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "5f3f43f3edabc220",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e5a2622bbabb4d7",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
+          }
+        ]
+      },
+      {
+        "id": "e2d3872172f57e67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "912b8b0a5d061600",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {},
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
+            }
+          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,42 +244,43 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ee4b82b7aae86ac5",
+  "active": "67c99af5732372a3",
   "lastOpenFiles": [
-    "GameMastering/Adventures in the Weird West/Example Stuff.md",
-    "z_Bestiary/Artificials/Gargoyle.md",
-    "z_Bestiary/Artificials/Golem, Bone.md",
-    "GameMastering/Adventures in the Weird West/Overall Map.md",
-    "z_Bestiary/Artificials/Golem, Stone.md",
-    "z_Bestiary/Artificials/Flying Sword.md",
-    "z_Bestiary/Artificials/Crawling Wall.md",
-    "z_Bestiary/Artificials/Golem, Clay.md",
-    "z_Bestiary/Artificials/Animated Armor.md",
-    "z_Bestiary/Artificials/Living Statue, Iron.md",
-    "z_Bestiary/Artificials/Living Statue, Rock.md",
-    "z_Bestiary/Artificials/Golem, Iron.md",
-    "z_Bestiary/Artificials/Dungeonheart.md",
-    "z_Bestiary/Artificials/Homunculus.md",
-    "z_Bestiary/Beasts/Badger.md",
-    "z_Bestiary/Beasts/Beetle, Giant Tiger.md",
-    "z_Bestiary/Beasts/Boar, Giant.md",
-    "z_Bestiary/Beasts/Bat, Giant.md",
-    "z_Bestiary/Beasts/Bear.md",
-    "z_Bestiary/Beasts/Beetle, Bombardier.md",
-    "z_Bestiary/Beasts/Beetle, Giant Fire.md",
-    "z_Bestiary/Beasts/Bee, Giant.md",
+    "z_Bestiary/Beasts/Crab, Giant.md",
+    "z_Bestiary/Outers/Chort.md",
+    "z_Bestiary/Outers/Oni.md",
+    "z_Bestiary/Outers/Dethbat.md",
+    "z_Bestiary/Outers/Floating Eye.md",
+    "z_Bestiary/Outers/Cloaker.md",
+    "z_Bestiary/Outers/Agnar.md",
+    "GameMastering/Adventures in the Line/Clues/Modron Repairs.md",
+    "GameMastering/Adventures in the Line/Characters & Groups/Ordo Gravis Dens.md",
+    "GameMastering/Adventures in the Line/Characters & Groups/Gamina Banagher.md",
+    "GameMastering/Adventures in the Line/Locations/Oufoillea.md",
+    "GameMastering/Adventures in the Line/Clues",
+    "GameMastering/Adventures in the Line/Locations/The Clocktower.md",
+    "GameMastering/Adventures in the Line/Locations/The Line.md",
+    "GameMastering/Adventures in the Line/Locations/Banagher Butte.md",
+    "GameMastering/Adventures in the Line/Hooks/Modron Infestation.md",
+    "GameMastering/Adventures in the Line/Adventure Map.md",
+    "GameMastering/Adventures in the Line/Characters & Groups",
+    "GameMastering/Adventures in the Line/Hooks/Da Faintin' Goliath.md",
+    "GameMastering/Adventures in the Line/Encounters",
+    "GameMastering/Adventures in the Line/Hooks/Unpaid Bills.md",
+    "GameMastering/Adventures in the Line/Untitled/Untitled.md",
+    "GameMastering/Adventures in the Line/Locations",
+    "z_Bestiary/Humanlike/Archmage.md",
+    "GameMastering/Adventures in the Line/Hooks",
+    "z_Bestiary/Beasts/Alligator, Crocodile, Giant.md",
     "z_Bestiary/Beasts/Alligator, Crocodile.md",
-    "z_Bestiary/Undead/Lich.md",
     "z_Bestiary/Undead/Mummy Lord.md",
-    "z_Bestiary/Undead/Ghoul.md",
+    "z_Bestiary/Humanlike/Brigand.md",
+    "z_Bestiary/Humanlike/Commander.md",
+    "CLAUDE.md",
     "z_Bestiary/Humanlike",
     "z_Bestiary/Undead",
     "z_Bestiary/Primordials",
     "z_Bestiary/Outers",
-    "z_Bestiary/Fae",
-    "z_Bestiary/Cryptids",
-    "z_Bestiary/Beasts",
-    "z_Bestiary/Artificials",
-    "z_Bestiary"
+    "z_Bestiary/Fae"
   ]
 }
