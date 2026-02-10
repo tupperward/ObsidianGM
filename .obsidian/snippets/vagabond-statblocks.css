@@ -1,0 +1,80 @@
+/* Vagabond TTRPG Statblock Styling */
+
+.obsidian-statblock-plugin.statblock {
+  /* Background and borders */
+  --statblock-background-color: #f4efe6;
+  --statblock-primary-color: #1a1a1a;
+  --statblock-rule-color: #8b0000;
+  --statblock-bar-color: #8b0000;
+  --statblock-bar-border-size: 1px;
+  --statblock-bar-border-color: #5a0000;
+  --statblock-border-size: 2px;
+  --statblock-border-color: #3a3a3a;
+  --statblock-box-shadow-color: rgba(0, 0, 0, 0.3);
+  --statblock-box-shadow-x-offset: 0px;
+  --statblock-box-shadow-y-offset: 2px;
+  --statblock-box-shadow-blur: 6px;
+
+  /* Creature name heading - Eskapade Fraktur */
+  --statblock-heading-font: "Eskapade Fraktur", "UnifrakturMaguntia", serif;
+  --statblock-heading-font-color: #1a1a1a;
+  --statblock-heading-font-size: 1.6em;
+  --statblock-heading-font-weight: 900;
+  --statblock-heading-font-variant: normal;
+  --statblock-heading-line-height: 1.2;
+
+  /* Body/content font */
+  --statblock-content-font: "FONTSPRING DEMO - Paradigm Pro", "Paradigm Pro", "Palatino Linotype", Palatino, Georgia, serif;
+  --statblock-content-font-size: 0.85em;
+  --statblock-font-color: #1a1a1a;
+
+  /* Property labels (HD, Speed, Zone, etc.) */
+  --statblock-property-name-font-family: "FONTSPRING DEMO - Paradigm Pro", "Paradigm Pro", "Palatino Linotype", Palatino, Georgia, serif;
+  --statblock-property-name-font-size: 0.85em;
+  --statblock-property-name-font-weight: 700;
+  --statblock-property-name-font-color: #1a1a1a;
+  --statblock-property-font-color: #1a1a1a;
+  --statblock-property-line-height: 1.5;
+
+  /* Subheading (type line: "Large Beast") */
+  --statblock-subheading-font-size: 0.9em;
+  --statblock-subheading-font-style: italic;
+  --statblock-subheading-font-weight: 400;
+  --statblock-subheading-font-color: #1a1a1a;
+
+  /* Section headings (Actions, Abilities) */
+  --statblock-section-heading-font-family: "Eskapade Fraktur", "UnifrakturMaguntia", serif;
+  --statblock-section-heading-font-size: 1.15em;
+  --statblock-section-heading-font-weight: 900;
+  --statblock-section-heading-font-color: #8b0000;
+  --statblock-section-heading-font-variant: normal;
+  --statblock-section-heading-border-size: 1px;
+  --statblock-section-heading-border-color: #8b0000;
+
+  /* Traits (action/ability name styling) */
+  --statblock-traits-name-font-weight: 700;
+  --statblock-traits-name-font-style: normal;
+  --statblock-traits-gap: 0.3em;
+
+  /* Links */
+  --statblock-link-style: none;
+
+  /* Column width */
+  --statblock-column-width: 400px;
+}
+
+/* Dark theme overrides */
+.theme-dark .obsidian-statblock-plugin.statblock {
+  --statblock-background-color: #2a2520;
+  --statblock-font-color: #d4cfc6;
+  --statblock-heading-font-color: #d4cfc6;
+  --statblock-property-name-font-color: #d4cfc6;
+  --statblock-property-font-color: #c8c3ba;
+  --statblock-section-heading-font-color: #c44040;
+  --statblock-section-heading-border-color: #c44040;
+  --statblock-rule-color: #c44040;
+  --statblock-bar-color: #c44040;
+  --statblock-bar-border-color: #8b2020;
+  --statblock-border-color: #5a5550;
+  --statblock-box-shadow-color: rgba(0, 0, 0, 0.5);
+}

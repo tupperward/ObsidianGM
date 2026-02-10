@@ -1,0 +1,263 @@
+{
+  "monsters": [],
+  "defaultLayouts": {},
+  "layouts": [
+    {
+      "id": "vagabond-layout",
+      "name": "Vagabond",
+      "edited": true,
+      "blocks": [
+        {
+          "type": "inline",
+          "id": "vb-header-row",
+          "properties": [],
+          "hasRule": true,
+          "nested": [
+            {
+              "type": "group",
+              "id": "vb-header-group",
+              "properties": [
+                "name",
+                "size",
+                "type"
+              ],
+              "nested": [
+                {
+                  "type": "inline",
+                  "id": "vb-name-actions",
+                  "properties": [],
+                  "hasRule": false,
+                  "nested": [
+                    {
+                      "type": "heading",
+                      "id": "vb-name",
+                      "properties": [
+                        "name"
+                      ],
+                      "conditioned": true,
+                      "size": 1
+                    },
+                    {
+                      "type": "inline",
+                      "id": "vb-initiative-btns",
+                      "properties": [],
+                      "hasRule": false,
+                      "nested": [
+                        {
+                          "type": "action",
+                          "id": "vb-new-encounter",
+                          "icon": "sword",
+                          "callback": "try { InitiativeTracker.newEncounter({creatures: [monster]}); } catch(e) {}"
+                        },
+                        {
+                          "type": "action",
+                          "id": "vb-add-to-encounter",
+                          "icon": "plus-with-circle",
+                          "callback": "try { InitiativeTracker.addCreatures([monster]); } catch(e) {}"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "subheading",
+                  "id": "vb-type-line",
+                  "properties": [
+                    "size",
+                    "type"
+                  ],
+                  "conditioned": true
+                }
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "image",
+              "id": "vb-image",
+              "properties": [
+                "image"
+              ],
+              "conditioned": true
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "id": "vb-core-stats",
+          "properties": [
+            "hd",
+            "speed",
+            "zone",
+            "morale",
+            "appearing"
+          ],
+          "nested": [
+            {
+              "type": "property",
+              "id": "vb-hd",
+              "properties": [
+                "hd"
+              ],
+              "display": "HD",
+              "conditioned": true,
+              "callback": "let str = [monster.hd]; if (monster.hp != null) { str.push('(' + monster.hp + ' HP)'); } return str.join(' ');"
+            },
+            {
+              "type": "property",
+              "id": "vb-speed",
+              "properties": [
+                "speed"
+              ],
+              "display": "Speed",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "vb-zone",
+              "properties": [
+                "zone"
+              ],
+              "display": "Zone",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "vb-morale",
+              "properties": [
+                "morale"
+              ],
+              "display": "Morale",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "vb-appearing",
+              "properties": [
+                "appearing"
+              ],
+              "display": "# Appearing",
+              "conditioned": true,
+              "dice": true
+            }
+          ],
+          "hasRule": true,
+          "conditioned": true
+        },
+        {
+          "type": "group",
+          "id": "vb-defense-stats",
+          "properties": [
+            "senses",
+            "armor",
+            "immune",
+            "weak",
+            "status_immunities"
+          ],
+          "nested": [
+            {
+              "type": "property",
+              "id": "vb-senses",
+              "properties": [
+                "senses"
+              ],
+              "display": "Senses",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "vb-armor",
+              "properties": [
+                "armor"
+              ],
+              "display": "Armor",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "vb-immune",
+              "properties": [
+                "immune"
+              ],
+              "display": "Immune",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "vb-weak",
+              "properties": [
+                "weak"
+              ],
+              "display": "Weak",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "vb-status-immunities",
+              "properties": [
+                "status_immunities"
+              ],
+              "display": "Status Immunities",
+              "conditioned": true
+            }
+          ],
+          "hasRule": true,
+          "conditioned": true
+        },
+        {
+          "type": "traits",
+          "id": "vb-actions",
+          "properties": [
+            "actions"
+          ],
+          "heading": "Actions",
+          "conditioned": true,
+          "hasRule": true,
+          "markdown": true,
+          "dice": true
+        },
+        {
+          "type": "traits",
+          "id": "vb-abilities",
+          "properties": [
+            "abilities"
+          ],
+          "heading": "Abilities",
+          "conditioned": true,
+          "hasRule": true,
+          "markdown": true
+        }
+      ],
+      "cssProperties": {
+        "ruleColor": "#1c65c4",
+        "primaryColor": "#000000",
+        "backgroundColor": "#ffffff",
+        "borderColor": "#dbc906",
+        "contentFont": " \"Paradigm Pro\",Calibri, Helvetica, Arial, sans-serif",
+        "headingFont": "\"Eskapade Fraktur Black\" ,Georgia, serif",
+        "barColor": "#2041c5"
+      }
+    }
+  ],
+  "default": "vagabond-layout",
+  "useDice": true,
+  "renderDice": true,
+  "export": true,
+  "showAdvanced": false,
+  "version": {
+    "major": 4,
+    "minor": 10,
+    "patch": 3
+  },
+  "paths": [
+    "/"
+  ],
+  "autoParse": false,
+  "disableSRD": true,
+  "tryToRenderLinks": false,
+  "debug": false,
+  "notifiedOfFantasy": false,
+  "hideConditionHelp": false,
+  "alwaysImport": false,
+  "defaultLayoutsIntegrated": true,
+  "atomicWrite": false
+}

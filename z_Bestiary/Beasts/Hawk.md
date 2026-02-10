@@ -1,0 +1,41 @@
+*Small Beast*
+
+**HD**: 1 (1 HP)
+**Speed:** 5' (Fly 30')
+**Zone**: Midline
+**Morale:** 6
+**\# Appearing:** d6
+**Senses**: Darksight
+**Armor**: 0 [as Unarmored]
+
+***ACTIONS***
+---
+Talon [Melee Attack]: 1
+
+***ABILITIES***
+---
+**Nimble:** Attacks against it can't be Favored if it can Move.
+
+```statblock
+layout: Vagabond
+name: Hawk
+size: Small
+type: Beast
+hd: 1
+hp: 1
+speed: "5' (Fly 30')"
+zone: Midline
+morale: 6
+appearing: d6
+senses: Darksight
+armor: "0 [as Unarmored]"
+actions:
+  - name: "Talon [Melee Attack]"
+    desc: 1
+abilities:
+  - name: Nimble
+    desc: "Attacks against it can't be Favored if it can Move."
+columns: 2
+forceColumns: true
+bestiary: true
+```
