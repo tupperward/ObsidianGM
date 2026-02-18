@@ -7,6 +7,7 @@ tl: 2.8
 size: Medium
 type: Humanlike
 hd: 3
+hit_dice: 3d8
 hp: 13
 speed: "25'"
 zone: Frontline

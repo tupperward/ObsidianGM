@@ -7,6 +7,7 @@ tl: 3.5
 size: Medium
 type: Outer (Beyonder)
 hd: 5
+hit_dice: 5d8
 hp: 22
 speed: "30' (Climb, Cling)"
 zone: Midline

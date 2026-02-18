@@ -7,6 +7,7 @@ tl: 12.6
 size: Huge
 type: Outer (Beyonder)
 hd: 24
+hit_dice: 24d8
 hp: 108
 speed: "60' (Fly 160')"
 zone: Frontline

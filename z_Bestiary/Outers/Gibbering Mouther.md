@@ -7,6 +7,7 @@ tl: 4.0
 size: Medium
 type: Outer (Beyonder)
 hd: 4
+hit_dice: 4d8
 hp: 18
 speed: "30' (Climb, Swim)"
 zone: Frontline

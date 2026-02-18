@@ -7,6 +7,7 @@ tl: 3.1
 size: Colossal
 type: Beast
 hd: 6
+hit_dice: 6d8
 hp: 27
 speed: "0' (Swim 80')"
 zone: Frontline

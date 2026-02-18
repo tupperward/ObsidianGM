@@ -7,6 +7,7 @@ tl: 4.2
 size: Large
 type: Beast
 hd: 4
+hit_dice: 4d8
 hp: 18
 speed: "30' (Climb 10')"
 zone: Frontline

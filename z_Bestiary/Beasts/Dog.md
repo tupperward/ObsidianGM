@@ -6,6 +6,8 @@ name: Dog
 tl: 0.2/0.5
 size: "— Small/Medium"
 type: Beast
+hd: 1
+hit_dice: 1d8
 speed: "30'/40'"
 zone: Frontline
 morale: 3

@@ -7,6 +7,7 @@ tl: 8.7
 size: Huge
 type: Cryptid (Wyrm)
 hd: 20
+hit_dice: 20d8
 hp: 90
 speed: "40' (Fly 80')"
 zone: Frontline

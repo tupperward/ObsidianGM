@@ -7,6 +7,7 @@ tl: 2.5
 size: Medium
 type: Outer (Beyonder)
 hd: 3
+hit_dice: 3d8
 hp: 13
 speed: "30' (Swim)"
 zone: Midline

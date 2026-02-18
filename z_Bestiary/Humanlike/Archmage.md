@@ -7,6 +7,7 @@ tl: 7.1
 size: Medium
 type: Humanlike
 hd: 9
+hit_dice: 9d8
 hp: 40
 speed: "30'"
 zone: Backline

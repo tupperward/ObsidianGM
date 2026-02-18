@@ -7,6 +7,7 @@ tl: 3.6
 size: Medium
 type: Fae
 hd: 3
+hit_dice: 3d8
 hp: 13
 speed: "30' (Swim)"
 zone: Midline

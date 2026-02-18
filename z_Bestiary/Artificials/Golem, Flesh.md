@@ -7,6 +7,7 @@ tl: 4.7
 size: Large
 type: Artificial
 hd: 9
+hit_dice: 9d8
 hp: 40
 speed: "20'"
 zone: Frontline

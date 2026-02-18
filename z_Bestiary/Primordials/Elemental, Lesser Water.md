@@ -7,6 +7,7 @@ tl: 3.9
 size: Medium
 type: Primordial
 hd: 8
+hit_dice: 8d8
 hp: 36
 speed: "0' (Swim 30')"
 zone: Midline

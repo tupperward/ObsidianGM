@@ -7,6 +7,7 @@ tl: 4.6
 size: Medium
 type: Undead (Beast)
 hd: 4
+hit_dice: 4d8
 hp: 18
 speed: "40'"
 zone: Frontline

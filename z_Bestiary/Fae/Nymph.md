@@ -7,6 +7,7 @@ tl: 0.3
 size: Medium
 type: Fae
 hd: 2
+hit_dice: 2d8
 hp: 9
 speed: "30' ((Swim 60'))"
 zone: Frontline

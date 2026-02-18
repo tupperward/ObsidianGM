@@ -31,23 +31,26 @@ Roll: `dice: 1d6`
 Roll: `dice: 1d6`
 Determine Random Encounters by rolling a number of d6s equal to 1 + the number of filled Progress Clocks. An Encounter occurs on a roll of 1 on any of the dice.
 
-|  xd6  | Encounter                                    |
-| :---: | -------------------------------------------- |
-|  1-2  | d6 [[Potead, Small]] (p. 122)                |
-|  3-4  | d2 [[Rust Monster]]s (p. 148)                |
-|  5-6  | d4 [[Goblin]] Warriors (p. 141); Goblin Mage |
-|  7-8  | [[Bugbear]] (p. 135); d4 [[Goblin]] Warriors |
-| 9-10  | d4 [[Skeletons]] (p. 179)                    |
-|  11   | [[Ogre]] (p. 145)                            |
-|  12   | [[Grey Ooze]] (p. 173)                       |
-|  13   | d6 [[Floating Eye]] (p. 161)                 |
-| 14-15 | d2 [[Ochre Jellies]] (p. 174)                |
-| 16-17 | [[Owl Bear]] (p. 145)                        |
-|  18+  | See: Confrontation (next page)               |
+|  xd6  | Encounter                                             |
+| :---: | ----------------------------------------------------- |
+|  1-2  | `dice: 1d6` [[Potead, Small]] (p. 122)                |
+|  3-4  | `dice: 1d2` [[Rust Monster]]s (p. 148)                |
+|  5-6  | `dice: 1d4` [[Goblin]] Warriors (p. 141); Goblin Mage |
+|  7-8  | [[Bugbear]] (p. 135); `dice: 1d4` [[Goblin]] Warriors |
+| 9-10  | d4 [[Skeletons]] (p. 179)                             |
+|  11   | [[Ogre]] (p. 145)                                     |
+|  12   | [[Grey Ooze]] (p. 173)                                |
+|  13   | `dice: 1d6` [[Floating Eye]] (p. 161)                 |
+| 14-15 | `dice: 1d2` [[Ochre Jellies]] (p. 174)                |
+| 16-17 | [[Owl Bear]] (p. 145)                                 |
+|  18+  | See: Confrontation (next page)                        |
 ```encounter
 creatures:
   - Goblin
   - Owl Bear
+  - Goblin
+  - Goblin
+  - Goblin
   - 
 ```
 ### Event

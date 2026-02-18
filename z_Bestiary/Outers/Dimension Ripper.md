@@ -7,6 +7,7 @@ tl: 6.3
 size: Large
 type: Outer
 hd: 10
+hit_dice: 10d8
 hp: 45
 speed: "35'"
 zone: Frontline

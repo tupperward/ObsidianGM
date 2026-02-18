@@ -7,6 +7,7 @@ tl: 7.4
 size: Giant
 type: Beast
 hd: 20
+hit_dice: 20d8
 hp: 90
 speed: "0' (Swim 60')"
 zone: Frontline

@@ -7,6 +7,7 @@ tl: 3.8
 size: Medium
 type: Undead
 hd: 10
+hit_dice: 10d8
 hp: 45
 speed: "0' (Fly 40', Phase)"
 zone: Frontline

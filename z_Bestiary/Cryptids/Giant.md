@@ -7,6 +7,7 @@ tl: 3.9
 size: Huge
 type: Cryptid
 hd: 8
+hit_dice: 8d8
 hp: 36
 speed: "40'"
 zone: Frontline

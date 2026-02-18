@@ -7,6 +7,7 @@ tl: 1.6
 size: Large
 type: Beast
 hd: 2
+hit_dice: 2d8
 hp: 9
 speed: "80'"
 zone: Midline

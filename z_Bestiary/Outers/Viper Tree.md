@@ -7,6 +7,7 @@ tl: 3.2
 size: Large
 type: "Outer (Hellspawn, Plant)"
 hd: 9
+hit_dice: 9d8
 hp: 40
 speed: 0
 zone: Front

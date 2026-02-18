@@ -7,6 +7,7 @@ tl: 9.7
 size: Medium
 type: Fae (Shapechanger)
 hd: 8
+hit_dice: 8d8
 hp: 36
 speed: "50' (Cling)"
 zone: Frontline

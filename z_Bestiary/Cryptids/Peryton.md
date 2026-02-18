@@ -7,6 +7,7 @@ tl: 3.2
 size: Medium
 type: Cryptid (Beast)
 hd: 4
+hit_dice: 4d8
 hp: 18
 speed: "40' (Fly 60')"
 zone: Frontline

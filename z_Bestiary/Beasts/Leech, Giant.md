@@ -7,6 +7,7 @@ tl: 1.0
 size: Medium
 type: Beast
 hd: 1
+hit_dice: 1d8
 hp: 4
 speed: "10' (Swim 20')"
 zone: Frontline

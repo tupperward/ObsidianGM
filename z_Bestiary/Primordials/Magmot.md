@@ -7,6 +7,7 @@ tl: 6.4
 size: Large
 type: Primordial
 hd: 3
+hit_dice: 3d8
 hp: 12
 speed: "10'"
 zone: Frontline

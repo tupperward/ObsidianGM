@@ -7,6 +7,7 @@ tl: 1.2
 size: Medium
 type: Cryptid (Wyrm)
 hd: 1
+hit_dice: 1d8
 hp: 4
 speed: "35'"
 zone: Midline

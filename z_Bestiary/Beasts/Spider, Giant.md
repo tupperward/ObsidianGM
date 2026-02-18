@@ -7,6 +7,7 @@ tl: 2.0
 size: Large
 type: Beast
 hd: 6
+hit_dice: 6d8
 hp: 27
 speed: "35' (Climb, Cling)"
 zone: Backline

@@ -7,6 +7,7 @@ tl: 5.5
 size: Large
 type: Primordial (Plant)
 hd: 9
+hit_dice: 9d8
 hp: 40
 speed: "20' (Swim)"
 zone: Frontline

@@ -7,6 +7,7 @@ tl: 4.3
 size: Medium
 type: Outer (Hellspawn)
 hd: 4
+hit_dice: 4d8
 hp: 18
 speed: "40'"
 zone: Midline

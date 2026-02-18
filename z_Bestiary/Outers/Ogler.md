@@ -7,6 +7,7 @@ tl: 11.2
 size: Large
 type: Outer (Beyonder)
 hd: 12
+hit_dice: 12d8
 hp: 54
 speed: "0' (Fly 20')"
 zone: Backline

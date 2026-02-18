@@ -7,6 +7,7 @@ tl: 3.2
 size: Medium
 type: Cryptid
 hd: 6
+hit_dice: 6d8
 hp: 27
 speed: "30'"
 zone: Frontline

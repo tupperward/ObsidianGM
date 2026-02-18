@@ -7,6 +7,7 @@ tl: 1.7
 size: Huge
 type: Artificial
 hd: 10
+hit_dice: 10d8
 hp: 45
 speed: "0'"
 zone: "-"

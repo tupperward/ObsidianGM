@@ -7,6 +7,7 @@ tl: 6.6
 size: Huge
 type: Fae (Wyrm)
 hd: 13
+hit_dice: 13d8
 hp: 58
 speed: "5' (Swim 50')"
 zone: Frontline

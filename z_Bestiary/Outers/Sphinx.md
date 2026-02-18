@@ -7,6 +7,7 @@ tl: 5.7
 size: Large
 type: Outer (Beyonder)
 hd: 12
+hit_dice: 12d8
 hp: 54
 speed: "60' (Fly 120')"
 zone: Frontline

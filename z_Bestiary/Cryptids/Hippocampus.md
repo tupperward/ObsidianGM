@@ -7,6 +7,7 @@ tl: 2.1
 size: Large
 type: Cryptid
 hd: 4
+hit_dice: 4d8
 hp: 18
 speed: "30' (Fly, Swim)"
 zone: Frontline

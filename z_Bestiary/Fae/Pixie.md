@@ -7,6 +7,7 @@ tl: 2.0
 size: Small
 type: Fae
 hd: 1
+hit_dice: 1d8
 hp: 1
 speed: "30' (Fly 60')"
 zone: Backline

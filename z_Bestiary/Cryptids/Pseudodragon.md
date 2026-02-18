@@ -7,6 +7,7 @@ tl: 0.8
 size: Small
 type: Cryptid (Wyrm)
 hd: 2
+hit_dice: 2d8
 hp: 2
 speed: "10' (Fly 30')"
 zone: Midline

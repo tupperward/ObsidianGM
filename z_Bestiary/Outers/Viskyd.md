@@ -7,6 +7,7 @@ tl: 1.2
 size: Small
 type: Outer (Hellspawn)
 hd: 1
+hit_dice: 1d8
 hp: 1
 speed: "10' (Fly 20')"
 zone: Frontline

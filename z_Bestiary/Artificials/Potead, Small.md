@@ -7,6 +7,7 @@ tl: 1.5
 size: Small
 type: Artificial
 hd: 1
+hit_dice: 1d8
 hp: 1
 speed: "15'"
 zone: Frontline

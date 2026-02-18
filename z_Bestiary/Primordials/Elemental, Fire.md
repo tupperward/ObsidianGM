@@ -7,6 +7,7 @@ tl: 5.9
 size: Large
 type: Primordial
 hd: 12
+hit_dice: 12d8
 hp: 54
 speed: "0' (Fly 40')"
 zone: Midline

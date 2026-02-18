@@ -7,6 +7,7 @@ tl: 4.2
 size: Giant
 type: Beast
 hd: 12
+hit_dice: 12d8
 hp: 54
 speed: "10' (Cling)"
 zone: Midline

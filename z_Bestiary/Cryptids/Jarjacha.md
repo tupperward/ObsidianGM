@@ -7,6 +7,7 @@ tl: 0.8
 size: Large
 type: Cryptid
 hd: 3
+hit_dice: 3d8
 hp: 13
 speed: "40'"
 zone: Backline

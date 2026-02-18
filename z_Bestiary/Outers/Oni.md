@@ -7,6 +7,7 @@ tl: 7.9
 size: Large
 type: Outer (Hellspawn)
 hd: 8
+hit_dice: 8d8
 hp: 36
 speed: "30' (Fly)"
 zone: Backline

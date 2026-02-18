@@ -7,6 +7,7 @@ tl: 24.7
 size: Colossal
 type: Cryptid
 hd: 36
+hit_dice: 36d8
 hp: 162
 speed: "120' (Swim)"
 zone: Frontline

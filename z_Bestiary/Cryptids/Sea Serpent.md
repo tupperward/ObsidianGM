@@ -7,6 +7,7 @@ tl: 6.2
 size: Huge
 type: Cryptid (Wyrm)
 hd: 14
+hit_dice: 14d8
 hp: 63
 speed: "0' (Swim 80')"
 zone: Frontline

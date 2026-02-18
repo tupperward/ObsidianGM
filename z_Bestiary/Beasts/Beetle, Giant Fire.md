@@ -7,6 +7,7 @@ tl: 1.7
 size: Small
 type: Beast
 hd: 2
+hit_dice: 2d8
 hp: 2
 speed: "40'"
 zone: Frontline

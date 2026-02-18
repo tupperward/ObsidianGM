@@ -7,6 +7,7 @@ tl: 3.6
 size: Medium
 type: Undead
 hd: 7
+hit_dice: 7d8
 hp: 31
 speed: "0' (Fly 40', Phase)"
 zone: Midline

@@ -7,6 +7,7 @@ tl: 0.7
 size: Small
 type: Artificial
 hd: 1
+hit_dice: 1d8
 hp: 1
 speed: "0' (Fly 30')"
 zone: Backline

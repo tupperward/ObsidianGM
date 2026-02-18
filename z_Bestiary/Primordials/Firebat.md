@@ -7,6 +7,7 @@ tl: 1.0
 size: Small
 type: Primordial
 hd: 1
+hit_dice: 1d8
 hp: 1
 speed: "40' (Fly)"
 zone: Midline

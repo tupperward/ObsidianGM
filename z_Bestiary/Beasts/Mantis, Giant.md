@@ -7,6 +7,7 @@ tl: 4.3
 size: Large
 type: Beast
 hd: 10
+hit_dice: 10d8
 hp: 45
 speed: "20' (Cling, Fly 40')"
 zone: Frontline

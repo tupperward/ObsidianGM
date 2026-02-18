@@ -7,6 +7,7 @@ tl: 9.5
 size: Giant
 type: Cryptid (Wyrm)
 hd: 10
+hit_dice: 10d8
 hp: 45
 speed: "25'"
 zone: Frontline

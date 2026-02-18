@@ -7,6 +7,7 @@ tl: 7.0
 size: Medium
 type: Undead
 hd: 13
+hit_dice: 13d8
 hp: 58
 speed: "30'"
 zone: Backline

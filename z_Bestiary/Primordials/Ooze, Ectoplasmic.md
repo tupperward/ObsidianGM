@@ -7,6 +7,7 @@ tl: 1.7
 size: Medium
 type: "Primordial (Slime, Undead)"
 hd: 5
+hit_dice: 5d8
 hp: 22
 speed: "10' (Cling, Phase)"
 zone: Frontline

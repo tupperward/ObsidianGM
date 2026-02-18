@@ -7,6 +7,7 @@ tl: 0.1
 size: Small
 type: Beast
 hd: 1
+hit_dice: 1d8
 hp: 1
 speed: "20' (Climb, Cling, Swim)"
 zone: Midline

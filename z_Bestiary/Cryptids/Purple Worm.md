@@ -7,6 +7,7 @@ tl: 5.5
 size: Colossal
 type: Cryptid (Wyrm)
 hd: 15
+hit_dice: 15d8
 hp: 67
 speed: "20'"
 zone: Frontline

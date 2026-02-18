@@ -7,6 +7,7 @@ tl: 1.5
 size: Medium
 type: Beast
 hd: 2
+hit_dice: 2d8
 hp: 9
 speed: "40' (Cling)"
 zone: Frontline

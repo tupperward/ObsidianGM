@@ -7,6 +7,7 @@ tl: 2.3
 size: Medium
 type: Fae
 hd: 4
+hit_dice: 4d8
 hp: 18
 speed: "35'"
 zone: Frontline

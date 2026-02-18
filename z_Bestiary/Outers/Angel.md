@@ -7,6 +7,7 @@ tl: 10.5
 size: Huge
 type: Outer (Divine)
 hd: 12
+hit_dice: 12d8
 hp: 54
 speed: "40' (Fly 80')"
 zone: Midline

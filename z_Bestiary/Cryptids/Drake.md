@@ -7,6 +7,7 @@ tl: 3.5
 size: Medium
 type: Cryptid (Wyrm)
 hd: 7
+hit_dice: 7d8
 hp: 31
 speed: "30'"
 zone: Frontline
