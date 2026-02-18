@@ -5,6 +5,8 @@ type: quest
 
 To begin, draw a stairway leading down to the ruins and a 20'-by-20' square room with 3 doors in any direction.
 
+`clock 1 / 6`
+
 ![[Dungeon Map]]
 
 ### Unexplored Areas
@@ -15,6 +17,7 @@ Follow these steps when moving to new areas:
 3. If no Encounter occurs, roll Event.
 
 ### Elements
+Roll: `dice: 1d6`
 
 | d6 | Shape | d6 | Doors |
 |:---:|---|:---:|---|
@@ -25,7 +28,7 @@ Follow these steps when moving to new areas:
 | 5-6 | Rectangle | 6 | Two |
 
 ### Encounters
-
+Roll: `dice: 1d6`
 Determine Random Encounters by rolling a number of d6s equal to 1 + the number of filled Progress Clocks. An Encounter occurs on a roll of 1 on any of the dice.
 
 | xd6 | Encounter |
@@ -43,6 +46,7 @@ Determine Random Encounters by rolling a number of d6s equal to 1 + the number o
 | 18+ | See: Confrontation (next page) |
 
 ### Event
+Roll: `dice: 2d6`
 
 | 2d6 | Event |
 |:---:|---|
@@ -54,6 +58,7 @@ Determine Random Encounters by rolling a number of d6s equal to 1 + the number o
 | 12 | **Dead Peddler!** Same as Sale, but the peddler is dead. Their Wares are on the ground. |
 
 ### Traps
+Roll: `dice: 1d4`
 
 | d4 | Trap |
 |:---:|---|
@@ -63,6 +68,7 @@ Determine Random Encounters by rolling a number of d6s equal to 1 + the number o
 | 4 | **Poison Gas!** Pass [Endure] or become Sickened (Cd4 each Round). |
 
 ### Wares
+Roll: `dice: 2d6`
 
 | 2d6 | Wares |
 |:---:|---|
@@ -72,6 +78,7 @@ Determine Random Encounters by rolling a number of d6s equal to 1 + the number o
 | 12 | 2-11, and: +1 Longsword (1; 100g) |
 
 ### Container
+Roll: `dice: 2d6`
 
 | 2d6 | Contains... |
 |:---:|---|
