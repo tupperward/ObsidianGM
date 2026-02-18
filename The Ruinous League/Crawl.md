@@ -47,6 +47,7 @@ Determine Random Encounters by rolling a number of d6s equal to 1 + the number o
 ```encounter
 creatures:
   - Goblin
+  - 
   - Grove Hag
   - Unicorn
   - Ghoul

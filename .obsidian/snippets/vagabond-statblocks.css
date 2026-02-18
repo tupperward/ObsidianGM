@@ -89,6 +89,18 @@
   margin-right: 0.3em;
 }
 
+/* Force column break before Actions section.
+   During measurement, inflate the first traits-container (actions) so the
+   column algorithm always places Actions at the top of column 2.
+   Only applies in the detached measurement div (.statblock-detached). */
+.statblock-detached .traits-container {
+  padding-bottom: 9999px;
+}
+/* Undo inflation for abilities (and any subsequent traits section) */
+.statblock-detached .traits-container ~ .traits-container {
+  padding-bottom: 0;
+}
+
 /* Dark theme overrides */
 .theme-dark .obsidian-statblock-plugin.statblock {
   --statblock-background-color: #1e1e1e;
