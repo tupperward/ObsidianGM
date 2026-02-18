@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Gladiator
+tl: 1.7
 size: Medium
 type: Humanlike
 hd: 2
@@ -21,13 +22,14 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Humanlike*
+*[[Medium]] Humanlike*
+**TL**: 1.7
 
 **HD**: 2 (9 HP)
 **Speed:** 30'
 **Zone**: Frontline
 **Morale:** 7
-**Armor**: 1 [as Leather]
+**[[Armor]]**: 1 [as Leather]
 
 ***ACTIONS***
 ---
@@ -35,12 +37,13 @@ Weapon [Attack]: 5 (d8+1) or (by Weapon)
 
 ***ABILITIES***
 ---
-**Prowess:** +1 to attack damage it deals (already factored in).
+**[[Prowess]]:** +1 to attack damage it deals (already factored in).
 
 ```statblock
 dice: true
 layout: Vagabond
 name: Gladiator
+tl: 1.7
 size: Medium
 type: Humanlike
 hd: 2

@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: "Shark, Megalodon"
+tl: 7.4
 size: Giant
 type: Beast
 hd: 20
@@ -24,18 +25,19 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Giant Beast*
+*[[Giant]] [[Beast]]*
+**TL**: 7.4
 
 **HD**: 20 (90 HP)
 **Speed:** 0' (Swim 60')
 **Zone**: Frontline
 **Morale:** 11
 **\# Appearing:** 1
-**Armor**: 3 [as (+1) Chain]
+**[[Armor]]**: 3 [as (+1) Chain]
 
 ***ACTIONS***
 ---
-Bite [Melee Attack]: 22 (4d10) and Restrained if smaller
+Bite [[[Melee]] Attack]: 22 (4d10) and [[Restrained]] if smaller
 
 ***ABILITIES***
 ---
@@ -46,6 +48,7 @@ Bite [Melee Attack]: 22 (4d10) and Restrained if smaller
 dice: true
 layout: Vagabond
 name: "Shark, Megalodon"
+tl: 7.4
 size: Giant
 type: Beast
 hd: 20

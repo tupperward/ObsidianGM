@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: "Elemental, Lesser Air"
+tl: 3.9
 size: Medium
 type: Primordial
 hd: 8
@@ -27,7 +28,8 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Primordial*
+*[[Medium]] Primordial*
+**TL**: 3.9
 
 **HD**: 8 (36 HP)
 **Speed:** 0' (Fly 40')
@@ -35,23 +37,24 @@ bestiary: true
 **Morale:** 10
 **\# Appearing:** 1
 **Senses**: Blindsight
-**Armor**: 3 [as Plate]
+**[[Armor]]**: 3 [as Plate]
 **Immune**: Poison, Shock; Physical from non-Relics
-**Status Immunities**: Fatigued, Prone, Restrained, Sickened, Suffocating
+**Status Immunities**: [[Fatigued]], [[Prone]], [[Restrained]], [[Sickened]], [[Suffocating]]
 
 ***ACTIONS***
 ---
-Gust [Ranged Attack]: 4 (d8) plus 4 (d8) if flying
+[[Gust]] [[[Ranged]] Attack]: 4 (d8) plus 4 (d8) if flying
 
 ***ABILITIES***
 ---
-**Living Gale:** Gusts surround it out to Near, Hindering Enemy Ranged Attacks Targeting those within.
+**Living Gale:** Gusts surround it out to Near, Hindering Enemy [[Ranged]] Attacks [[Targeting]] those within.
 **Seep:** It can enter the space of other Beings and openings as small as 1 inch without squeezing.
 
 ```statblock
 dice: true
 layout: Vagabond
 name: "Elemental, Lesser Air"
+tl: 3.9
 size: Medium
 type: Primordial
 hd: 8

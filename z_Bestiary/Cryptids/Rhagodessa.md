@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Rhagodessa
+tl: 3.0
 size: Large
 type: Cryptid (Beast)
 hd: 4
@@ -13,11 +14,19 @@ morale: 9
 appearing: "3 (1d6)"
 senses: Darksight
 armor: "2 [as Chain]"
+actions:
+  - name: Combo
+    desc: 1×Sucker and 1×Bite
+  - name: "Bite [Melee Attack]"
+    desc: 9 (2d8)
+  - name: "Sucker [Melee Attack]"
+    desc: Restrained
 columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Large Cryptid (Beast)*
+*Large Cryptid ([[Beast]])*
+**TL**: 3.0
 
 **HD**: 4 (20 HP)
 **Speed:** 50' (Cling)
@@ -25,18 +34,19 @@ bestiary: true
 **Morale:** 9
 **\# Appearing:** d6
 **Senses**: Darksight
-**Armor**: 2 [as Chain]
+**[[Armor]]**: 2 [as Chain]
 
 ***ACTIONS***
 ---
 Combo: 1×Sucker and 1×Bite
-Bite [Melee Attack]: 9 (2d8)
-Sucker [Melee Attack]: Restrained
+Bite [[[Melee]] Attack]: 9 (2d8)
+Sucker [[[Melee]] Attack]: [[Restrained]]
 
 ```statblock
 dice: true
 layout: Vagabond
 name: Rhagodessa
+tl: 3.0
 size: Large
 type: Cryptid (Beast)
 hd: 4
@@ -50,4 +60,11 @@ armor: "2 [as Chain]"
 columns: 2
 forceColumns: true
 bestiary: true
+actions:
+  - name: Combo
+    desc: 1×Sucker and 1×Bite
+  - name: "Bite [Melee Attack]"
+    desc: 9 (2d8)
+  - name: "Sucker [Melee Attack]"
+    desc: Restrained
 ```

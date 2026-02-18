@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Stolas Demon
+tl: 11.2
 size: Giant
 type: Outer (Hellspawn)
 hd: 27
@@ -32,7 +33,8 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Giant Outer (Hellspawn)*
+*[[Giant]] Outer (Hellspawn)*
+**TL**: 11.2
 
 **HD**: 27 (121 HP)
 **Speed:** 40' (Cling; Fly 160')
@@ -40,25 +42,26 @@ bestiary: true
 **Morale:** 11
 **\# Appearing:** 1
 **Senses**: Darksight, Telepathy
-**Armor**: 7 [as (+4) Plate]
+**[[Armor]]**: 7 [as (+4) Plate]
 **Immune**: Fire, Poison; Physical from non-Relics
 
 ***ACTIONS***
 ---
-Peer Beyond [Cast, 30' Cone | Will] (Recharge Cd4): 21 (6d6) and Dazed (Cd6 Rounds)
+Peer Beyond [Cast, 30' Cone | Will] (Recharge Cd4): 21 (6d6) and [[Dazed]] (Cd6 Rounds)
 Combo: 2×Claw and 1×Beak
-Beak [Melee Attack]: 14 (4d6)
-Claw [Melee Attack]: 13 (3d8) and Restrained if failed by 5 or more.
+Beak [[[Melee]] Attack]: 14 (4d6)
+Claw [[[Melee]] Attack]: 13 (3d8) and [[Restrained]] if failed by 5 or more.
 
 ***ABILITIES***
 ---
-**Magic Ward IV:** The first time it is unwillingly affected by a Spell each Round, the Caster must spend an extra 4 Mana to affect it.
+**Magic [[Ward]] IV:** The first time it is unwillingly affected by a Spell each Round, the Caster must spend an extra 4 Mana to affect it.
 **Regenerate III:** Regains 13 (3d8) HP on each of its Turns.
 
 ```statblock
 dice: true
 layout: Vagabond
 name: Stolas Demon
+tl: 11.2
 size: Giant
 type: Outer (Hellspawn)
 hd: 27

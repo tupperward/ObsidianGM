@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Triceratops
+tl: 4.5
 size: Large
 type: Beast
 hd: 11
@@ -24,19 +25,20 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Large Beast*
+*Large [[Beast]]*
+**TL**: 4.5
 
 **HD**: 11 (49 HP)
 **Speed:** 30'
 **Zone**: Frontline
 **Morale:** 8
 **\# Appearing:** d4
-**Armor**: 3 [as Chain plus Shield]
+**[[Armor]]**: 3 [as Chain plus Shield]
 
 ***ACTIONS***
 ---
-Horn [Melee Attack]: 10 (3d6)
-Stomp [Melee Attack]: 10 (3d6)
+Horn [[[Melee]] Attack]: 10 (3d6)
+Stomp [[[Melee]] Attack]: 10 (3d6)
 
 ***ABILITIES***
 ---
@@ -46,6 +48,7 @@ Stomp [Melee Attack]: 10 (3d6)
 dice: true
 layout: Vagabond
 name: Triceratops
+tl: 4.5
 size: Large
 type: Beast
 hd: 11

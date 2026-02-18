@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Orc
+tl: 1.5
 size: Medium
 type: Cryptid
 hd: 2
@@ -23,7 +24,8 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Cryptid*
+*[[Medium]] Cryptid*
+**TL**: 1.5
 
 **HD**: 2 (8 HP)
 **Speed:** 40'
@@ -31,7 +33,7 @@ bestiary: true
 **Morale:** 8
 **\# Appearing:** 2d4
 **Senses**: Darksight
-**Armor**: 1 [as Leather]
+**[[Armor]]**: 1 [as Leather]
 
 ***ACTIONS***
 ---
@@ -45,6 +47,7 @@ Weapon [Attack]: 4 (d8) or (by Weapon).
 dice: true
 layout: Vagabond
 name: Orc
+tl: 1.5
 size: Medium
 type: Cryptid
 hd: 2

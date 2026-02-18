@@ -10,7 +10,11 @@
   "escapeDiceMod": true,
   "signed": false,
   "displayLookupRoll": true,
-  "formulas": {},
+  "formulas": {
+    "favored": "1d20+1d6",
+    "hindered": "1d20-1d6",
+    "check": "1d20"
+  },
   "defaultRoll": 1,
   "defaultFace": 100,
   "renderer": false,
@@ -76,5 +80,27 @@
   "diceModTemplateFolders": {},
   "replaceDiceModInLivePreview": true,
   "version": "11.4.2",
-  "viewResults": []
+  "viewResults": [
+    {
+      "result": "21",
+      "original": "1d20+1d6",
+      "resultText": "1d20+1d6\n[15]+[6]",
+      "timestamp": 1771395786060,
+      "id": "PlhrFOlEy_-z"
+    },
+    {
+      "result": "8",
+      "original": "1d20-1d6",
+      "resultText": "1d20-1d6\n[13]-[5]",
+      "timestamp": 1771395794744,
+      "id": "HD862ijiMxD2"
+    },
+    {
+      "result": "13",
+      "original": "1d20",
+      "resultText": "1d20\n[13]",
+      "timestamp": 1771397193195,
+      "id": "uL6t10dSpGil"
+    }
+  ]
 }

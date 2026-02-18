@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Rhinoceros
+tl: 3.6
 size: Large
 type: Beast
 hd: 8
@@ -24,19 +25,20 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Large Beast*
+*Large [[Beast]]*
+**TL**: 3.6
 
 **HD**: 8 (36 HP)
 **Speed:** 40'
 **Zone**: Frontline
 **Morale:** 6
 **\# Appearing:** d12
-**Armor**: 2 [as Chain]
+**[[Armor]]**: 2 [as Chain]
 
 ***ACTIONS***
 ---
-Horn [Melee Attack]: 5 (2d4)
-Stomp [Melee Attack]: 9 (2d8)
+Horn [[[Melee]] Attack]: 5 (2d4)
+Stomp [[[Melee]] Attack]: 9 (2d8)
 
 ***ABILITIES***
 ---
@@ -46,6 +48,7 @@ Stomp [Melee Attack]: 9 (2d8)
 dice: true
 layout: Vagabond
 name: Rhinoceros
+tl: 3.6
 size: Large
 type: Beast
 hd: 8

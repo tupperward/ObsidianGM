@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Pixie
+tl: 2.0
 size: Small
 type: Fae
 hd: 1
@@ -27,6 +28,7 @@ forceColumns: true
 bestiary: true
 ---
 *Small Fae*
+**TL**: 2.0
 
 **HD**: 1 (1 HP)
 **Speed:** 30' (Fly 60')
@@ -34,22 +36,23 @@ bestiary: true
 **Morale:** 7
 **\# Appearing:** 2d4
 **Senses**: Telepathy (Near)
-**Armor**: 3 [as Plate]
-**Weak**: Cold Iron Weapons
+**[[Armor]]**: 3 [as Plate]
+**Weak**: Cold Iron [[Weapons]]
 
 ***ACTIONS***
 ---
-Dagger [Melee Attack]: 2 (d4)
+Dagger [[[Melee]] Attack]: 2 (d4)
 
 ***ABILITIES***
 ---
-**Magic Ward I:** The first time it is unwillingly affected by a Spell each Round, the Caster must spend an extra 1 Mana to affect it. Major Invisibility (Focus): It can magically become Invisible during its Turn (no Action).
-**Pixie Dust [Item]:** It can produce one dose of Pixie Dust once per Day, which gives a Medium or smaller Being Fly for 1 Hour.
+**Magic [[Ward]] I:** The first time it is unwillingly affected by a Spell each Round, the Caster must spend an extra 1 Mana to affect it. Major Invisibility (Focus): It can magically become [[Invisible]] during its Turn (no Action).
+**[[Pixie Dust]] [Item]:** It can produce one dose of [[Pixie Dust]] once per Day, which gives a [[Medium]] or smaller Being Fly for 1 Hour.
 
 ```statblock
 dice: true
 layout: Vagabond
 name: Pixie
+tl: 2.0
 size: Small
 type: Fae
 hd: 1

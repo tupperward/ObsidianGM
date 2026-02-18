@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: "Weasel, Giant"
+tl: 1.2
 size: Medium
 type: Beast
 hd: 3
@@ -24,28 +25,30 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Beast*
+*[[Medium]] [[Beast]]*
+**TL**: 1.2
 
 **HD**: 3 (12 HP)
 **Speed:** 40'
 **Zone**: Frontline
 **Morale:** 9
 **\# Appearing:** d8
-**Armor**: 1 [as Leather]
+**[[Armor]]**: 1 [as Leather]
 
 ***ACTIONS***
 ---
-Drain [Action, a Restrained Being]: 5 (2d6)
-Bite [Melee Attack]: 2 (d4) and Restrained.
+Drain [Action, a [[Restrained]] Being]: 5 (2d6)
+Bite [[[Melee]] Attack]: 2 (d4) and [[Restrained]].
 
 ***ABILITIES***
 ---
-**Pack Hunter:** Targets within 5' of one of this Being's Allies are Vulnerable to its attacks.
+**Pack [[Hunter]]:** Targets within 5' of one of this Being's Allies are [[Vulnerable]] to its attacks.
 
 ```statblock
 dice: true
 layout: Vagabond
 name: "Weasel, Giant"
+tl: 1.2
 size: Medium
 type: Beast
 hd: 3

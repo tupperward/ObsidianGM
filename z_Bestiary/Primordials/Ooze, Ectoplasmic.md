@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: "Ooze, Ectoplasmic"
+tl: 1.7
 size: Medium
 type: "Primordial (Slime, Undead)"
 hd: 5
@@ -25,7 +26,8 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Primordial (Slime, Undead)*
+*[[Medium]] Primordial (Slime, Undead)*
+**TL**: 1.7
 
 **HD**: 5 (22 HP)
 **Speed:** 10' (Cling, Phase)
@@ -33,13 +35,13 @@ bestiary: true
 **Morale:** 12
 **\# Appearing:** 1
 **Senses**: Blindsight
-**Armor**: 1 [as Leather]
+**[[Armor]]**: 1 [as Leather]
 **Immune**: Acid, Cold, Poison; Physical from non-Relics
-**Status Immunities**: Blinded, Charmed, Fatigue, Frightened, Prone
+**Status Immunities**: [[Blinded]], [[Charmed]], Fatigue, [[Frightened]], [[Prone]]
 
 ***ACTIONS***
 ---
-Pseudopod [Melee Attack]: 7 (2d6), and pass [Endure] or +1 Fatigue
+Pseudopod [[[Melee]] Attack]: 7 (2d6), and pass [Endure] or +1 Fatigue
 
 ***ABILITIES***
 ---
@@ -49,6 +51,7 @@ Pseudopod [Melee Attack]: 7 (2d6), and pass [Endure] or +1 Fatigue
 dice: true
 layout: Vagabond
 name: "Ooze, Ectoplasmic"
+tl: 1.7
 size: Medium
 type: "Primordial (Slime, Undead)"
 hd: 5

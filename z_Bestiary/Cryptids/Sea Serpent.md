@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Sea Serpent
+tl: 6.2
 size: Huge
 type: Cryptid (Wyrm)
 hd: 14
@@ -31,6 +32,7 @@ forceColumns: true
 bestiary: true
 ---
 *Huge Cryptid (Wyrm)*
+**TL**: 6.2
 
 **HD**: 14 (63 HP)
 **Speed:** 0' (Swim 80')
@@ -38,14 +40,14 @@ bestiary: true
 **Morale:** 9
 **\# Appearing:** 1
 **Senses**: Darksight
-**Armor**: 2 [as Chain]
+**[[Armor]]**: 2 [as Chain]
 **Immune**: Cold, Shock
 
 ***ACTIONS***
 ---
 Combo: 1×Bite or 1×Constrict
-Bite [Melee Attack]: 10 (3d6) and Restrained if smaller
-Constrict [Melee Attack, Near Vessel]: 11 (2d10) and Restrained
+Bite [[[Melee]] Attack]: 10 (3d6) and [[Restrained]] if smaller
+Constrict [[[Melee]] Attack, Near Vessel]: 11 (2d10) and [[Restrained]]
 
 ***ABILITIES***
 ---
@@ -56,6 +58,7 @@ Constrict [Melee Attack, Near Vessel]: 11 (2d10) and Restrained
 dice: true
 layout: Vagabond
 name: Sea Serpent
+tl: 6.2
 size: Huge
 type: Cryptid (Wyrm)
 hd: 14

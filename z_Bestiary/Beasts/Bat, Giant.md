@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: "Bat, Giant"
+tl: 0.5
 size: Medium
 type: Beast
 hd: 1
@@ -23,7 +24,8 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Beast*
+*[[Medium]] [[Beast]]*
+**TL**: 0.5
 
 **HD**: 1 (4 HP)
 **Speed:** 10' (Fly 60')
@@ -31,11 +33,11 @@ bestiary: true
 **Morale:** 8
 **\# Appearing:** 2d6
 **Senses**: Echolocation
-**Armor**: 0 [as Unarmored]
+**[[Armor]]**: 0 [as Unarmored]
 
 ***ACTIONS***
 ---
-Bite [Melee Attack]: 2 (d4) and pass [Endure] or become Sickened (Cd6 days)
+Bite [[[Melee]] Attack]: 2 (d4) and pass [Endure] or become [[Sickened]] (Cd6 days)
 
 ***ABILITIES***
 ---
@@ -45,6 +47,7 @@ Bite [Melee Attack]: 2 (d4) and pass [Endure] or become Sickened (Cd6 days)
 dice: true
 layout: Vagabond
 name: "Bat, Giant"
+tl: 0.5
 size: Medium
 type: Beast
 hd: 1

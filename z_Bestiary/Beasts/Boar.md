@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Boar
+tl: 2.7
 size: Medium
 type: Beast
 hd: 3
@@ -22,18 +23,19 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Beast*
+*[[Medium]] [[Beast]]*
+**TL**: 2.7
 
 **HD**: 3 (13 HP)
 **Speed:** 50'
 **Zone**: Frontline
 **Morale:** 9
 **\# Appearing:** 1d6
-**Armor**: 1 [as Leather]
+**[[Armor]]**: 1 [as Leather]
 
 ***ACTIONS***
 ---
-Tusk [Melee Attack]: 5 (2d4)
+Tusk [[[Melee]] Attack]: 5 (2d4)
 
 ***ABILITIES***
 ---
@@ -43,6 +45,7 @@ Tusk [Melee Attack]: 5 (2d4)
 dice: true
 layout: Vagabond
 name: Boar
+tl: 2.7
 size: Medium
 type: Beast
 hd: 3

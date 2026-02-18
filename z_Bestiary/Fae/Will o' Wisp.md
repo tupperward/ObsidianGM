@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: "Will o' Wisp"
+tl: 3.6
 size: Small
 type: Fae
 hd: 6
@@ -39,6 +40,7 @@ forceColumns: true
 bestiary: true
 ---
 *Small Fae*
+**TL**: 3.6
 
 **HD**: 6 (27 HP)
 **Speed:** 0' (Fly 50', Phase)
@@ -46,29 +48,30 @@ bestiary: true
 **Morale:** 11
 **\# Appearing:** d6
 **Senses**: Darksight
-**Armor**: 4 [as (+1) Plate]
+**[[Armor]]**: 4 [as (+1) Plate]
 **Immune**: Physical
-**Weak**: Cold Iron Weapons
-**Status Immunities**: Charmed, Fatigue, Paralyzed, Prone, Restrained, Sickened, Suffocating
+**Weak**: Cold Iron [[Weapons]]
+**Status Immunities**: [[Charmed]], Fatigue, [[Paralyzed]], [[Prone]], [[Restrained]], [[Sickened]], [[Suffocating]]
 
 ***ACTIONS***
 ---
-Life Zap [Cast, Touch | Endure]: 5 (d10), healing this Being for the damage dealt
-Dissipate [Cast, Self (Focus)]: Invisible for the duration.
+[[Life]] [[Zap]] [Cast, Touch | Endure]: 5 (d10), healing this Being for the damage dealt
+Dissipate [Cast, Self (Focus)]: [[Invisible]] for the duration.
 
 ***ABILITIES***
 ---
-**Wyrd Ward:** Cast Checks Targeting it are Hindered, as are attacks made with Magically-enhanced Weapons.
-**Illuminating:** Sheds Light out to 30'. 3 Banish [Remote | Will]: It is returned to its normal realm of existence, or ends another Being's possession of the Target. 4 Command [Cast, Far Aura]: 4 (d6+1) or obey the command issued by this Being. 5 Heal [Cast, Touch]: If it is a mortal Being, its HP is restored to maximum, and is cured of the Blinded, Paralyzed, or Sickened Status. 6 Radiance [Cast, Far Aura]: The area within the Aura is Sunlight, which moves with this Being.
+**Wyrd [[Ward]]:** Cast Checks [[Targeting]] it are Hindered, as are attacks made with Magically-enhanced [[Weapons]].
+**Illuminating:** Sheds [[Light]] out to 30'. 3 Banish [Remote | Will]: It is returned to its normal realm of existence, or ends another Being's possession of the Target. 4 Command [Cast, Far Aura]: 4 (d6+1) or obey the command issued by this Being. 5 Heal [Cast, Touch]: If it is a mortal Being, its HP is restored to maximum, and is cured of the [[Blinded]], [[Paralyzed]], or [[Sickened]] Status. 6 Radiance [Cast, Far Aura]: The area within the Aura is Sunlight, which moves with this Being.
 **Fall from Grace:** If it ever acts against divine ordainment, it loses Grace, Fly Speed, Allsight, Immune, and Status Immunities.
 **Grace:** It can't be reduced below 1 HP. If its body is destroyed, it immediately appears in its plane of origin at full HP.
 **Illuminator:** Sheds Sunlight in Near.
-**Magic Ward III:** The first time it is unwillingly affected by a Spell each Round, the Caster must spend an extra 3 Mana to affect it. Flaming Sword [Relic; (+3) Silvered Greatsword]: Has the Loyalty Power.
+**Magic [[Ward]] III:** The first time it is unwillingly affected by a Spell each Round, the Caster must spend an extra 3 Mana to affect it. Flaming Sword [Relic; (+3) Silvered Greatsword]: Has the Loyalty Power.
 
 ```statblock
 dice: true
 layout: Vagabond
 name: "Will o' Wisp"
+tl: 3.6
 size: Small
 type: Fae
 hd: 6

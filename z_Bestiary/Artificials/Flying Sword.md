@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Flying Sword
+tl: 2.3
 size: Small
 type: Artificial
 hd: 1
@@ -28,6 +29,7 @@ forceColumns: true
 bestiary: true
 ---
 *Small Artificial*
+**TL**: 2.3
 
 **HD**: 1 (1 HP)
 **Speed:** 0' (Fly 50')
@@ -35,23 +37,24 @@ bestiary: true
 **Morale:** -
 **\# Appearing:** d4
 **Senses**: Blindsight
-**Armor**: 3 [as Plate]
+**[[Armor]]**: 3 [as Plate]
 **Immune**: Poison
-**Status Immunities**: Charmed, Frightened, Sickened, Suffocating
+**Status Immunities**: [[Charmed]], [[Frightened]], [[Sickened]], [[Suffocating]]
 
 ***ACTIONS***
 ---
-Slash [Melee Attack]: 4 (d8)
+Slash [[[Melee]] Attack]: 4 (d8)
 
 ***ABILITIES***
 ---
-**Antimagic Vulnerability:** It is Dazed (Cd4) if affected by the Dispel Spell or other antimagic.
+**Antimagic Vulnerability:** It is [[Dazed]] (Cd4) if affected by the [[Dispel]] Spell or other antimagic.
 **Nimble:** Attacks against it can't be Favored if it can Move.
 
 ```statblock
 dice: true
 layout: Vagabond
 name: Flying Sword
+tl: 2.3
 size: Small
 type: Artificial
 hd: 1

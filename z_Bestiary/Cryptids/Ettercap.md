@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Ettercap
+tl: 2.1
 size: Medium
 type: Cryptid
 hd: 4
@@ -25,7 +26,8 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Cryptid*
+*[[Medium]] Cryptid*
+**TL**: 2.1
 
 **HD**: 4 (18 HP)
 **Speed:** 40' (Cling)
@@ -33,21 +35,22 @@ bestiary: true
 **Morale:** 10
 **\# Appearing:** d6
 **Senses**: Darksight
-**Armor**: 1 [as Leather]
+**[[Armor]]**: 1 [as Leather]
 
 ***ACTIONS***
 ---
-Bite [Melee Attack]: 7 (2d6) and pass [Endure] or become Sickened (Cd4, +1 Fatigue each Round).
+Bite [[[Melee]] Attack]: 7 (2d6) and pass [Endure] or become [[Sickened]] (Cd4, +1 Fatigue each Round).
 
 ***ABILITIES***
 ---
-**Webs:** Its web is an Object with 4 HP and Armor: 5.
+**Webs:** Its web is an Object with 4 HP and [[Armor]]: 5.
 **Web Walker:** It can sense any Being on the same web as it as if by Blindsight, and is not impeded by web as Difficult Terrain.
 
 ```statblock
 dice: true
 layout: Vagabond
 name: Ettercap
+tl: 2.1
 size: Medium
 type: Cryptid
 hd: 4

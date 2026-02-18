@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Chicken
+tl: 0.2
 size: Small
 type: Beast
 hd: 1
@@ -22,18 +23,19 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Small Beast*
+*Small [[Beast]]*
+**TL**: 0.2
 
 **HD**: 1 (1 HP)
 **Speed:** 30'
 **Zone**: Frontline
 **Morale:** 2
 **\# Appearing:** 3d8
-**Armor**: 0 [as Unarmored]
+**[[Armor]]**: 0 [as Unarmored]
 
 ***ACTIONS***
 ---
-Beak [Melee Attack]: 1
+Beak [[[Melee]] Attack]: 1
 
 ***ABILITIES***
 ---
@@ -43,6 +45,7 @@ Beak [Melee Attack]: 1
 dice: true
 layout: Vagabond
 name: Chicken
+tl: 0.2
 size: Small
 type: Beast
 hd: 1

@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: "Elemental, Greater Air"
+tl: 7.3
 size: Huge
 type: Primordial
 hd: 16
@@ -28,6 +29,7 @@ forceColumns: true
 bestiary: true
 ---
 *Huge Primordial*
+**TL**: 7.3
 
 **HD**: 16 (72 HP)
 **Speed:** 0' (Fly 120')
@@ -35,23 +37,24 @@ bestiary: true
 **Morale:** 10
 **\# Appearing:** 1
 **Senses**: Blindsight
-**Armor**: 5 [as (+2) Plate]
+**[[Armor]]**: 5 [as (+2) Plate]
 **Immune**: Poison, Shock; Physical from non-Relics
-**Status Immunities**: Fatigued, Prone, Restrained, Sickened, Suffocating
+**Status Immunities**: [[Fatigued]], [[Prone]], [[Restrained]], [[Sickened]], [[Suffocating]]
 
 ***ACTIONS***
 ---
-Gust [Ranged Attack]: 13 (3d8) plus 4 (d8) if flying
+[[Gust]] [[[Ranged]] Attack]: 13 (3d8) plus 4 (d8) if flying
 
 ***ABILITIES***
 ---
-**Living Gale:** Gusts surround it out to Near, Hindering Enemy Ranged Attacks Targeting those within.
+**Living Gale:** Gusts surround it out to Near, Hindering Enemy [[Ranged]] Attacks [[Targeting]] those within.
 **Seep:** It can enter the space of other Beings and openings as small as 1 inch without squeezing.
 
 ```statblock
 dice: true
 layout: Vagabond
 name: "Elemental, Greater Air"
+tl: 7.3
 size: Huge
 type: Primordial
 hd: 16

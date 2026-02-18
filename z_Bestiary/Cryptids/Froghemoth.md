@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Froghemoth
+tl: 7.8
 size: Huge
 type: Cryptid
 hd: 16
@@ -31,6 +32,7 @@ forceColumns: true
 bestiary: true
 ---
 *Huge Cryptid*
+**TL**: 7.8
 
 **HD**: 16 (72 HP)
 **Speed:** 30' (Swim 60')
@@ -38,15 +40,15 @@ bestiary: true
 **Morale:** 9
 **\# Appearing:** 1
 **Senses**: Darksight
-**Armor**: 3 [as (+2) Leather]
+**[[Armor]]**: 3 [as (+2) Leather]
 **Immune**: Fire, Shock
 
 ***ACTIONS***
 ---
-Bite [Melee Attack]: 16 (3d10)
+Bite [[[Melee]] Attack]: 16 (3d10)
 Combo: 2×Tentacle
-Tentacle [Melee Attack, Near]: 13 (3d8) and Restrained if smaller. It can't Restrain more than one Target at a time with the same Tentacle.
-Tongue [Melee Attack, Near]: Restrained if smaller. If Restrained, it is pulled to Close, and this Being can make a Bite Attack against it.
+Tentacle [[[Melee]] Attack, Near]: 13 (3d8) and [[Restrained]] if smaller. It can't Restrain more than one Target at a time with the same Tentacle.
+Tongue [[[Melee]] Attack, Near]: [[Restrained]] if smaller. If [[Restrained]], it is pulled to Close, and this Being can make a Bite Attack against it.
 
 ***ABILITIES***
 ---
@@ -56,6 +58,7 @@ Tongue [Melee Attack, Near]: Restrained if smaller. If Restrained, it is pulled 
 dice: true
 layout: Vagabond
 name: Froghemoth
+tl: 7.8
 size: Huge
 type: Cryptid
 hd: 16

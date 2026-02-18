@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Piercer
+tl: 3.6
 size: Medium
 type: Cryptid
 hd: 3
@@ -23,7 +24,8 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Cryptid*
+*[[Medium]] Cryptid*
+**TL**: 3.6
 
 **HD**: 3 (13 HP)
 **Speed:** 5' (Cling)
@@ -31,11 +33,11 @@ bestiary: true
 **Morale:** 12
 **\# Appearing:** 3d6
 **Senses**: Darksight
-**Armor**: 3 [as Plate]
+**[[Armor]]**: 3 [as Plate]
 
 ***ACTIONS***
 ---
-Drop [Melee Attack]: 10 (3d6)
+Drop [[[Melee]] Attack]: 10 (3d6)
 
 ***ABILITIES***
 ---
@@ -45,6 +47,7 @@ Drop [Melee Attack]: 10 (3d6)
 dice: true
 layout: Vagabond
 name: Piercer
+tl: 3.6
 size: Medium
 type: Cryptid
 hd: 3

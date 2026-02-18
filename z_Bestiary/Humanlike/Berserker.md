@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Berserker
+tl: 2.8
 size: Medium
 type: Humanlike
 hd: 1
@@ -21,26 +22,28 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Humanlike*
+*[[Medium]] Humanlike*
+**TL**: 2.8
 
 **HD**: 1 (4 HP)
 **Speed:** 40'
 **Zone**: Frontline
 **Morale:** 8
-**Armor**: 1 [as Leather]
+**[[Armor]]**: 1 [as Leather]
 
 ***ACTIONS***
 ---
-Greataxe [Melee Attack, Cleave]: 6 (d12) or 13 (2d12!) if this Being is Berserk
+Greataxe [[[Melee]] Attack, Cleave]: 6 (d12) or 13 (2d12!) if this Being is [[Berserk]]
 
 ***ABILITIES***
 ---
-**Rage:** Goes Berserk when it takes damage or when attacking. While Berserk, it reduces damage by 1 per die.
+**[[Rage]]:** Goes [[Berserk]] when it takes damage or when attacking. While [[Berserk]], it reduces damage by 1 per die.
 
 ```statblock
 dice: true
 layout: Vagabond
 name: Berserker
+tl: 2.8
 size: Medium
 type: Humanlike
 hd: 1

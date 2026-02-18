@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Archmage
+tl: 7.1
 size: Medium
 type: Humanlike
 hd: 9
@@ -33,32 +34,34 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Humanlike*
+*[[Medium]] Humanlike*
+**TL**: 7.1
 
 **HD**: 9 (40 HP)
 **Speed:** 30'
 **Zone**: Backline
 **Morale:** 8
-**Armor**: 2 [as Chain]
+**[[Armor]]**: 2 [as Chain]
 
 ***ACTIONS***
 ---
 Combo: 2 of any Cast Actions it can take
-Lightning Bolt [Cast, 30-foot Line | Reflex] (2/Day): 10 (3d6) and Dazed (Cd4, or Cd6 if failed as a 1)
-Fireball [Cast, 20-foot Sphere | Reflex] (2/Day): 10 (3d6) and Burning (Cd4, or Cd6 if failed as a 1)
+Lightning Bolt [Cast, 30-foot Line | Reflex] (2/Day): 10 (3d6) and [[Dazed]] (Cd4, or Cd6 if failed as a 1)
+Fireball [Cast, 20-foot Sphere | Reflex] (2/Day): 10 (3d6) and [[Burning]] (Cd4, or Cd6 if failed as a 1)
 Blizzard [Cast, 20-foot Sphere | Endure] (Focus, 2/Day): 10 (3d6) and filling the area with snow (Difficult Terrain)
-Firebolt [Cast, Remote | Reflex]: 7 (2d6) and Burning (Cd4, or Cd6 if failed as a 1)
-Ice Knife [Cast, Bolt | Reflex] (Focus): 7 (2d6) and its Speed is reduced by half for the duration
-Zap [Cast, Bolt | Reflex]: 7 (2d6) and Dazed (Cd4, or Cd6 if failed as a 1)
+Firebolt [Cast, Remote | Reflex]: 7 (2d6) and [[Burning]] (Cd4, or Cd6 if failed as a 1)
+[[Ice Knife]] [Cast, Bolt | Reflex] (Focus): 7 (2d6) and its Speed is reduced by half for the duration
+[[Zap]] [Cast, Bolt | Reflex]: 7 (2d6) and [[Dazed]] (Cd4, or Cd6 if failed as a 1)
 
 ***ABILITIES***
 ---
-**Magic Ward II:** The first time it is unwillingly affected by a Spell each Round, the Caster must spend an extra 2 Mana to affect it.
+**Magic [[Ward]] II:** The first time it is unwillingly affected by a Spell each Round, the Caster must spend an extra 2 Mana to affect it.
 
 ```statblock
 dice: true
 layout: Vagabond
 name: Archmage
+tl: 7.1
 size: Medium
 type: Humanlike
 hd: 9

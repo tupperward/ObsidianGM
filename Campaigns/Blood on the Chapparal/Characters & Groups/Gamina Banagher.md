@@ -7,7 +7,7 @@ Played By: Mae Whitman
 
 ### Bullet Points
 - Halfling
-- Owner of the Inn
+- Owner of the [[The Warm Stone]]
 - Inherited somewhat recently after grandfather passed.
 - Grandfather had sold the interior of the Butte to the [[Ordo Gravis Dens]]
 

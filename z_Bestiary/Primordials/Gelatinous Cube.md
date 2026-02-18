@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Gelatinous Cube
+tl: 1.3
 size: Large
 type: Primordial (Slime)
 hd: 4
@@ -30,6 +31,7 @@ forceColumns: true
 bestiary: true
 ---
 *Large Primordial (Slime)*
+**TL**: 1.3
 
 **HD**: 4 (18 HP)
 **Speed:** 10'
@@ -37,24 +39,25 @@ bestiary: true
 **Morale:** 12
 **\# Appearing:** 1
 **Senses**: Blindsight
-**Armor**: 0 [as Unarmored]
+**[[Armor]]**: 0 [as Unarmored]
 **Immune**: Acid, Cold, Shock
-**Status Immunities**: Blinded, Charmed, Fatigue, Frightened, Prone, Suffocating
+**Status Immunities**: [[Blinded]], [[Charmed]], Fatigue, [[Frightened]], [[Prone]], [[Suffocating]]
 
 ***ACTIONS***
 ---
-Engulf [Melee Attack]: Restrained
+Engulf [[[Melee]] Attack]: [[Restrained]]
 
 ***ABILITIES***
 ---
 **Amorphous:** It can enter the space of other Beings and openings as small as 1 inch without squeezing.
-**Engulfer:** Beings that share its space are Burning (2d4).
-**Sticky:** Hinders attempts to end being Restrained by it. Beings that make physical contact with it must pass [Endure] or be Restrained.
+**Engulfer:** Beings that share its space are [[Burning]] (2d4).
+**Sticky:** Hinders attempts to end being [[Restrained]] by it. Beings that make physical contact with it must pass [Endure] or be [[Restrained]].
 
 ```statblock
 dice: true
 layout: Vagabond
 name: Gelatinous Cube
+tl: 1.3
 size: Large
 type: Primordial (Slime)
 hd: 4

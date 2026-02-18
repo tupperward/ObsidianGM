@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Dimension Ripper
+tl: 6.3
 size: Large
 type: Outer
 hd: 10
@@ -31,6 +32,7 @@ forceColumns: true
 bestiary: true
 ---
 *Large Outer*
+**TL**: 6.3
 
 **HD**: 10 (45 HP)
 **Speed:** 35'
@@ -38,25 +40,26 @@ bestiary: true
 **Morale:** 5
 **\# Appearing:** 1
 **Senses**: Darksight, Telepathy
-**Armor**: 3 [as (+2) Leather]
+**[[Armor]]**: 3 [as (+2) Leather]
 **Immune**: Cold, Fire, Physical, Poison
-**Weak**: Silvered Weapons
-**Status Immunities**: Sickened
+**Weak**: Silvered [[Weapons]]
+**Status Immunities**: [[Sickened]]
 
 ***ACTIONS***
 ---
-Temporal Lock [Cast, Sight | Will] (Recharge Cd4): Paralyzed (Cd4)
-Combo: 2×Claw and 1×Bite (+1) Bite [Melee Attack]: 5 (d8+1) (+1) Claw [Melee Attack]: 8 (2d6+1)
+Temporal Lock [Cast, Sight | Will] (Recharge Cd4): [[Paralyzed]] (Cd4)
+Combo: 2×Claw and 1×Bite (+1) Bite [[[Melee]] Attack]: 5 (d8+1) (+1) Claw [[[Melee]] Attack]: 8 (2d6+1)
 
 ***ABILITIES***
 ---
-**Maddening I:** Enemies that can hear it for the first time and at the start of their Turns must pass [Will] or be Confused (Cd4).
-**Terror I:** Enemies that can see it for the first time and at the start of their Turns must pass [Will] or be Frightened (Cd4).
+**Maddening I:** Enemies that can hear it for the first time and at the start of their Turns must pass [Will] or be [[Confused]] (Cd4).
+**Terror I:** Enemies that can see it for the first time and at the start of their Turns must pass [Will] or be [[Frightened]] (Cd4).
 
 ```statblock
 dice: true
 layout: Vagabond
 name: Dimension Ripper
+tl: 6.3
 size: Large
 type: Outer
 hd: 10

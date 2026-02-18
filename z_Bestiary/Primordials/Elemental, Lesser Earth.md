@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: "Elemental, Lesser Earth"
+tl: 3.9
 size: Medium
 type: Primordial
 hd: 8
@@ -26,7 +27,8 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Primordial*
+*[[Medium]] Primordial*
+**TL**: 3.9
 
 **HD**: 8 (36 HP)
 **Speed:** 20'
@@ -34,14 +36,14 @@ bestiary: true
 **Morale:** 10
 **\# Appearing:** 1
 **Senses**: Seismicsense
-**Armor**: 3 [as Plate]
+**[[Armor]]**: 3 [as Plate]
 **Immune**: Poison, Shock
 **Weak**: Blunt
-**Status Immunities**: Fatigued, Sickened, Suffocating
+**Status Immunities**: [[Fatigued]], [[Sickened]], [[Suffocating]]
 
 ***ACTIONS***
 ---
-Strike [Melee Attack]: 4 (d8) plus 4 (d8) if on the ground
+Strike [[[Melee]] Attack]: 4 (d8) plus 4 (d8) if on the ground
 
 ***ABILITIES***
 ---
@@ -51,6 +53,7 @@ Strike [Melee Attack]: 4 (d8) plus 4 (d8) if on the ground
 dice: true
 layout: Vagabond
 name: "Elemental, Lesser Earth"
+tl: 3.9
 size: Medium
 type: Primordial
 hd: 8

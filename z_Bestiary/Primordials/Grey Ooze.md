@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Grey Ooze
+tl: 1.9
 size: Medium
 type: Primordial (Slime)
 hd: 3
@@ -28,7 +29,8 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Primordial (Slime)*
+*[[Medium]] Primordial (Slime)*
+**TL**: 1.9
 
 **HD**: 3 (13 HP)
 **Speed:** 5'
@@ -36,24 +38,25 @@ bestiary: true
 **Morale:** 12
 **\# Appearing:** d3
 **Senses**: Blindsight
-**Armor**: 0 [as Unarmored]
+**[[Armor]]**: 0 [as Unarmored]
 **Immune**: Acid, Cold, Fire
 **Weak**: Shock
-**Status Immunities**: Blinded, Charmed, Fatigue, Frightened, Prone
+**Status Immunities**: [[Blinded]], [[Charmed]], Fatigue, [[Frightened]], [[Prone]]
 
 ***ACTIONS***
 ---
-Pseudopod [Melee Attack]: 9 (2d8) and Corroding
+Pseudopod [[[Melee]] Attack]: 9 (2d8) and Corroding
 
 ***ABILITIES***
 ---
 **Amorphous:** It can Move into occupied space as small as 1 inch without squeezing.
-**Corroding:** Non-Relic metal Items that make contact with it corrode. When this happens, roll a d6 for each Item. On a roll of 1, the Item breaks. If the Item that breaks is larger than Medium, this destroys a 1-foot square hole that is 1-foot deep in it.
+**Corroding:** Non-Relic metal Items that make contact with it corrode. When this happens, roll a d6 for each Item. On a roll of 1, the Item breaks. If the Item that breaks is larger than [[Medium]], this destroys a 1-foot square hole that is 1-foot deep in it.
 
 ```statblock
 dice: true
 layout: Vagabond
 name: Grey Ooze
+tl: 1.9
 size: Medium
 type: Primordial (Slime)
 hd: 3

@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Roc
+tl: 11.4
 size: Colossal
 type: Cryptid (Beast)
 hd: 36
@@ -27,7 +28,8 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Colossal Cryptid (Beast)*
+*Colossal Cryptid ([[Beast]])*
+**TL**: 11.4
 
 **HD**: 36 (162 HP)
 **Speed:** 20' (Fly 160')
@@ -35,13 +37,13 @@ bestiary: true
 **Morale:** 10
 **\# Appearing:** 1
 **Senses**: Allsight, Darksight
-**Armor**: 4 [as (+1) Plate]
+**[[Armor]]**: 4 [as (+1) Plate]
 
 ***ACTIONS***
 ---
 Combo: 2×Claw and 1×Beak
-Beak [Melee Attack]: 28 (8d6)
-Claw [Melee Attack, Near]: 10 (3d6) and Restrained if it's this Being's second Claw attack to hit it this Turn.
+Beak [[[Melee]] Attack]: 28 (8d6)
+Claw [[[Melee]] Attack, Near]: 10 (3d6) and [[Restrained]] if it's this Being's second Claw attack to hit it this Turn.
 
 ***ABILITIES***
 ---
@@ -51,6 +53,7 @@ Claw [Melee Attack, Near]: 10 (3d6) and Restrained if it's this Being's second C
 dice: true
 layout: Vagabond
 name: Roc
+tl: 11.4
 size: Colossal
 type: Cryptid (Beast)
 hd: 36

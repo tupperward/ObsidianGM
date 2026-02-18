@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Skeljaskrimsli
+tl: 6.3
 size: Large
 type: Cryptid
 hd: 10
@@ -32,21 +33,22 @@ forceColumns: true
 bestiary: true
 ---
 *Large Cryptid*
+**TL**: 6.3
 
 **HD**: 10 (45 HP)
 **Speed:** 20' (Swim)
 **Zone**: Frontline
 **Morale:** 9
 **\# Appearing:** 1
-**Armor**: 5 [as (+2) Plate]
+**[[Armor]]**: 5 [as (+2) Plate]
 **Weak**: Poison, Shock
 
 ***ACTIONS***
 ---
 Combo: 2×Claws and 1×Bite
-Bite [Melee Attack]: 7 (2d6)
-Claw [Melee Attack]: 4 (d8)
-Slam [Melee Attack]: 7 (2d6) and Prone if this Being moved at least 20' straight toward the Target before the attack.
+Bite [[[Melee]] Attack]: 7 (2d6)
+Claw [[[Melee]] Attack]: 4 (d8)
+Slam [[[Melee]] Attack]: 7 (2d6) and [[Prone]] if this Being moved at least 20' straight toward the Target before the attack.
 
 ***ABILITIES***
 ---
@@ -57,6 +59,7 @@ Slam [Melee Attack]: 7 (2d6) and Prone if this Being moved at least 20' straight
 dice: true
 layout: Vagabond
 name: Skeljaskrimsli
+tl: 6.3
 size: Large
 type: Cryptid
 hd: 10

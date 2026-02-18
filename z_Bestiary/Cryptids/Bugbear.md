@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Bugbear
+tl: 1.6
 size: Medium
 type: Cryptid
 hd: 3
@@ -23,7 +24,8 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Cryptid*
+*[[Medium]] Cryptid*
+**TL**: 1.6
 
 **HD**: 3 (13 HP)
 **Speed:** 30'
@@ -31,20 +33,21 @@ bestiary: true
 **Morale:** 9
 **\# Appearing:** d6
 **Senses**: Darksight
-**Armor**: 1 [as Leather]
+**[[Armor]]**: 1 [as Leather]
 
 ***ACTIONS***
 ---
-Morningstar [Melee Attack, 10']: 4 (d8)
+Morningstar [[[Melee]] Attack, 10']: 4 (d8)
 
 ***ABILITIES***
 ---
-**Ambusher:** If it attacks a Being that has not acted in the Combat, it deals an extra die of damage.
+**[[Ambusher]]:** If it attacks a Being that has not acted in the [[Combat]], it deals an extra die of damage.
 
 ```statblock
 dice: true
 layout: Vagabond
 name: Bugbear
+tl: 1.6
 size: Medium
 type: Cryptid
 hd: 3

@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Banshee
+tl: 3.6
 size: Medium
 type: Undead
 hd: 7
@@ -28,7 +29,8 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Undead*
+*[[Medium]] Undead*
+**TL**: 3.6
 
 **HD**: 7 (31 HP)
 **Speed:** 0' (Fly 40', Phase)
@@ -36,24 +38,25 @@ bestiary: true
 **Morale:** 12
 **\# Appearing:** 1
 **Senses**: Allsight
-**Armor**: 4 [as (+1) Plate]
+**[[Armor]]**: 4 [as (+1) Plate]
 **Immune**: Cold, Poison, Shock; Physical from non-Relics
-**Weak**: Silvered Weapons
-**Status Immunities**: Charmed, Fatigue, Frightened, Paralyzed, Prone, Restrained, Sickened, Suffocating
+**Weak**: Silvered [[Weapons]]
+**Status Immunities**: [[Charmed]], Fatigue, [[Frightened]], [[Paralyzed]], [[Prone]], [[Restrained]], [[Sickened]], [[Suffocating]]
 
 ***ACTIONS***
 ---
-Wail [Action while in darkness, all Near who hear it | Will] (1/Day): Frightened (Cd4) or immediate death if failed by 5 or more
-Chill Touch [Melee Attack]: 4 (d8)
+Wail [Action while in darkness, all Near who hear it | Will] (1/Day): [[Frightened]] (Cd4) or immediate death if failed by 5 or more
+Chill Touch [[[Melee]] Attack]: 4 (d8)
 
 ***ABILITIES***
 ---
-**Nightwalker:** Can't Move or Target over lines of salt or in areas illuminated by Sunlight. It is Incapacitated and Burning (d8) while in Sunlight. Terror II [Enemies' first time seeing it and on their Turns | Will]: Frightened until they pass this Check on a subsequent Turn, or for Cd6 after.
+**Nightwalker:** Can't Move or Target over lines of salt or in areas illuminated by Sunlight. It is [[Incapacitated]] and [[Burning]] (d8) while in Sunlight. Terror II [Enemies' first time seeing it and on their Turns | Will]: [[Frightened]] until they pass this Check on a subsequent Turn, or for Cd6 after.
 
 ```statblock
 dice: true
 layout: Vagabond
 name: Banshee
+tl: 3.6
 size: Medium
 type: Undead
 hd: 7

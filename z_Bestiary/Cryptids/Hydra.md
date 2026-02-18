@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Hydra
+tl: 9.5
 size: Giant
 type: Cryptid (Wyrm)
 hd: 10
@@ -27,7 +28,8 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Giant Cryptid (Wyrm)*
+*[[Giant]] Cryptid (Wyrm)*
+**TL**: 9.5
 
 **HD**: 10 (45 HP)
 **Speed:** 25'
@@ -35,12 +37,12 @@ bestiary: true
 **Morale:** 8
 **\# Appearing:** 1
 **Senses**: Darksight
-**Armor**: 2 [as Chain]
+**[[Armor]]**: 2 [as Chain]
 
 ***ACTIONS***
 ---
 Combo: 1×Bite per Head (Multi-Headed)
-Bite [Melee Attack, Near]: 5 (d10) and Restrained if smaller.
+Bite [[[Melee]] Attack, Near]: 5 (d10) and [[Restrained]] if smaller.
 
 ***ABILITIES***
 ---
@@ -51,6 +53,7 @@ Bite [Melee Attack, Near]: 5 (d10) and Restrained if smaller.
 dice: true
 layout: Vagabond
 name: Hydra
+tl: 9.5
 size: Giant
 type: Cryptid (Wyrm)
 hd: 10

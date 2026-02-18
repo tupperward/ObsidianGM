@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Goblin
+tl: 1.2
 size: Medium
 type: Cryptid
 hd: 1
@@ -14,20 +15,25 @@ appearing: "6 (2d6)"
 senses: Darksight
 armor: "1 [as Leather]"
 actions:
-  - name: Determined by type on table below.
-    desc: ""
+  - name: "Archer — Shortbow [Ranged Attack]"
+    desc: "3 (1d6)"
+  - name: "Mage — Apoplex [Cast, Remote | Will] (3/Day)"
+    desc: "Berserk (Cd4)"
+  - name: "Mage — Flare [Cast, 10' Sphere | Reflex] (3/Day)"
+    desc: "7 (2d6)"
+  - name: "Mage — Staff [Melee Attack]"
+    desc: "2 (1d4)"
+  - name: "Warrior — Dagger [Melee Attack, Thrown]"
+    desc: "2 (1d4)"
 abilities:
   - name: Sun-Averse
-    desc: Is Vulnerable while in Sunlight Type Actions
-  - name: "Archer Shortbow [Ranged Attack]"
-    desc: "3 (1d6) Mage Apoplex — Cast, Remote | Will (3/Day): Berserk (Cd4) Flare — Cast, 10ft Sphere | Reflex (3/Day): 7 (2d6)"
-  - name: "Staff [Melee Attack]"
-    desc: 2 (1d4)
+    desc: "Is Vulnerable while in Sunlight"
 columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Cryptid*
+*[[Medium]] Cryptid*
+**TL**: 1.2
 
 **HD**: 1 (4 HP)
 **Speed:** 30'
@@ -35,22 +41,27 @@ bestiary: true
 **Morale:** 7
 **\# Appearing:** 2d6
 **Senses**: Darksight
-**Armor**: 1 [as Leather]
+**[[Armor]]**: 1 [as Leather]
 
 ***ACTIONS***
 ---
-Determined by type on table below.
+| Type | Actions |
+|---|---|
+| [[Archer]] | Shortbow [[[Ranged]] Attack]: 3 (1d6) |
+| Mage | [[Apoplex]] [Cast, Remote \| Will] (3/Day): [[Berserk]] (Cd4) |
+| Mage | Flare [Cast, 10' Sphere \| Reflex] (3/Day): 7 (2d6) |
+| Mage | Staff [[[Melee]] Attack]: 2 (1d4) |
+| Warrior | Dagger [[[Melee]] Attack, Thrown]: 2 (1d4) |
 
 ***ABILITIES***
 ---
-**Sun-Averse:** Is Vulnerable while in Sunlight Type Actions
-**Archer Shortbow [Ranged Attack]:** 3 (d6) Mage Apoplex [Cast, Remote | Will] (3/Day): Berserk (Cd4) Flare [Cast, 10' Sphere | Reflex] (3/Day): 7 (2d6)
-**Staff [Melee Attack]:** 2 (d4)
+**Sun-Averse:** Is [[Vulnerable]] while in Sunlight
 
 ```statblock
 dice: true
 layout: Vagabond
 name: Goblin
+tl: 1.2
 size: Medium
 type: Cryptid
 hd: 1
@@ -62,15 +73,19 @@ appearing: "6 (2d6)"
 senses: Darksight
 armor: "1 [as Leather]"
 actions:
-  - name: Determined by type on table below.
-    desc: ""
+  - name: "Archer — Shortbow [Ranged Attack]"
+    desc: "3 (1d6)"
+  - name: "Mage — Apoplex [Cast, Remote | Will] (3/Day)"
+    desc: "Berserk (Cd4)"
+  - name: "Mage — Flare [Cast, 10' Sphere | Reflex] (3/Day)"
+    desc: "7 (2d6)"
+  - name: "Mage — Staff [Melee Attack]"
+    desc: "2 (1d4)"
+  - name: "Warrior — Dagger [Melee Attack, Thrown]"
+    desc: "2 (1d4)"
 abilities:
   - name: Sun-Averse
-    desc: Is Vulnerable while in Sunlight Type Actions
-  - name: "Archer Shortbow [Ranged Attack]"
-    desc: "3 (1d6) Mage Apoplex — Cast, Remote | Will (3/Day): Berserk (Cd4) Flare — Cast, 10ft Sphere | Reflex (3/Day): 7 (2d6)"
-  - name: "Staff [Melee Attack]"
-    desc: 2 (1d4)
+    desc: "Is Vulnerable while in Sunlight"
 columns: 2
 forceColumns: true
 bestiary: true

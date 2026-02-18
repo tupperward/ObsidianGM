@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Knight
+tl: 2.8
 size: Medium
 type: Humanlike
 hd: 3
@@ -23,27 +24,29 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Humanlike*
+*[[Medium]] Humanlike*
+**TL**: 2.8
 
 **HD**: 3 (13 HP)
 **Speed:** 25'
 **Zone**: Frontline
 **Morale:** 10
-**Armor**: 3 [as Plate]
+**[[Armor]]**: 3 [as Plate]
 
 ***ACTIONS***
 ---
-Greatsword [Melee Attack]: 5 (d10)
-Rally [Action]: Grants its Allies who hear it a d4 bonus to their damage rolls and Will Saves for 1 Round.
+Greatsword [[[Melee]] Attack]: 5 (d10)
+[[Rally]] [Action]: Grants its Allies who hear it a d4 bonus to their damage rolls and Will [[Saves]] for 1 Round.
 
 ***ABILITIES***
 ---
-**Leadership:** While it is alive and in sight, its Allies always pass Morale Checks and can't be Frightened.
+**[[Leadership]]:** While it is alive and in sight, its Allies always pass Morale Checks and can't be [[Frightened]].
 
 ```statblock
 dice: true
 layout: Vagabond
 name: Knight
+tl: 2.8
 size: Medium
 type: Humanlike
 hd: 3

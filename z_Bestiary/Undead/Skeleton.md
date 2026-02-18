@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Skeleton
+tl: 1.2
 size: Medium
 type: Undead
 hd: 1
@@ -25,30 +26,32 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Undead*
+*[[Medium]] Undead*
+**TL**: 1.2
 
 **HD**: 1 (4 HP)
 **Speed:** 30'
 **Zone**: Midline
 **Morale:** 12
 **\# Appearing:** d6
-**Armor**: 1 [as Leather]
+**[[Armor]]**: 1 [as Leather]
 **Immune**: Pierce, Poison, Slash
-**Weak**: Blunt; Silvered Weapons
-**Status Immunities**: Fatigued, Sickened, Suffocating, Unconscious
+**Weak**: Blunt; Silvered [[Weapons]]
+**Status Immunities**: [[Fatigued]], [[Sickened]], [[Suffocating]], [[Unconscious]]
 
 ***ACTIONS***
 ---
-Weapon [Melee Attack]: 3 (d6) or (by Weapon)
+Weapon [[[Melee]] Attack]: 3 (d6) or (by Weapon)
 
 ***ABILITIES***
 ---
-**Nightwalker:** Can't Move or Target over lines of salt or in areas illuminated by Sunlight. It is Incapacitated and
+**Nightwalker:** Can't Move or Target over lines of salt or in areas illuminated by Sunlight. It is [[Incapacitated]] and
 
 ```statblock
 dice: true
 layout: Vagabond
 name: Skeleton
+tl: 1.2
 size: Medium
 type: Undead
 hd: 1

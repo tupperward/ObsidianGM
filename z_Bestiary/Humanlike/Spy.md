@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Spy
+tl: 1.5
 size: Medium
 type: Humanlike
 hd: 1
@@ -25,28 +26,30 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Humanlike*
+*[[Medium]] Humanlike*
+**TL**: 1.5
 
 **HD**: 1 (4 HP)
 **Speed:** 35'
 **Zone**: Midline
 **Morale:** 5
-**Armor**: 1 [as Leather]
+**[[Armor]]**: 1 [as Leather]
 
 ***ACTIONS***
 ---
 Combo: 1×Garrote and 1×Dagger
-Garrote [Melee Attack]: Grappled and Suffocating
-Dagger [Melee Attack, Thrown]: 2 (d4) and Sneak Attack
+Garrote [[[Melee]] Attack]: Grappled and [[Suffocating]]
+Dagger [[[Melee]] Attack, Thrown]: 2 (d4) and [[Sneak Attack]]
 
 ***ABILITIES***
 ---
-**Sneak Attack:** (1/Turn) It deals 2 (d4) additional damage with an attack against a Vulnerable Target. This attack ignores Armor and can Explode.
+**[[Sneak Attack]]:** (1/Turn) It deals 2 (d4) additional damage with an attack against a [[Vulnerable]] Target. This attack ignores [[Armor]] and can Explode.
 
 ```statblock
 dice: true
 layout: Vagabond
 name: Spy
+tl: 1.5
 size: Medium
 type: Humanlike
 hd: 1

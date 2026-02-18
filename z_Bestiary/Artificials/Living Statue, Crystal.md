@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: "Living Statue, Crystal"
+tl: 2.6
 size: Medium
 type: Artificial
 hd: 3
@@ -25,21 +26,22 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Artificial*
+*[[Medium]] Artificial*
+**TL**: 2.6
 
 **HD**: 3 (13 HP)
 **Speed:** 30'
 **Zone**: Frontline
 **Morale:** 11
 **\# Appearing:** d4
-**Armor**: 3 [as (+1) Chain]
+**[[Armor]]**: 3 [as (+1) Chain]
 **Immune**: Poison
 **Weak**: Blunt
-**Status Immunities**: Blinded, Fatigued, Suffocating, Unconscious
+**Status Immunities**: [[Blinded]], [[Fatigued]], [[Suffocating]], [[Unconscious]]
 
 ***ACTIONS***
 ---
-Weapon [Melee Attack]: 4 (d8) or (by Weapon)
+Weapon [[[Melee]] Attack]: 4 (d8) or (by Weapon)
 
 ***ABILITIES***
 ---
@@ -49,6 +51,7 @@ Weapon [Melee Attack]: 4 (d8) or (by Weapon)
 dice: true
 layout: Vagabond
 name: "Living Statue, Crystal"
+tl: 2.6
 size: Medium
 type: Artificial
 hd: 3

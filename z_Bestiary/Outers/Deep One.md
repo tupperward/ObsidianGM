@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Deep One
+tl: 2.5
 size: Medium
 type: Outer (Beyonder)
 hd: 3
@@ -30,7 +31,8 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Outer (Beyonder)*
+*[[Medium]] Outer (Beyonder)*
+**TL**: 2.5
 
 **HD**: 3 (13 HP)
 **Speed:** 30' (Swim)
@@ -38,24 +40,25 @@ bestiary: true
 **Morale:** 8
 **\# Appearing:** 2d12
 **Senses**: Darksight
-**Armor**: 2 [as Chain]
+**[[Armor]]**: 2 [as Chain]
 **Immune**: Poison
 
 ***ACTIONS***
 ---
 Combo: 2×Claw
-Claw [Melee Attack]: 3 (d6)
-Weapon [Melee Attack]: 3 (d6) or (by Weapon)
+Claw [[[Melee]] Attack]: 3 (d6)
+Weapon [[[Melee]] Attack]: 3 (d6) or (by Weapon)
 
 ***ABILITIES***
 ---
 **Amphibious:** Can breathe air and water.
-**Sunblinded:** Blinded by Sunlight.
+**Sunblinded:** [[Blinded]] by Sunlight.
 
 ```statblock
 dice: true
 layout: Vagabond
 name: Deep One
+tl: 2.5
 size: Medium
 type: Outer (Beyonder)
 hd: 3

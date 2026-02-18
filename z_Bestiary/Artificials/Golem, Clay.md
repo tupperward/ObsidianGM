@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: "Golem, Clay"
+tl: 4.4
 size: Large
 type: Artificial
 hd: 12
@@ -35,6 +36,7 @@ forceColumns: true
 bestiary: true
 ---
 *Large Artificial*
+**TL**: 4.4
 
 **HD**: 12 (54 HP)
 **Speed:** 15'
@@ -42,27 +44,28 @@ bestiary: true
 **Morale:** 12
 **\# Appearing:** 1
 **Senses**: Darksight
-**Armor**: 0 [as Unarmored]
+**[[Armor]]**: 0 [as Unarmored]
 **Immune**: Poison; Physical from non-Relics
-**Weak**: Adamant Weapons
-**Status Immunities**: Charmed, Fatigued, Paralyzed, Sickened, Suffocating
+**Weak**: Adamant [[Weapons]]
+**Status Immunities**: [[Charmed]], [[Fatigued]], [[Paralyzed]], [[Sickened]], [[Suffocating]]
 
 ***ACTIONS***
 ---
 Combo: 2×Slam
-Slam [Melee Attack]: 9 (2d8)
+Slam [[[Melee]] Attack]: 9 (2d8)
 
 ***ABILITIES***
 ---
 **Acid Bather:** Acid damage rolls affect it as healing rolls.
 **Immutable:** It can't be transformed.
-**Magic Ward I:** The first time it is unwillingly affected by a Spell each Round, the Caster must spend an extra 1 Mana to affect it.
-**Unbaked:** If it takes 5 or more Fire damage at once, it is Dazed (Cd4).
+**Magic [[Ward]] I:** The first time it is unwillingly affected by a Spell each Round, the Caster must spend an extra 1 Mana to affect it.
+**Unbaked:** If it takes 5 or more Fire damage at once, it is [[Dazed]] (Cd4).
 
 ```statblock
 dice: true
 layout: Vagabond
 name: "Golem, Clay"
+tl: 4.4
 size: Large
 type: Artificial
 hd: 12

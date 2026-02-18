@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: "Hippopotamus, Behemoth"
+tl: 4.9
 size: Huge
 type: Beast
 hd: 10
@@ -22,27 +23,29 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Huge Beast*
+*Huge [[Beast]]*
+**TL**: 4.9
 
 **HD**: 10 (45 HP)
 **Speed:** 30' (Swim 40')
 **Zone**: Frontline
 **Morale:** 9
 **\# Appearing:** 1
-**Armor**: 3 [as Plate]
+**[[Armor]]**: 3 [as Plate]
 
 ***ACTIONS***
 ---
-Bite [Melee Attack]: 13 (3d8) and Restrained if it is smaller. This always hits a Target Restrained this way.
+Bite [[[Melee]] Attack]: 13 (3d8) and [[Restrained]] if it is smaller. This always hits a Target [[Restrained]] this way.
 
 ***ABILITIES***
 ---
-**Aggressor:** The first time it Moves at least 10' toward an Enemy on a Turn, it regains that Speed.
+**[[Aggressor]]:** The first time it Moves at least 10' toward an Enemy on a Turn, it regains that Speed.
 
 ```statblock
 dice: true
 layout: Vagabond
 name: "Hippopotamus, Behemoth"
+tl: 4.9
 size: Huge
 type: Beast
 hd: 10

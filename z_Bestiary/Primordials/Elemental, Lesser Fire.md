@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: "Elemental, Lesser Fire"
+tl: 3.6
 size: Medium
 type: Primordial
 hd: 8
@@ -29,7 +30,8 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Primordial*
+*[[Medium]] Primordial*
+**TL**: 3.6
 
 **HD**: 8 (36 HP)
 **Speed:** 0' (Fly 30')
@@ -37,24 +39,25 @@ bestiary: true
 **Morale:** 10
 **\# Appearing:** 1
 **Senses**: Blindsight
-**Armor**: 3 [as Plate]
+**[[Armor]]**: 3 [as Plate]
 **Immune**: Fire, Poison; Physical from non-Relics
-**Status Immunities**: Fatigued, Prone, Sickened, Suffocating, Restrained
+**Status Immunities**: [[Fatigued]], [[Prone]], [[Sickened]], [[Suffocating]], [[Restrained]]
 
 ***ACTIONS***
 ---
-Flame [Ranged Attack]: 4 (d8) and Burning (Cd4)
+Flame [[[Ranged]] Attack]: 4 (d8) and [[Burning]] (Cd4)
 
 ***ABILITIES***
 ---
-**Living Fire:** Close Beings are Burning (d6).
-**Illuminating:** Sheds Light out to Near.
+**Living Fire:** Close Beings are [[Burning]] (d6).
+**Illuminating:** Sheds [[Light]] out to Near.
 **Seep:** It can enter the space of other Beings and openings as small as 1 inch without squeezing.
 
 ```statblock
 dice: true
 layout: Vagabond
 name: "Elemental, Lesser Fire"
+tl: 3.6
 size: Medium
 type: Primordial
 hd: 8

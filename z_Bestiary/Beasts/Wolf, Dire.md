@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: "Wolf, Dire"
+tl: 1.9
 size: Large
 type: Beast
 hd: 5
@@ -24,28 +25,30 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Large Beast*
+*Large [[Beast]]*
+**TL**: 1.9
 
 **HD**: 5 (22 HP)
 **Speed:** 50'
 **Zone**: Frontline
 **Morale:** 9
 **\# Appearing:** d4
-**Armor**: 1 [as Leather]
+**[[Armor]]**: 1 [as Leather]
 
 ***ACTIONS***
 ---
-Bite [Melee Attack]: 5 (2d4)
+Bite [[[Melee]] Attack]: 5 (2d4)
 
 ***ABILITIES***
 ---
-**Pack Hunter:** Targets within 5' of one of this Being's Allies are Vulnerable to its attacks.
-**Pounce:** If it moves at least 20' before an attack on the same Turn, the Target is also knocked Prone if it is Large or smaller.
+**Pack [[Hunter]]:** Targets within 5' of one of this Being's Allies are [[Vulnerable]] to its attacks.
+**Pounce:** If it moves at least 20' before an attack on the same Turn, the Target is also knocked [[Prone]] if it is Large or smaller.
 
 ```statblock
 dice: true
 layout: Vagabond
 name: "Wolf, Dire"
+tl: 1.9
 size: Large
 type: Beast
 hd: 5

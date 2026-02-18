@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: "Beetle, Giant Tiger"
+tl: 3.0
 size: Medium
 type: Beast
 hd: 3
@@ -22,27 +23,29 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Beast*
+*[[Medium]] [[Beast]]*
+**TL**: 3.0
 
 **HD**: 3 (13 HP)
 **Speed:** 50'
 **Zone**: Frontline
 **Morale:** 9
 **\# Appearing:** 2d6
-**Armor**: 3 [as Plate]
+**[[Armor]]**: 3 [as Plate]
 
 ***ACTIONS***
 ---
-Bite [Melee Attack]: 7 (2d6)
+Bite [[[Melee]] Attack]: 7 (2d6)
 
 ***ABILITIES***
 ---
-**Soft Underbelly:** Its Armor is 0 while it is Prone.
+**Soft Underbelly:** Its [[Armor]] is 0 while it is [[Prone]].
 
 ```statblock
 dice: true
 layout: Vagabond
 name: "Beetle, Giant Tiger"
+tl: 3.0
 size: Medium
 type: Beast
 hd: 3

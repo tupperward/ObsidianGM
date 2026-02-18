@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: "Whale, Blue"
+tl: 8.7
 size: Colossal
 type: Beast
 hd: 15
@@ -23,7 +24,8 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Colossal Beast*
+*Colossal [[Beast]]*
+**TL**: 8.7
 
 **HD**: 15 (67 HP)
 **Speed:** 0' (Swim 60')
@@ -31,20 +33,21 @@ bestiary: true
 **Morale:** 7
 **\# Appearing:** 1
 **Senses**: Echolocation
-**Armor**: 1 [as Leather]
+**[[Armor]]**: 1 [as Leather]
 
 ***ACTIONS***
 ---
-Slam [Melee Attack]: 39 (6d12)
+Slam [[[Melee]] Attack]: 39 (6d12)
 
 ***ABILITIES***
 ---
-**Hold Breath:** Can hold its breath for up to two hours.
+**[[Hold]] Breath:** Can hold its breath for up to two hours.
 
 ```statblock
 dice: true
 layout: Vagabond
 name: "Whale, Blue"
+tl: 8.7
 size: Colossal
 type: Beast
 hd: 15

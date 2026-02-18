@@ -3,6 +3,7 @@ statblock: true
 layout: Vagabond
 dice: true
 name: Gargoyle
+tl: 2.6
 size: Medium
 type: Artificial
 hd: 4
@@ -28,22 +29,23 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Artificial*
+*[[Medium]] Artificial*
+**TL**: 2.6
 
 **HD**: 4 (18 HP)
 **Speed:** 15' (Fly 30')
 **Zone**: Frontline
 **Morale:** 11
-**Armor**: 2 [as Chain]
+**[[Armor]]**: 2 [as Chain]
 **Immune**: Poison, Psychic
 **Weak**: Blunt
-**Status Immunities**: Fatigue, Sickened, Suffocating
+**Status Immunities**: Fatigue, [[Sickened]], [[Suffocating]]
 
 ***ACTIONS***
 ---
 Combo: 2×Claw and 1×Bite
-Bite [Melee Attack]: 3 (d6)
-Claw [Melee Attack]: 1 (d3)
+Bite [[[Melee]] Attack]: 3 (d6)
+Claw [[[Melee]] Attack]: 1 (d3)
 
 ***ABILITIES***
 ---
@@ -53,6 +55,7 @@ Claw [Melee Attack]: 1 (d3)
 layout: Vagabond
 dice: true
 name: Gargoyle
+tl: 2.6
 size: Medium
 type: Artificial
 hd: 4

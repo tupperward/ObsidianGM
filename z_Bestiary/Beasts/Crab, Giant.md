@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: "Crab, Giant"
+tl: 4.2
 size: Medium
 type: Beast
 hd: 3
@@ -26,29 +27,31 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Beast*
+*[[Medium]] [[Beast]]*
+**TL**: 4.2
 
 **HD**: 3 (13 HP)
 **Speed:** 20'
 **Zone**: Frontline
 **Morale:** 12
 **\# Appearing:** d6
-**Armor**: 3 [as Plate]
+**[[Armor]]**: 3 [as Plate]
 
 ***ACTIONS***
 ---
 Combo: 2×Pincer
-Pincer [Melee Attack]: 7 (2d6)
+Pincer [[[Melee]] Attack]: 7 (2d6)
 
 ***ABILITIES***
 ---
 **Amphibious:** It can breathe air and water.
-**On-Sight:** Is Berserk, considers all Beings Enemies.
+**On-Sight:** Is [[Berserk]], considers all Beings Enemies.
 
 ```statblock
 dice: true
 layout: Vagabond
 name: "Crab, Giant"
+tl: 4.2
 size: Medium
 type: Beast
 hd: 3

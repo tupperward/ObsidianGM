@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Roper
+tl: 5.8
 size: Large
 type: Cryptid
 hd: 12
@@ -15,11 +16,19 @@ senses: Darksight
 armor: "3 [as Plate]"
 immune: "Cold, Shock"
 weak: Blunt
+actions:
+  - name: Combo
+    desc: 1×Tendril per (Tendrils) and 1×Bite
+  - name: "Bite [Melee Attack]"
+    desc: 17 (5d6)
+  - name: "Tendril [Grapple, Far]"
+    desc: Restrained and pulled Close
 columns: 2
 forceColumns: true
 bestiary: true
 ---
 *Large Cryptid*
+**TL**: 5.8
 
 **HD**: 12 (54 HP)
 **Speed:** 10' (Climb, Cling)
@@ -27,20 +36,21 @@ bestiary: true
 **Morale:** 2
 **\# Appearing:** d3
 **Senses**: Darksight
-**Armor**: 3 [as Plate]
+**[[Armor]]**: 3 [as Plate]
 **Immune**: Cold, Shock
 **Weak**: Blunt
 
 ***ACTIONS***
 ---
 Combo: 1×Tendril per (Tendrils) and 1×Bite
-Bite [Melee Attack]: 17 (5d6)
-Tendril [Grapple, Far]: Restrained and pulled Close
+Bite [[[Melee]] Attack]: 17 (5d6)
+Tendril [Grapple, Far]: [[Restrained]] and pulled Close
 
 ```statblock
 dice: true
 layout: Vagabond
 name: Roper
+tl: 5.8
 size: Large
 type: Cryptid
 hd: 12
@@ -56,4 +66,11 @@ weak: Blunt
 columns: 2
 forceColumns: true
 bestiary: true
+actions:
+  - name: Combo
+    desc: 1×Tendril per (Tendrils) and 1×Bite
+  - name: "Bite [Melee Attack]"
+    desc: 17 (5d6)
+  - name: "Tendril [Grapple, Far]"
+    desc: Restrained and pulled Close
 ```

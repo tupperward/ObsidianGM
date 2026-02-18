@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Carrion Clump
+tl: 0.9
 size: Medium
 type: Undead
 hd: 2
@@ -16,11 +17,15 @@ armor: "1 [as Leather]"
 immune: Poison
 weak: Acid; Silvered Weapons
 status_immunities: "Charmed, Fatigued, Sickened, Suffocating"
+actions:
+  - name: "Viscera Sling [Ranged Attack]"
+    desc: "3 (1d6) and pass [Endure] or become Sickened (Cd6, stinks and can't speak from retching)."
 columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Undead*
+*[[Medium]] Undead*
+**TL**: 0.9
 
 **HD**: 2 (9 HP)
 **Speed:** 10'
@@ -28,19 +33,20 @@ bestiary: true
 **Morale:** 12
 **\# Appearing:** d6
 **Senses**: Blindsight
-**Armor**: 1 [as Leather]
+**[[Armor]]**: 1 [as Leather]
 **Immune**: Poison
-**Weak**: Acid; Silvered Weapons
-**Status Immunities**: Charmed, Fatigued, Sickened, Suffocating
+**Weak**: Acid; Silvered [[Weapons]]
+**Status Immunities**: [[Charmed]], [[Fatigued]], [[Sickened]], [[Suffocating]]
 
 ***ACTIONS***
 ---
-Viscera Sling [Ranged Attack]: 3 (d6) and pass [Endure] or become Sickened (Cd6, stinks and can't speak from retching).
+Viscera Sling [[[Ranged]] Attack]: 3 (d6) and pass [Endure] or become [[Sickened]] (Cd6, stinks and can't speak from retching).
 
 ```statblock
 dice: true
 layout: Vagabond
 name: Carrion Clump
+tl: 0.9
 size: Medium
 type: Undead
 hd: 2
@@ -57,4 +63,7 @@ status_immunities: "Charmed, Fatigued, Sickened, Suffocating"
 columns: 2
 forceColumns: true
 bestiary: true
+actions:
+  - name: "Viscera Sling [Ranged Attack]"
+    desc: "3 (1d6) and pass [Endure] or become Sickened (Cd6, stinks and can't speak from retching)."
 ```

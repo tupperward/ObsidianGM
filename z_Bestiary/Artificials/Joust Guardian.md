@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Joust Guardian
+tl: 6.3
 size: Large
 type: Artificial
 hd: 6
@@ -29,21 +30,22 @@ forceColumns: true
 bestiary: true
 ---
 *Large Artificial*
+**TL**: 6.3
 
 **HD**: 6 (27 HP)
 **Speed:** 30'
 **Zone**: Frontline
 **Morale:** -
 **\# Appearing:** 1
-**Armor**: 3 [as Plate]
+**[[Armor]]**: 3 [as Plate]
 **Immune**: Poison
-**Status Immunities**: Berserk, Charmed, Confused, Fatigued, Frightened, Unconscious, Sickened, Suffocating
+**Status Immunities**: [[Berserk]], [[Charmed]], [[Confused]], [[Fatigued]], [[Frightened]], [[Unconscious]], [[Sickened]], [[Suffocating]]
 
 ***ACTIONS***
 ---
 Combo: 1×Lance and 1×Cannon
-Lance [Melee Attack, Near]: 13 (2d12)
-Cannon [Ranged Attack (Sphere 10')]: 11 (3d6)
+Lance [[[Melee]] Attack, Near]: 13 (2d12)
+Cannon [[[Ranged]] Attack (Sphere 10')]: 11 (3d6)
 
 ***ABILITIES***
 ---
@@ -53,6 +55,7 @@ Cannon [Ranged Attack (Sphere 10')]: 11 (3d6)
 dice: true
 layout: Vagabond
 name: Joust Guardian
+tl: 6.3
 size: Large
 type: Artificial
 hd: 6

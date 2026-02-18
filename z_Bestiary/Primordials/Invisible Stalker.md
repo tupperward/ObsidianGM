@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Invisible Stalker
+tl: 4.1
 size: Medium
 type: Primordial
 hd: 8
@@ -25,7 +26,8 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Primordial*
+*[[Medium]] Primordial*
+**TL**: 4.1
 
 **HD**: 8 (36 HP)
 **Speed:** 40'
@@ -33,22 +35,23 @@ bestiary: true
 **Morale:** 12
 **\# Appearing:** d4
 **Senses**: Blindsight
-**Armor**: 3 [as Plate]
+**[[Armor]]**: 3 [as Plate]
 **Immune**: Poison
-**Status Immunities**: Fatigued, Paralyzed, Prone, Restrained, Sickened, Suffocating, Unconscious
+**Status Immunities**: [[Fatigued]], [[Paralyzed]], [[Prone]], [[Restrained]], [[Sickened]], [[Suffocating]], [[Unconscious]]
 
 ***ACTIONS***
 ---
-Blow [Melee Attack]: 10 (4d4)
+Blow [[[Melee]] Attack]: 10 (4d4)
 
 ***ABILITIES***
 ---
-**Invisible:** It is permanently Invisible.
+**[[Invisible]]:** It is permanently [[Invisible]].
 
 ```statblock
 dice: true
 layout: Vagabond
 name: Invisible Stalker
+tl: 4.1
 size: Medium
 type: Primordial
 hd: 8

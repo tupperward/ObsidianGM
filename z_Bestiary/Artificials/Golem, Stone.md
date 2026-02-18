@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: "Golem, Stone"
+tl: 7.5
 size: Large
 type: Artificial
 hd: 13
@@ -33,6 +34,7 @@ forceColumns: true
 bestiary: true
 ---
 *Large Artificial*
+**TL**: 7.5
 
 **HD**: 13 (58 HP)
 **Speed:** 30'
@@ -40,26 +42,27 @@ bestiary: true
 **Morale:** 11
 **\# Appearing:** 1
 **Senses**: Darksight
-**Armor**: 3 [as (+1) Chain]
+**[[Armor]]**: 3 [as (+1) Chain]
 **Immune**: Poison; Physical from non-Relics
-**Weak**: Adamant Weapons
-**Status Immunities**: Charmed, Fatigued, Paralyzed, Sickened, Suffocating
+**Weak**: Adamant [[Weapons]]
+**Status Immunities**: [[Charmed]], [[Fatigued]], [[Paralyzed]], [[Sickened]], [[Suffocating]]
 
 ***ACTIONS***
 ---
-Slow Down [Cast, Aura Near | Will] (Recharge Cd4): Dazed (Cd4)
+Slow Down [Cast, Aura Near | Will] (Recharge Cd4): [[Dazed]] (Cd4)
 Combo: 2×Slam
-Slam [Melee Attack]: 13 (3d8)
+Slam [[[Melee]] Attack]: 13 (3d8)
 
 ***ABILITIES***
 ---
 **Immutable:** It can't be transformed.
-**Magic Ward I:** The first time it is unwillingly affected by a Spell each Round, the Caster must spend an extra 1 Mana to affect it.
+**Magic [[Ward]] I:** The first time it is unwillingly affected by a Spell each Round, the Caster must spend an extra 1 Mana to affect it.
 
 ```statblock
 dice: true
 layout: Vagabond
 name: "Golem, Stone"
+tl: 7.5
 size: Large
 type: Artificial
 hd: 13

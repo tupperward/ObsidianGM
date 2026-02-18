@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: "Elemental, Fire"
+tl: 5.9
 size: Large
 type: Primordial
 hd: 12
@@ -30,6 +31,7 @@ forceColumns: true
 bestiary: true
 ---
 *Large Primordial*
+**TL**: 5.9
 
 **HD**: 12 (54 HP)
 **Speed:** 0' (Fly 40')
@@ -37,24 +39,25 @@ bestiary: true
 **Morale:** 10
 **\# Appearing:** 1
 **Senses**: Blindsight
-**Armor**: 4 [as (+1) Armor]
+**[[Armor]]**: 4 [as (+1) [[Armor]]]
 **Immune**: Fire, Poison; Physical from non-Relics
-**Status Immunities**: Fatigued, Prone, Restrained, Sickened, Suffocating
+**Status Immunities**: [[Fatigued]], [[Prone]], [[Restrained]], [[Sickened]], [[Suffocating]]
 
 ***ACTIONS***
 ---
-Flame [Ranged Attack]: 9 (2d8) and Burning (Cd6)
+Flame [[[Ranged]] Attack]: 9 (2d8) and [[Burning]] (Cd6)
 
 ***ABILITIES***
 ---
-**Living Fire:** Close Beings are Burning (d8).
-**Illuminating:** Sheds Light out to Near.
+**Living Fire:** Close Beings are [[Burning]] (d8).
+**Illuminating:** Sheds [[Light]] out to Near.
 **Seep:** It can enter the space of other Beings and openings as small as 1 inch without squeezing.
 
 ```statblock
 dice: true
 layout: Vagabond
 name: "Elemental, Fire"
+tl: 5.9
 size: Large
 type: Primordial
 hd: 12

@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: "Beetle, Giant Fire"
+tl: 1.7
 size: Small
 type: Beast
 hd: 2
@@ -24,28 +25,30 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Small Beast*
+*Small [[Beast]]*
+**TL**: 1.7
 
 **HD**: 2 (2 HP)
 **Speed:** 40'
 **Zone**: Frontline
 **Morale:** 3
 **\# Appearing:** 2d6
-**Armor**: 1 [as Leather]
+**[[Armor]]**: 1 [as Leather]
 
 ***ACTIONS***
 ---
-Bite [Melee Attack]: 5 (2d4)
+Bite [[[Melee]] Attack]: 5 (2d4)
 
 ***ABILITIES***
 ---
-**Bioluminescent:** Sheds Light out to Near.
-**Soft Underbelly:** Its Armor is 0 while it is Prone.
+**Bioluminescent:** Sheds [[Light]] out to Near.
+**Soft Underbelly:** Its [[Armor]] is 0 while it is [[Prone]].
 
 ```statblock
 dice: true
 layout: Vagabond
 name: "Beetle, Giant Fire"
+tl: 1.7
 size: Small
 type: Beast
 hd: 2

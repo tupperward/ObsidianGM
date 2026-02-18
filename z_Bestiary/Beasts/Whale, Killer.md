@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: "Whale, Killer"
+tl: 3.1
 size: Colossal
 type: Beast
 hd: 6
@@ -23,7 +24,8 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Colossal Beast*
+*Colossal [[Beast]]*
+**TL**: 3.1
 
 **HD**: 6 (27 HP)
 **Speed:** 0' (Swim 80')
@@ -31,20 +33,21 @@ bestiary: true
 **Morale:** 7
 **\# Appearing:** d6
 **Senses**: Echolocation
-**Armor**: 1 [as Leather]
+**[[Armor]]**: 1 [as Leather]
 
 ***ACTIONS***
 ---
-Bite [Melee Attack]: 11 (2d10) and Restrained if smaller
+Bite [[[Melee]] Attack]: 11 (2d10) and [[Restrained]] if smaller
 
 ***ABILITIES***
 ---
-**Hold Breath:** Can hold its breath for up to two hours. Odd, often magical creatures that inspire folklore, are usually intelligent, and maybe cultured in their own right. There may also be magic influencing their biology, such as a curse causing a werewolf to shapeshift.
+**[[Hold]] Breath:** Can hold its breath for up to two hours. Odd, often magical creatures that inspire folklore, are usually intelligent, and maybe cultured in their own right. There may also be magic influencing their biology, such as a curse causing a werewolf to shapeshift.
 
 ```statblock
 dice: true
 layout: Vagabond
 name: "Whale, Killer"
+tl: 3.1
 size: Colossal
 type: Beast
 hd: 6

@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Rust Monster
+tl: 2.7
 size: Medium
 type: Cryptid
 hd: 5
@@ -25,7 +26,8 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Cryptid*
+*[[Medium]] Cryptid*
+**TL**: 2.7
 
 **HD**: 5 (22 HP)
 **Speed:** 15'
@@ -33,21 +35,22 @@ bestiary: true
 **Morale:** 7
 **\# Appearing:** d2
 **Senses**: Darksight
-**Armor**: 4 [as Plate plus Shield]
+**[[Armor]]**: 4 [as Plate plus Shield]
 
 ***ACTIONS***
 ---
-Antenna [Cast, Touch (metal Object)]: Rust Touch
-Bite [Melee Attack]: 3 (d6)
+Antenna [Cast, Touch (metal Object)]: [[Rust]] Touch
+Bite [[[Melee]] Attack]: 3 (d6)
 
 ***ABILITIES***
 ---
-**Rust Touch:** Non-Relic metal Items that make contact with it corrode. When this happens, roll a d6 for each Item. On a roll of 1, the Item breaks. If the Item that breaks is larger than Medium, this destroys a 1-foot square hole that is 1-foot deep in it.
+**[[Rust]] Touch:** Non-Relic metal Items that make contact with it corrode. When this happens, roll a d6 for each Item. On a roll of 1, the Item breaks. If the Item that breaks is larger than [[Medium]], this destroys a 1-foot square hole that is 1-foot deep in it.
 
 ```statblock
 dice: true
 layout: Vagabond
 name: Rust Monster
+tl: 2.7
 size: Medium
 type: Cryptid
 hd: 5

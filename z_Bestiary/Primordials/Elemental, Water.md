@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: "Elemental, Water"
+tl: 5.6
 size: Large
 type: Primordial
 hd: 12
@@ -26,6 +27,7 @@ forceColumns: true
 bestiary: true
 ---
 *Large Primordial*
+**TL**: 5.6
 
 **HD**: 12 (54 HP)
 **Speed:** 0' (Swim 40')
@@ -33,13 +35,13 @@ bestiary: true
 **Morale:** 10
 **\# Appearing:** 1
 **Senses**: Blindsight
-**Armor**: 4 [as (+1) Plate]
+**[[Armor]]**: 4 [as (+1) Plate]
 **Immune**: Acid, Poison; Physical from non-Relics
-**Status Immunities**: Blinded, Charmed, Fatigue, Frightened, Prone, Suffocating
+**Status Immunities**: [[Blinded]], [[Charmed]], Fatigue, [[Frightened]], [[Prone]], [[Suffocating]]
 
 ***ACTIONS***
 ---
-Strike [Melee Attack]: 9 (2d8) plus 4 (d8) if in water
+Strike [[[Melee]] Attack]: 9 (2d8) plus 4 (d8) if in water
 
 ***ABILITIES***
 ---
@@ -49,6 +51,7 @@ Strike [Melee Attack]: 9 (2d8) plus 4 (d8) if in water
 dice: true
 layout: Vagabond
 name: "Elemental, Water"
+tl: 5.6
 size: Large
 type: Primordial
 hd: 12

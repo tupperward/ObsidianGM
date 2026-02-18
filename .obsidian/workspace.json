@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "af34663225343d41",
+        "id": "6ebe20c7129aff6e",
         "type": "tabs",
         "children": [
           {
-            "id": "67c99af5732372a3",
+            "id": "5e8aed5bfecbbe59",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Blood on the Chapparal/Blood on the Chapparal.md",
+                "file": "The Ruinous League/Character Sheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Blood on the Chapparal"
+              "title": "Character Sheet"
+            }
+          },
+          {
+            "id": "b77e28fea9110acc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaigns/Blood on the Chapparal/05. Locations/Cairn Bluff.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cairn Bluff"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,6 +102,7 @@
       {
         "id": "127dace509e85b5c",
         "type": "tabs",
+        "dimension": 47.253787878787875,
         "children": [
           {
             "id": "347bd78c357d3390",
@@ -156,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaigns/Blood on the Chapparal/Blood on the Chapparal.md",
+                "file": "Untitled 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Blood on the Chapparal"
+              "title": "Outline of Untitled 1"
             }
           },
           {
@@ -206,11 +222,12 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       },
       {
         "id": "5f3f43f3edabc220",
         "type": "tabs",
+        "dimension": 19.412878787878785,
         "children": [
           {
             "id": "8e5a2622bbabb4d7",
@@ -227,6 +244,7 @@
       {
         "id": "e2d3872172f57e67",
         "type": "tabs",
+        "dimension": 33.33333333333333,
         "children": [
           {
             "id": "912b8b0a5d061600",
@@ -242,7 +260,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 407.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -264,43 +282,43 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "67c99af5732372a3",
+  "active": "b77e28fea9110acc",
   "lastOpenFiles": [
-    "Campaigns/Blood on the Chapparal/Locations/The Glowing Gulch.md",
-    "Campaigns/Blood on the Chapparal/Blood on the Chapparal.md",
-    "Assets/03. Non Player Characters/Gamina Banagher.md",
-    "Assets/03. Non Player Characters",
-    "Assets",
-    "The Line.md",
-    "Campaigns/Blood on the Chapparal/01. Adventures/Blood on the Chaparral/Blood on the Chaparral.md",
-    "Campaigns/Blood on the Chapparal/01. Adventures/The Pale Horse and What Rode It/The Pale Horse and What Rode It.md",
-    "Campaigns/Blood on the Chapparal/01. Adventures/The Pale Horse and What Rode It",
-    "Campaigns/Blood on the Chapparal/01. Adventures/02. Sessions/Session 1/Session 1.md",
-    "Campaigns/Blood on the Chapparal/01. Adventures/02. Sessions/Session 1",
-    "Campaigns/Blood on the Chapparal/01. Adventures/Blood on the Chaparral",
-    "Campaigns/Blood on the Chapparal/01. Adventures/02. Sessions/Session 0/Session 0.md",
-    "Campaigns/Blood on the Chapparal/01. Adventures/02. Sessions/Session 0",
-    "Campaigns/Blood on the Chapparal/01. Adventures/02. Sessions",
-    "Campaigns/Campaign Overview/01. Adventures/Attack of the ",
-    "Campaigns/Blood on the Chapparal/01. Adventures",
-    "Campaigns/Blood on the Chapparal",
-    "Campaigns/Blood on the Chapparal/Clues/Modron Repairs.md",
-    "z_Bestiary/Beasts/Cat.md",
-    "z_Bestiary/Beasts/Crab, Giant.md",
-    "z_Bestiary/Beasts/Elephant.md",
-    "z_Bestiary/Beasts/Chicken.md",
-    "z_Bestiary/Beasts/Crayfish, Giant.md",
-    "z_Bestiary/Outers/Chort.md",
-    "z_Bestiary/Outers/Oni.md",
-    "z_Bestiary/Outers/Dethbat.md",
-    "z_Bestiary/Outers/Floating Eye.md",
-    "z_Bestiary/Outers/Cloaker.md",
-    "z_Bestiary/Outers/Agnar.md",
-    "Campaigns/Blood on the Chapparal/Characters & Groups/Ordo Gravis Dens.md",
-    "Campaigns/Blood on the Chapparal/Characters & Groups/Gamina Banagher.md",
-    "Campaigns/Blood on the Chapparal/Locations/Oufoillea.md",
-    "Campaigns/Blood on the Chapparal/Locations/The Clocktower.md",
-    "Campaigns/Blood on the Chapparal/Locations/Banagher Butte.md",
-    "Campaigns/Blood on the Chapparal/Hooks/Modron Infestation.md"
+    "Giant Spider.md",
+    "Campaigns/Blood on the Chapparal/05. Locations/Cairn Bluff.md",
+    "The Ruinous League/Hook & Play.md",
+    "The Ruinous League/Crawl.md",
+    "The Ruinous League/Character Sheet.md",
+    "z_Rules/Running Enemies.md",
+    "z_Rules/Combat.md",
+    "z_Rules/Armor.md",
+    "z_Rules/Casting Spells.md",
+    "z_Rules/Stats, Skills & Passives.md",
+    "z_Ancestries/Traits/Hulking.md",
+    "z_Ancestries/Traits/Beefy.md",
+    "z_Ancestries/Traits/Scavenger.md",
+    "z_Ancestries/Traits/Draconic Resilience.md",
+    "z_Ancestries/Traits/Scale.md",
+    "z_Ancestries/Traits/Breath Attack.md",
+    "z_Ancestries/Traits/Tricksy.md",
+    "z_Ancestries/Traits/Squat.md",
+    "z_Ancestries/Traits/Nimble.md",
+    "z_Ancestries/Traits/Naturally Attuned.md",
+    "z_Ancestries/Traits/Elven Eyes.md",
+    "z_Ancestries/Traits/Ascendancy.md",
+    "z_Ancestries/Traits/Tough.md",
+    "z_Ancestries/Traits/Sturdy.md",
+    "z_Ancestries/Traits/Darksight.md",
+    "z_Ancestries/Traits/Strong Potential.md",
+    "z_Ancestries/Traits",
+    "z_Ancestries",
+    "z_Rules/Adventuring Overview",
+    "z_Classes/Features",
+    "z_Classes",
+    "z_Classes/Vanguard/Features",
+    "z_Classes/Sorcerer/Features",
+    "z_Classes/Rogue/Features",
+    "z_Classes/Revelator/Features",
+    "z_Classes/Pugilist/Features"
   ]
 }

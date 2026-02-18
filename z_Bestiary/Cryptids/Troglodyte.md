@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Troglodyte
+tl: 2.9
 size: Medium
 type: Cryptid
 hd: 2
@@ -33,7 +34,8 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Cryptid*
+*[[Medium]] Cryptid*
+**TL**: 2.9
 
 **HD**: 2 (9 HP)
 **Speed:** 40'
@@ -41,26 +43,27 @@ bestiary: true
 **Morale:** 9
 **\# Appearing:** 3d6
 **Senses**: Darksight
-**Armor**: 2 [as Chain]
+**[[Armor]]**: 2 [as Chain]
 **Immune**: Poison
-**Status Immunities**: Sickened
+**Status Immunities**: [[Sickened]]
 
 ***ACTIONS***
 ---
 Combo: 2×Claw and 1×Bite
-Claws [Melee Attack]: 2 (d4)
-Bite [Melee Attack]: 5 (2d4)
+Claws [[[Melee]] Attack]: 2 (d4)
+Bite [[[Melee]] Attack]: 5 (2d4)
 
 ***ABILITIES***
 ---
-**Chameleon Skin:** Detect Checks to find it based on sight are Hindered.
-**Stench [Aura Near]:** At the start of each of this Being's Turns, pass [Endure] or be Sickened (-2 to Attack Checks while in the Area). On a pass, it is immune to this Ability for 1 day.
-**Sun-Averse:** Is Blinded (Cd4) by Sunlight.
+**Chameleon Skin:** [[Detect]] Checks to find it based on sight are Hindered.
+**Stench [Aura Near]:** At the start of each of this Being's Turns, pass [Endure] or be [[Sickened]] (-2 to Attack Checks while in the Area). On a pass, it is immune to this Ability for 1 day.
+**Sun-Averse:** Is [[Blinded]] (Cd4) by Sunlight.
 
 ```statblock
 dice: true
 layout: Vagabond
 name: Troglodyte
+tl: 2.9
 size: Medium
 type: Cryptid
 hd: 2

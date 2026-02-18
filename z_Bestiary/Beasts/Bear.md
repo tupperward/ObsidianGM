@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Bear
+tl: 2.5
 size: Medium
 type: Beast
 hd: 5
@@ -26,20 +27,21 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Beast*
+*[[Medium]] [[Beast]]*
+**TL**: 2.5
 
 **HD**: 5 (22 HP)
 **Speed:** 40' (Climb)
 **Zone**: Frontline
 **Morale:** 8
 **\# Appearing:** d4+1
-**Armor**: 1 [as Leather]
+**[[Armor]]**: 1 [as Leather]
 
 ***ACTIONS***
 ---
 Combo: 2×Claws and 1×Bite. If both Claws hit the same Target, the Bite can automatically hit the Target.
-Claws [Melee Attack]: 3 (d6)
-Bite [Melee Attack]: 4 (d8)
+Claws [[[Melee]] Attack]: 3 (d6)
+Bite [[[Melee]] Attack]: 4 (d8)
 
 ***ABILITIES***
 ---
@@ -49,6 +51,7 @@ Bite [Melee Attack]: 4 (d8)
 dice: true
 layout: Vagabond
 name: Bear
+tl: 2.5
 size: Medium
 type: Beast
 hd: 5

@@ -1,7 +1,8 @@
 {
   "enabledCssSnippets": [
     "vagabond-statblocks",
-    "vagabond-vault"
+    "vagabond-vault",
+    "vagabond-hero-record"
   ],
   "showRibbon": true
 }

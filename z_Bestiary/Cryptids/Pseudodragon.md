@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Pseudodragon
+tl: 0.8
 size: Small
 type: Cryptid (Wyrm)
 hd: 2
@@ -27,6 +28,7 @@ forceColumns: true
 bestiary: true
 ---
 *Small Cryptid (Wyrm)*
+**TL**: 0.8
 
 **HD**: 2 (2 HP)
 **Speed:** 10' (Fly 30')
@@ -34,22 +36,23 @@ bestiary: true
 **Morale:** 7
 **\# Appearing:** d6
 **Senses**: Darksight, Telepathy (Near)
-**Armor**: 1 [as Leather]
+**[[Armor]]**: 1 [as Leather]
 **Weak**: Shock
 
 ***ACTIONS***
 ---
-Stinger [Melee Attack] (1/Day): 1 (d3) and pass [Endure] or become Sickened (Cd4, Unconscious)
-Bite [Melee Attack]: 1 (d3)
+Stinger [[[Melee]] Attack] (1/Day): 1 (d3) and pass [Endure] or become [[Sickened]] (Cd4, [[Unconscious]])
+Bite [[[Melee]] Attack]: 1 (d3)
 
 ***ABILITIES***
 ---
-**Magic Ward I:** The first time it is unwillingly affected by a Spell each Round, the Caster must spend an extra 1 Mana to affect it.
+**Magic [[Ward]] I:** The first time it is unwillingly affected by a Spell each Round, the Caster must spend an extra 1 Mana to affect it.
 
 ```statblock
 dice: true
 layout: Vagabond
 name: Pseudodragon
+tl: 0.8
 size: Small
 type: Cryptid (Wyrm)
 hd: 2

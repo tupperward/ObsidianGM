@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: "Elemental, Greater Earth"
+tl: 7.3
 size: Huge
 type: Primordial
 hd: 16
@@ -27,6 +28,7 @@ forceColumns: true
 bestiary: true
 ---
 *Huge Primordial*
+**TL**: 7.3
 
 **HD**: 16 (72 HP)
 **Speed:** 40'
@@ -34,14 +36,14 @@ bestiary: true
 **Morale:** 10
 **\# Appearing:** 1
 **Senses**: Seismicsense
-**Armor**: 5 [as (+2) Plate]
+**[[Armor]]**: 5 [as (+2) Plate]
 **Immune**: Poison, Shock
 **Weak**: Blunt
-**Status Immunities**: Fatigued, Sickened, Suffocating
+**Status Immunities**: [[Fatigued]], [[Sickened]], [[Suffocating]]
 
 ***ACTIONS***
 ---
-Strike [Melee Attack]: 13 (3d8) plus 4 (d8) if on the ground
+Strike [[[Melee]] Attack]: 13 (3d8) plus 4 (d8) if on the ground
 
 ***ABILITIES***
 ---
@@ -51,6 +53,7 @@ Strike [Melee Attack]: 13 (3d8) plus 4 (d8) if on the ground
 dice: true
 layout: Vagabond
 name: "Elemental, Greater Earth"
+tl: 7.3
 size: Huge
 type: Primordial
 hd: 16

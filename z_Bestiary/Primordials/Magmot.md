@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Magmot
+tl: 6.4
 size: Large
 type: Primordial
 hd: 3
@@ -29,20 +30,21 @@ forceColumns: true
 bestiary: true
 ---
 *Large Primordial*
+**TL**: 6.4
 
 **HD**: 3 (12 HP)
 **Speed:** 10'
 **Zone**: Frontline
 **Morale:** 9
 **\# Appearing:** d2
-**Armor**: 3 [as Plate]
+**[[Armor]]**: 3 [as Plate]
 **Immune**: Fire
 **Weak**: Cold
 
 ***ACTIONS***
 ---
 Combo: 2×Slams
-Slam [Melee Attack]: 7 (2d6) and pass [Endure] or become Burning (Cd4)
+Slam [[[Melee]] Attack]: 7 (2d6) and pass [Endure] or become [[Burning]] (Cd4)
 
 ***ABILITIES***
 ---
@@ -53,6 +55,7 @@ Slam [Melee Attack]: 7 (2d6) and pass [Endure] or become Burning (Cd4)
 dice: true
 layout: Vagabond
 name: Magmot
+tl: 6.4
 size: Large
 type: Primordial
 hd: 3

@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: "Boar, Giant"
+tl: 3.1
 size: Large
 type: Beast
 hd: 8
@@ -22,18 +23,19 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Large Beast*
+*Large [[Beast]]*
+**TL**: 3.1
 
 **HD**: 8 (36 HP)
 **Speed:** 40'
 **Zone**: Frontline
 **Morale:** 11
 **\# Appearing:** 1
-**Armor**: 2 [as (+1) Leather]
+**[[Armor]]**: 2 [as (+1) Leather]
 
 ***ACTIONS***
 ---
-Tusk [Melee Attack]: 7 (2d6)
+Tusk [[[Melee]] Attack]: 7 (2d6)
 
 ***ABILITIES***
 ---
@@ -43,6 +45,7 @@ Tusk [Melee Attack]: 7 (2d6)
 dice: true
 layout: Vagabond
 name: "Boar, Giant"
+tl: 3.1
 size: Large
 type: Beast
 hd: 8

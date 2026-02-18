@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Agnar
+tl: 3.9
 size: Huge
 type: Outer (Beyonder)
 hd: 10
@@ -30,30 +31,32 @@ forceColumns: true
 bestiary: true
 ---
 *Huge Outer (Beyonder)*
+**TL**: 3.9
 
 **HD**: 10 (45 HP)
 **Speed:** 30'
 **Zone**: Frontline
 **Morale:** 10
 **\# Appearing:** 1
-**Armor**: 2 [as Chain]
+**[[Armor]]**: 2 [as Chain]
 **Weak**: Fire
 
 ***ACTIONS***
 ---
 Spin-Thrash (it can only use this Action while at or below half HP) [Cast, Aura Near | Endure] (3/Day): 9 (2d8), deals half on a pass and heals this Being for the damage roll.
-Chomp [Melee Attack, Cleave]: 10 (3d6) and Restrained
+Chomp [[[Melee]] Attack, Cleave]: 10 (3d6) and [[Restrained]]
 
 ***ABILITIES***
 ---
-**Flame Anger:** If it takes Fire damage or sees open flame, it goes Berserk (Cd4).
-**Lockjaw:** Hinders Checks to end being Restrained by it.
-**Leap:** If it uses its Move to Jump, any Being within 5' when it lands must pass a [Reflex] Save or take 10 (3d6) and be shoved Prone. The Agnar was originally created by Hankerin Ferinale for Index Card RPG.
+**Flame Anger:** If it takes Fire damage or sees open flame, it goes [[Berserk]] (Cd4).
+**Lockjaw:** Hinders Checks to end being [[Restrained]] by it.
+**Leap:** If it uses its Move to Jump, any Being within 5' when it lands must pass a [Reflex] Save or take 10 (3d6) and be shoved [[Prone]]. The Agnar was originally created by Hankerin Ferinale for Index Card RPG.
 
 ```statblock
 dice: true
 layout: Vagabond
 name: Agnar
+tl: 3.9
 size: Huge
 type: Outer (Beyonder)
 hd: 10

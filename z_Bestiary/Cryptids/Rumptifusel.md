@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Rumptifusel
+tl: 1.7
 size: Medium
 type: Cryptid
 hd: 3
@@ -28,7 +29,8 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Cryptid*
+*[[Medium]] Cryptid*
+**TL**: 1.7
 
 **HD**: 3 (13 HP)
 **Speed:** 15' (Climb)
@@ -36,23 +38,24 @@ bestiary: true
 **Morale:** 3
 **\# Appearing:** d4
 **Senses**: Darksight
-**Armor**: 1 [as Leather]
+**[[Armor]]**: 1 [as Leather]
 **Weak**: Poison
 
 ***ACTIONS***
 ---
 Combo: 2×Drain, or 1×Cloak and 1×Drain
-Drain [Melee Attack, Restrained Target]: 2 (d4) and this Being is healed for the damage dealt
-Cloak [Melee Attack]: Restrained
+Drain [[[Melee]] Attack, [[Restrained]] Target]: 2 (d4) and this Being is healed for the damage dealt
+Cloak [[[Melee]] Attack]: [[Restrained]]
 
 ***ABILITIES***
 ---
-**Cloaking:** While it has a Target Restrained, any damage dealt to it is halved and also dealt to the Target.
+**Cloaking:** While it has a Target [[Restrained]], any damage dealt to it is halved and also dealt to the Target.
 
 ```statblock
 dice: true
 layout: Vagabond
 name: Rumptifusel
+tl: 1.7
 size: Medium
 type: Cryptid
 hd: 3

@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Yeti
+tl: 3.5
 size: Large
 type: Cryptid
 hd: 5
@@ -15,11 +16,19 @@ senses: Darksight
 armor: "2 [as Chain]"
 immune: Cold
 weak: Fire
+actions:
+  - name: Combo
+    desc: 2×Claw
+  - name: "Claw [Melee Attack]"
+    desc: 3 (1d6) plus 9 (2d8) if failed by 5 or more
+  - name: "Terror Glare [Cast, Sight | Will] (1/Day)"
+    desc: "Frightened (Cd4, Paralyzed)"
 columns: 2
 forceColumns: true
 bestiary: true
 ---
 *Large Cryptid*
+**TL**: 3.5
 
 **HD**: 5 (22 HP)
 **Speed:** 40' (Climb)
@@ -27,20 +36,21 @@ bestiary: true
 **Morale:** 9
 **\# Appearing:** 1
 **Senses**: Darksight
-**Armor**: 2 [as Chain]
+**[[Armor]]**: 2 [as Chain]
 **Immune**: Cold
 **Weak**: Fire
 
 ***ACTIONS***
 ---
 Combo: 2×Claw
-Claw [Melee Attack]: 3 (d6) plus 9 (2d8) if failed by 5 or more
-Terror Glare [Cast, Sight | Will] (1/Day): Frightened (Cd4, Paralyzed)
+Claw [[[Melee]] Attack]: 3 (d6) plus 9 (2d8) if failed by 5 or more
+Terror Glare [Cast, Sight | Will] (1/Day): [[Frightened]] (Cd4, [[Paralyzed]])
 
 ```statblock
 dice: true
 layout: Vagabond
 name: Yeti
+tl: 3.5
 size: Large
 type: Cryptid
 hd: 5
@@ -56,4 +66,11 @@ weak: Fire
 columns: 2
 forceColumns: true
 bestiary: true
+actions:
+  - name: Combo
+    desc: 2×Claw
+  - name: "Claw [Melee Attack]"
+    desc: 3 (1d6) plus 9 (2d8) if failed by 5 or more
+  - name: "Terror Glare [Cast, Sight | Will] (1/Day)"
+    desc: "Frightened (Cd4, Paralyzed)"
 ```

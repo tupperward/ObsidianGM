@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Thoom
+tl: 2.2
 size: Medium
 type: Outer (Beyonder)
 hd: 2
@@ -27,7 +28,8 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Outer (Beyonder)*
+*[[Medium]] Outer (Beyonder)*
+**TL**: 2.2
 
 **HD**: 2 (9 HP)
 **Speed:** 25' (Swim)
@@ -35,13 +37,13 @@ bestiary: true
 **Morale:** 4
 **\# Appearing:** d4
 **Senses**: Darksight
-**Armor**: 1 [as Leather]
+**[[Armor]]**: 1 [as Leather]
 
 ***ACTIONS***
 ---
 Combo: 2×Tentacle and 1×Cannon
-Cannon [Ranged Attack]: 3 (d6)
-Tentacle [Melee Attack]: 2 (d4)
+Cannon [[[Ranged]] Attack]: 3 (d6)
+Tentacle [[[Melee]] Attack]: 2 (d4)
 
 ***ABILITIES***
 ---
@@ -51,6 +53,7 @@ Tentacle [Melee Attack]: 2 (d4)
 dice: true
 layout: Vagabond
 name: Thoom
+tl: 2.2
 size: Medium
 type: Outer (Beyonder)
 hd: 2

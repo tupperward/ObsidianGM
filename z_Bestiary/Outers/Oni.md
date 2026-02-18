@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Oni
+tl: 7.9
 size: Large
 type: Outer (Hellspawn)
 hd: 8
@@ -38,6 +39,7 @@ forceColumns: true
 bestiary: true
 ---
 *Large Outer (Hellspawn)*
+**TL**: 7.9
 
 **HD**: 8 (36 HP)
 **Speed:** 30' (Fly)
@@ -45,18 +47,18 @@ bestiary: true
 **Morale:** 11
 **\# Appearing:** 1
 **Senses**: Darksight
-**Armor**: 2 [as Chain]
+**[[Armor]]**: 2 [as Chain]
 
 ***ACTIONS***
 ---
 Cone of Cold [Cast, 60' Cone | Endure] (1/Day): 36 (8d8)
-Charm Person [Cast, a Remote Humanlike | Will] (1/Day, Focus): Charmed
+[[Charm]] Person [Cast, a Remote Humanlike | Will] (1/Day, Focus): [[Charmed]]
 Darkness [Cast, 20' Sphere]: The Area becomes magical darkness, and snuffs out any light sources.
-Sleep [Cast, 20' Sphere | Endure] (1/Day): Unconscious (Cd4, or woken up)
+[[Sleep]] [Cast, 20' Sphere | Endure] (1/Day): [[Unconscious]] (Cd4, or woken up)
 Gaseous Form [Cast, Touch | Endure] (1/Day): Turns into an incorporeal cloud of gas for the duration.
 Combo: 2×Claw
-Claw [Melee Attack]: 6 (d8+2)
-Invisibility [Cast, Touch | Will] (Focus): Turns Invisible for the duration.
+Claw [[[Melee]] Attack]: 6 (d8+2)
+Invisibility [Cast, Touch | Will] (Focus): Turns [[Invisible]] for the duration.
 
 ***ABILITIES***
 ---
@@ -66,6 +68,7 @@ Invisibility [Cast, Touch | Will] (Focus): Turns Invisible for the duration.
 dice: true
 layout: Vagabond
 name: Oni
+tl: 7.9
 size: Large
 type: Outer (Hellspawn)
 hd: 8

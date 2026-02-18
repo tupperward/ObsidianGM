@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Zombie
+tl: 0.9
 size: Medium
 type: Undead
 hd: 2
@@ -28,7 +29,8 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Undead*
+*[[Medium]] Undead*
+**TL**: 0.9
 
 **HD**: 2 (9 HP)
 **Speed:** 20'
@@ -36,24 +38,25 @@ bestiary: true
 **Morale:** 12
 **\# Appearing:** 3d8
 **Senses**: Darksight
-**Armor**: 0 [as Unarmored]
+**[[Armor]]**: 0 [as Unarmored]
 **Immune**: Poison
-**Weak**: Silvered Weapons
-**Status Immunities**: Berserk, Charmed, Confused, Fatigued, Frightened, Sickened, Suffocating
+**Weak**: Silvered [[Weapons]]
+**Status Immunities**: [[Berserk]], [[Charmed]], [[Confused]], [[Fatigued]], [[Frightened]], [[Sickened]], [[Suffocating]]
 
 ***ACTIONS***
 ---
-Bite [Melee Attack]: 3 (d6)
+Bite [[[Melee]] Attack]: 3 (d6)
 
 ***ABILITIES***
 ---
-**Nightwalker:** Can't Move or Target over lines of salt or in areas illuminated by Sunlight. It is Incapacitated and Burning (d8) while in Sunlight.
+**Nightwalker:** Can't Move or Target over lines of salt or in areas illuminated by Sunlight. It is [[Incapacitated]] and [[Burning]] (d8) while in Sunlight.
 **Zombie:** It can't be reduced below 1 HP unless damaged by a Crit, damage it is Weak to, or while in Sunlight.
 
 ```statblock
 dice: true
 layout: Vagabond
 name: Zombie
+tl: 0.9
 size: Medium
 type: Undead
 hd: 2

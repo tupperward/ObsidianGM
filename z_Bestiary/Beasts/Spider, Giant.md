@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: "Spider, Giant"
+tl: 2.0
 size: Large
 type: Beast
 hd: 6
@@ -27,7 +28,8 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Large Beast*
+*Large [[Beast]]*
+**TL**: 2.0
 
 **HD**: 6 (27 HP)
 **Speed:** 35' (Climb, Cling)
@@ -35,22 +37,23 @@ bestiary: true
 **Morale:** 8
 **\# Appearing:** d3
 **Senses**: Darksight
-**Armor**: 1 [as Leather]
+**[[Armor]]**: 1 [as Leather]
 
 ***ACTIONS***
 ---
-Web Shot [Ranged Attack] (Recharge Cd4): Restrained by Webs.
-Bite [Melee Attack]: 4 (d8) and pass [Endure] against Sickened or take another 4 (d8) damage and be Sickened (Cd8, Paralyzed).
+Web Shot [[[Ranged]] Attack] (Recharge Cd4): [[Restrained]] by Webs.
+Bite [[[Melee]] Attack]: 4 (d8) and pass [Endure] against [[Sickened]] or take another 4 (d8) damage and be [[Sickened]] (Cd8, [[Paralyzed]]).
 
 ***ABILITIES***
 ---
-**Webs:** Its web is an Object with 4 HP and Armor: 1.
+**Webs:** Its web is an Object with 4 HP and [[Armor]]: 1.
 **Web Walker:** It can sense any Being on the same web as it as if by Blindsight, and is not impeded by web as Difficult Terrain.
 
 ```statblock
 dice: true
 layout: Vagabond
 name: "Spider, Giant"
+tl: 2.0
 size: Large
 type: Beast
 hd: 6

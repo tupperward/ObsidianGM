@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Necrophidius
+tl: 2.0
 size: Large
 type: Artificial/Undead
 hd: 2
@@ -29,6 +30,7 @@ forceColumns: true
 bestiary: true
 ---
 *Large Artificial/Undead*
+**TL**: 2.0
 
 **HD**: 2 (9 HP)
 **Speed:** 25'
@@ -36,15 +38,15 @@ bestiary: true
 **Morale:** -
 **\# Appearing:** 1
 **Senses**: Blindsight
-**Armor**: 2 [as Chain]
+**[[Armor]]**: 2 [as Chain]
 **Immune**: Poison
 **Weak**: Blunt
-**Status Immunities**: Fatigued, Sickened, Suffocating
+**Status Immunities**: [[Fatigued]], [[Sickened]], [[Suffocating]]
 
 ***ACTIONS***
 ---
-Dance of Death [Cast, Remote | Will]: Dazed (Cd4)
-Bite [Melee Attack]: 4 (d8) and pass [Endure] or become Sickened (Cd4, Paralyzed)
+Dance of Death [Cast, Remote | Will]: [[Dazed]] (Cd4)
+Bite [[[Melee]] Attack]: 4 (d8) and pass [Endure] or become [[Sickened]] (Cd4, [[Paralyzed]])
 
 ***ABILITIES***
 ---
@@ -54,6 +56,7 @@ Bite [Melee Attack]: 4 (d8) and pass [Endure] or become Sickened (Cd4, Paralyzed
 dice: true
 layout: Vagabond
 name: Necrophidius
+tl: 2.0
 size: Large
 type: Artificial/Undead
 hd: 2

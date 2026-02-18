@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: "Potead, Medium"
+tl: 2.3
 size: Medium
 type: Artificial
 hd: 5
@@ -24,20 +25,21 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Artificial*
+*[[Medium]] Artificial*
+**TL**: 2.3
 
 **HD**: 5 (22 HP)
 **Speed:** 15'
 **Zone**: Frontline
 **Morale:** 7
 **\# Appearing:** 2d6
-**Armor**: 2 [as Chain]
+**[[Armor]]**: 2 [as Chain]
 **Immune**: Fire, Poison
-**Status Immunities**: Fatigued, Sickened, Suffocating
+**Status Immunities**: [[Fatigued]], [[Sickened]], [[Suffocating]]
 
 ***ACTIONS***
 ---
-Slam [Melee Attack]: 4 (d8)
+Slam [[[Melee]] Attack]: 4 (d8)
 
 ***ABILITIES***
 ---
@@ -47,6 +49,7 @@ Slam [Melee Attack]: 4 (d8)
 dice: true
 layout: Vagabond
 name: "Potead, Medium"
+tl: 2.3
 size: Medium
 type: Artificial
 hd: 5

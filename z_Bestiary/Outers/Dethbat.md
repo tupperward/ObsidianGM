@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Dethbat
+tl: 1.0
 size: Small
 type: Outer (Hellspawn)
 hd: 1
@@ -31,6 +32,7 @@ forceColumns: true
 bestiary: true
 ---
 *Small Outer (Hellspawn)*
+**TL**: 1.0
 
 **HD**: 1 (1 HP)
 **Speed:** 5' (Fly 30')
@@ -38,16 +40,16 @@ bestiary: true
 **Morale:** 3
 **\# Appearing:** 2d6
 **Senses**: Darksight
-**Armor**: 1 [as Leather]
+**[[Armor]]**: 1 [as Leather]
 **Immune**: Fire, Physical, Poison
-**Weak**: Silvered Weapons
-**Status Immunities**: Sickened
+**Weak**: Silvered [[Weapons]]
+**Status Immunities**: [[Sickened]]
 
 ***ACTIONS***
 ---
-Kiss [Melee Attack, a Paralyzed Enemy | Will]: Dethbat's Curse (Continual, until removed)
-Shriek [All Near non-Dethbats that hear it | Will]: Frightened (Cd4, Paralyzed)
-Bite [Melee Attack]: 2 (d4)
+Kiss [[[Melee]] Attack, a [[Paralyzed]] Enemy | Will]: Dethbat's Curse (Continual, until removed)
+Shriek [All Near non-Dethbats that hear it | Will]: [[Frightened]] (Cd4, [[Paralyzed]])
+Bite [[[Melee]] Attack]: 2 (d4)
 
 ***ABILITIES***
 ---
@@ -57,6 +59,7 @@ Bite [Melee Attack]: 2 (d4)
 dice: true
 layout: Vagabond
 name: Dethbat
+tl: 1.0
 size: Small
 type: Outer (Hellspawn)
 hd: 1

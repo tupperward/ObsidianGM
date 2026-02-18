@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Nightmare
+tl: 5.6
 size: Large
 type: Outer (Hellspawn)
 hd: 6
@@ -32,6 +33,7 @@ forceColumns: true
 bestiary: true
 ---
 *Large Outer (Hellspawn)*
+**TL**: 5.6
 
 **HD**: 6 (27 HP)
 **Speed:** 50' (Fly)
@@ -39,25 +41,26 @@ bestiary: true
 **Morale:** 7
 **\# Appearing:** 1
 **Senses**: Darksight
-**Armor**: 5 [as (+2) Plate]
+**[[Armor]]**: 5 [as (+2) Plate]
 **Immune**: Fire, Poison
-**Weak**: Silvered Weapons
+**Weak**: Silvered [[Weapons]]
 
 ***ACTIONS***
 ---
 Combo: 1×Bite and 1×Stomp
-Bite [Melee Attack]: 5 (2d4)
-Stomp [Melee Attack]: 3 (d6) plus 3 (d6 if Prone)) and Burning (Cd4)
+Bite [[[Melee]] Attack]: 5 (2d4)
+Stomp [[[Melee]] Attack]: 3 (d6) plus 3 (d6 if [[Prone]])) and [[Burning]] (Cd4)
 
 ***ABILITIES***
 ---
 **Fire Rider:** Allies mounted on it are Immune to Fire.
-**Illuminating:** Sheds Light out to Near.
+**Illuminating:** Sheds [[Light]] out to Near.
 
 ```statblock
 dice: true
 layout: Vagabond
 name: Nightmare
+tl: 5.6
 size: Large
 type: Outer (Hellspawn)
 hd: 6

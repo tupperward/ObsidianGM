@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Cultist
+tl: 1.0
 size: Medium
 type: Humanlike
 hd: 1
@@ -21,26 +22,28 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Humanlike*
+*[[Medium]] Humanlike*
+**TL**: 1.0
 
 **HD**: 1 (4 HP)
 **Speed:** 30'
 **Zone**: Midline
 **Morale:** 12
-**Armor**: 1 [as Leather]
+**[[Armor]]**: 1 [as Leather]
 
 ***ACTIONS***
 ---
-Dagger [Melee Attack, Thrown]: 2 (d4)
+Dagger [[[Melee]] Attack, Thrown]: 2 (d4)
 
 ***ABILITIES***
 ---
-**Zealot:** Can't be Charmed or Frightened.
+**Zealot:** Can't be [[Charmed]] or [[Frightened]].
 
 ```statblock
 dice: true
 layout: Vagabond
 name: Cultist
+tl: 1.0
 size: Medium
 type: Humanlike
 hd: 1

@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Kelpie
+tl: 2.4
 size: Medium
 type: Primordial (Shapechanger)
 hd: 5
@@ -27,20 +28,21 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Primordial (Shapechanger)*
+*[[Medium]] Primordial ([[Shapechanger]])*
+**TL**: 2.4
 
 **HD**: 5 (22 HP)
 **Speed:** 30' (Swim)
 **Zone**: Backline
 **Morale:** 4
 **\# Appearing:** d4
-**Armor**: 2 [as Chain]
+**[[Armor]]**: 2 [as Chain]
 **Weak**: Shock
 
 ***ACTIONS***
 ---
-Entangle [Grapple, an Enemy in Water]: Restrained
-Enlure [Cast, Sight | Will (-2 penalty)] (1/Day): Charmed (Cd6, it must Move closer to this Being)
+Entangle [Grapple, an Enemy in Water]: [[Restrained]]
+Enlure [Cast, Sight | Will (-2 penalty)] (1/Day): [[Charmed]] (Cd6, it must Move closer to this Being)
 
 ***ABILITIES***
 ---
@@ -51,6 +53,7 @@ Enlure [Cast, Sight | Will (-2 penalty)] (1/Day): Charmed (Cd6, it must Move clo
 dice: true
 layout: Vagabond
 name: Kelpie
+tl: 2.4
 size: Medium
 type: Primordial (Shapechanger)
 hd: 5

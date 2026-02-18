@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Flying Spellbook
+tl: 0.7
 size: Small
 type: Artificial
 hd: 1
@@ -31,6 +32,7 @@ forceColumns: true
 bestiary: true
 ---
 *Small Artificial*
+**TL**: 0.7
 
 **HD**: 1 (1 HP)
 **Speed:** 0' (Fly 30')
@@ -38,25 +40,26 @@ bestiary: true
 **Morale:** -
 **\# Appearing:** d6
 **Senses**: Blindsight
-**Armor**: 0 [as Unarmored]
+**[[Armor]]**: 0 [as Unarmored]
 **Immune**: Poison
 **Weak**: Fire
-**Status Immunities**: Sickened, Suffocating
+**Status Immunities**: [[Sickened]], [[Suffocating]]
 
 ***ACTIONS***
 ---
-Freeze [Cast, Remote | Endure] (Recharge Cd4): 3 (d6) and its Speed is reduced by 10' (Cd4).
-Zap [Cast, Bolt | Reflex] (Recharge Cd4): 3 (d6) and Dazed (Cd4)
+[[Freeze]] [Cast, Remote | Endure] (Recharge Cd4): 3 (d6) and its Speed is reduced by 10' (Cd4).
+[[Zap]] [Cast, Bolt | Reflex] (Recharge Cd4): 3 (d6) and [[Dazed]] (Cd4)
 
 ***ABILITIES***
 ---
-**Antimagic Vulnerability:** It is Dazed for Cd4 if affected by the Dispel Spell or other antimagic.
+**Antimagic Vulnerability:** It is [[Dazed]] for Cd4 if affected by the [[Dispel]] Spell or other antimagic.
 **Nimble:** Attacks against it can't be Favored if it can Move.
 
 ```statblock
 dice: true
 layout: Vagabond
 name: Flying Spellbook
+tl: 0.7
 size: Small
 type: Artificial
 hd: 1

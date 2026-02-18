@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Apothecary
+tl: 0.5
 size: Medium
 type: Humanlike
 hd: 1
@@ -11,28 +12,37 @@ speed: "30'"
 zone: Backline
 morale: 7
 armor: "0 [as Unarmored]"
+actions:
+  - name: "Health Potion [Use] (2/Shift)"
+    desc: Regain 4 (1d6+1) HP
+  - name: "Panacea [Use] (1/Shift)"
+    desc: Cured of either Blinded or Sickened.
+  - name: "Crossbow [Ranged Attack]"
+    desc: 2 (1d4)
 columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Humanlike*
+*[[Medium]] Humanlike*
+**TL**: 0.5
 
 **HD**: 1 (4 HP)
 **Speed:** 30'
 **Zone**: Backline
 **Morale:** 7
-**Armor**: 0 [as Unarmored]
+**[[Armor]]**: 0 [as Unarmored]
 
 ***ACTIONS***
 ---
 Health Potion [Use] (2/Shift): Regain 4 (d6+1) HP
-Panacea [Use] (1/Shift): Cured of either Blinded or Sickened.
-Crossbow [Ranged Attack]: 2 (d4)
+Panacea [Use] (1/Shift): Cured of either [[Blinded]] or [[Sickened]].
+Crossbow [[[Ranged]] Attack]: 2 (d4)
 
 ```statblock
 dice: true
 layout: Vagabond
 name: Apothecary
+tl: 0.5
 size: Medium
 type: Humanlike
 hd: 1
@@ -44,4 +54,11 @@ armor: "0 [as Unarmored]"
 columns: 2
 forceColumns: true
 bestiary: true
+actions:
+  - name: "Health Potion [Use] (2/Shift)"
+    desc: Regain 4 (1d6+1) HP
+  - name: "Panacea [Use] (1/Shift)"
+    desc: Cured of either Blinded or Sickened.
+  - name: "Crossbow [Ranged Attack]"
+    desc: 2 (1d4)
 ```

@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Stone Colossus
+tl: 11.7
 size: Colossal
 type: Artificial
 hd: 25
@@ -37,34 +38,36 @@ forceColumns: true
 bestiary: true
 ---
 *Colossal Artificial*
+**TL**: 11.7
 
 **HD**: 25 (112 HP)
 **Speed:** 50'
 **Zone**: Frontline
 **Morale:** -
 **\# Appearing:** 1
-**Armor**: 6 [as (+3) Plate]
+**[[Armor]]**: 6 [as (+3) Plate]
 **Immune**: Fire, Poison
-**Status Immunities**: Berserk, Charmed, Confused, Frightened, Paralyzed, Sickened, Suffocating
+**Status Immunities**: [[Berserk]], [[Charmed]], [[Confused]], [[Frightened]], [[Paralyzed]], [[Sickened]], [[Suffocating]]
 
 ***ACTIONS***
 ---
 Combo (A): 1×Laser and 1×Slam
 Combo (B): 2×Slams
-Slam [Melee Attack, Near]: 21 (6d6) and Prone
-Laser [Ranged Attack] (Recharge Cd4): 14 (4d6)
+Slam [[[Melee]] Attack, Near]: 21 (6d6) and [[Prone]]
+Laser [[[Ranged]] Attack] (Recharge Cd4): 14 (4d6)
 
 ***ABILITIES***
 ---
 **Besieger:** Deals double damage to Structures.
 **Immutable:** It can't be transformed.
-**Magic Ward IV:** The first time it is unwillingly affected by a Spell each Round, the Caster must spend an extra 4 Mana to affect it.
+**Magic [[Ward]] IV:** The first time it is unwillingly affected by a Spell each Round, the Caster must spend an extra 4 Mana to affect it.
 **Self-Destruct:** If it is at or below half its HP, its core begins self-destructing. This core goes off in 1 minute, and the sonic boom deals 200 damage to everything within 1 mile.
 
 ```statblock
 dice: true
 layout: Vagabond
 name: Stone Colossus
+tl: 11.7
 size: Colossal
 type: Artificial
 hd: 25

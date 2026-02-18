@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Death Knight
+tl: 9.6
 size: Medium
 type: Undead
 hd: 11
@@ -33,7 +34,8 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Undead*
+*[[Medium]] Undead*
+**TL**: 9.6
 
 **HD**: 11 (49 HP)
 **Speed:** 25'
@@ -41,26 +43,27 @@ bestiary: true
 **Morale:** 12
 **\# Appearing:** 1
 **Senses**: Allsight, Darksight
-**Armor**: 4 [as (+2) Chain]
+**[[Armor]]**: 4 [as (+2) Chain]
 **Immune**: Fire, Poison; Physical from non-Relics, unless
-**Status Immunities**: Charmed, Frightened, Sickened, Suffocating
+**Status Immunities**: [[Charmed]], [[Frightened]], [[Sickened]], [[Suffocating]]
 
 ***ACTIONS***
 ---
-Stun [Cast, all who hear it | Will] (1/Day): Paralyzed (Cd6 Rounds)
-Combo: 3×(+2) Longsword (+2) Longsword [Melee Attack]: 6 (d8+2)
-Hellfire [Cast, 20-foot Sphere | Reflex] (1/Day): 35 (10d6) and Burning (Cd6)
+Stun [Cast, all who hear it | Will] (1/Day): [[Paralyzed]] (Cd6 Rounds)
+Combo: 3×(+2) Longsword (+2) Longsword [[[Melee]] Attack]: 6 (d8+2)
+Hellfire [Cast, 20-foot Sphere | Reflex] (1/Day): 35 (10d6) and [[Burning]] (Cd6)
 
 ***ABILITIES***
 ---
-**Fear Aura [Aura Near | Will]:** Frightened until they pass this Check on a subsequent Turn, or Cd6 after.
-**Dispel:** It can end a Spell affecting it at the start of its Turns.
-**Zombie:** It can't be reduced below 1 HP unless damaged by a Crit, damage it is Weak to, or while in Sunlight.
+**[[Fear]] Aura [Aura Near | Will]:** [[Frightened]] until they pass this Check on a subsequent Turn, or Cd6 after.
+**[[Dispel]]:** It can end a Spell affecting it at the start of its Turns.
+**[[Zombie]]:** It can't be reduced below 1 HP unless damaged by a Crit, damage it is Weak to, or while in Sunlight.
 
 ```statblock
 dice: true
 layout: Vagabond
 name: Death Knight
+tl: 9.6
 size: Medium
 type: Undead
 hd: 11

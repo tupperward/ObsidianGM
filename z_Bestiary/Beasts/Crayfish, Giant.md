@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: "Crayfish, Giant"
+tl: 4.6
 size: Large
 type: Beast
 hd: 5
@@ -24,19 +25,20 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Large Beast*
+*Large [[Beast]]*
+**TL**: 4.6
 
 **HD**: 5 (22 HP)
 **Speed:** 25' (Swim)
 **Zone**: Frontline
 **Morale:** 8
 **\# Appearing:** d6
-**Armor**: 2 [as Chain]
+**[[Armor]]**: 2 [as Chain]
 
 ***ACTIONS***
 ---
 Combo: 2×Claw
-Claw [Melee Attack]: 9 (2d8) and Restrained if smaller.
+Claw [[[Melee]] Attack]: 9 (2d8) and [[Restrained]] if smaller.
 
 ***ABILITIES***
 ---
@@ -46,6 +48,7 @@ Claw [Melee Attack]: 9 (2d8) and Restrained if smaller.
 dice: true
 layout: Vagabond
 name: "Crayfish, Giant"
+tl: 4.6
 size: Large
 type: Beast
 hd: 5

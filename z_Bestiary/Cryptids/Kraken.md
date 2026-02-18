@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Kraken
+tl: 22.3
 size: Colossal
 type: Cryptid
 hd: 20
@@ -28,20 +29,21 @@ forceColumns: true
 bestiary: true
 ---
 *Colossal Cryptid*
+**TL**: 22.3
 
 **HD**: 20 (89 HP)
 **Speed:** 20' (Swim 60')
 **Zone**: Frontline
 **Morale:** 11
 **\# Appearing:** 1
-**Armor**: 4 [as (+1) Plate]
+**[[Armor]]**: 4 [as (+1) Plate]
 **Immune**: Cold, Shock
 
 ***ACTIONS***
 ---
 Lightning Bolt [Cast, 2 (d4) 120' Lines | Reflex] (Recharge Cd4): 21 (6d6)
 Combo: 1×Tentacle per (Tentacles)
-Tentacle [Grapple]: 13 (3d8) and Restrained if smaller
+Tentacle [Grapple]: 13 (3d8) and [[Restrained]] if smaller
 
 ***ABILITIES***
 ---
@@ -51,6 +53,7 @@ Tentacle [Grapple]: 13 (3d8) and Restrained if smaller
 dice: true
 layout: Vagabond
 name: Kraken
+tl: 22.3
 size: Colossal
 type: Cryptid
 hd: 20

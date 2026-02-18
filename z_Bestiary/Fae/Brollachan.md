@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Brollachan
+tl: 2.2
 size: Large
 type: Fae
 hd: 6
@@ -31,31 +32,33 @@ forceColumns: true
 bestiary: true
 ---
 *Large Fae*
+**TL**: 2.2
 
 **HD**: 6 (27 HP)
 **Speed:** 20' (Fly)
 **Zone**: Frontline
 **Morale:** 10
 **\# Appearing:** 1
-**Armor**: 4 [as Plate plus Shield]
-**Weak**: Cold Iron Weapons
-**Status Immunities**: Berserk, Blinded, Charmed, Confused, Frightened, Prone, Restrained
+**[[Armor]]**: 4 [as Plate plus Shield]
+**Weak**: Cold Iron [[Weapons]]
+**Status Immunities**: [[Berserk]], [[Blinded]], [[Charmed]], [[Confused]], [[Frightened]], [[Prone]], [[Restrained]]
 
 ***ACTIONS***
 ---
-Tendril [Melee Attack, Near]: 9 (2d8)
+Tendril [[[Melee]] Attack, Near]: 9 (2d8)
 
 ***ABILITIES***
 ---
 A formless, writhing mass of dark black smoke. Its only distinguishing characteristic is a pair of bright red eyes in the center of the mass.
-**Engulfer:** Other Beings in its space are Burning (2d6).
+**Engulfer:** Other Beings in its space are [[Burning]] (2d6).
 **Formless:** It can Move into space occupied by Beings.
-**Maddening I:** Enemies that can hear it for the first time and at the start of their Turns must pass a [Will] Save or be Confused (until they pass this Check on a subsequent Turn, or for Cd4 Rounds afterwards).
+**Maddening I:** Enemies that can hear it for the first time and at the start of their Turns must pass a [Will] Save or be [[Confused]] (until they pass this Check on a subsequent Turn, or for Cd4 Rounds afterwards).
 
 ```statblock
 dice: true
 layout: Vagabond
 name: Brollachan
+tl: 2.2
 size: Large
 type: Fae
 hd: 6

@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Byakhee
+tl: 10.5
 size: Huge
 type: "Outer (Beyonder, Wyrm)"
 hd: 15
@@ -31,6 +32,7 @@ forceColumns: true
 bestiary: true
 ---
 *Huge Outer (Beyonder, Wyrm)*
+**TL**: 10.5
 
 **HD**: 15 (67 HP)
 **Speed:** 60' (Fly 180')
@@ -38,14 +40,14 @@ bestiary: true
 **Morale:** 10
 **\# Appearing:** 1
 **Senses**: Darksight, Telepathy
-**Armor**: 5 [as (+2) Plate]
-**Status Immunities**: Suffocating
+**[[Armor]]**: 5 [as (+2) Plate]
+**Status Immunities**: [[Suffocating]]
 
 ***ACTIONS***
 ---
 Combo: 2×Claw and 1×Bite
-Bite [Melee Attack]: 10 (3d6) and pass [Endure] or Sickened (Cd6 per Round, Dazed for Cd4 after the Status ends).
-Claw [Melee Attack 10']: 13 (3d8)
+Bite [[[Melee]] Attack]: 10 (3d6) and pass [Endure] or [[Sickened]] (Cd6 per Round, [[Dazed]] for Cd4 after the Status ends).
+Claw [[[Melee]] Attack 10']: 13 (3d8)
 
 ***ABILITIES***
 ---
@@ -56,6 +58,7 @@ Claw [Melee Attack 10']: 13 (3d8)
 dice: true
 layout: Vagabond
 name: Byakhee
+tl: 10.5
 size: Huge
 type: "Outer (Beyonder, Wyrm)"
 hd: 15

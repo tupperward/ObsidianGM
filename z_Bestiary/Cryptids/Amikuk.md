@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Amikuk
+tl: 3.6
 size: Large
 type: Cryptid
 hd: 4
@@ -30,21 +31,22 @@ forceColumns: true
 bestiary: true
 ---
 *Large Cryptid*
+**TL**: 3.6
 
 **HD**: 4 (18 HP)
 **Speed:** 30' (Climb)
 **Zone**: Backline
 **Morale:** 5
 **\# Appearing:** 1
-**Armor**: 1 [as Leather]
+**[[Armor]]**: 1 [as Leather]
 **Immune**: Cold
 
 ***ACTIONS***
 ---
-Drown [Melee Attack, while submerged]: Restrained and pulled Close
+Drown [[[Melee]] Attack, while submerged]: [[Restrained]] and pulled Close
 Combo: 2×Claw and 1×Bite
-Claw [Melee Attack, Near]: 3 (d6)
-Bite [Melee Attack]: 9 (2d8)
+Claw [[[Melee]] Attack, Near]: 3 (d6)
+Bite [[[Melee]] Attack]: 9 (2d8)
 
 ***ABILITIES***
 ---
@@ -54,6 +56,7 @@ Bite [Melee Attack]: 9 (2d8)
 dice: true
 layout: Vagabond
 name: Amikuk
+tl: 3.6
 size: Large
 type: Cryptid
 hd: 4

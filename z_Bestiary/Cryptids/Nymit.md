@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Nymit
+tl: 1.9
 size: Medium
 type: Cryptid
 hd: 2
@@ -23,28 +24,30 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Cryptid*
+*[[Medium]] Cryptid*
+**TL**: 1.9
 
 **HD**: 2 (9 HP)
 **Speed:** 30'
 **Zone**: Frontline
 **Morale:** 3
 **\# Appearing:** d6
-**Armor**: 2 [as Chain]
+**[[Armor]]**: 2 [as Chain]
 **Weak**: Blunt
 
 ***ACTIONS***
 ---
-Pick [Melee Attack]: 3 (d6)
+Pick [[[Melee]] Attack]: 3 (d6)
 
 ***ABILITIES***
 ---
-**Befuddling Defense:** When it takes damage, all Near Enemies must pass [Will] or become Confused (Cd4 or until damaged).
+**Befuddling Defense:** When it takes damage, all Near Enemies must pass [Will] or become [[Confused]] (Cd4 or until damaged).
 
 ```statblock
 dice: true
 layout: Vagabond
 name: Nymit
+tl: 1.9
 size: Medium
 type: Cryptid
 hd: 2

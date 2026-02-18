@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Firebat
+tl: 1.0
 size: Small
 type: Primordial
 hd: 1
@@ -31,6 +32,7 @@ forceColumns: true
 bestiary: true
 ---
 *Small Primordial*
+**TL**: 1.0
 
 **HD**: 1 (1 HP)
 **Speed:** 40' (Fly)
@@ -38,25 +40,26 @@ bestiary: true
 **Morale:** 4
 **\# Appearing:** 2d6
 **Senses**: Darksight
-**Armor**: 1 [as Leather]
+**[[Armor]]**: 1 [as Leather]
 **Immune**: Fire, Poison
 **Weak**: Cold
-**Status Immunities**: Fatigued, Sickened
+**Status Immunities**: [[Fatigued]], [[Sickened]]
 
 ***ACTIONS***
 ---
 A bat-like creature of pure elemental fire. It latches onto its target with its fangs to hold it in place while it burns them alive.
-Bite [Melee Attack]: Restrained
+Bite [[[Melee]] Attack]: [[Restrained]]
 
 ***ABILITIES***
 ---
-**Living Fire:** Close Beings are Burning (d4). It is Burning (d8) while in water.
-**Illuminating:** Sheds Light out to Near.
+**Living Fire:** Close Beings are [[Burning]] (d4). It is [[Burning]] (d8) while in water.
+**Illuminating:** Sheds [[Light]] out to Near.
 
 ```statblock
 dice: true
 layout: Vagabond
 name: Firebat
+tl: 1.0
 size: Small
 type: Primordial
 hd: 1

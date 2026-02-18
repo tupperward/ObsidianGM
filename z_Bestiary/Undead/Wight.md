@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Wight
+tl: 2.2
 size: Medium
 type: Undead
 hd: 4
@@ -28,7 +29,8 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Undead*
+*[[Medium]] Undead*
+**TL**: 2.2
 
 **HD**: 4 (18 HP)
 **Speed:** 25'
@@ -36,24 +38,25 @@ bestiary: true
 **Morale:** 12
 **\# Appearing:** 2d8
 **Senses**: Darksight
-**Armor**: 2 [as Chain]
+**[[Armor]]**: 2 [as Chain]
 **Immune**: Poison; Physical from non-Relics
-**Weak**: Silvered Weapons
-**Status Immunities**: Berserk, Charmed, Confused, Fatigued, Frightened, Sickened, Suffocating
+**Weak**: Silvered [[Weapons]]
+**Status Immunities**: [[Berserk]], [[Charmed]], [[Confused]], [[Fatigued]], [[Frightened]], [[Sickened]], [[Suffocating]]
 
 ***ACTIONS***
 ---
 Energy Drain [Cast, Touch | Reflex]: 3 (d6) and +1 Fatigue, healing this Being for the damage dealt
-Longsword [Melee Attack]: 4 (d8)
+Longsword [[[Melee]] Attack]: 4 (d8)
 
 ***ABILITIES***
 ---
-**Nightwalker:** Can't Move or Target over lines of salt or in areas illuminated by Sunlight. It is Incapacitated and Burning (d8) while in Sunlight.
+**Nightwalker:** Can't Move or Target over lines of salt or in areas illuminated by Sunlight. It is [[Incapacitated]] and [[Burning]] (d8) while in Sunlight.
 
 ```statblock
 dice: true
 layout: Vagabond
 name: Wight
+tl: 2.2
 size: Medium
 type: Undead
 hd: 4

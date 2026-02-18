@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Cloaker
+tl: 2.6
 size: Large
 type: Outer (Beyonder)
 hd: 6
@@ -28,6 +29,7 @@ forceColumns: true
 bestiary: true
 ---
 *Large Outer (Beyonder)*
+**TL**: 2.6
 
 **HD**: 6 (27 HP)
 **Speed:** 0' (Fly 30')
@@ -35,22 +37,23 @@ bestiary: true
 **Morale:** 7
 **\# Appearing:** d4
 **Senses**: Darksight
-**Armor**: 2 [as Chain]
+**[[Armor]]**: 2 [as Chain]
 
 ***ACTIONS***
 ---
 Combo: 1×Cloak and 2×Bite
-Cloak [Melee Attack]: Restrained
-Bite [Melee Attack]: 2 (d4)
+Cloak [[[Melee]] Attack]: [[Restrained]]
+Bite [[[Melee]] Attack]: 2 (d4)
 
 ***ABILITIES***
 ---
-**Cloaking:** While it has a Target Restrained, attack damage dealt to it is halved and also dealt to the Target.
+**Cloaking:** While it has a Target [[Restrained]], attack damage dealt to it is halved and also dealt to the Target.
 
 ```statblock
 dice: true
 layout: Vagabond
 name: Cloaker
+tl: 2.6
 size: Large
 type: Outer (Beyonder)
 hd: 6

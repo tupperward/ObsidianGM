@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Flail Snail
+tl: 6.2
 size: Huge
 type: Cryptid (Beast)
 hd: 4
@@ -27,20 +28,21 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Huge Cryptid (Beast)*
+*Huge Cryptid ([[Beast]])*
+**TL**: 6.2
 
 **HD**: 4 (18 HP)
 **Speed:** 10' (Cling)
 **Zone**: Frontline
 **Morale:** 10
 **\# Appearing:** 1
-**Armor**: 4 [as (+1) Plate]
+**[[Armor]]**: 4 [as (+1) Plate]
 **Immune**: Fire, Poison
 
 ***ACTIONS***
 ---
 Combo: 5×Flail
-Flail [Melee Attack]: 4 (d8)
+Flail [[[Melee]] Attack]: 4 (d8)
 
 ***ABILITIES***
 ---
@@ -51,6 +53,7 @@ Flail [Melee Attack]: 4 (d8)
 dice: true
 layout: Vagabond
 name: Flail Snail
+tl: 6.2
 size: Huge
 type: Cryptid (Beast)
 hd: 4

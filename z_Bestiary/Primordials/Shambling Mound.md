@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Shambling Mound
+tl: 5.5
 size: Large
 type: Primordial (Plant)
 hd: 9
@@ -29,6 +30,7 @@ forceColumns: true
 bestiary: true
 ---
 *Large Primordial (Plant)*
+**TL**: 5.5
 
 **HD**: 9 (40 HP)
 **Speed:** 20' (Swim)
@@ -36,13 +38,13 @@ bestiary: true
 **Morale:** 12
 **\# Appearing:** d4
 **Senses**: Blindsight
-**Armor**: 3 [as Plate]
+**[[Armor]]**: 3 [as Plate]
 **Immune**: Cold, Fire
 
 ***ACTIONS***
 ---
 Combo: 2×Slam
-Slam [Melee Attack]: 9 (2d8) and Restrained and Suffocating if it's this Being's second Slam attack to hit it this Turn, and the Target is this Being's size or smaller
+Slam [[[Melee]] Attack]: 9 (2d8) and [[Restrained]] and [[Suffocating]] if it's this Being's second Slam attack to hit it this Turn, and the Target is this Being's size or smaller
 
 ***ABILITIES***
 ---
@@ -53,6 +55,7 @@ Slam [Melee Attack]: 9 (2d8) and Restrained and Suffocating if it's this Being's
 dice: true
 layout: Vagabond
 name: Shambling Mound
+tl: 5.5
 size: Large
 type: Primordial (Plant)
 hd: 9

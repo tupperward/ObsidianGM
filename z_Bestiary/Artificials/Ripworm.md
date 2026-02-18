@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Ripworm
+tl: 3.1
 size: Medium
 type: Artificial
 hd: 4
@@ -27,7 +28,8 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Artificial*
+*[[Medium]] Artificial*
+**TL**: 3.1
 
 **HD**: 4 (18 HP)
 **Speed:** 20'
@@ -35,13 +37,13 @@ bestiary: true
 **Morale:** 10
 **\# Appearing:** d4
 **Senses**: Seismicsense 60'
-**Armor**: 3 [as Plate]
+**[[Armor]]**: 3 [as Plate]
 **Immune**: Poison
-**Status Immunities**: Fatigued, Sickened, Suffocating
+**Status Immunities**: [[Fatigued]], [[Sickened]], [[Suffocating]]
 
 ***ACTIONS***
 ---
-Ripsaw [Melee Attack]: 7 (2d6)
+Ripsaw [[[Melee]] Attack]: 7 (2d6)
 
 ***ABILITIES***
 ---
@@ -52,6 +54,7 @@ Ripsaw [Melee Attack]: 7 (2d6)
 dice: true
 layout: Vagabond
 name: Ripworm
+tl: 3.1
 size: Medium
 type: Artificial
 hd: 4

@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: "Werewolf, Dire"
+tl: 5.3
 size: Large
 type: Cryptid (Shapechanger)
 hd: 8
@@ -29,7 +30,8 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Large Cryptid (Shapechanger)*
+*Large Cryptid ([[Shapechanger]])*
+**TL**: 5.3
 
 **HD**: 8 (36 HP)
 **Speed:** 50'
@@ -37,24 +39,25 @@ bestiary: true
 **Morale:** 11
 **\# Appearing:** 1
 **Senses**: Darksight
-**Armor**: 3 [as (+1) Chain]
+**[[Armor]]**: 3 [as (+1) Chain]
 **Immune**: Physical
-**Weak**: Fire, Silvered Weapons
+**Weak**: Fire, Silvered [[Weapons]]
 
 ***ACTIONS***
 ---
 Combo: 2×Claws and 1×Bite
-Bite [Melee Attack]: 7 (2d6) and pass [Will] or be cursed with Werewolf Lycanthropy.
-Claws [Melee Attack]: 5 (2d4)
+Bite [[[Melee]] Attack]: 7 (2d6) and pass [Will] or be cursed with [[Werewolf]] Lycanthropy.
+Claws [[[Melee]] Attack]: 5 (2d4)
 
 ***ABILITIES***
 ---
-**Bloodthirst:** It is Berserk and Beings at or below half HP make Checks against it as if Vulnerable.
+**Bloodthirst:** It is [[Berserk]] and Beings at or below half HP make Checks against it as if [[Vulnerable]].
 
 ```statblock
 dice: true
 layout: Vagabond
 name: "Werewolf, Dire"
+tl: 5.3
 size: Large
 type: Cryptid (Shapechanger)
 hd: 8

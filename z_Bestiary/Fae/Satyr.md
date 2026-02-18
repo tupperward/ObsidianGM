@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Satyr
+tl: 2.3
 size: Medium
 type: Fae
 hd: 4
@@ -31,32 +32,34 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Fae*
+*[[Medium]] Fae*
+**TL**: 2.3
 
 **HD**: 4 (18 HP)
 **Speed:** 35'
 **Zone**: Frontline
 **Morale:** 9
 **\# Appearing:** 2d4
-**Armor**: 2 [as Chain]
-**Weak**: Cold Iron Weapons
+**[[Armor]]**: 2 [as Chain]
+**Weak**: Cold Iron [[Weapons]]
 
 ***ACTIONS***
 ---
-Sleep [Cast, Beings who hear it] (1/Day): Unconscious (Cd6 or until awoken)
-Charm [Cast, Beings who hear it | Will] (1/Day): Charmed (until this Being drops Focus). Those Charmed this way must Move toward this Being and use their Action to obey its commands.
-Horns [Melee Attack]: 5 (2d4)
-Fear [Cast, Beings who hear it | Will] (1/Day): Frightened (Cd4)
+[[Sleep]] [Cast, Beings who hear it] (1/Day): [[Unconscious]] (Cd6 or until awoken)
+[[Charm]] [Cast, Beings who hear it | Will] (1/Day): [[Charmed]] (until this Being drops Focus). Those [[Charmed]] this way must Move toward this Being and use their Action to obey its commands.
+Horns [[[Melee]] Attack]: 5 (2d4)
+[[Fear]] [Cast, Beings who hear it | Will] (1/Day): [[Frightened]] (Cd4)
 
 ***ABILITIES***
 ---
-**Magic Ward I:** The first time it is unwillingly affected by a Spell each Round, the Caster must spend an extra 1 Mana to affect it.
-**Panpipes [Item]:** It casn't use Sleep, Charm, or Fear without its panpipes.
+**Magic [[Ward]] I:** The first time it is unwillingly affected by a Spell each Round, the Caster must spend an extra 1 Mana to affect it.
+**Panpipes [Item]:** It casn't use [[Sleep]], [[Charm]], or [[Fear]] without its panpipes.
 
 ```statblock
 dice: true
 layout: Vagabond
 name: Satyr
+tl: 2.3
 size: Medium
 type: Fae
 hd: 4

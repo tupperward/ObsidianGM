@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: "Frog, Toad"
+tl: 0.1
 size: Small
 type: Beast
 hd: 1
@@ -22,18 +23,19 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Small Beast*
+*Small [[Beast]]*
+**TL**: 0.1
 
 **HD**: 1 (1 HP)
 **Speed:** 20' (Climb, Cling, Swim)
 **Zone**: Midline
 **Morale:** 2
 **\# Appearing:** 2d6
-**Armor**: 0 [as Unarmored]
+**[[Armor]]**: 0 [as Unarmored]
 
 ***ACTIONS***
 ---
-Bite [Melee Attack]: 0
+Bite [[[Melee]] Attack]: 0
 
 ***ABILITIES***
 ---
@@ -43,6 +45,7 @@ Bite [Melee Attack]: 0
 dice: true
 layout: Vagabond
 name: "Frog, Toad"
+tl: 0.1
 size: Small
 type: Beast
 hd: 1

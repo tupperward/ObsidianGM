@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Tarrasque
+tl: 24.7
 size: Colossal
 type: Cryptid
 hd: 36
@@ -42,6 +43,7 @@ forceColumns: true
 bestiary: true
 ---
 *Colossal Cryptid*
+**TL**: 24.7
 
 **HD**: 36 (162 HP)
 **Speed:** 120' (Swim)
@@ -49,22 +51,22 @@ bestiary: true
 **Morale:** 9
 **\# Appearing:** Unique
 **Senses**: Darksight
-**Armor**: 10 [as (+3) Plate plus (+3) Shield]
+**[[Armor]]**: 10 [as (+3) Plate plus (+3) Shield]
 **Immune**: Cold, Fire, Shock; Physical from non-Relics
-**Status Immunities**: Charmed, Confused, Frightened, Paralyzed, Sickened, Suffocating
+**Status Immunities**: [[Charmed]], [[Confused]], [[Frightened]], [[Paralyzed]], [[Sickened]], [[Suffocating]]
 
 ***ACTIONS***
 ---
 Combo: 2×Claw, 1×Horn, 1×Bite, and 1×Tail
-Claw [Melee Attack, Near]: 18 (4d8)
-Horns [Melee Attack]: 16 (3d10)
-Bite [Melee Attack]: 27 (5d10) and the Target loses a limb of its choice if failed by 10 or more
-Tail [Melee Attack, Near]: 13 (3d8) and shoved Prone
+Claw [[[Melee]] Attack, Near]: 18 (4d8)
+Horns [[[Melee]] Attack]: 16 (3d10)
+Bite [[[Melee]] Attack]: 27 (5d10) and the Target loses a limb of its choice if failed by 10 or more
+Tail [[[Melee]] Attack, Near]: 13 (3d8) and shoved [[Prone]]
 
 ***ABILITIES***
 ---
 **Charge:** If it Moves at least 30' in a straight line then makes a Horn Attack on the same Turn, that attack deals double damage.
-**Magic Ward VI:** The first time it is unwillingly affected by a Spell each Round, the Caster must spend an extra 6 Mana to affect it.
+**Magic [[Ward]] VI:** The first time it is unwillingly affected by a Spell each Round, the Caster must spend an extra 6 Mana to affect it.
 **Mythic:** It doesn't die unless a wish is granted to do so.
 **Reflective Carapace:** When Targeted with a Spell, roll d6. 1: the Spell is reflected back at the source. 2–3: the Spell is dispelled. 4–6, the Spell works as normal.
 **Regenerate II:** Regains 9 (2d8) HP on each of its Turns.
@@ -73,6 +75,7 @@ Tail [Melee Attack, Near]: 13 (3d8) and shoved Prone
 dice: true
 layout: Vagabond
 name: Tarrasque
+tl: 24.7
 size: Colossal
 type: Cryptid
 hd: 36

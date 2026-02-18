@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Wraith
+tl: 2.7
 size: Medium
 type: Undead
 hd: 5
@@ -30,7 +31,8 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Undead*
+*[[Medium]] Undead*
+**TL**: 2.7
 
 **HD**: 5 (22 HP)
 **Speed:** 30' (Phase)
@@ -38,10 +40,10 @@ bestiary: true
 **Morale:** 12
 **\# Appearing:** 2d6
 **Senses**: Darksight
-**Armor**: 3 [as Plate]
+**[[Armor]]**: 3 [as Plate]
 **Immune**: Physical
-**Weak**: Silvered Weapons
-**Status Immunities**: Charmed, Fatigue, Frightened, Paralyzed, Prone, Restrained, Sickened, Suffocating
+**Weak**: Silvered [[Weapons]]
+**Status Immunities**: [[Charmed]], Fatigue, [[Frightened]], [[Paralyzed]], [[Prone]], [[Restrained]], [[Sickened]], [[Suffocating]]
 
 ***ACTIONS***
 ---
@@ -49,14 +51,15 @@ Energy Drain [Cast, Touch]: 3 (d6), which also reduces its Maximum HP until it s
 
 ***ABILITIES***
 ---
-**Nightwalker:** Can't Move or Target over lines of salt or in areas illuminated by Sunlight. It is Incapacitated and Burning (d8) while in Sunlight.
+**Nightwalker:** Can't Move or Target over lines of salt or in areas illuminated by Sunlight. It is [[Incapacitated]] and [[Burning]] (d8) while in Sunlight.
 **Incorporeal:** It can Move into occupied space.
-**Shadow Stealth:** It is Invisible in the Dark.
+**[[Shadow]] Stealth:** It is [[Invisible]] in the Dark.
 
 ```statblock
 dice: true
 layout: Vagabond
 name: Wraith
+tl: 2.7
 size: Medium
 type: Undead
 hd: 5

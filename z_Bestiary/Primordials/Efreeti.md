@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Efreeti
+tl: 5.7
 size: Large
 type: Primordial (Djinn)
 hd: 10
@@ -33,6 +34,7 @@ forceColumns: true
 bestiary: true
 ---
 *Large Primordial (Djinn)*
+**TL**: 5.7
 
 **HD**: 10 (45 HP)
 **Speed:** 30' (Fly 80')
@@ -40,16 +42,16 @@ bestiary: true
 **Morale:** 11
 **\# Appearing:** 1
 **Senses**: Darksight
-**Armor**: 3 [as Plate]
+**[[Armor]]**: 3 [as Plate]
 **Immune**: Fire
 
 ***ACTIONS***
 ---
-Wall of Fire [Cast, 60' Line | Reflex] (3/Day, Focus): Burning (d6, while in the flames). It takes this damage the first time it enters the flames while it isn't Burning as well.
+[[Wall]] of Fire [Cast, 60' Line | Reflex] (3/Day, Focus): [[Burning]] (d6, while in the flames). It takes this damage the first time it enters the flames while it isn't [[Burning]] as well.
 Conjure Object [Cast, Remote | Reflex] (3/Day): An Object no larger than 10'×10' is created. Objects made this way composed of metal or stone disappear after one day.
 Combo: 2×Fist
-Fist [Melee Attack]: 9 (2d8)
-Invisibility [Cast, Touch | Will] (Focus): Turns Invisible for the duration.
+Fist [[[Melee]] Attack]: 9 (2d8)
+Invisibility [Cast, Touch | Will] (Focus): Turns [[Invisible]] for the duration.
 
 ***ABILITIES***
 ---
@@ -59,6 +61,7 @@ Invisibility [Cast, Touch | Will] (Focus): Turns Invisible for the duration.
 dice: true
 layout: Vagabond
 name: Efreeti
+tl: 5.7
 size: Large
 type: Primordial (Djinn)
 hd: 10

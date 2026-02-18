@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Scarecrow
+tl: 2.2
 size: Medium
 type: Artificial (Undead)
 hd: 5
@@ -30,7 +31,8 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Artificial (Undead)*
+*[[Medium]] Artificial (Undead)*
+**TL**: 2.2
 
 **HD**: 5 (22 HP)
 **Speed:** 30'
@@ -38,16 +40,16 @@ bestiary: true
 **Morale:** 2
 **\# Appearing:** 1
 **Senses**: Blindsight
-**Armor**: 1 [as Leather]
+**[[Armor]]**: 1 [as Leather]
 **Immune**: Poison
 **Weak**: Fire
-**Status Immunities**: Blinded, Sickened, Suffocating
+**Status Immunities**: [[Blinded]], [[Sickened]], [[Suffocating]]
 
 ***ACTIONS***
 ---
-Scream [Cast, any Being who can hear it | Will] (Recharge Cd4): Frightened (Cd4, Paralyzed if failed by 5 or more)
+Scream [Cast, any Being who can hear it | Will] (Recharge Cd4): [[Frightened]] (Cd4, [[Paralyzed]] if failed by 5 or more)
 Combo: 2×Claw
-Claw [Melee Attack]: 3 (d6)
+Claw [[[Melee]] Attack]: 3 (d6)
 
 ***ABILITIES***
 ---
@@ -57,6 +59,7 @@ Claw [Melee Attack]: 3 (d6)
 dice: true
 layout: Vagabond
 name: Scarecrow
+tl: 2.2
 size: Medium
 type: Artificial (Undead)
 hd: 5

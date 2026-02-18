@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Ogre
+tl: 2.4
 size: Medium
 type: Cryptid
 hd: 4
@@ -25,7 +26,8 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Cryptid*
+*[[Medium]] Cryptid*
+**TL**: 2.4
 
 **HD**: 4 (18 HP)
 **Speed:** 30'
@@ -33,11 +35,11 @@ bestiary: true
 **Morale:** 9
 **\# Appearing:** 2d6
 **Senses**: Darksight
-**Armor**: 2 [as Chain]
+**[[Armor]]**: 2 [as Chain]
 
 ***ACTIONS***
 ---
-Greatclub [Melee Attack]: 5 (d10)
+Greatclub [[[Melee]] Attack]: 5 (d10)
 
 ***ABILITIES***
 ---
@@ -48,6 +50,7 @@ Terrifying mutant brutes that often dwell in caves.
 dice: true
 layout: Vagabond
 name: Ogre
+tl: 2.4
 size: Medium
 type: Cryptid
 hd: 4

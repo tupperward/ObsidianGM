@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: "Ooze, Quicksilver"
+tl: 1.7
 size: Medium
 type: Primordial (Slime)
 hd: 5
@@ -27,7 +28,8 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Primordial (Slime)*
+*[[Medium]] Primordial (Slime)*
+**TL**: 1.7
 
 **HD**: 5 (22 HP)
 **Speed:** 10' (Cling)
@@ -35,13 +37,13 @@ bestiary: true
 **Morale:** 12
 **\# Appearing:** 1
 **Senses**: Blindsight
-**Armor**: 1 [as Leather]
+**[[Armor]]**: 1 [as Leather]
 **Immune**: Magic, Pierce, Slash
-**Status Immunities**: Blinded, Charmed, Fatigue, Frightened, Prone
+**Status Immunities**: [[Blinded]], [[Charmed]], Fatigue, [[Frightened]], [[Prone]]
 
 ***ACTIONS***
 ---
-Pseudopod [Melee Attack]: 7 (2d6)
+Pseudopod [[[Melee]] Attack]: 7 (2d6)
 
 ***ABILITIES***
 ---
@@ -52,6 +54,7 @@ Pseudopod [Melee Attack]: 7 (2d6)
 dice: true
 layout: Vagabond
 name: "Ooze, Quicksilver"
+tl: 1.7
 size: Medium
 type: Primordial (Slime)
 hd: 5

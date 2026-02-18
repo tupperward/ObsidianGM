@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Mummy
+tl: 2.8
 size: Medium
 type: Undead
 hd: 6
@@ -32,7 +33,8 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Undead*
+*[[Medium]] Undead*
+**TL**: 2.8
 
 **HD**: 6 (27 HP)
 **Speed:** 25'
@@ -40,26 +42,27 @@ bestiary: true
 **Morale:** 12
 **\# Appearing:** 2d4
 **Senses**: Darksight
-**Armor**: 3 [as Plate]
+**[[Armor]]**: 3 [as Plate]
 **Immune**: Poison; Physical from non-Relics
-**Weak**: Fire; Silvered Weapons
-**Status Immunities**: Berserk, Charmed, Confused, Fatigue, Frightened, Sickened, Suffocating
+**Weak**: Fire; Silvered [[Weapons]]
+**Status Immunities**: [[Berserk]], [[Charmed]], [[Confused]], Fatigue, [[Frightened]], [[Sickened]], [[Suffocating]]
 
 ***ACTIONS***
 ---
-Glare [Cast, Sight | Will] (Recharge Cd4): Frightened (Cd4, Paralyzed)
-Cursed Touch [Melee Attack]: 3 (d6) and pass an [Endure] Save or be Cursed (can't regain HP or remove Fatigue, and it loses 3 (d6) HP every day)
+Glare [Cast, Sight | Will] (Recharge Cd4): [[Frightened]] (Cd4, [[Paralyzed]])
+Cursed Touch [[[Melee]] Attack]: 3 (d6) and pass an [Endure] Save or be Cursed (can't regain HP or remove Fatigue, and it loses 3 (d6) HP every day)
 
 ***ABILITIES***
 ---
-**Magic Ward I:** The first time it is unwillingly affected by a Spell each Round, the Caster must spend an extra 1 Mana to affect it.
+**Magic [[Ward]] I:** The first time it is unwillingly affected by a Spell each Round, the Caster must spend an extra 1 Mana to affect it.
 **Doom Magnet:** Near Enemies can't gain Favor.
-**Zombie:** It can't be reduced below 1 HP unless damaged by a Crit, damage it is Weak to, or while in Sunlight.
+**[[Zombie]]:** It can't be reduced below 1 HP unless damaged by a Crit, damage it is Weak to, or while in Sunlight.
 
 ```statblock
 dice: true
 layout: Vagabond
 name: Mummy
+tl: 2.8
 size: Medium
 type: Undead
 hd: 6

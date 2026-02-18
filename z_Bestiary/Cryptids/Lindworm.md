@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Lindworm
+tl: 5.7
 size: Huge
 type: Cryptid
 hd: 7
@@ -31,6 +32,7 @@ forceColumns: true
 bestiary: true
 ---
 *Huge Cryptid*
+**TL**: 5.7
 
 **HD**: 7 (31 HP)
 **Speed:** 30'
@@ -38,15 +40,15 @@ bestiary: true
 **Morale:** 10
 **\# Appearing:** 1
 **Senses**: Allsight
-**Armor**: 3 [as Plate]
+**[[Armor]]**: 3 [as Plate]
 **Immune**: Acid, Fire, Poison
 
 ***ACTIONS***
 ---
 Combo: 2×Claws and 1×Bite
-Bite [Melee Attack]: 13 (3d8)
-Claw [Melee Attack]: 7 (2d6)
-Caustic Venom [Ranged Attack] (Recharge Cd4): 7 (2d6), and Burning (Cd6) and Sickened (Cd4 damage)
+Bite [[[Melee]] Attack]: 13 (3d8)
+Claw [[[Melee]] Attack]: 7 (2d6)
+Caustic Venom [[[Ranged]] Attack] (Recharge Cd4): 7 (2d6), and [[Burning]] (Cd6) and [[Sickened]] (Cd4 damage)
 
 ***ABILITIES***
 ---
@@ -56,6 +58,7 @@ Caustic Venom [Ranged Attack] (Recharge Cd4): 7 (2d6), and Burning (Cd6) and Sic
 dice: true
 layout: Vagabond
 name: Lindworm
+tl: 5.7
 size: Huge
 type: Cryptid
 hd: 7

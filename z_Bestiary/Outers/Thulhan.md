@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Thulhan
+tl: 3.8
 size: Medium
 type: Outer (Beyonder)
 hd: 8
@@ -33,7 +34,8 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Outer (Beyonder)*
+*[[Medium]] Outer (Beyonder)*
+**TL**: 3.8
 
 **HD**: 8 (36 HP)
 **Speed:** 30'
@@ -41,26 +43,27 @@ bestiary: true
 **Morale:** 10
 **\# Appearing:** d4
 **Senses**: Darksight, Telepathy
-**Armor**: 3 [as (+1) Chain]
+**[[Armor]]**: 3 [as (+1) Chain]
 **Immune**: Magic
-**Status Immunities**: Charmed
+**Status Immunities**: [[Charmed]]
 
 ***ACTIONS***
 ---
 Combo: 4×Tentacle and 1×Flay
-Flay [Melee Attack, Paralyzed Target]: 5 (d8+1) Fatigue. If it dies to Fatigue this way, its brain is extracted.
-Mind Blast [Cast, Cone Far | Will] (Recharge Cd4): 10 (3d6) and Paralyzed (1 Round)
-Tentacle [Melee Attack, Paralyzed Target]: 2 (d4) and Restrained if Medium or smaller
+Flay [[[Melee]] Attack, [[Paralyzed]] Target]: 5 (d8+1) Fatigue. If it dies to Fatigue this way, its brain is extracted.
+Mind Blast [Cast, Cone Far | Will] (Recharge Cd4): 10 (3d6) and [[Paralyzed]] (1 Round)
+Tentacle [[[Melee]] Attack, [[Paralyzed]] Target]: 2 (d4) and [[Restrained]] if [[Medium]] or smaller
 
 ***ABILITIES***
 ---
 **Levitation (Focus):** It has Fly.
-**Magic Ward II:** The first time it is unwillingly affected by a Spell each Round, the Caster must spend an extra 2 Mana to affect it.
+**Magic [[Ward]] II:** The first time it is unwillingly affected by a Spell each Round, the Caster must spend an extra 2 Mana to affect it.
 
 ```statblock
 dice: true
 layout: Vagabond
 name: Thulhan
+tl: 3.8
 size: Medium
 type: Outer (Beyonder)
 hd: 8

@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Viskyd
+tl: 1.2
 size: Small
 type: Outer (Hellspawn)
 hd: 1
@@ -33,6 +34,7 @@ forceColumns: true
 bestiary: true
 ---
 *Small Outer (Hellspawn)*
+**TL**: 1.2
 
 **HD**: 1 (1 HP)
 **Speed:** 10' (Fly 20')
@@ -40,26 +42,27 @@ bestiary: true
 **Morale:** 12
 **\# Appearing:** 3d8
 **Senses**: Darksight
-**Armor**: 1 [as Leather]
+**[[Armor]]**: 1 [as Leather]
 **Immune**: Fire, Poison
-**Weak**: Cold, Silvered Weapons
-**Status Immunities**: Berserk, Charmed, Fatigued, Sickened
+**Weak**: Cold, Silvered [[Weapons]]
+**Status Immunities**: [[Berserk]], [[Charmed]], [[Fatigued]], [[Sickened]]
 
 ***ACTIONS***
 ---
-Pop [Action (Cd4 after having a Being Restrained), Aura Near | Reflex]: 3 (d6). Further, all Close Viskyd Allies also Pop
-Bite [Melee Attack]: 2 (d4) and Restrained if Medium or smaller
+Pop [Action (Cd4 after having a Being [[Restrained]]), Aura Near | Reflex]: 3 (d6). Further, all Close Viskyd Allies also Pop
+Bite [[[Melee]] Attack]: 2 (d4) and [[Restrained]] if [[Medium]] or smaller
 
 ***ABILITIES***
 ---
 **Amorphous:** It can enter the space of other Beings and openings as small as 1 inch without squeezing.
-**Magic Ward I:** The first time it is unwillingly affected by a Spell each Round, the Caster must spend an extra 1 Mana to affect it.
-**Sticky:** Hinders attempts to end being Restrained by it. Beings that make physical contact with it must pass [Endure] or be Restrained.
+**Magic [[Ward]] I:** The first time it is unwillingly affected by a Spell each Round, the Caster must spend an extra 1 Mana to affect it.
+**Sticky:** Hinders attempts to end being [[Restrained]] by it. Beings that make physical contact with it must pass [Endure] or be [[Restrained]].
 
 ```statblock
 dice: true
 layout: Vagabond
 name: Viskyd
+tl: 1.2
 size: Small
 type: Outer (Hellspawn)
 hd: 1

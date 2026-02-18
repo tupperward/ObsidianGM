@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: "Shark, Great White"
+tl: 3.8
 size: Huge
 type: Beast
 hd: 8
@@ -24,18 +25,19 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Huge Beast*
+*Huge [[Beast]]*
+**TL**: 3.8
 
 **HD**: 8 (36 HP)
 **Speed:** 0' (Swim 60')
 **Zone**: Frontline
 **Morale:** 7
 **\# Appearing:** 3d4
-**Armor**: 2 [as Chain]
+**[[Armor]]**: 2 [as Chain]
 
 ***ACTIONS***
 ---
-Bite [Melee Attack]: 11 (2d10) and Restrained if smaller
+Bite [[[Melee]] Attack]: 11 (2d10) and [[Restrained]] if smaller
 
 ***ABILITIES***
 ---
@@ -46,6 +48,7 @@ Bite [Melee Attack]: 11 (2d10) and Restrained if smaller
 dice: true
 layout: Vagabond
 name: "Shark, Great White"
+tl: 3.8
 size: Huge
 type: Beast
 hd: 8

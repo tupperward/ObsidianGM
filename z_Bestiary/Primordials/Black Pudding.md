@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Black Pudding
+tl: 8.2
 size: Large
 type: Primordial (Slime)
 hd: 10
@@ -35,6 +36,7 @@ forceColumns: true
 bestiary: true
 ---
 *Large Primordial (Slime)*
+**TL**: 8.2
 
 **HD**: 10 (45 HP)
 **Speed:** 20' (Cling)
@@ -42,27 +44,28 @@ bestiary: true
 **Morale:** 12
 **\# Appearing:** 1
 **Senses**: Blindsight
-**Armor**: 2 [as (+1) Leather]
+**[[Armor]]**: 2 [as (+1) Leather]
 **Immune**: Acid, Blunt, Cold, Shock, Slash
 **Weak**: Fire
-**Status Immunities**: Blinded, Charmed, Fatigue, Frightened, Prone
+**Status Immunities**: [[Blinded]], [[Charmed]], Fatigue, [[Frightened]], [[Prone]]
 
 ***ACTIONS***
 ---
-Pseudopod [Melee Attack]: 13 (3d8) and Restrained
+Pseudopod [[[Melee]] Attack]: 13 (3d8) and [[Restrained]]
 
 ***ABILITIES***
 ---
-**Pudding Nature:** Is Dazed (1 Round) after being subjected to Cold.
+**Pudding Nature:** Is [[Dazed]] (1 Round) after being subjected to Cold.
 **Seep:** It can enter the space of other Beings and openings as small as 1 inch without squeezing.
-**Engulfer:** Beings that share a space with it are Burning 13 (3d8).
+**Engulfer:** Beings that share a space with it are [[Burning]] 13 (3d8).
 **Pudding Split:** If it is larger than Small when subjected to Shock or Slash, it splits into two Black Puddings with half its current HP, round up, and are one size smaller. These deal 1 less d8 with its Pseudopod Action and Engulfer Ability.
-**Sticky:** Hinders attempts to end being Restrained by it. Beings that make physical contact with it must pass [Endure] or be Restrained.
+**Sticky:** Hinders attempts to end being [[Restrained]] by it. Beings that make physical contact with it must pass [Endure] or be [[Restrained]].
 
 ```statblock
 dice: true
 layout: Vagabond
 name: Black Pudding
+tl: 8.2
 size: Large
 type: Primordial (Slime)
 hd: 10

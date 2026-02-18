@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Peryton
+tl: 3.2
 size: Medium
 type: Cryptid (Beast)
 hd: 4
@@ -23,19 +24,20 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Cryptid (Beast)*
+*[[Medium]] Cryptid ([[Beast]])*
+**TL**: 3.2
 
 **HD**: 4 (18 HP)
 **Speed:** 40' (Fly 60')
 **Zone**: Frontline
 **Morale:** 9
 **\# Appearing:** 2d4
-**Armor**: 2 [as (+1) Leather]
+**[[Armor]]**: 2 [as (+1) Leather]
 **Immune**: Physical from non-Relics
 
 ***ACTIONS***
 ---
-Horn [Melee Attack]: 7 (2d6)
+Horn [[[Melee]] Attack]: 7 (2d6)
 
 ***ABILITIES***
 ---
@@ -45,6 +47,7 @@ Horn [Melee Attack]: 7 (2d6)
 dice: true
 layout: Vagabond
 name: Peryton
+tl: 3.2
 size: Medium
 type: Cryptid (Beast)
 hd: 4

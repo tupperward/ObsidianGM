@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Ghost
+tl: 3.8
 size: Medium
 type: Undead
 hd: 10
@@ -30,7 +31,8 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Undead*
+*[[Medium]] Undead*
+**TL**: 3.8
 
 **HD**: 10 (45 HP)
 **Speed:** 0' (Fly 40', Phase)
@@ -38,10 +40,10 @@ bestiary: true
 **Morale:** 12
 **\# Appearing:** 1
 **Senses**: Darksight
-**Armor**: 4 [as (+1) Plate]
+**[[Armor]]**: 4 [as (+1) Plate]
 **Immune**: Acid, Cold, Fire, Poison, Shock; Physical from
-**Weak**: Silvered Weapons
-**Status Immunities**: Charmed, Fatigue, Paralyzed, Prone, Restrained, Sickened, Suffocating
+**Weak**: Silvered [[Weapons]]
+**Status Immunities**: [[Charmed]], Fatigue, [[Paralyzed]], [[Prone]], [[Restrained]], [[Sickened]], [[Suffocating]]
 
 ***ACTIONS***
 ---
@@ -50,13 +52,14 @@ Posession [Cast, Remote | Will] (Recharge Cd6): This Being gains control of the 
 
 ***ABILITIES***
 ---
-**Aging Terror II [Enemies' first time seeing it and on their Turns | Will]:** Frightened (Cd6) and aged 10 (d20) years.
-**Nightwalker:** Can't Move or Target over lines of salt or in areas illuminated by Sunlight. It is Incapacitated and Burning (d8) while in Sunlight.
+**Aging Terror II [Enemies' first time seeing it and on their Turns | Will]:** [[Frightened]] (Cd6) and aged 10 (d20) years.
+**Nightwalker:** Can't Move or Target over lines of salt or in areas illuminated by Sunlight. It is [[Incapacitated]] and [[Burning]] (d8) while in Sunlight.
 
 ```statblock
 dice: true
 layout: Vagabond
 name: Ghost
+tl: 3.8
 size: Medium
 type: Undead
 hd: 10

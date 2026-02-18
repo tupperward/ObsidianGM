@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Nymph
+tl: 0.3
 size: Medium
 type: Fae
 hd: 2
@@ -25,15 +26,16 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Fae*
+*[[Medium]] Fae*
+**TL**: 0.3
 
 **HD**: 2 (9 HP)
 **Speed:** 30', (Swim 60')
 **Zone**: Frontline
 **Morale:** 4
 **\# Appearing:** d4
-**Armor**: 0 [as Unarmored]
-**Weak**: Cold Iron Weapons
+**[[Armor]]**: 0 [as Unarmored]
+**Weak**: Cold Iron [[Weapons]]
 
 ***ACTIONS***
 ---
@@ -42,12 +44,13 @@ Nymph's Kiss [Cast, Touch | Will]: Cursed (Cd8 Rounds, immediately suffocating a
 ***ABILITIES***
 ---
 **Amphibious:** Can breathe air or water.
-**Magic Ward I:** The first time it is unwillingly affected by a Spell each Round, the Caster must spend an extra 1 Mana to affect it.
+**Magic [[Ward]] I:** The first time it is unwillingly affected by a Spell each Round, the Caster must spend an extra 1 Mana to affect it.
 
 ```statblock
 dice: true
 layout: Vagabond
 name: Nymph
+tl: 0.3
 size: Medium
 type: Fae
 hd: 2

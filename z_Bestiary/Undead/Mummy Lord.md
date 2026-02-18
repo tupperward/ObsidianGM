@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Mummy Lord
+tl: 7.0
 size: Medium
 type: Undead
 hd: 13
@@ -32,7 +33,8 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Undead*
+*[[Medium]] Undead*
+**TL**: 7.0
 
 **HD**: 13 (58 HP)
 **Speed:** 30'
@@ -40,26 +42,27 @@ bestiary: true
 **Morale:** 12
 **\# Appearing:** 1
 **Senses**: Darksight
-**Armor**: 4 [as (+1) Plate]
+**[[Armor]]**: 4 [as (+1) Plate]
 **Immune**: Poison; Physical from non-Relics
-**Weak**: Fire; Silvered Weapons
-**Status Immunities**: Berserk, Charmed, Confused, Fatigue, Frightened, Sickened, Suffocating
+**Weak**: Fire; Silvered [[Weapons]]
+**Status Immunities**: [[Berserk]], [[Charmed]], [[Confused]], Fatigue, [[Frightened]], [[Sickened]], [[Suffocating]]
 
 ***ACTIONS***
 ---
-Glare [Cast, Sight | Will] (Recharge Cd4): Frightened (Cd4, Paralyzed)
-Cursed Touch [Melee Attack]: 10 (3d6) and pass an [Endure] Save or be Cursed (can't regain HP, and it loses 10 (3d6) HP every day)
+Glare [Cast, Sight | Will] (Recharge Cd4): [[Frightened]] (Cd4, [[Paralyzed]])
+Cursed Touch [[[Melee]] Attack]: 10 (3d6) and pass an [Endure] Save or be Cursed (can't regain HP, and it loses 10 (3d6) HP every day)
 
 ***ABILITIES***
 ---
-**Magic Ward II:** The first time it is unwillingly affected by a Spell each Round, the Caster must spend an extra 2 Mana to affect it.
+**Magic [[Ward]] II:** The first time it is unwillingly affected by a Spell each Round, the Caster must spend an extra 2 Mana to affect it.
 **Doom Magnet:** Near Enemies can't gain Favor.
-**Zombie:** It can't be reduced below 1 HP unless damaged by a Crit, damage it is Weak to, or while in Sunlight.
+**[[Zombie]]:** It can't be reduced below 1 HP unless damaged by a Crit, damage it is Weak to, or while in Sunlight.
 
 ```statblock
 dice: true
 layout: Vagabond
 name: Mummy Lord
+tl: 7.0
 size: Medium
 type: Undead
 hd: 13

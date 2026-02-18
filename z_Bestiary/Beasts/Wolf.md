@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Wolf
+tl: 0.9
 size: Medium
 type: Beast
 hd: 2
@@ -24,28 +25,30 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Beast*
+*[[Medium]] [[Beast]]*
+**TL**: 0.9
 
 **HD**: 2 (9 HP)
 **Speed:** 40'
 **Zone**: Frontline
 **Morale:** 7
 **\# Appearing:** 2d6
-**Armor**: 1 [as Leather]
+**[[Armor]]**: 1 [as Leather]
 
 ***ACTIONS***
 ---
-Bite [Melee Attack]: 3 (d6)
+Bite [[[Melee]] Attack]: 3 (d6)
 
 ***ABILITIES***
 ---
-**Pack Hunter:** Targets within 5' of one of this Being's Allies are Vulnerable to its attacks.
-**Pounce:** If it moves at least 20' before an attack on the same Turn, the Target is also knocked Prone if it is Medium or smaller.
+**Pack [[Hunter]]:** Targets within 5' of one of this Being's Allies are [[Vulnerable]] to its attacks.
+**Pounce:** If it moves at least 20' before an attack on the same Turn, the Target is also knocked [[Prone]] if it is [[Medium]] or smaller.
 
 ```statblock
 dice: true
 layout: Vagabond
 name: Wolf
+tl: 0.9
 size: Medium
 type: Beast
 hd: 2

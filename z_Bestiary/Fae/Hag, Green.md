@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: "Hag, Green"
+tl: 4.0
 size: Medium
 type: Fae (Shapechanger)
 hd: 9
@@ -34,7 +35,8 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Fae (Shapechanger)*
+*[[Medium]] Fae ([[Shapechanger]])*
+**TL**: 4.0
 
 **HD**: 9 (40 HP)
 **Speed:** 30'
@@ -42,26 +44,27 @@ bestiary: true
 **Morale:** 4
 **\# Appearing:** 1
 **Senses**: Allsight, Darksight
-**Armor**: 3 [as (+1) Chain]
-**Weak**: Cold Iron Weapons
+**[[Armor]]**: 3 [as (+1) Chain]
+**Weak**: Cold Iron [[Weapons]]
 
 ***ACTIONS***
 ---
 Combo: 2×Claw
-Claw [Melee Attack]: 4 (d8) and Restrained if it's this Being's second Claw to hit it this Turn
-Shapeshift [Cast, Self (Focus)]: Takes on the appearance of a Medium Humanlike.
+Claw [[[Melee]] Attack]: 4 (d8) and [[Restrained]] if it's this Being's second Claw to hit it this Turn
+Shapeshift [Cast, Self (Focus)]: Takes on the appearance of a [[Medium]] Humanlike.
 
 ***ABILITIES***
 ---
 **Amphibious:** It can breathe air and water.
-**Fade Out:** When it Moves, it turns itself and anything it is carrying Invisible for the duration (Focus). If it has a Being Restrained, it turns them Invisible for the duration as well.
-**Magic Ward II:** The first time it is unwillingly affected by a Spell each Round, the Caster must spend an extra 2 Mana to affect it.
-**Terror I:** Enemies that can see it for the first time and at the start of their Turns must pass [Will] or be Frightened (Cd4).
+**[[Fade]] Out:** When it Moves, it turns itself and anything it is carrying [[Invisible]] for the duration (Focus). If it has a Being [[Restrained]], it turns them [[Invisible]] for the duration as well.
+**Magic [[Ward]] II:** The first time it is unwillingly affected by a Spell each Round, the Caster must spend an extra 2 Mana to affect it.
+**Terror I:** Enemies that can see it for the first time and at the start of their Turns must pass [Will] or be [[Frightened]] (Cd4).
 
 ```statblock
 dice: true
 layout: Vagabond
 name: "Hag, Green"
+tl: 4.0
 size: Medium
 type: Fae (Shapechanger)
 hd: 9

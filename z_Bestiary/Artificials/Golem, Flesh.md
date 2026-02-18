@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: "Golem, Flesh"
+tl: 4.7
 size: Large
 type: Artificial
 hd: 9
@@ -33,6 +34,7 @@ forceColumns: true
 bestiary: true
 ---
 *Large Artificial*
+**TL**: 4.7
 
 **HD**: 9 (40 HP)
 **Speed:** 20'
@@ -40,26 +42,27 @@ bestiary: true
 **Morale:** 10
 **\# Appearing:** 1
 **Senses**: Darksight
-**Armor**: 0 [as Unarmored]
+**[[Armor]]**: 0 [as Unarmored]
 **Immune**: Cold, Poison, Shock; Physical from non-Relics
 **Weak**: Fire
-**Status Immunities**: Charmed, Fatigued, Paralyzed, Sickened
+**Status Immunities**: [[Charmed]], [[Fatigued]], [[Paralyzed]], [[Sickened]]
 
 ***ACTIONS***
 ---
 Combo: 2×Slam
-Slam [Melee Attack]: 9 (2d8 (+2 if this Being is Berserk))
+Slam [[[Melee]] Attack]: 9 (2d8 (+2 if this Being is [[Berserk]]))
 
 ***ABILITIES***
 ---
-**Bloodied Rage:** At 20 HP or less, it is Berserk.
-**Flame-Averse:** If it can see fire or takes damage from fire, it is Frightened (Cd4).
+**Bloodied [[Rage]]:** At 20 HP or less, it is [[Berserk]].
+**Flame-Averse:** If it can see fire or takes damage from fire, it is [[Frightened]] (Cd4).
 **Shock-Absorber:** Shock damage rolls heal it instead.
 
 ```statblock
 dice: true
 layout: Vagabond
 name: "Golem, Flesh"
+tl: 4.7
 size: Large
 type: Artificial
 hd: 9

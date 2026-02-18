@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: "Rat, Giant"
+tl: 1.1
 size: Medium
 type: Beast
 hd: 1
@@ -25,7 +26,8 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Beast*
+*[[Medium]] [[Beast]]*
+**TL**: 1.1
 
 **HD**: 1 (4 HP)
 **Speed:** 30'
@@ -33,21 +35,22 @@ bestiary: true
 **Morale:** 3
 **\# Appearing:** 2d6
 **Senses**: Darksight
-**Armor**: 0 [as Unarmored]
+**[[Armor]]**: 0 [as Unarmored]
 
 ***ACTIONS***
 ---
-Bite [Melee Attack]: 1 (d3) and pass [Endure] or become Sickened (Cd6 days)
+Bite [[[Melee]] Attack]: 1 (d3) and pass [Endure] or become [[Sickened]] (Cd6 days)
 
 ***ABILITIES***
 ---
 **Nimble:** Attacks against it can't be Favored if it can Move.
-**Pack Hunter:** Targets within 5' of one of this Being's Allies are Vulnerable to its attacks.
+**Pack [[Hunter]]:** Targets within 5' of one of this Being's Allies are [[Vulnerable]] to its attacks.
 
 ```statblock
 dice: true
 layout: Vagabond
 name: "Rat, Giant"
+tl: 1.1
 size: Medium
 type: Beast
 hd: 1

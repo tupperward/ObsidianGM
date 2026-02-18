@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: "Alligator, Crocodile"
+tl: 2.1
 size: Large
 type: Beast
 hd: 3
@@ -22,27 +23,29 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Large Beast*
+*Large [[Beast]]*
+**TL**: 2.1
 
 **HD**: 3 (13 HP)
 **Speed:** 30' (Swim)
 **Zone**: Frontline
 **Morale:** 7
 **\# Appearing:** d8
-**Armor**: 2 [as Chain]
+**[[Armor]]**: 2 [as Chain]
 
 ***ACTIONS***
 ---
-Bite [Melee Attack]: 4 (d8) and Restrained if the Target is its size or smaller. This attack always hits a Target Restrained by this attack.
+Bite [[[Melee]] Attack]: 4 (d8) and [[Restrained]] if the Target is its size or smaller. This attack always hits a Target [[Restrained]] by this attack.
 
 ***ABILITIES***
 ---
-**Hold Breath:** Can hold its breath for 1 hour.
+**[[Hold]] Breath:** Can hold its breath for 1 hour.
 
 ```statblock
 dice: true
 layout: Vagabond
 name: "Alligator, Crocodile"
+tl: 2.1
 size: Large
 type: Beast
 hd: 3

@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Tyrannosaurus Rex
+tl: 6.8
 size: Huge
 type: Beast
 hd: 20
@@ -12,27 +13,32 @@ zone: Frontline
 morale: 11
 appearing: 1
 armor: "2 [as Chain]"
+actions:
+  - name: "Bite [Melee Attack]"
+    desc: 21 (6d6) and Restrained
 columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Huge Beast*
+*Huge [[Beast]]*
+**TL**: 6.8
 
 **HD**: 20 (90 HP)
 **Speed:** 50'
 **Zone**: Frontline
 **Morale:** 11
 **\# Appearing:** 1
-**Armor**: 2 [as Chain]
+**[[Armor]]**: 2 [as Chain]
 
 ***ACTIONS***
 ---
-Bite [Melee Attack]: 21 (6d6) and Restrained
+Bite [[[Melee]] Attack]: 21 (6d6) and [[Restrained]]
 
 ```statblock
 dice: true
 layout: Vagabond
 name: Tyrannosaurus Rex
+tl: 6.8
 size: Huge
 type: Beast
 hd: 20
@@ -45,4 +51,7 @@ armor: "2 [as Chain]"
 columns: 2
 forceColumns: true
 bestiary: true
+actions:
+  - name: "Bite [Melee Attack]"
+    desc: 21 (6d6) and Restrained
 ```

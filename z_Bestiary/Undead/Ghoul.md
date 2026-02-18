@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Ghoul
+tl: 2.0
 size: Medium
 type: Undead
 hd: 2
@@ -30,7 +31,8 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Undead*
+*[[Medium]] Undead*
+**TL**: 2.0
 
 **HD**: 2 (9 HP)
 **Speed:** 30'
@@ -38,25 +40,26 @@ bestiary: true
 **Morale:** 12
 **\# Appearing:** 2d6
 **Senses**: Darksight
-**Armor**: 1 [as Leather]
+**[[Armor]]**: 1 [as Leather]
 **Immune**: Poison
-**Weak**: Physical from Silvered Weapons
-**Status Immunities**: Charmed, Frightened, Sickened, Suffocating
+**Weak**: Physical from Silvered [[Weapons]]
+**Status Immunities**: [[Charmed]], [[Frightened]], [[Sickened]], [[Suffocating]]
 
 ***ACTIONS***
 ---
 Combo: 2×Claws and 1×Bite
-Bite [Melee Attack]: 2 (d4) and pass [Endure] or be Paralyzed (Cd4)
-Claw [Melee Attack]: 2 (d4) and pass [Endure] or be Paralyzed (Cd4)
+Bite [[[Melee]] Attack]: 2 (d4) and pass [Endure] or be [[Paralyzed]] (Cd4)
+Claw [[[Melee]] Attack]: 2 (d4) and pass [Endure] or be [[Paralyzed]] (Cd4)
 
 ***ABILITIES***
 ---
-**Zombie:** It can't be reduced below 1 HP unless damaged by a Crit, damage it is Weak to, or while in Sunlight.
+**[[Zombie]]:** It can't be reduced below 1 HP unless damaged by a Crit, damage it is Weak to, or while in Sunlight.
 
 ```statblock
 dice: true
 layout: Vagabond
 name: Ghoul
+tl: 2.0
 size: Medium
 type: Undead
 hd: 2

@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Crawling Wall
+tl: 6.1
 size: Huge
 type: Artificial
 hd: 13
@@ -30,21 +31,22 @@ forceColumns: true
 bestiary: true
 ---
 *Huge Artificial*
+**TL**: 6.1
 
 **HD**: 13 (58 HP)
 **Speed:** 20'
 **Zone**: Frontline
 **Morale:** -
 **\# Appearing:** 1
-**Armor**: 3 [as Plate]
+**[[Armor]]**: 3 [as Plate]
 **Immune**: Poison
 **Weak**: Blunt
-**Status Immunities**: Paralyzed, Sickened, Suffocating
+**Status Immunities**: [[Paralyzed]], [[Sickened]], [[Suffocating]]
 
 ***ACTIONS***
 ---
 Combo: 1×Grasp and 1×Crush
-Grasp [Melee Attack]: 4 (d8) and Restrained
+Grasp [[[Melee]] Attack]: 4 (d8) and [[Restrained]]
 Crush [Rush]: Any Huge or smaller Being in its path is pushed in front of it for the Move. If there is no open space within Close for the Being to go when this happens, it takes 3 (d6) for every 5' of Speed this Being has remaining.
 
 ***ABILITIES***
@@ -55,6 +57,7 @@ Crush [Rush]: Any Huge or smaller Being in its path is pushed in front of it for
 dice: true
 layout: Vagabond
 name: Crawling Wall
+tl: 6.1
 size: Huge
 type: Artificial
 hd: 13

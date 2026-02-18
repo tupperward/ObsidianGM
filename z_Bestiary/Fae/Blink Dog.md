@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Blink Dog
+tl: 2.1
 size: Medium
 type: Fae (Beast)
 hd: 4
@@ -23,28 +24,30 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Fae (Beast)*
+*[[Medium]] Fae ([[Beast]])*
+**TL**: 2.1
 
 **HD**: 4 (18 HP)
 **Speed:** 40' (Phase)
 **Zone**: Midline
 **Morale:** 6
 **\# Appearing:** d6
-**Armor**: 2 [as Chain]
-**Weak**: Cold Iron Weapons
+**[[Armor]]**: 2 [as Chain]
+**Weak**: Cold Iron [[Weapons]]
 
 ***ACTIONS***
 ---
-Bite [Melee Attack]: 3 (d6)
+Bite [[[Melee]] Attack]: 3 (d6)
 
 ***ABILITIES***
 ---
-**Blink:** It can use its Speed to magically teleport itself anywhere within the used Speed.
+**[[Blink]]:** It can use its Speed to magically teleport itself anywhere within the used Speed.
 
 ```statblock
 dice: true
 layout: Vagabond
 name: Blink Dog
+tl: 2.1
 size: Medium
 type: Fae (Beast)
 hd: 4

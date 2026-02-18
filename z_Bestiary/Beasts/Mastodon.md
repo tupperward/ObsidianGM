@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Mastodon
+tl: 8.3
 size: Huge
 type: Beast
 hd: 13
@@ -26,20 +27,21 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Huge Beast*
+*Huge [[Beast]]*
+**TL**: 8.3
 
 **HD**: 13 (58 HP)
 **Speed:** 40'
 **Zone**: Frontline
 **Morale:** 4
 **\# Appearing:** d4
-**Armor**: 3 [as Plate]
+**[[Armor]]**: 3 [as Plate]
 
 ***ACTIONS***
 ---
 Combo: 1×Tusk and 1×Stomp
-Stomp [Melee Attack]: 18 (4d8)
-Tusk [Melee Attack]: 7 (2d6)
+Stomp [[[Melee]] Attack]: 18 (4d8)
+Tusk [[[Melee]] Attack]: 7 (2d6)
 
 ***ABILITIES***
 ---
@@ -49,6 +51,7 @@ Tusk [Melee Attack]: 7 (2d6)
 dice: true
 layout: Vagabond
 name: Mastodon
+tl: 8.3
 size: Huge
 type: Beast
 hd: 13

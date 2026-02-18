@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Electric Eel
+tl: 1.3
 size: Medium
 type: Beast
 hd: 1
@@ -24,18 +25,19 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Beast*
+*[[Medium]] [[Beast]]*
+**TL**: 1.3
 
 **HD**: 1 (4 HP)
 **Speed:** 0' (Swim 30')
 **Zone**: Frontline
 **Morale:** 3
 **\# Appearing:** 2d6
-**Armor**: 0 [as Unarmored]
+**[[Armor]]**: 0 [as Unarmored]
 
 ***ACTIONS***
 ---
-Shock [Attack, Aura Close | Endure]: 7 (2d6), Paralyzed (Cd4) if failed by 5 or more.
+Shock [Attack, Aura Close | Endure]: 7 (2d6), [[Paralyzed]] (Cd4) if failed by 5 or more.
 Bite [Attack]: 2 (d4)
 
 ***ABILITIES***
@@ -46,6 +48,7 @@ Bite [Attack]: 2 (d4)
 dice: true
 layout: Vagabond
 name: Electric Eel
+tl: 1.3
 size: Medium
 type: Beast
 hd: 1

@@ -3,9 +3,9 @@ id:
   type: "campaign"
 tasks: []
 data: 
-  description: "Slivers are on the loose! \n\nWe find ourselves in n a quiet land still echoing with primal power. Deep in the western desert, nestled between two rushing branches of [[The Glowing Gulch]] and tucked beneath the shadow of [[Banagher Butte]] lies the peaceful town of [[Oufoillea]].\n\nA rogue group of arcanists and artificers, hired to help with the construction of [[The Clocktower]], have encountered a mysterious artifact and have become obsessed with doing....something to it. This brings a mysterious pale creature to the range."
+  description: "Slivers are on the loose! \n\nWe find ourselves in n a quiet land still echoing with primal power. Deep in the western desert, nestled between two rushing branches of [[The Glowing Gulch]] and tucked beneath the shadow of [[Banagher Butte]] lies the peaceful town of [[Cairn Bluff]].\n\nA rogue group of arcanists and artificers, hired to help with the construction of [[The Clocktower]], have encountered a mysterious artifact and have become obsessed with doing....something to it. This brings a mysterious pale creature to the range."
   storycircle: 
-    you: "The party doing chores for the people of [[Oufoillea]]"
+    you: "The party doing chores for the people of [[Cairn Bluff]]"
     need: "But some arcanists and artificers from the community are missing"
     go: "They begin to find Clues as to why these few artificers are missing, but they need the help of the Goliaths to get a ride that far."
     search: "The trail leads down by [[the Glowing Gulch]], where the artificers were running their own experiments outside of their normal work beneath an abandoned and shattered tower."

@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Vigzud
+tl: 3.5
 size: Medium
 type: Outer (Beyonder)
 hd: 5
@@ -37,7 +38,8 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Outer (Beyonder)*
+*[[Medium]] Outer (Beyonder)*
+**TL**: 3.5
 
 **HD**: 5 (22 HP)
 **Speed:** 30' (Climb, Cling)
@@ -45,28 +47,29 @@ bestiary: true
 **Morale:** 4
 **\# Appearing:** d2
 **Senses**: Darksight
-**Armor**: 2 [as Chain]
+**[[Armor]]**: 2 [as Chain]
 **Immune**: Poison
-**Status Immunities**: Berserk, Frightened, Sickened
+**Status Immunities**: [[Berserk]], [[Frightened]], [[Sickened]]
 
 ***ACTIONS***
 ---
-Web [Ranged Attack] (Recharge Cd4): Restrained by Web
+Web [[[Ranged]] Attack] (Recharge Cd4): [[Restrained]] by Web
 Combo: 2×Claw and 1×Bite
-Bite [Melee Attack]: 4 (d8) and pass [Will] or become Sickened (Cd4, Berserk).
-Claw [Melee Attack]: 3 (d6)
+Bite [[[Melee]] Attack]: 4 (d8) and pass [Will] or become [[Sickened]] (Cd4, [[Berserk]]).
+Claw [[[Melee]] Attack]: 3 (d6)
 
 ***ABILITIES***
 ---
-**Bloodlust:** Beings at or below half HP are Vulnerable to its attacks.
-**Pouncer:** If it moves at least 20' before making an Attack on the same Turn, the Target is shoved Prone if it is this Being's size or smaller.
+**Bloodlust:** Beings at or below half HP are [[Vulnerable]] to its attacks.
+**Pouncer:** If it moves at least 20' before making an Attack on the same Turn, the Target is shoved [[Prone]] if it is this Being's size or smaller.
 **Web-Walk:** Its Move is not impeded by webbing.
-**Web:** Its web is an Object with 5 HP and Armor 1. The webs are Difficult Terrain as a surface, and cause a Target to be Restrained if hit with a Web Spit Attack from the Vigzud. The Vigzud was originally created by Amanda Lee Frank.
+**Web:** Its web is an Object with 5 HP and [[Armor]] 1. The webs are Difficult Terrain as a surface, and cause a Target to be [[Restrained]] if hit with a Web Spit Attack from the Vigzud. The Vigzud was originally created by Amanda Lee Frank.
 
 ```statblock
 dice: true
 layout: Vagabond
 name: Vigzud
+tl: 3.5
 size: Medium
 type: Outer (Beyonder)
 hd: 5

@@ -67,6 +67,15 @@
                     "type"
                   ],
                   "conditioned": true
+                },
+                {
+                  "type": "property",
+                  "id": "vb-tl",
+                  "properties": [
+                    "tl"
+                  ],
+                  "display": "Threat Level",
+                  "conditioned": true
                 }
               ],
               "conditioned": true
@@ -248,6 +257,670 @@
         "subheadingFontColor": "headingFontColor",
         "sectionHeadingFont": "\"Eskapade Fractur\""
       }
+    },
+    {
+      "id": "hero-record-layout",
+      "name": "Hero Record",
+      "edited": true,
+      "blocks": [
+        {
+          "type": "inline",
+          "id": "hr-header-row",
+          "properties": [],
+          "hasRule": true,
+          "nested": [
+            {
+              "type": "group",
+              "id": "hr-header-group",
+              "properties": [
+                "name",
+                "size",
+                "type"
+              ],
+              "nested": [
+                {
+                  "type": "heading",
+                  "id": "hr-name",
+                  "properties": [
+                    "name"
+                  ],
+                  "conditioned": true,
+                  "size": 1
+                },
+                {
+                  "type": "subheading",
+                  "id": "hr-type-line",
+                  "properties": [
+                    "size",
+                    "type"
+                  ],
+                  "conditioned": true
+                }
+              ],
+              "conditioned": true
+            },
+            {
+              "type": "image",
+              "id": "hr-image",
+              "properties": [
+                "image"
+              ],
+              "conditioned": true
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "id": "hr-identity",
+          "properties": [
+            "ancestry",
+            "class",
+            "level",
+            "xp"
+          ],
+          "nested": [
+            {
+              "type": "property",
+              "id": "hr-ancestry",
+              "properties": [
+                "ancestry"
+              ],
+              "display": "Ancestry",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "hr-class",
+              "properties": [
+                "class"
+              ],
+              "display": "Class",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "hr-level",
+              "properties": [
+                "level"
+              ],
+              "display": "Level",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "hr-xp",
+              "properties": [
+                "xp"
+              ],
+              "display": "XP",
+              "conditioned": true
+            }
+          ],
+          "hasRule": true,
+          "conditioned": true
+        },
+        {
+          "type": "group",
+          "id": "hr-stats",
+          "properties": [
+            "might",
+            "dexterity",
+            "awareness",
+            "reason",
+            "presence",
+            "luck"
+          ],
+          "nested": [
+            {
+              "type": "inline",
+              "id": "hr-stats-row1",
+              "properties": [],
+              "hasRule": false,
+              "nested": [
+                {
+                  "type": "property",
+                  "id": "hr-might",
+                  "properties": [
+                    "might"
+                  ],
+                  "display": "MIT",
+                  "conditioned": true
+                },
+                {
+                  "type": "property",
+                  "id": "hr-dexterity",
+                  "properties": [
+                    "dexterity"
+                  ],
+                  "display": "DEX",
+                  "conditioned": true
+                },
+                {
+                  "type": "property",
+                  "id": "hr-awareness",
+                  "properties": [
+                    "awareness"
+                  ],
+                  "display": "AWR",
+                  "conditioned": true
+                }
+              ]
+            },
+            {
+              "type": "inline",
+              "id": "hr-stats-row2",
+              "properties": [],
+              "hasRule": false,
+              "nested": [
+                {
+                  "type": "property",
+                  "id": "hr-reason",
+                  "properties": [
+                    "reason"
+                  ],
+                  "display": "RSN",
+                  "conditioned": true
+                },
+                {
+                  "type": "property",
+                  "id": "hr-presence",
+                  "properties": [
+                    "presence"
+                  ],
+                  "display": "PRS",
+                  "conditioned": true
+                },
+                {
+                  "type": "property",
+                  "id": "hr-luck",
+                  "properties": [
+                    "luck"
+                  ],
+                  "display": "LCK",
+                  "conditioned": true
+                }
+              ]
+            }
+          ],
+          "hasRule": true,
+          "conditioned": true
+        },
+        {
+          "type": "group",
+          "id": "hr-combat",
+          "properties": [
+            "hp",
+            "hp_max",
+            "armor",
+            "speed",
+            "fatigue",
+            "current_luck"
+          ],
+          "nested": [
+            {
+              "type": "property",
+              "id": "hr-hp",
+              "properties": [
+                "hp"
+              ],
+              "display": "HP",
+              "conditioned": true,
+              "callback": "return monster.hp + ' / ' + monster.hp_max"
+            },
+            {
+              "type": "property",
+              "id": "hr-armor",
+              "properties": [
+                "armor"
+              ],
+              "display": "Armor",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "hr-speed",
+              "properties": [
+                "speed"
+              ],
+              "display": "Speed",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "hr-fatigue",
+              "properties": [
+                "fatigue"
+              ],
+              "display": "Fatigue",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "hr-current-luck",
+              "properties": [
+                "current_luck"
+              ],
+              "display": "Current Luck",
+              "conditioned": true
+            }
+          ],
+          "hasRule": true,
+          "conditioned": true
+        },
+        {
+          "type": "group",
+          "id": "hr-saves",
+          "properties": [
+            "might",
+            "dexterity",
+            "awareness",
+            "reason",
+            "presence"
+          ],
+          "nested": [
+            {
+              "type": "property",
+              "id": "hr-reflex",
+              "properties": [
+                "dexterity"
+              ],
+              "display": "Reflex [DEX + AWR]",
+              "conditioned": true,
+              "callback": "return monster.reflex ?? (20 - monster.dexterity - monster.awareness)"
+            },
+            {
+              "type": "property",
+              "id": "hr-endure",
+              "properties": [
+                "might"
+              ],
+              "display": "Endure [MIT + MIT]",
+              "conditioned": true,
+              "callback": "return monster.endure ?? (20 - monster.might - monster.might)"
+            },
+            {
+              "type": "property",
+              "id": "hr-will",
+              "properties": [
+                "reason"
+              ],
+              "display": "Will [RSN + PRS]",
+              "conditioned": true,
+              "callback": "return monster.will ?? (20 - monster.reason - monster.presence)"
+            }
+          ],
+          "hasRule": true,
+          "conditioned": true
+        },
+        {
+          "type": "group",
+          "id": "hr-skills",
+          "properties": [
+            "reason",
+            "presence",
+            "might",
+            "awareness",
+            "dexterity"
+          ],
+          "nested": [
+            {
+              "type": "inline",
+              "id": "hr-skills-row1",
+              "properties": [],
+              "hasRule": false,
+              "nested": [
+                {
+                  "type": "property",
+                  "id": "hr-arcana",
+                  "properties": [
+                    "reason"
+                  ],
+                  "display": "Arcana [RSN]",
+                  "conditioned": true,
+                  "callback": "return monster.arcana ?? (20 - monster.reason)"
+                },
+                {
+                  "type": "property",
+                  "id": "hr-leadership",
+                  "properties": [
+                    "presence"
+                  ],
+                  "display": "Leadership [PRS]",
+                  "conditioned": true,
+                  "callback": "return monster.leadership ?? (20 - monster.presence)"
+                }
+              ]
+            },
+            {
+              "type": "inline",
+              "id": "hr-skills-row2",
+              "properties": [],
+              "hasRule": false,
+              "nested": [
+                {
+                  "type": "property",
+                  "id": "hr-brawl",
+                  "properties": [
+                    "might"
+                  ],
+                  "display": "Brawl [MIT]",
+                  "conditioned": true,
+                  "callback": "return monster.brawl ?? (20 - monster.might)"
+                },
+                {
+                  "type": "property",
+                  "id": "hr-medicine",
+                  "properties": [
+                    "reason"
+                  ],
+                  "display": "Medicine [RSN]",
+                  "conditioned": true,
+                  "callback": "return monster.medicine ?? (20 - monster.reason)"
+                }
+              ]
+            },
+            {
+              "type": "inline",
+              "id": "hr-skills-row3",
+              "properties": [],
+              "hasRule": false,
+              "nested": [
+                {
+                  "type": "property",
+                  "id": "hr-craft",
+                  "properties": [
+                    "reason"
+                  ],
+                  "display": "Craft [RSN]",
+                  "conditioned": true,
+                  "callback": "return monster.craft ?? (20 - monster.reason)"
+                },
+                {
+                  "type": "property",
+                  "id": "hr-mysticism",
+                  "properties": [
+                    "awareness"
+                  ],
+                  "display": "Mysticism [AWR]",
+                  "conditioned": true,
+                  "callback": "return monster.mysticism ?? (20 - monster.awareness)"
+                }
+              ]
+            },
+            {
+              "type": "inline",
+              "id": "hr-skills-row4",
+              "properties": [],
+              "hasRule": false,
+              "nested": [
+                {
+                  "type": "property",
+                  "id": "hr-detect",
+                  "properties": [
+                    "awareness"
+                  ],
+                  "display": "Detect [AWR]",
+                  "conditioned": true,
+                  "callback": "return monster.detect ?? (20 - monster.awareness)"
+                },
+                {
+                  "type": "property",
+                  "id": "hr-performance",
+                  "properties": [
+                    "presence"
+                  ],
+                  "display": "Performance [PRS]",
+                  "conditioned": true,
+                  "callback": "return monster.performance ?? (20 - monster.presence)"
+                }
+              ]
+            },
+            {
+              "type": "inline",
+              "id": "hr-skills-row5",
+              "properties": [],
+              "hasRule": false,
+              "nested": [
+                {
+                  "type": "property",
+                  "id": "hr-finesse",
+                  "properties": [
+                    "dexterity"
+                  ],
+                  "display": "Finesse [DEX]",
+                  "conditioned": true,
+                  "callback": "return monster.finesse ?? (20 - monster.dexterity)"
+                },
+                {
+                  "type": "property",
+                  "id": "hr-sneak",
+                  "properties": [
+                    "dexterity"
+                  ],
+                  "display": "Sneak [DEX]",
+                  "conditioned": true,
+                  "callback": "return monster.sneak ?? (20 - monster.dexterity)"
+                }
+              ]
+            },
+            {
+              "type": "inline",
+              "id": "hr-skills-row6",
+              "properties": [],
+              "hasRule": false,
+              "nested": [
+                {
+                  "type": "property",
+                  "id": "hr-influence",
+                  "properties": [
+                    "presence"
+                  ],
+                  "display": "Influence [PRS]",
+                  "conditioned": true,
+                  "callback": "return monster.influence ?? (20 - monster.presence)"
+                },
+                {
+                  "type": "property",
+                  "id": "hr-survival",
+                  "properties": [
+                    "awareness"
+                  ],
+                  "display": "Survival [AWR]",
+                  "conditioned": true,
+                  "callback": "return monster.survival ?? (20 - monster.awareness)"
+                }
+              ]
+            }
+          ],
+          "hasRule": true,
+          "conditioned": true
+        },
+        {
+          "type": "group",
+          "id": "hr-attacks",
+          "properties": [
+            "might",
+            "awareness",
+            "dexterity"
+          ],
+          "nested": [
+            {
+              "type": "inline",
+              "id": "hr-attacks-row1",
+              "properties": [],
+              "hasRule": false,
+              "nested": [
+                {
+                  "type": "property",
+                  "id": "hr-melee",
+                  "properties": [
+                    "might"
+                  ],
+                  "display": "Melee [MIT]",
+                  "conditioned": true,
+                  "callback": "return monster.melee ?? (20 - monster.might)"
+                },
+                {
+                  "type": "property",
+                  "id": "hr-ranged",
+                  "properties": [
+                    "awareness"
+                  ],
+                  "display": "Ranged [AWR]",
+                  "conditioned": true,
+                  "callback": "return monster.ranged ?? (20 - monster.awareness)"
+                }
+              ]
+            },
+            {
+              "type": "inline",
+              "id": "hr-attacks-row2",
+              "properties": [],
+              "hasRule": false,
+              "nested": [
+                {
+                  "type": "property",
+                  "id": "hr-atk-brawl",
+                  "properties": [
+                    "might"
+                  ],
+                  "display": "Brawl [MIT]",
+                  "conditioned": true,
+                  "callback": "return monster.brawl ?? (20 - monster.might)"
+                },
+                {
+                  "type": "property",
+                  "id": "hr-atk-finesse",
+                  "properties": [
+                    "dexterity"
+                  ],
+                  "display": "Finesse [DEX]",
+                  "conditioned": true,
+                  "callback": "return monster.finesse ?? (20 - monster.dexterity)"
+                }
+              ]
+            }
+          ],
+          "hasRule": true,
+          "conditioned": true
+        },
+        {
+          "type": "traits",
+          "id": "hr-rolls",
+          "properties": [
+            "rolls"
+          ],
+          "heading": "Rolls",
+          "conditioned": true,
+          "hasRule": true,
+          "dice": true
+        },
+        {
+          "type": "traits",
+          "id": "hr-weapons",
+          "properties": [
+            "weapons"
+          ],
+          "heading": "Weapons",
+          "conditioned": true,
+          "hasRule": true,
+          "dice": true
+        },
+        {
+          "type": "traits",
+          "id": "hr-abilities",
+          "properties": [
+            "abilities"
+          ],
+          "heading": "Abilities",
+          "conditioned": true,
+          "hasRule": true,
+          "markdown": true
+        },
+        {
+          "type": "group",
+          "id": "hr-magic",
+          "properties": [
+            "mana_max"
+          ],
+          "nested": [
+            {
+              "type": "property",
+              "id": "hr-mana",
+              "properties": [
+                "mana"
+              ],
+              "display": "Mana",
+              "conditioned": true,
+              "callback": "return monster.mana + ' / ' + monster.mana_max"
+            },
+            {
+              "type": "property",
+              "id": "hr-casting-max",
+              "properties": [
+                "casting_max"
+              ],
+              "display": "Casting Max",
+              "conditioned": true
+            }
+          ],
+          "hasRule": true,
+          "conditioned": true
+        },
+        {
+          "type": "group",
+          "id": "hr-inventory",
+          "properties": [
+            "inventory",
+            "wealth",
+            "item_slots"
+          ],
+          "nested": [
+            {
+              "type": "traits",
+              "id": "hr-inventory-items",
+              "properties": [
+                "inventory"
+              ],
+              "heading": "Inventory",
+              "conditioned": true,
+              "hasRule": false
+            },
+            {
+              "type": "property",
+              "id": "hr-wealth",
+              "properties": [
+                "wealth"
+              ],
+              "display": "Wealth",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "hr-item-slots",
+              "properties": [
+                "item_slots"
+              ],
+              "display": "Item Slots",
+              "conditioned": true
+            }
+          ],
+          "hasRule": true,
+          "conditioned": true
+        }
+      ],
+      "cssProperties": {
+        "ruleColor": "#1c65c4",
+        "primaryColor": "#000000",
+        "backgroundColor": "#ffffff",
+        "borderColor": "#dbc906",
+        "contentFont": " \"Paradigm Pro\",Calibri, Helvetica, Arial, sans-serif",
+        "headingFont": "\"Eskapade Fraktur Black\" ,Georgia, serif",
+        "barColor": "#2041c5",
+        "subheadingFont": "headingFont",
+        "subheadingFontColor": "headingFontColor",
+        "sectionHeadingFont": "\"Eskapade Fractur\""
+      }
     }
   ],
   "default": "vagabond-layout",
@@ -271,5 +944,5 @@
   "hideConditionHelp": false,
   "alwaysImport": false,
   "defaultLayoutsIntegrated": true,
-  "atomicWrite": true
+  "atomicWrite": false
 }

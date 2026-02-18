@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Dragon Turtle
+tl: 10.6
 size: Colossal
 type: Cryptid (Wyrm)
 hd: 30
@@ -14,11 +15,21 @@ appearing: 1
 senses: Darksight
 armor: "5 — (+2) Plate"
 immune: Fire
+actions:
+  - name: Combo
+    desc: 2×Claw and 1×Steam Breath or 1×Bite
+  - name: "Steam Breath [Attack; Far Cone | Endure or Reflex] (Recharge Cd6)"
+    desc: "28 (8d6), and Burning (Cd6) if failed"
+  - name: "Claw [Melee Attack]"
+    desc: 7 (2d6)
+  - name: "Bite [Melee Attack]"
+    desc: 18 (4d8)
 columns: 2
 forceColumns: true
 bestiary: true
 ---
 *Colossal Cryptid (Wyrm)*
+**TL**: 10.6
 
 **HD**: 30 (135 HP)
 **Speed:** 10' (Swim 30')
@@ -26,20 +37,21 @@ bestiary: true
 **Morale:** 10
 **\# Appearing:** 1
 **Senses**: Darksight
-**Armor**: 5 [as (+2) Plate]
+**[[Armor]]**: 5 [as (+2) Plate]
 **Immune**: Fire
 
 ***ACTIONS***
 ---
 Combo: 2×Claw and 1×Steam Breath or 1×Bite
-Steam Breath [Attack; Far Cone | Endure or Reflex] (Recharge Cd6): 28 (8d6), and Burning (Cd6) if failed
-Claw [Melee Attack]: 7 (2d6)
-Bite [Melee Attack]: 18 (4d8)
+Steam Breath [Attack; Far Cone | Endure or Reflex] (Recharge Cd6): 28 (8d6), and [[Burning]] (Cd6) if failed
+Claw [[[Melee]] Attack]: 7 (2d6)
+Bite [[[Melee]] Attack]: 18 (4d8)
 
 ```statblock
 dice: true
 layout: Vagabond
 name: Dragon Turtle
+tl: 10.6
 size: Colossal
 type: Cryptid (Wyrm)
 hd: 30
@@ -54,4 +66,13 @@ immune: Fire
 columns: 2
 forceColumns: true
 bestiary: true
+actions:
+  - name: Combo
+    desc: 2×Claw and 1×Steam Breath or 1×Bite
+  - name: "Steam Breath [Attack; Far Cone | Endure or Reflex] (Recharge Cd6)"
+    desc: "28 (8d6), and Burning (Cd6) if failed"
+  - name: "Claw [Melee Attack]"
+    desc: 7 (2d6)
+  - name: "Bite [Melee Attack]"
+    desc: 18 (4d8)
 ```

@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Rat
+tl: 0.2
 size: Small
 type: Beast
 hd: 1
@@ -25,7 +26,8 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Small Beast*
+*Small [[Beast]]*
+**TL**: 0.2
 
 **HD**: 1 (1 HP)
 **Speed:** 30'
@@ -33,21 +35,22 @@ bestiary: true
 **Morale:** 3
 **\# Appearing:** 3d6
 **Senses**: Darksight
-**Armor**: 0 [as Unarmored]
+**[[Armor]]**: 0 [as Unarmored]
 
 ***ACTIONS***
 ---
-Bite [Melee Attack]: 1 and Sickened (Cd6 Days).
+Bite [[[Melee]] Attack]: 1 and [[Sickened]] (Cd6 Days).
 
 ***ABILITIES***
 ---
 **Nimble:** Attacks against it can't be Favored if it can Move.
-**Pack Hunter:** Targets within 5' of one of this Being's Allies are Vulnerable to its attacks.
+**Pack [[Hunter]]:** Targets within 5' of one of this Being's Allies are [[Vulnerable]] to its attacks.
 
 ```statblock
 dice: true
 layout: Vagabond
 name: Rat
+tl: 0.2
 size: Small
 type: Beast
 hd: 1

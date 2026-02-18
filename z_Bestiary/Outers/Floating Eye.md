@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Floating Eye
+tl: 0.1
 size: Small
 type: Outer
 hd: 1
@@ -32,6 +33,7 @@ forceColumns: true
 bestiary: true
 ---
 *Small Outer*
+**TL**: 0.1
 
 **HD**: 1 (1 HP)
 **Speed:** 0' (Fly 30')
@@ -39,25 +41,26 @@ bestiary: true
 **Morale:** 7
 **\# Appearing:** 2d6
 **Senses**: Darksight, Telepathy
-**Armor**: 0 [as Unarmored]
+**[[Armor]]**: 0 [as Unarmored]
 **Weak**: Acid, Pierce
-**Status Immunities**: Prone
+**Status Immunities**: [[Prone]]
 
 ***ACTIONS***
 ---
 Glare [Cast, 30-foot Cone] (1/Day): Transformed into a stone statue (Cd6)
-Muddle [Cast, 30-foot Cone] (Recharge Cd4): Confused (Cd4, or until this Being dies)
-Enrage [Cast, 30-foot Cone] (Recharge Cd4): Berserk (Cd4, or until this Being dies)
+Muddle [Cast, 30-foot Cone] (Recharge Cd4): [[Confused]] (Cd4, or until this Being dies)
+Enrage [Cast, 30-foot Cone] (Recharge Cd4): [[Berserk]] (Cd4, or until this Being dies)
 
 ***ABILITIES***
 ---
 **Antimagical Cone I:** Cast Checks in a Near Cone from its central eye always fail, and any magic effect in the Cone is suspended while in the Cone.
-**Ocular:** Checks to make it Blinded are Favored.
+**Ocular:** Checks to make it [[Blinded]] are Favored.
 
 ```statblock
 dice: true
 layout: Vagabond
 name: Floating Eye
+tl: 0.1
 size: Small
 type: Outer
 hd: 1

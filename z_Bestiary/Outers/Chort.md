@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Chort
+tl: 5.0
 size: Medium
 type: Outer (Hellspawn)
 hd: 7
@@ -27,7 +28,8 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Outer (Hellspawn)*
+*[[Medium]] Outer (Hellspawn)*
+**TL**: 5.0
 
 **HD**: 7 (31 HP)
 **Speed:** 30'
@@ -35,23 +37,24 @@ bestiary: true
 **Morale:** 11
 **\# Appearing:** d4
 **Senses**: Allsight, Blindsight
-**Armor**: 3 [as (+1) Chain]
+**[[Armor]]**: 3 [as (+1) Chain]
 **Immune**: Fire, Poison; Physical from non-Relics
-**Status Immunities**: Fatigued, Frightened
+**Status Immunities**: [[Fatigued]], [[Frightened]]
 
 ***ACTIONS***
 ---
-Combo: 2×Claw and 1×Headbutt (+1) Claw [Melee Attack]: 3 (d4+1)
-Headbutt [Melee Attack]: 9 (2d8)
+Combo: 2×Claw and 1×Headbutt (+1) Claw [[[Melee]] Attack]: 3 (d4+1)
+Headbutt [[[Melee]] Attack]: 9 (2d8)
 
 ***ABILITIES***
 ---
-**Magic Ward II:** The first time it is unwillingly affected by a Spell each Round, the Caster must spend an extra 2 Mana to affect it.
+**Magic [[Ward]] II:** The first time it is unwillingly affected by a Spell each Round, the Caster must spend an extra 2 Mana to affect it.
 
 ```statblock
 dice: true
 layout: Vagabond
 name: Chort
+tl: 5.0
 size: Medium
 type: Outer (Hellspawn)
 hd: 7

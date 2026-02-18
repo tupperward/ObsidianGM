@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Wererat
+tl: 2.0
 size: Medium
 type: Cryptid (Shapechanger)
 hd: 3
@@ -29,7 +30,8 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Cryptid (Shapechanger)*
+*[[Medium]] Cryptid ([[Shapechanger]])*
+**TL**: 2.0
 
 **HD**: 3 (13 HP)
 **Speed:** 40'
@@ -37,24 +39,25 @@ bestiary: true
 **Morale:** 7
 **\# Appearing:** 1
 **Senses**: Darksight
-**Armor**: 1 [as Leather]
+**[[Armor]]**: 1 [as Leather]
 **Immune**: Physical
-**Weak**: Silvered Weapons
+**Weak**: Silvered [[Weapons]]
 
 ***ACTIONS***
 ---
 Combo: 1×Cutlass and 1×Bite
-Bite [Melee Attack]: 3 (d6) and pass [Will] or be cursed with Wererat Lycanthropy.
-Weapon [Melee Attack]: 3 (d6) or (by Weapon)
+Bite [[[Melee]] Attack]: 3 (d6) and pass [Will] or be cursed with Wererat Lycanthropy.
+Weapon [[[Melee]] Attack]: 3 (d6) or (by Weapon)
 
 ***ABILITIES***
 ---
-**Shapechanger:** This is a form that a Humanlike cursed with lycanthropy can become when the curse takes hold. They revert automatically if they die.
+**[[Shapechanger]]:** This is a form that a Humanlike cursed with lycanthropy can become when the curse takes hold. They revert automatically if they die.
 
 ```statblock
 dice: true
 layout: Vagabond
 name: Wererat
+tl: 2.0
 size: Medium
 type: Cryptid (Shapechanger)
 hd: 3

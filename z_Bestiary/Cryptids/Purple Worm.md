@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Purple Worm
+tl: 5.5
 size: Colossal
 type: Cryptid (Wyrm)
 hd: 15
@@ -28,6 +29,7 @@ forceColumns: true
 bestiary: true
 ---
 *Colossal Cryptid (Wyrm)*
+**TL**: 5.5
 
 **HD**: 15 (67 HP)
 **Speed:** 20'
@@ -35,13 +37,13 @@ bestiary: true
 **Morale:** 10
 **\# Appearing:** d2
 **Senses**: Blindsight, Seismicsense 60'
-**Armor**: 3 [as (+1) Chain]
+**[[Armor]]**: 3 [as (+1) Chain]
 
 ***ACTIONS***
 ---
 Combo: 1×Bite and 1×Sting
-Bite [Melee Attack, Cleave]: 9 (2d8) or half to all Targets Close to its mouth.
-Sting [Melee Attack, Near its tail]: 4 (d8) and pass [Endure] or become Sickened (+1 Fatigue for Cd12).
+Bite [[[Melee]] Attack, Cleave]: 9 (2d8) or half to all Targets Close to its mouth.
+Sting [[[Melee]] Attack, Near its tail]: 4 (d8) and pass [Endure] or become [[Sickened]] (+1 Fatigue for Cd12).
 
 ***ABILITIES***
 ---
@@ -51,6 +53,7 @@ Sting [Melee Attack, Near its tail]: 4 (d8) and pass [Endure] or become Sickened
 dice: true
 layout: Vagabond
 name: Purple Worm
+tl: 5.5
 size: Colossal
 type: Cryptid (Wyrm)
 hd: 15

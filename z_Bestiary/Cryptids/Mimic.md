@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Mimic
+tl: 2.6
 size: Medium
 type: Cryptid
 hd: 5
@@ -27,7 +28,8 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Cryptid*
+*[[Medium]] Cryptid*
+**TL**: 2.6
 
 **HD**: 5 (22 HP)
 **Speed:** 10'
@@ -35,22 +37,23 @@ bestiary: true
 **Morale:** 9
 **\# Appearing:** 1
 **Senses**: Darksight
-**Armor**: 1 [as Leather]
+**[[Armor]]**: 1 [as Leather]
 
 ***ACTIONS***
 ---
-Bite [Melee Attack]: 9 (2d8) and Restrained if smaller
+Bite [[[Melee]] Attack]: 9 (2d8) and [[Restrained]] if smaller
 Mimic [Action (Focus)]: It takes on the appearance of an Object that is its size or smaller for the Duration.
-Pseudopod [Melee Attack]: 7 (3d4)
+Pseudopod [[[Melee]] Attack]: 7 (3d4)
 
 ***ABILITIES***
 ---
-**Adhere:** Hinders Checks to end being Restrained by it.
+**[[Adhere]]:** Hinders Checks to end being [[Restrained]] by it.
 
 ```statblock
 dice: true
 layout: Vagabond
 name: Mimic
+tl: 2.6
 size: Medium
 type: Cryptid
 hd: 5

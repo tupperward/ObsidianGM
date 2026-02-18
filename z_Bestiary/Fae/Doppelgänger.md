@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Doppelgänger
+tl: 2.6
 size: Medium
 type: Fae (Shapechanger)
 hd: 4
@@ -26,21 +27,22 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Fae (Shapechanger)*
+*[[Medium]] Fae ([[Shapechanger]])*
+**TL**: 2.6
 
 **HD**: 4 (18 HP)
 **Speed:** 30'
 **Zone**: Frontline
 **Morale:** 10
 **\# Appearing:** d6
-**Armor**: 2 [as Chain]
-**Weak**: Cold Iron Weapons
-**Status Immunities**: Charmed, Unconscious
+**[[Armor]]**: 2 [as Chain]
+**Weak**: Cold Iron [[Weapons]]
+**Status Immunities**: [[Charmed]], [[Unconscious]]
 
 ***ACTIONS***
 ---
 Shapechange [Cast, Self (Focus)] (1/Minute): Appears to be a Being of humanoid form it has seen.
-Bite [Melee Attack]: 6 (d12)
+Bite [[[Melee]] Attack]: 6 (d12)
 
 ***ABILITIES***
 ---
@@ -50,6 +52,7 @@ Bite [Melee Attack]: 6 (d12)
 dice: true
 layout: Vagabond
 name: Doppelgänger
+tl: 2.6
 size: Medium
 type: Fae (Shapechanger)
 hd: 4

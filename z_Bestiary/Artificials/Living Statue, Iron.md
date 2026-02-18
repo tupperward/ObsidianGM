@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: "Living Statue, Iron"
+tl: 2.7
 size: Medium
 type: Artificial
 hd: 4
@@ -26,20 +27,21 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Artificial*
+*[[Medium]] Artificial*
+**TL**: 2.7
 
 **HD**: 4 (18 HP)
 **Speed:** 10'
 **Zone**: Frontline
 **Morale:** 11
 **\# Appearing:** d4
-**Armor**: 3 [as Plate]
+**[[Armor]]**: 3 [as Plate]
 **Immune**: Poison
-**Status Immunities**: Blinded, Fatigued, Suffocating, Unconscious
+**Status Immunities**: [[Blinded]], [[Fatigued]], [[Suffocating]], [[Unconscious]]
 
 ***ACTIONS***
 ---
-Weapon [Melee Attack]: 4 (d8) or (by Weapon)
+Weapon [[[Melee]] Attack]: 4 (d8) or (by Weapon)
 
 ***ABILITIES***
 ---
@@ -50,6 +52,7 @@ Weapon [Melee Attack]: 4 (d8) or (by Weapon)
 dice: true
 layout: Vagabond
 name: "Living Statue, Iron"
+tl: 2.7
 size: Medium
 type: Artificial
 hd: 4

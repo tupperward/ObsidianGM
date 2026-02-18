@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Almiraj
+tl: 1.0
 size: Small
 type: Cryptid (Beast)
 hd: 1
@@ -22,18 +23,19 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Small Cryptid (Beast)*
+*Small Cryptid ([[Beast]])*
+**TL**: 1.0
 
 **HD**: 1 (1 HP)
 **Speed:** 45'
 **Zone**: Backline
 **Morale:** 1
 **\# Appearing:** 2d6
-**Armor**: 1 [as Leather]
+**[[Armor]]**: 1 [as Leather]
 
 ***ACTIONS***
 ---
-Gore [Melee Attack]: 2 (d4)
+Gore [[[Melee]] Attack]: 2 (d4)
 
 ***ABILITIES***
 ---
@@ -43,6 +45,7 @@ Gore [Melee Attack]: 2 (d4)
 dice: true
 layout: Vagabond
 name: Almiraj
+tl: 1.0
 size: Small
 type: Cryptid (Beast)
 hd: 1

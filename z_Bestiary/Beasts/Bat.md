@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Bat
+tl: 0.2
 size: Small
 type: Beast
 hd: 1
@@ -23,7 +24,8 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Small Beast*
+*Small [[Beast]]*
+**TL**: 0.2
 
 **HD**: 1 (1 HP)
 **Speed:** 5' (Fly 30')
@@ -31,11 +33,11 @@ bestiary: true
 **Morale:** 5
 **\# Appearing:** 2d20
 **Senses**: Echolocation
-**Armor**: 0 [as Unarmored]
+**[[Armor]]**: 0 [as Unarmored]
 
 ***ACTIONS***
 ---
-Bite [Melee Attack]: 1 and pass [Endure] or become Sickened (Cd6 days)
+Bite [[[Melee]] Attack]: 1 and pass [Endure] or become [[Sickened]] (Cd6 days)
 
 ***ABILITIES***
 ---
@@ -45,6 +47,7 @@ Bite [Melee Attack]: 1 and pass [Endure] or become Sickened (Cd6 days)
 dice: true
 layout: Vagabond
 name: Bat
+tl: 0.2
 size: Small
 type: Beast
 hd: 1

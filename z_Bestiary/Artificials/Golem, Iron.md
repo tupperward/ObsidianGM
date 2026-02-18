@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: "Golem, Iron"
+tl: 8.9
 size: Large
 type: Artificial
 hd: 18
@@ -35,6 +36,7 @@ forceColumns: true
 bestiary: true
 ---
 *Large Artificial*
+**TL**: 8.9
 
 **HD**: 18 (81 HP)
 **Speed:** 15'
@@ -42,27 +44,28 @@ bestiary: true
 **Morale:** -
 **\# Appearing:** 1
 **Senses**: Darksight
-**Armor**: 5 [as (+2) Plate]
+**[[Armor]]**: 5 [as (+2) Plate]
 **Immune**: Fire, Cold, Poison; Physical from non-Relics
-**Weak**: Adamant Weapons
-**Status Immunities**: Charmed, Fatigued, Paralyzed, Sickened, Suffocating
+**Weak**: Adamant [[Weapons]]
+**Status Immunities**: [[Charmed]], [[Fatigued]], [[Paralyzed]], [[Sickened]], [[Suffocating]]
 
 ***ACTIONS***
 ---
 Combo: 1×Poison Breath and 1×Greatsword, or 2×Greatsword
 Poison Breath [Cast, Close 10' Cube | Endure] (Recharge Cd8): 2 (d4) Fatigue
-Greatsword [Melee Attack]: 13 (2d12)
+Greatsword [[[Melee]] Attack]: 13 (2d12)
 
 ***ABILITIES***
 ---
 **Fire-Absorber:** Fire damage rolls heal it instead.
 **Immutable:** It can't be transformed.
-**Magic Ward I:** The first time it is unwillingly affected by a Spell each Round, the Caster must spend an extra 1 Mana to affect it.
+**Magic [[Ward]] I:** The first time it is unwillingly affected by a Spell each Round, the Caster must spend an extra 1 Mana to affect it.
 
 ```statblock
 dice: true
 layout: Vagabond
 name: "Golem, Iron"
+tl: 8.9
 size: Large
 type: Artificial
 hd: 18

@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Elephant
+tl: 5.0
 size: Huge
 type: Beast
 hd: 9
@@ -24,19 +25,20 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Huge Beast*
+*Huge [[Beast]]*
+**TL**: 5.0
 
 **HD**: 9 (40 HP)
 **Speed:** 40'
 **Zone**: Frontline
 **Morale:** 8
 **\# Appearing:** d20
-**Armor**: 2 [as Chain]
+**[[Armor]]**: 2 [as Chain]
 
 ***ACTIONS***
 ---
-Trample [Melee Attack] (Recharge Cd4): 18 (4d8)
-Tusk [Melee Attack]: 7 (2d4)
+Trample [[[Melee]] Attack] (Recharge Cd4): 18 (4d8)
+Tusk [[[Melee]] Attack]: 7 (2d4)
 
 ***ABILITIES***
 ---
@@ -46,6 +48,7 @@ Tusk [Melee Attack]: 7 (2d4)
 dice: true
 layout: Vagabond
 name: Elephant
+tl: 5.0
 size: Huge
 type: Beast
 hd: 9

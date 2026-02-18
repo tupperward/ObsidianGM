@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: "Leech, Giant"
+tl: 1.0
 size: Medium
 type: Beast
 hd: 1
@@ -26,19 +27,20 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Beast*
+*[[Medium]] [[Beast]]*
+**TL**: 1.0
 
 **HD**: 1 (4 HP)
 **Speed:** 10' (Swim 20')
 **Zone**: Frontline
 **Morale:** 7
 **\# Appearing:** 3d6
-**Armor**: 0 [as Unarmored]
+**[[Armor]]**: 0 [as Unarmored]
 
 ***ACTIONS***
 ---
-Drain [Melee Attack, Restrained Being]: 2 (d4) healing this Being for the damage
-Latch [Melee Attack]: 2 (d4) and Restrained if Medium or smaller
+Drain [[[Melee]] Attack, [[Restrained]] Being]: 2 (d4) healing this Being for the damage
+Latch [[[Melee]] Attack]: 2 (d4) and [[Restrained]] if [[Medium]] or smaller
 
 ***ABILITIES***
 ---
@@ -49,6 +51,7 @@ Latch [Melee Attack]: 2 (d4) and Restrained if Medium or smaller
 dice: true
 layout: Vagabond
 name: "Leech, Giant"
+tl: 1.0
 size: Medium
 type: Beast
 hd: 1

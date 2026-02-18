@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Carcass Crawler
+tl: 2.2
 size: Large
 type: Cryptid
 hd: 3
@@ -28,6 +29,7 @@ forceColumns: true
 bestiary: true
 ---
 *Large Cryptid*
+**TL**: 2.2
 
 **HD**: 3 (13 HP)
 **Speed:** 40' (Cling)
@@ -35,22 +37,23 @@ bestiary: true
 **Morale:** 9
 **\# Appearing:** d4
 **Senses**: Darksight
-**Armor**: 1 [as Leather]
+**[[Armor]]**: 1 [as Leather]
 
 ***ACTIONS***
 ---
 Combo: 1×Tentacle and 1×Bite
-Bite [Melee Attack, a Paralyzed Target]: 3 (d6)
-Tentacle [Melee Attack]: 4 (d8) and pass [Endure] or become Sickened (Cd6, Paralyzed)
+Bite [[[Melee]] Attack, a [[Paralyzed]] Target]: 3 (d6)
+Tentacle [[[Melee]] Attack]: 4 (d8) and pass [Endure] or become [[Sickened]] (Cd6, [[Paralyzed]])
 
 ***ABILITIES***
 ---
-**Soft Underbelly:** Its Armor is 0 while it is Prone.
+**Soft Underbelly:** Its [[Armor]] is 0 while it is [[Prone]].
 
 ```statblock
 dice: true
 layout: Vagabond
 name: Carcass Crawler
+tl: 2.2
 size: Large
 type: Cryptid
 hd: 3

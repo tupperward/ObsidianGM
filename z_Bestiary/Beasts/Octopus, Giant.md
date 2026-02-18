@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: "Octopus, Giant"
+tl: 4.8
 size: Large
 type: Beast
 hd: 8
@@ -31,7 +32,8 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Large Beast*
+*Large [[Beast]]*
+**TL**: 4.8
 
 **HD**: 8 (36 HP)
 **Speed:** 10' (Swim 30')
@@ -39,13 +41,13 @@ bestiary: true
 **Morale:** 7
 **\# Appearing:** 1
 **Senses**: Darksight
-**Armor**: 1 [as Leather]
+**[[Armor]]**: 1 [as Leather]
 
 ***ACTIONS***
 ---
 Combo: 1×Tentacle per Tentacle it has, up to 4.
-Beak [Melee Attack]: 3 (d6)
-Tentacle [Melee Attack, Near]: 2 (d4) and Restrained if Medium or smaller
+Beak [[[Melee]] Attack]: 3 (d6)
+Tentacle [[[Melee]] Attack, Near]: 2 (d4) and [[Restrained]] if [[Medium]] or smaller
 
 ***ABILITIES***
 ---
@@ -57,6 +59,7 @@ Tentacle [Melee Attack, Near]: 2 (d4) and Restrained if Medium or smaller
 dice: true
 layout: Vagabond
 name: "Octopus, Giant"
+tl: 4.8
 size: Large
 type: Beast
 hd: 8

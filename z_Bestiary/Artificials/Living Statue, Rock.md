@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: "Living Statue, Rock"
+tl: 5.0
 size: Medium
 type: Artificial
 hd: 5
@@ -27,22 +28,23 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Artificial*
+*[[Medium]] Artificial*
+**TL**: 5.0
 
 **HD**: 5 (22 HP)
 **Speed:** 20'
 **Zone**: Frontline
 **Morale:** 11
 **\# Appearing:** d4
-**Armor**: 3 [as (+1) Chain]
+**[[Armor]]**: 3 [as (+1) Chain]
 **Immune**: Fire, Poison
 **Weak**: Blunt, Cold
-**Status Immunities**: Blinded, Fatigued, Suffocating, Unconscious
+**Status Immunities**: [[Blinded]], [[Fatigued]], [[Suffocating]], [[Unconscious]]
 
 ***ACTIONS***
 ---
 Combo: 2×Magma Jet
-Magma Jet [Ranged Attack]: 7 (2d6) and Burning (Cd6)
+Magma Jet [[[Ranged]] Attack]: 7 (2d6) and [[Burning]] (Cd6)
 
 ***ABILITIES***
 ---
@@ -52,6 +54,7 @@ Magma Jet [Ranged Attack]: 7 (2d6) and Burning (Cd6)
 dice: true
 layout: Vagabond
 name: "Living Statue, Rock"
+tl: 5.0
 size: Medium
 type: Artificial
 hd: 5

@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Gibbering Mouther
+tl: 4.0
 size: Medium
 type: Outer (Beyonder)
 hd: 4
@@ -30,22 +31,23 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Medium Outer (Beyonder)*
+*[[Medium]] Outer (Beyonder)*
+**TL**: 4.0
 
 **HD**: 4 (18 HP)
 **Speed:** 30' (Climb, Swim)
 **Zone**: Frontline
 **Morale:** 8
 **\# Appearing:** 1
-**Armor**: 4 [as (+1) Plate]
+**[[Armor]]**: 4 [as (+1) Plate]
 
 ***ACTIONS***
 ---
 Combo: 2×Bite
-Bite [Melee Attack]: 4 (d8) and Medium or smaller
-Targets must pass [Endure] or be knocked Prone
-Babble [Action, Aura Near | Will]: Confused (Cd4)
-Spit [Ranged Attack, Near | Endure]: Blinded (Cd4)
+Bite [[[Melee]] Attack]: 4 (d8) and [[Medium]] or smaller
+Targets must pass [Endure] or be knocked [[Prone]]
+[[Babble]] [Action, Aura Near | Will]: [[Confused]] (Cd4)
+Spit [[[Ranged]] Attack, Near | Endure]: [[Blinded]] (Cd4)
 
 ***ABILITIES***
 ---
@@ -55,6 +57,7 @@ Spit [Ranged Attack, Near | Endure]: Blinded (Cd4)
 dice: true
 layout: Vagabond
 name: Gibbering Mouther
+tl: 4.0
 size: Medium
 type: Outer (Beyonder)
 hd: 4

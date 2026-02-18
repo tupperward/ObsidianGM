@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: Cat
+tl: 0.2
 size: Small
 type: Beast
 hd: 1
@@ -23,7 +24,8 @@ columns: 2
 forceColumns: true
 bestiary: true
 ---
-*Small Beast*
+*Small [[Beast]]*
+**TL**: 0.2
 
 **HD**: 1 (1 HP)
 **Speed:** 40' (Climb)
@@ -31,11 +33,11 @@ bestiary: true
 **Morale:** 2
 **\# Appearing:** 2d6
 **Senses**: Darksight
-**Armor**: 0 [as Unarmored]
+**[[Armor]]**: 0 [as Unarmored]
 
 ***ACTIONS***
 ---
-Claw [Melee Attack]: 1
+Claw [[[Melee]] Attack]: 1
 
 ***ABILITIES***
 ---
@@ -45,6 +47,7 @@ Claw [Melee Attack]: 1
 dice: true
 layout: Vagabond
 name: Cat
+tl: 0.2
 size: Small
 type: Beast
 hd: 1

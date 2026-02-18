@@ -3,6 +3,7 @@ statblock: true
 dice: true
 layout: Vagabond
 name: "Elemental, Greater Fire"
+tl: 8.3
 size: Huge
 type: Primordial
 hd: 16
@@ -30,6 +31,7 @@ forceColumns: true
 bestiary: true
 ---
 *Huge Primordial*
+**TL**: 8.3
 
 **HD**: 16 (72 HP)
 **Speed:** 0' (Fly 50')
@@ -37,24 +39,25 @@ bestiary: true
 **Morale:** 10
 **\# Appearing:** 1
 **Senses**: Blindsight
-**Armor**: 5 [as (+2) Armor]
+**[[Armor]]**: 5 [as (+2) [[Armor]]]
 **Immune**: Fire, Poison; Physical from non-Relics
-**Status Immunities**: Fatigued, Prone, Restrained, Sickened, Suffocating
+**Status Immunities**: [[Fatigued]], [[Prone]], [[Restrained]], [[Sickened]], [[Suffocating]]
 
 ***ACTIONS***
 ---
-Flame [Ranged Attack]: 13 (3d8) and Burning (Cd8)
+Flame [[[Ranged]] Attack]: 13 (3d8) and [[Burning]] (Cd8)
 
 ***ABILITIES***
 ---
-**Living Fire:** Close Beings are Burning (d10).
-**Illuminating:** Sheds Light out to Near.
+**Living Fire:** Close Beings are [[Burning]] (d10).
+**Illuminating:** Sheds [[Light]] out to Near.
 **Seep:** It can enter the space of other Beings and openings as small as 1 inch without squeezing.
 
 ```statblock
 dice: true
 layout: Vagabond
 name: "Elemental, Greater Fire"
+tl: 8.3
 size: Huge
 type: Primordial
 hd: 16
