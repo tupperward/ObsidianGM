@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/Hero Record.md",
-                "mode": "preview",
+                "file": "The Ruinous League/Hook & Play.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hero Record"
+              "title": "Hook & Play"
             }
           }
         ],
@@ -284,10 +284,13 @@
   },
   "active": "b77e28fea9110acc",
   "lastOpenFiles": [
+    "The Ruinous League/Dungeon Map.md",
+    "The Ruinous League/Crawl.md",
+    "Campaigns/Untitled.md",
+    "z_Templates/Hero Record.md",
     "Campaigns/Blood on the Chapparal/05. Locations/Cairn Bluff.md",
     "Giant Spider.md",
     "The Ruinous League/Hook & Play.md",
-    "The Ruinous League/Crawl.md",
     "The Ruinous League/Character Sheet.md",
     "z_Rules/Running Enemies.md",
     "z_Rules/Combat.md",
@@ -307,9 +310,6 @@
     "z_Ancestries/Traits/Elven Eyes.md",
     "z_Ancestries/Traits/Ascendancy.md",
     "z_Ancestries/Traits/Tough.md",
-    "z_Ancestries/Traits/Sturdy.md",
-    "z_Ancestries/Traits/Darksight.md",
-    "z_Ancestries/Traits/Strong Potential.md",
     "z_Ancestries/Traits",
     "z_Ancestries",
     "z_Rules/Adventuring Overview",

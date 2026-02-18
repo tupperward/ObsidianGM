@@ -5,6 +5,8 @@ type: quest
 
 To begin, draw a stairway leading down to the ruins and a 20'-by-20' square room with 3 doors in any direction.
 
+![[Dungeon Map]]
+
 ### Unexplored Areas
 
 Follow these steps when moving to new areas:
