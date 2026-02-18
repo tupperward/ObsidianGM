@@ -6,6 +6,7 @@ name: Gelatinous Cube
 tl: 1.3
 size: Large
 type: Primordial (Slime)
+description: "A mostly transparent cube of slime that lurks in passageways, attempting to trap unaware delvers."
 hd: 4
 hit_dice: 4d8
 hp: 18
@@ -61,6 +62,7 @@ name: Gelatinous Cube
 tl: 1.3
 size: Large
 type: Primordial (Slime)
+description: "A mostly transparent cube of slime that lurks in passageways, attempting to trap unaware delvers."
 hd: 4
 hit_dice: 4d8
 hp: 18

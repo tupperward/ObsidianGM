@@ -6,6 +6,7 @@ name: Tyrannosaurus Rex
 tl: 6.8
 size: Huge
 type: Beast
+description: "The tyrant lizard that dominates regions that have been \"lost to time.\" Its massive jaws are nearly unstoppable by man."
 hd: 20
 hit_dice: 20d8
 hp: 90
@@ -42,6 +43,7 @@ name: Tyrannosaurus Rex
 tl: 6.8
 size: Huge
 type: Beast
+description: "The tyrant lizard that dominates regions that have been \"lost to time.\" Its massive jaws are nearly unstoppable by man."
 hd: 20
 hit_dice: 20d8
 hp: 90

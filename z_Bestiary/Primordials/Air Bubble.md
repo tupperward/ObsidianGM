@@ -6,6 +6,7 @@ name: Air Bubble
 tl: 1.6
 size: Large
 type: Primordial (Slime)
+description: "Floating masses of highly acrid air."
 hd: 6
 hit_dice: 6d8
 hp: 27
@@ -61,6 +62,7 @@ name: Air Bubble
 tl: 1.6
 size: Large
 type: Primordial (Slime)
+description: "Floating masses of highly acrid air."
 hd: 6
 hit_dice: 6d8
 hp: 27

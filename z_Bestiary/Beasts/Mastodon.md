@@ -6,6 +6,7 @@ name: Mastodon
 tl: 8.3
 size: Huge
 type: Beast
+description: "Both the woolly and imperial mammoths roam arctic and subtropic lands."
 hd: 13
 hit_dice: 13d8
 hp: 58
@@ -55,6 +56,7 @@ name: Mastodon
 tl: 8.3
 size: Huge
 type: Beast
+description: "Both the woolly and imperial mammoths roam arctic and subtropic lands."
 hd: 13
 hit_dice: 13d8
 hp: 58

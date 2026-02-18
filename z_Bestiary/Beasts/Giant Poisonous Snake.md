@@ -6,6 +6,7 @@ name: "Giant Poisonous Snake"
 tl: 2.7
 size: Large
 type: Beast
+description: "Over-sized versions of the deadly cobra and viper."
 hd: 6
 hit_dice: 6d8
 hp: 27
@@ -42,6 +43,7 @@ name: "Giant Poisonous Snake"
 tl: 2.7
 size: Large
 type: Beast
+description: "Over-sized versions of the deadly cobra and viper."
 hd: 6
 hit_dice: 6d8
 hp: 27

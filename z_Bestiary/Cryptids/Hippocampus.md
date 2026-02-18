@@ -6,6 +6,7 @@ name: Hippocampus
 tl: 2.1
 size: Large
 type: Cryptid
+description: "A sea-horse, in the more literal sense."
 hd: 4
 hit_dice: 4d8
 hp: 18
@@ -47,6 +48,7 @@ name: Hippocampus
 tl: 2.1
 size: Large
 type: Cryptid
+description: "A sea-horse, in the more literal sense."
 hd: 4
 hit_dice: 4d8
 hp: 18

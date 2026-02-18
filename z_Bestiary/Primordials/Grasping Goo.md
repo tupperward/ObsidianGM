@@ -6,6 +6,7 @@ name: Grasping Goo
 tl: 0.7
 size: Small
 type: Primordial (Slime)
+description: "An otherwise immobile pile of sludge. It only attacks when another creature moves within reach of its pseudopods."
 hd: 1
 hit_dice: 1d8
 hp: 1
@@ -66,6 +67,7 @@ name: Grasping Goo
 tl: 0.7
 size: Small
 type: Primordial (Slime)
+description: "An otherwise immobile pile of sludge. It only attacks when another creature moves within reach of its pseudopods."
 hd: 1
 hit_dice: 1d8
 hp: 1

@@ -6,6 +6,7 @@ name: "Giant Tarantella"
 tl: 2.2
 size: Medium
 type: Beast
+description: "Man-sized venomous spiders with the ability to blend into their environment like a chameleon."
 hd: 4
 hit_dice: 4d8
 hp: 18
@@ -45,6 +46,7 @@ name: "Giant Tarantella"
 tl: 2.2
 size: Medium
 type: Beast
+description: "Man-sized venomous spiders with the ability to blend into their environment like a chameleon."
 hd: 4
 hit_dice: 4d8
 hp: 18

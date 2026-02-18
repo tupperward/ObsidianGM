@@ -6,6 +6,7 @@ name: Firebat
 tl: 1.0
 size: Small
 type: Primordial
+description: "A bat-like creature of pure elemental fire. It latches onto its target with its fangs to hold it in place while it burns them alive."
 hd: 1
 hit_dice: 1d8
 hp: 1
@@ -63,6 +64,7 @@ name: Firebat
 tl: 1.0
 size: Small
 type: Primordial
+description: "A bat-like creature of pure elemental fire. It latches onto its target with its fangs to hold it in place while it burns them alive."
 hd: 1
 hit_dice: 1d8
 hp: 1

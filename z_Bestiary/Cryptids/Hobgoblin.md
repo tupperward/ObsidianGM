@@ -6,6 +6,7 @@ name: Hobgoblin
 tl: 1.4
 size: Medium
 type: Cryptid
+description: "Taller goblins with refined tactical minds from years of combat."
 hd: 2
 hit_dice: 2d8
 hp: 9
@@ -49,6 +50,7 @@ name: Hobgoblin
 tl: 1.4
 size: Medium
 type: Cryptid
+description: "Taller goblins with refined tactical minds from years of combat."
 hd: 2
 hit_dice: 2d8
 hp: 9

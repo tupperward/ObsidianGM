@@ -6,6 +6,7 @@ name: "Flesh Golem"
 tl: 4.7
 size: Large
 type: Artificial
+description: "A living automoton of stitched-together flesh, given life through electric strikes."
 hd: 9
 hit_dice: 9d8
 hp: 40
@@ -66,6 +67,7 @@ name: "Flesh Golem"
 tl: 4.7
 size: Large
 type: Artificial
+description: "A living automoton of stitched-together flesh, given life through electric strikes."
 hd: 9
 hit_dice: 9d8
 hp: 40

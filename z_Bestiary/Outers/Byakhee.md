@@ -6,6 +6,7 @@ name: Byakhee
 tl: 10.5
 size: Huge
 type: "Outer (Beyonder, Wyrm)"
+description: "A grey alien dragon from beyond the stars. It can fly at the speed of light."
 hd: 15
 hit_dice: 15d8
 hp: 67
@@ -62,6 +63,7 @@ name: Byakhee
 tl: 10.5
 size: Huge
 type: "Outer (Beyonder, Wyrm)"
+description: "A grey alien dragon from beyond the stars. It can fly at the speed of light."
 hd: 15
 hit_dice: 15d8
 hp: 67

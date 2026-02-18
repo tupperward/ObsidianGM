@@ -6,6 +6,7 @@ name: Choker
 tl: 1.3
 size: Medium
 type: Cryptid
+description: "A vicious, solitary goblin-like creature with a remarkable grip and penchant for strangling its prey. They tend to ambush their victims from treetops."
 hd: 3
 hit_dice: 3d8
 hp: 13
@@ -44,6 +45,7 @@ name: Choker
 tl: 1.3
 size: Medium
 type: Cryptid
+description: "A vicious, solitary goblin-like creature with a remarkable grip and penchant for strangling its prey. They tend to ambush their victims from treetops."
 hd: 3
 hit_dice: 3d8
 hp: 13

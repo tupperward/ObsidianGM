@@ -6,6 +6,7 @@ name: Snallygaster
 tl: 4.4
 size: Large
 type: Cryptid (Wyrm)
+description: "A one-eyed chimeria with a taste for booze. Other than its reptilian tail and claws, it otherwise resembles a plucked chicken... and there's an array of octopus-like tentacles writhing from its beak."
 hd: 10
 hit_dice: 10d8
 hp: 45
@@ -52,6 +53,7 @@ name: Snallygaster
 tl: 4.4
 size: Large
 type: Cryptid (Wyrm)
+description: "A one-eyed chimeria with a taste for booze. Other than its reptilian tail and claws, it otherwise resembles a plucked chicken... and there's an array of octopus-like tentacles writhing from its beak."
 hd: 10
 hit_dice: 10d8
 hp: 45

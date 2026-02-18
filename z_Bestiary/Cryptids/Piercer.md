@@ -6,6 +6,7 @@ name: Piercer
 tl: 3.6
 size: Medium
 type: Cryptid
+description: "Ambush predators that resemble stalactites. They drop on unsuspecting creatures in the dark."
 hd: 3
 hit_dice: 3d8
 hp: 13
@@ -51,6 +52,7 @@ name: Piercer
 tl: 3.6
 size: Medium
 type: Cryptid
+description: "Ambush predators that resemble stalactites. They drop on unsuspecting creatures in the dark."
 hd: 3
 hit_dice: 3d8
 hp: 13

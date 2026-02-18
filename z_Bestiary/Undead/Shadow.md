@@ -6,6 +6,7 @@ name: Shadow
 tl: 1.6
 size: Medium
 type: Undead
+description: "An animus of pure vomit darkness and anti-life."
 hd: 2
 hit_dice: 2d8
 hp: 9
@@ -60,6 +61,7 @@ name: Shadow
 tl: 1.6
 size: Medium
 type: Undead
+description: "An animus of pure vomit darkness and anti-life."
 hd: 2
 hit_dice: 2d8
 hp: 9

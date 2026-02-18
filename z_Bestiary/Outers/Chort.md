@@ -6,6 +6,7 @@ name: Chort
 tl: 5.0
 size: Medium
 type: Outer (Hellspawn)
+description: "Goat-like bipedal demons, and sons of Chernobog."
 hd: 7
 hit_dice: 7d8
 hp: 31
@@ -58,6 +59,7 @@ name: Chort
 tl: 5.0
 size: Medium
 type: Outer (Hellspawn)
+description: "Goat-like bipedal demons, and sons of Chernobog."
 hd: 7
 hit_dice: 7d8
 hp: 31

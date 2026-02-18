@@ -6,6 +6,7 @@ name: Shambling Mound
 tl: 5.5
 size: Large
 type: Primordial (Plant)
+description: "When lightning strikes a bog, it may spark life to make a shambling mound: an ambulatory plant brute."
 hd: 9
 hit_dice: 9d8
 hp: 40
@@ -59,6 +60,7 @@ name: Shambling Mound
 tl: 5.5
 size: Large
 type: Primordial (Plant)
+description: "When lightning strikes a bog, it may spark life to make a shambling mound: an ambulatory plant brute."
 hd: 9
 hit_dice: 9d8
 hp: 40

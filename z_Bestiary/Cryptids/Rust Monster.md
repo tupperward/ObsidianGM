@@ -6,6 +6,7 @@ name: Rust Monster
 tl: 2.7
 size: Medium
 type: Cryptid
+description: "Insectoids known to destroy any metal."
 hd: 5
 hit_dice: 5d8
 hp: 22
@@ -54,6 +55,7 @@ name: Rust Monster
 tl: 2.7
 size: Medium
 type: Cryptid
+description: "Insectoids known to destroy any metal."
 hd: 5
 hit_dice: 5d8
 hp: 22

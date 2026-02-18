@@ -6,6 +6,7 @@ name: Vigzud
 tl: 3.5
 size: Medium
 type: Outer (Beyonder)
+description: "A bearded, panther-like creature with the eyes of a spider."
 hd: 5
 hit_dice: 5d8
 hp: 22
@@ -73,6 +74,7 @@ name: Vigzud
 tl: 3.5
 size: Medium
 type: Outer (Beyonder)
+description: "A bearded, panther-like creature with the eyes of a spider."
 hd: 5
 hit_dice: 5d8
 hp: 22

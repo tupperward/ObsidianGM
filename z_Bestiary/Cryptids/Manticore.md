@@ -6,6 +6,7 @@ name: Manticore
 tl: 3.8
 size: Large
 type: Cryptid
+description: "Flying, quilled hybrids of a lion and bat, with a scorpion tail."
 hd: 6
 hit_dice: 6d8
 hp: 27
@@ -56,6 +57,7 @@ name: Manticore
 tl: 3.8
 size: Large
 type: Cryptid
+description: "Flying, quilled hybrids of a lion and bat, with a scorpion tail."
 hd: 6
 hit_dice: 6d8
 hp: 27

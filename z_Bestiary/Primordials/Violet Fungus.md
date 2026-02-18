@@ -6,6 +6,7 @@ name: Violet Fungus
 tl: 1.7
 size: Medium
 type: Primordial (Plant)
+description: "An otherwise inoccuous mushroom that releases poisonous spores and its viney, mycelium tendrils when disturbed."
 hd: 3
 hit_dice: 3d8
 hp: 13
@@ -53,6 +54,7 @@ name: Violet Fungus
 tl: 1.7
 size: Medium
 type: Primordial (Plant)
+description: "An otherwise inoccuous mushroom that releases poisonous spores and its viney, mycelium tendrils when disturbed."
 hd: 3
 hit_dice: 3d8
 hp: 13

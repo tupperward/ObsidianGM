@@ -6,6 +6,7 @@ name: Couatl
 tl: 3.8
 size: Medium
 type: Outer (Divine)
+description: "A celestial, winged serpent commonly worshipped as a deity of medicinal care."
 hd: 9
 hit_dice: 9d8
 hp: 40
@@ -52,6 +53,7 @@ name: Couatl
 tl: 3.8
 size: Medium
 type: Outer (Divine)
+description: "A celestial, winged serpent commonly worshipped as a deity of medicinal care."
 hd: 9
 hit_dice: 9d8
 hp: 40

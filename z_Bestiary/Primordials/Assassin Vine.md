@@ -6,6 +6,7 @@ name: Assassin Vine
 tl: 2.0
 size: Large
 type: Primordial (Plant)
+description: "A mass of somewhat ambulatory vines that feeds on blood and carrion."
 hd: 4
 hit_dice: 4d8
 hp: 18
@@ -51,6 +52,7 @@ name: Assassin Vine
 tl: 2.0
 size: Large
 type: Primordial (Plant)
+description: "A mass of somewhat ambulatory vines that feeds on blood and carrion."
 hd: 4
 hit_dice: 4d8
 hp: 18

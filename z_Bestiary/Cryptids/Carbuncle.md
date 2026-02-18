@@ -6,6 +6,7 @@ name: Carbuncle
 tl: 1.6
 size: Small
 type: Cryptid
+description: "A green, armadillo-like creature with a gorgeous ruby on its head. These rubies are worth roughly 800g, but the carbuncle is easily scared to death. If it dies, its body and the ruby dissolves into dust."
 hd: 1
 hit_dice: 1d8
 hp: 1
@@ -50,6 +51,7 @@ name: Carbuncle
 tl: 1.6
 size: Small
 type: Cryptid
+description: "A green, armadillo-like creature with a gorgeous ruby on its head. These rubies are worth roughly 800g, but the carbuncle is easily scared to death. If it dies, its body and the ruby dissolves into dust."
 hd: 1
 hit_dice: 1d8
 hp: 1

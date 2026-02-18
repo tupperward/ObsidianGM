@@ -6,6 +6,7 @@ name: Wyvern
 tl: 5.8
 size: Huge
 type: Cryptid (Wyrm)
+description: "A lesser wyrm with a scorpion-like stinger for a tail."
 hd: 14
 hit_dice: 14d8
 hp: 64
@@ -53,6 +54,7 @@ name: Wyvern
 tl: 5.8
 size: Huge
 type: Cryptid (Wyrm)
+description: "A lesser wyrm with a scorpion-like stinger for a tail."
 hd: 14
 hit_dice: 14d8
 hp: 64

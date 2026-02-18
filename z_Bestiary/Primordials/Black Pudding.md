@@ -6,6 +6,7 @@ name: Black Pudding
 tl: 8.2
 size: Large
 type: Primordial (Slime)
+description: "This tar-like mass of ooze lurks in the darkness with a singular goal, consume."
 hd: 10
 hit_dice: 10d8
 hp: 45
@@ -69,6 +70,7 @@ name: Black Pudding
 tl: 8.2
 size: Large
 type: Primordial (Slime)
+description: "This tar-like mass of ooze lurks in the darkness with a singular goal, consume."
 hd: 10
 hit_dice: 10d8
 hp: 45

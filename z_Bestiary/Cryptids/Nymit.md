@@ -6,6 +6,7 @@ name: Nymit
 tl: 1.9
 size: Medium
 type: Cryptid
+description: "Underground-dwelling creatures with rocklike skin, large eyes and massive noses, resembling gnomes."
 hd: 2
 hit_dice: 2d8
 hp: 9
@@ -51,6 +52,7 @@ name: Nymit
 tl: 1.9
 size: Medium
 type: Cryptid
+description: "Underground-dwelling creatures with rocklike skin, large eyes and massive noses, resembling gnomes."
 hd: 2
 hit_dice: 2d8
 hp: 9

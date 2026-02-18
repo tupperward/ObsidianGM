@@ -6,6 +6,7 @@ name: Ghoul
 tl: 2.0
 size: Medium
 type: Undead
+description: "A frenzied zombie with hate for all things living."
 hd: 2
 hit_dice: 2d8
 hp: 9
@@ -63,6 +64,7 @@ name: Ghoul
 tl: 2.0
 size: Medium
 type: Undead
+description: "A frenzied zombie with hate for all things living."
 hd: 2
 hit_dice: 2d8
 hp: 9

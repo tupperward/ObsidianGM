@@ -6,6 +6,7 @@ name: Rhagodessa
 tl: 3.0
 size: Large
 type: Cryptid (Beast)
+description: "In the deepest caves, the 10-legged rhagodessa hunts. These massive camel spider-like creatures have yellow markings all over their brown bodies, and are known to devour human flesh."
 hd: 4
 hit_dice: 4d8
 hp: 20
@@ -50,6 +51,7 @@ name: Rhagodessa
 tl: 3.0
 size: Large
 type: Cryptid (Beast)
+description: "In the deepest caves, the 10-legged rhagodessa hunts. These massive camel spider-like creatures have yellow markings all over their brown bodies, and are known to devour human flesh."
 hd: 4
 hit_dice: 4d8
 hp: 20

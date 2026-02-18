@@ -6,6 +6,7 @@ name: "Giant Ant"
 tl: 2.9
 size: Medium
 type: Beast
+description: "The incredibly hardy ant, increased to massive proportions. Their tunnels are the size of mineshafts, and an infestation of giant ants can topple a city."
 hd: 2
 hit_dice: 2d8
 hp: 9
@@ -42,6 +43,7 @@ name: "Giant Ant"
 tl: 2.9
 size: Medium
 type: Beast
+description: "The incredibly hardy ant, increased to massive proportions. Their tunnels are the size of mineshafts, and an infestation of giant ants can topple a city."
 hd: 2
 hit_dice: 2d8
 hp: 9

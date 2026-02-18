@@ -6,6 +6,7 @@ name: Snakeman
 tl: 3.2
 size: Medium
 type: Cryptid
+description: "Jungle-dwelling snake people who are known to capture and sacrifice others to their demonic master."
 hd: 6
 hit_dice: 6d8
 hp: 27
@@ -61,6 +62,7 @@ name: Snakeman
 tl: 3.2
 size: Medium
 type: Cryptid
+description: "Jungle-dwelling snake people who are known to capture and sacrifice others to their demonic master."
 hd: 6
 hit_dice: 6d8
 hp: 27

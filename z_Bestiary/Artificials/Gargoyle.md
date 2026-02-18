@@ -6,6 +6,7 @@ name: Gargoyle
 tl: 2.6
 size: Medium
 type: Artificial
+description: "A flying statue with a demonic appearance."
 hd: 4
 hit_dice: 4d8
 hp: 18
@@ -59,6 +60,7 @@ name: Gargoyle
 tl: 2.6
 size: Medium
 type: Artificial
+description: "A flying statue with a demonic appearance."
 hd: 4
 hit_dice: 4d8
 hp: 18

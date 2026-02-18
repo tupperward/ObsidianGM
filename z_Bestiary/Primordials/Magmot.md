@@ -6,6 +6,7 @@ name: Magmot
 tl: 6.4
 size: Large
 type: Primordial
+description: "Rocken worms of lava, whose bodies glow white hot like molten steel."
 hd: 3
 hit_dice: 3d8
 hp: 12
@@ -59,6 +60,7 @@ name: Magmot
 tl: 6.4
 size: Large
 type: Primordial
+description: "Rocken worms of lava, whose bodies glow white hot like molten steel."
 hd: 3
 hit_dice: 3d8
 hp: 12

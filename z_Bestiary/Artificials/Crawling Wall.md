@@ -6,6 +6,7 @@ name: Crawling Wall
 tl: 6.1
 size: Huge
 type: Artificial
+description: "A silent, moving wall that catches its prey by crushing it and soaking the pulp through its cracks. They may have arms and a mouth."
 hd: 13
 hit_dice: 13d8
 hp: 58
@@ -61,6 +62,7 @@ name: Crawling Wall
 tl: 6.1
 size: Huge
 type: Artificial
+description: "A silent, moving wall that catches its prey by crushing it and soaking the pulp through its cracks. They may have arms and a mouth."
 hd: 13
 hit_dice: 13d8
 hp: 58

@@ -6,6 +6,7 @@ name: Skeljaskrimsli
 tl: 6.3
 size: Large
 type: Cryptid
+description: "An armored aquatic creature that resembles a bear. When they feed in the water, the act of opening their mouth can create small whirlpool."
 hd: 10
 hit_dice: 10d8
 hp: 45
@@ -63,6 +64,7 @@ name: Skeljaskrimsli
 tl: 6.3
 size: Large
 type: Cryptid
+description: "An armored aquatic creature that resembles a bear. When they feed in the water, the act of opening their mouth can create small whirlpool."
 hd: 10
 hit_dice: 10d8
 hp: 45

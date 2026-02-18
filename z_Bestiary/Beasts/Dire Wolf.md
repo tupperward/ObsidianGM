@@ -6,6 +6,7 @@ name: "Dire Wolf"
 tl: 1.9
 size: Large
 type: Beast
+description: "Overgrown wolf variants. Often the alpha of packs of dozens of wolves."
 hd: 5
 hit_dice: 5d8
 hp: 22
@@ -52,6 +53,7 @@ name: "Dire Wolf"
 tl: 1.9
 size: Large
 type: Beast
+description: "Overgrown wolf variants. Often the alpha of packs of dozens of wolves."
 hd: 5
 hit_dice: 5d8
 hp: 22

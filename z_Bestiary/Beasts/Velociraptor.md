@@ -6,6 +6,7 @@ name: Velociraptor
 tl: 1.4
 size: Small
 type: Beast
+description: "A vicious reptilian carnivore from the lost world. It walks upright, and moves with blinding speed."
 hd: 3
 hit_dice: 3d8
 hp: 12
@@ -49,6 +50,7 @@ name: Velociraptor
 tl: 1.4
 size: Small
 type: Beast
+description: "A vicious reptilian carnivore from the lost world. It walks upright, and moves with blinding speed."
 hd: 3
 hit_dice: 3d8
 hp: 12

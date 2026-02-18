@@ -6,6 +6,7 @@ name: Cave Fisher
 tl: 2.5
 size: Medium
 type: Cryptid
+description: "Massive, pale arachnids that lurk in dank tunnels. They use filament like trapwire to ensnare their prey."
 hd: 3
 hit_dice: 3d8
 hp: 13
@@ -57,6 +58,7 @@ name: Cave Fisher
 tl: 2.5
 size: Medium
 type: Cryptid
+description: "Massive, pale arachnids that lurk in dank tunnels. They use filament like trapwire to ensnare their prey."
 hd: 3
 hit_dice: 3d8
 hp: 13

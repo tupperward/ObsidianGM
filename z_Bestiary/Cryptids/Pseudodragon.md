@@ -6,6 +6,7 @@ name: Pseudodragon
 tl: 0.8
 size: Small
 type: Cryptid (Wyrm)
+description: "These small dragons often serve as familiars for mages, as they are drawn to growing magic power."
 hd: 2
 hit_dice: 2d8
 hp: 2
@@ -56,6 +57,7 @@ name: Pseudodragon
 tl: 0.8
 size: Small
 type: Cryptid (Wyrm)
+description: "These small dragons often serve as familiars for mages, as they are drawn to growing magic power."
 hd: 2
 hit_dice: 2d8
 hp: 2

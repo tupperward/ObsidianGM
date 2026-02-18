@@ -6,6 +6,7 @@ name: Hippogriff
 tl: 3.1
 size: Large
 type: Cryptid
+description: "Smaller, griffon-like creatures with the hind quarters of horses rather than lions."
 hd: 4
 hit_dice: 4d8
 hp: 18
@@ -50,6 +51,7 @@ name: Hippogriff
 tl: 3.1
 size: Large
 type: Cryptid
+description: "Smaller, griffon-like creatures with the hind quarters of horses rather than lions."
 hd: 4
 hit_dice: 4d8
 hp: 18

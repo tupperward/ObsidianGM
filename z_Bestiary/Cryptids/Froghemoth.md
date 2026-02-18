@@ -6,6 +6,7 @@ name: Froghemoth
 tl: 7.8
 size: Huge
 type: Cryptid
+description: "20' tall mix of frog, octopus, and hate."
 hd: 16
 hit_dice: 16d8
 hp: 72
@@ -62,6 +63,7 @@ name: Froghemoth
 tl: 7.8
 size: Huge
 type: Cryptid
+description: "20' tall mix of frog, octopus, and hate."
 hd: 16
 hit_dice: 16d8
 hp: 72

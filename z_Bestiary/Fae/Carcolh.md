@@ -6,6 +6,7 @@ name: Carcolh
 tl: 7.1
 size: Huge
 type: Fae (Wyrm)
+description: "A snail-like serpent that usually resides in gardens of splendor and crystal caves. Their mouths are lined with draconic fangs, and their head is crowned with multiple hairy tentacles."
 hd: 15
 hit_dice: 15d8
 hp: 67
@@ -62,6 +63,7 @@ name: Carcolh
 tl: 7.1
 size: Huge
 type: Fae (Wyrm)
+description: "A snail-like serpent that usually resides in gardens of splendor and crystal caves. Their mouths are lined with draconic fangs, and their head is crowned with multiple hairy tentacles."
 hd: 15
 hit_dice: 15d8
 hp: 67

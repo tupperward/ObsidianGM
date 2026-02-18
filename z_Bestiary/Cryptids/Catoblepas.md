@@ -6,6 +6,7 @@ name: Catoblepas
 tl: 5.7
 size: Large
 type: Cryptid
+description: "The loathsome bog cow. It is a disgusting smelling, bovine-like wanderer of the bog capable of shooting lasers from its eyes and loosing a noxious gas from its gullet."
 hd: 7
 hit_dice: 7d8
 hp: 24
@@ -55,6 +56,7 @@ name: Catoblepas
 tl: 5.7
 size: Large
 type: Cryptid
+description: "The loathsome bog cow. It is a disgusting smelling, bovine-like wanderer of the bog capable of shooting lasers from its eyes and loosing a noxious gas from its gullet."
 hd: 7
 hit_dice: 7d8
 hp: 24

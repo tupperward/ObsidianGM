@@ -6,6 +6,7 @@ name: Thulhan
 tl: 3.8
 size: Medium
 type: Outer (Beyonder)
+description: "Humanoid aliens with cephalopod-like heads. Their tentacled faces hide a skull-piercing mouth that bores a hole into its victim's skull and drains its brain."
 hd: 8
 hit_dice: 8d8
 hp: 36
@@ -67,6 +68,7 @@ name: Thulhan
 tl: 3.8
 size: Medium
 type: Outer (Beyonder)
+description: "Humanoid aliens with cephalopod-like heads. Their tentacled faces hide a skull-piercing mouth that bores a hole into its victim's skull and drains its brain."
 hd: 8
 hit_dice: 8d8
 hp: 36

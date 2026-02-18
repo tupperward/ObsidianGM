@@ -6,6 +6,7 @@ name: Amikuk
 tl: 3.6
 size: Large
 type: Cryptid
+description: "A pale, fleshy horror that lurks in the shallows of frozen waters. It hunts by wrapping around boats and dragging the passengers underwater."
 hd: 4
 hit_dice: 4d8
 hp: 18
@@ -60,6 +61,7 @@ name: Amikuk
 tl: 3.6
 size: Large
 type: Cryptid
+description: "A pale, fleshy horror that lurks in the shallows of frozen waters. It hunts by wrapping around boats and dragging the passengers underwater."
 hd: 4
 hit_dice: 4d8
 hp: 18

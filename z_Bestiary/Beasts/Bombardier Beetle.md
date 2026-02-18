@@ -6,6 +6,7 @@ name: "Bombardier Beetle"
 tl: 2.0
 size: Small
 type: Beast
+description: "A 3-foot long beetle with powerful mandibles that is capable of emiting noxious fumes that burns flesh."
 hd: 2
 hit_dice: 2d8
 hp: 2
@@ -45,6 +46,7 @@ name: "Bombardier Beetle"
 tl: 2.0
 size: Small
 type: Beast
+description: "A 3-foot long beetle with powerful mandibles that is capable of emiting noxious fumes that burns flesh."
 hd: 2
 hit_dice: 2d8
 hp: 2

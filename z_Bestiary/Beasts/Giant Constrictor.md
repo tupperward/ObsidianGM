@@ -6,6 +6,7 @@ name: "Giant Constrictor"
 tl: 3.4
 size: Huge
 type: Beast
+description: "All manner of giant constricting snakes like boas and pythons. Always kills its prey by crushing it."
 hd: 7
 hit_dice: 7d8
 hp: 31
@@ -51,6 +52,7 @@ name: "Giant Constrictor"
 tl: 3.4
 size: Huge
 type: Beast
+description: "All manner of giant constricting snakes like boas and pythons. Always kills its prey by crushing it."
 hd: 7
 hit_dice: 7d8
 hp: 31

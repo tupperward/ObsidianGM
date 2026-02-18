@@ -6,6 +6,7 @@ name: Stirge
 tl: 1.2
 size: Small
 type: Cryptid
+description: "A blood-sucking pest that resembles a fleshy mosquito. They attack by latching onto a victim and penetrating their tissue with a barbed proboscis."
 hd: 1
 hit_dice: 1d8
 hp: 1
@@ -58,6 +59,7 @@ name: Stirge
 tl: 1.2
 size: Small
 type: Cryptid
+description: "A blood-sucking pest that resembles a fleshy mosquito. They attack by latching onto a victim and penetrating their tissue with a barbed proboscis."
 hd: 1
 hit_dice: 1d8
 hp: 1

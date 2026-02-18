@@ -6,6 +6,7 @@ name: Hydrangean
 tl: 2.0
 size: Medium
 type: Prmordial (Plant)
+description: "Sharp-toothed carnivorous plants, with multiple serpentine petioles atop a digestive pitcher."
 hd: 2
 hit_dice: 2d8
 hp: 9
@@ -57,6 +58,7 @@ name: Hydrangean
 tl: 2.0
 size: Medium
 type: Prmordial (Plant)
+description: "Sharp-toothed carnivorous plants, with multiple serpentine petioles atop a digestive pitcher."
 hd: 2
 hit_dice: 2d8
 hp: 9

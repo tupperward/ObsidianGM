@@ -6,6 +6,7 @@ name: Pteranodon
 tl: 1.2
 size: Medium
 type: Beast
+description: "Flying dinosaurs that resemble birds with fanged maws."
 hd: 1
 hit_dice: 1d8
 hp: 4
@@ -42,6 +43,7 @@ name: Pteranodon
 tl: 1.2
 size: Medium
 type: Beast
+description: "Flying dinosaurs that resemble birds with fanged maws."
 hd: 1
 hit_dice: 1d8
 hp: 4

@@ -6,6 +6,7 @@ name: "Giant Crab Spider"
 tl: 1.5
 size: Medium
 type: Beast
+description: "Man-sized venomous spiders with the ability to blend into their environment like a chameleon."
 hd: 2
 hit_dice: 2d8
 hp: 9
@@ -44,6 +45,7 @@ name: "Giant Crab Spider"
 tl: 1.5
 size: Medium
 type: Beast
+description: "Man-sized venomous spiders with the ability to blend into their environment like a chameleon."
 hd: 2
 hit_dice: 2d8
 hp: 9

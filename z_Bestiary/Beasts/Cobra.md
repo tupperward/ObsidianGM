@@ -6,6 +6,7 @@ name: "Cobra"
 tl: 1.5
 size: Medium
 type: Beast
+description: "Venomous snakes that can deliver their venom through bites or by spitting."
 hd: 1
 hit_dice: 1d8
 hp: 4
@@ -45,6 +46,7 @@ name: "Cobra"
 tl: 1.5
 size: Medium
 type: Beast
+description: "Venomous snakes that can deliver their venom through bites or by spitting."
 hd: 1
 hit_dice: 1d8
 hp: 4

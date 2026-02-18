@@ -6,6 +6,7 @@ name: Yellow Mould
 tl: 0.9
 size: Large
 type: Primordial (Plant)
+description: "A spore-producing fungus that thrives in dank environments. This mould emits a cloud of toxic spores that cause near immediate suffocation."
 hd: 2
 hit_dice: 2d8
 hp: 9
@@ -53,6 +54,7 @@ name: Yellow Mould
 tl: 0.9
 size: Large
 type: Primordial (Plant)
+description: "A spore-producing fungus that thrives in dank environments. This mould emits a cloud of toxic spores that cause near immediate suffocation."
 hd: 2
 hit_dice: 2d8
 hp: 9

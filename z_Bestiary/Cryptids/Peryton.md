@@ -6,6 +6,7 @@ name: Peryton
 tl: 3.2
 size: Medium
 type: Cryptid (Beast)
+description: "Flying elks with the souls of killers. Upon their creation, the peryton casts the shadow of a man. Only after murdering a human and devouring its heart does this shadow take its expected shape."
 hd: 4
 hit_dice: 4d8
 hp: 18
@@ -51,6 +52,7 @@ name: Peryton
 tl: 3.2
 size: Medium
 type: Cryptid (Beast)
+description: "Flying elks with the souls of killers. Upon their creation, the peryton casts the shadow of a man. Only after murdering a human and devouring its heart does this shadow take its expected shape."
 hd: 4
 hit_dice: 4d8
 hp: 18

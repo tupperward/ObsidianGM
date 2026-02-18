@@ -6,6 +6,7 @@ name: "Green Hag"
 tl: 4.0
 size: Medium
 type: Fae (Shapechanger)
+description: "Ugly humanoid fae known to blur the lines between undeath and the fairy courts. Known to pull itself and its victims into invisibility to brutalize them."
 hd: 9
 hit_dice: 9d8
 hp: 40
@@ -68,6 +69,7 @@ name: "Green Hag"
 tl: 4.0
 size: Medium
 type: Fae (Shapechanger)
+description: "Ugly humanoid fae known to blur the lines between undeath and the fairy courts. Known to pull itself and its victims into invisibility to brutalize them."
 hd: 9
 hit_dice: 9d8
 hp: 40

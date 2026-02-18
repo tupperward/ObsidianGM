@@ -6,6 +6,7 @@ name: Jarjacha
 tl: 0.8
 size: Large
 type: Cryptid
+description: "A towering, nocturnal creature with glowing, green eyes, the body of an alpaca, and an almost owl-like face without a beak."
 hd: 3
 hit_dice: 3d8
 hp: 13
@@ -45,6 +46,7 @@ name: Jarjacha
 tl: 0.8
 size: Large
 type: Cryptid
+description: "A towering, nocturnal creature with glowing, green eyes, the body of an alpaca, and an almost owl-like face without a beak."
 hd: 3
 hit_dice: 3d8
 hp: 13

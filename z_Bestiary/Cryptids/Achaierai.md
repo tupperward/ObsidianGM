@@ -6,6 +6,7 @@ name: Achaierai
 tl: 3.3
 size: Large
 type: Cryptid
+description: "15' tall, four-legged avians incapable of flight. They appear to be a head on four chicken legs, with the wings only serving to help with balance."
 hd: 4
 hit_dice: 4d8
 hp: 18
@@ -53,6 +54,7 @@ name: Achaierai
 tl: 3.3
 size: Large
 type: Cryptid
+description: "15' tall, four-legged avians incapable of flight. They appear to be a head on four chicken legs, with the wings only serving to help with balance."
 hd: 4
 hit_dice: 4d8
 hp: 18

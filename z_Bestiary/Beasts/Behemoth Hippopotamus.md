@@ -6,6 +6,7 @@ name: "Behemoth Hippopotamus"
 tl: 4.9
 size: Huge
 type: Beast
+description: "Massive hippos, big enough for micro-ecosystems to develop on their backs. Uncontrollably territorial."
 hd: 10
 hit_dice: 10d8
 hp: 45
@@ -49,6 +50,7 @@ name: "Behemoth Hippopotamus"
 tl: 4.9
 size: Huge
 type: Beast
+description: "Massive hippos, big enough for micro-ecosystems to develop on their backs. Uncontrollably territorial."
 hd: 10
 hit_dice: 10d8
 hp: 45

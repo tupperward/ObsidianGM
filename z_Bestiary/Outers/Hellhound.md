@@ -6,6 +6,7 @@ name: Hellhound
 tl: 4.3
 size: Medium
 type: Outer (Hellspawn)
+description: "These fire-breathing, monstrous hounds are the guard dogs to more powerful hellspawn. Wild hellhounds can be found near areas where they slipped through some rift between planes."
 hd: 4
 hit_dice: 4d8
 hp: 18
@@ -48,6 +49,7 @@ name: Hellhound
 tl: 4.3
 size: Medium
 type: Outer (Hellspawn)
+description: "These fire-breathing, monstrous hounds are the guard dogs to more powerful hellspawn. Wild hellhounds can be found near areas where they slipped through some rift between planes."
 hd: 4
 hit_dice: 4d8
 hp: 18

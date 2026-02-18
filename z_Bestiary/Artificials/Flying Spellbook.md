@@ -6,6 +6,7 @@ name: Flying Spellbook
 tl: 0.7
 size: Small
 type: Artificial
+description: "An animated spellbook that flies like a bird, capable of casting the magic written on its pages."
 hd: 1
 hit_dice: 1d8
 hp: 1
@@ -63,6 +64,7 @@ name: Flying Spellbook
 tl: 0.7
 size: Small
 type: Artificial
+description: "An animated spellbook that flies like a bird, capable of casting the magic written on its pages."
 hd: 1
 hit_dice: 1d8
 hp: 1

@@ -6,6 +6,7 @@ name: Warp Beast
 tl: 3.4
 size: Large
 type: Cryptid (Beast)
+description: "Panther-like beasts with a bizarre array of tentacles, and a natural displacement magic caused by molecular vibrations in its fur."
 hd: 6
 hit_dice: 6d8
 hp: 27
@@ -60,6 +61,7 @@ name: Warp Beast
 tl: 3.4
 size: Large
 type: Cryptid (Beast)
+description: "Panther-like beasts with a bizarre array of tentacles, and a natural displacement magic caused by molecular vibrations in its fur."
 hd: 6
 hit_dice: 6d8
 hp: 27

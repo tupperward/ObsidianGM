@@ -6,6 +6,7 @@ name: "Wolf in Sheep's Clothing"
 tl: 2.4
 size: Medium
 type: Outer (Beyonder)
+description: "A predatory alien fungus that hunts by attracting prey with a small, furry growth that mimcs a rabbit, squirrel, or similar small mammal. The creature itself resembles a tree stump with multiple root-like limbs and fungal eyestalks."
 hd: 9
 hit_dice: 9d8
 hp: 40
@@ -47,6 +48,7 @@ name: "Wolf in Sheep's Clothing"
 tl: 2.4
 size: Medium
 type: Outer (Beyonder)
+description: "A predatory alien fungus that hunts by attracting prey with a small, furry growth that mimcs a rabbit, squirrel, or similar small mammal. The creature itself resembles a tree stump with multiple root-like limbs and fungal eyestalks."
 hd: 9
 hit_dice: 9d8
 hp: 40

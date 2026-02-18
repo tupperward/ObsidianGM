@@ -6,6 +6,7 @@ name: Beisht Kione Dhoo
 tl: 6.6
 size: Huge
 type: Fae (Wyrm)
+description: "A bane of pirates, the serpentine beisht kione is a horrifying fae of the sea. Its jaws and mouth match the length of its nearly equine mane, and it can open these jaws to swallow most small boats whole. Stories say, if treasure is ever lost overboard, it now belongs to the beisht, as attempts to dredge it up will incur its greedy wrath."
 hd: 13
 hit_dice: 13d8
 hp: 58
@@ -67,6 +68,7 @@ name: Beisht Kione Dhoo
 tl: 6.6
 size: Huge
 type: Fae (Wyrm)
+description: "A bane of pirates, the serpentine beisht kione is a horrifying fae of the sea. Its jaws and mouth match the length of its nearly equine mane, and it can open these jaws to swallow most small boats whole. Stories say, if treasure is ever lost overboard, it now belongs to the beisht, as attempts to dredge it up will incur its greedy wrath."
 hd: 13
 hit_dice: 13d8
 hp: 58

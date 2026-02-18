@@ -6,6 +6,7 @@ name: "Will o' Wisp"
 tl: 3.6
 size: Small
 type: Fae
+description: "Chaotic spirit motes that dwell in swamps. They can send a burst of spiritual energy that zaps the essence from a mortal."
 hd: 6
 hit_dice: 6d8
 hp: 27
@@ -75,6 +76,7 @@ name: "Will o' Wisp"
 tl: 3.6
 size: Small
 type: Fae
+description: "Chaotic spirit motes that dwell in swamps. They can send a burst of spiritual energy that zaps the essence from a mortal."
 hd: 6
 hit_dice: 6d8
 hp: 27

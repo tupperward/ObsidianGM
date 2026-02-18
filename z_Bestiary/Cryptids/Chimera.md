@@ -6,6 +6,7 @@ name: Chimera
 tl: 7.0
 size: Large
 type: Cryptid
+description: "The arcane fusion of a lion, goat, and dragon."
 hd: 9
 hit_dice: 9d8
 hp: 40
@@ -57,6 +58,7 @@ name: Chimera
 tl: 7.0
 size: Large
 type: Cryptid
+description: "The arcane fusion of a lion, goat, and dragon."
 hd: 9
 hit_dice: 9d8
 hp: 40

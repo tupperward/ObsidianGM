@@ -6,6 +6,7 @@ name: "Iron Living Statue"
 tl: 2.7
 size: Medium
 type: Artificial
+description: "An animated iron statue. Slow, but more sturdy than crystal living statues."
 hd: 4
 hit_dice: 4d8
 hp: 18
@@ -56,6 +57,7 @@ name: "Iron Living Statue"
 tl: 2.7
 size: Medium
 type: Artificial
+description: "An animated iron statue. Slow, but more sturdy than crystal living statues."
 hd: 4
 hit_dice: 4d8
 hp: 18

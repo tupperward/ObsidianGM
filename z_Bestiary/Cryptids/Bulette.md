@@ -6,6 +6,7 @@ name: Bulette
 tl: 10.9
 size: Large
 type: Cryptid
+description: "Armored land sharks that rip through the earth."
 hd: 9
 hit_dice: 9d8
 hp: 40
@@ -57,6 +58,7 @@ name: Bulette
 tl: 10.9
 size: Large
 type: Cryptid
+description: "Armored land sharks that rip through the earth."
 hd: 9
 hit_dice: 9d8
 hp: 40

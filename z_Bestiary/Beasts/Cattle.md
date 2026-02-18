@@ -6,6 +6,7 @@ name: Cattle
 tl: 1.4
 size: Large
 type: Beast
+description: "Cows, bison, aurochs, and other large bovine."
 hd: 4
 hit_dice: 4d8
 hp: 18
@@ -42,6 +43,7 @@ name: Cattle
 tl: 1.4
 size: Large
 type: Beast
+description: "Cows, bison, aurochs, and other large bovine."
 hd: 4
 hit_dice: 4d8
 hp: 18

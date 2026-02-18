@@ -6,6 +6,7 @@ name: Carrion Clump
 tl: 0.9
 size: Medium
 type: Undead
+description: "A writhing mass of fetid bones, tissue, and viscera."
 hd: 2
 hit_dice: 2d8
 hp: 9
@@ -50,6 +51,7 @@ name: Carrion Clump
 tl: 0.9
 size: Medium
 type: Undead
+description: "A writhing mass of fetid bones, tissue, and viscera."
 hd: 2
 hit_dice: 2d8
 hp: 9

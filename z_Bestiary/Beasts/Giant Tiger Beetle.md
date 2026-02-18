@@ -6,6 +6,7 @@ name: "Giant Tiger Beetle"
 tl: 3.0
 size: Medium
 type: Beast
+description: "Giant beetles with tiger-striped carapace. Their mandibles are strong enough to crush bone."
 hd: 3
 hit_dice: 3d8
 hp: 13
@@ -49,6 +50,7 @@ name: "Giant Tiger Beetle"
 tl: 3.0
 size: Medium
 type: Beast
+description: "Giant beetles with tiger-striped carapace. Their mandibles are strong enough to crush bone."
 hd: 3
 hit_dice: 3d8
 hp: 13

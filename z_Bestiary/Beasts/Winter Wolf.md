@@ -6,6 +6,7 @@ name: "Winter Wolf"
 tl: 4.2
 size: Large
 type: Beast
+description: "The white coated winter wolves are revered as guardian spirits of the tundra."
 hd: 6
 hit_dice: 6d8
 hp: 27
@@ -59,6 +60,7 @@ name: "Winter Wolf"
 tl: 4.2
 size: Large
 type: Beast
+description: "The white coated winter wolves are revered as guardian spirits of the tundra."
 hd: 6
 hit_dice: 6d8
 hp: 27

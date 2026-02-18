@@ -6,6 +6,7 @@ name: "Giant Spider"
 tl: 2.0
 size: Large
 type: Beast
+description: "Oversized arachnids that can spin and shoot webs."
 hd: 6
 hit_dice: 6d8
 hp: 27
@@ -57,6 +58,7 @@ name: "Giant Spider"
 tl: 2.0
 size: Large
 type: Beast
+description: "Oversized arachnids that can spin and shoot webs."
 hd: 6
 hit_dice: 6d8
 hp: 27

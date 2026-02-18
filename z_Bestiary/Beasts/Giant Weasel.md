@@ -6,6 +6,7 @@ name: "Giant Weasel"
 tl: 1.2
 size: Medium
 type: Beast
+description: "Giant weasels are ferocious subterranean mammals that gnomes and other smaller cave dwellers train as hunting animals and mounts."
 hd: 3
 hit_dice: 3d8
 hp: 12
@@ -52,6 +53,7 @@ name: "Giant Weasel"
 tl: 1.2
 size: Medium
 type: Beast
+description: "Giant weasels are ferocious subterranean mammals that gnomes and other smaller cave dwellers train as hunting animals and mounts."
 hd: 3
 hit_dice: 3d8
 hp: 12

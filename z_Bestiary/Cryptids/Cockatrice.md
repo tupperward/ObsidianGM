@@ -6,6 +6,7 @@ name: Cockatrice
 tl: 1.7
 size: Medium
 type: Cryptid (Wyrm)
+description: "Born from an egg laid by a rooster and brooded by an adder, the cockatrice is a cursed wyrm famous for the petrifying bite."
 hd: 5
 hit_dice: 5d8
 hp: 22
@@ -44,6 +45,7 @@ name: Cockatrice
 tl: 1.7
 size: Medium
 type: Cryptid (Wyrm)
+description: "Born from an egg laid by a rooster and brooded by an adder, the cockatrice is a cursed wyrm famous for the petrifying bite."
 hd: 5
 hit_dice: 5d8
 hp: 22

@@ -6,6 +6,7 @@ name: Ogre
 tl: 2.4
 size: Medium
 type: Cryptid
+description: "Terrifying mutant brutes that often dwell in caves."
 hd: 4
 hit_dice: 4d8
 hp: 18
@@ -54,6 +55,7 @@ name: Ogre
 tl: 2.4
 size: Medium
 type: Cryptid
+description: "Terrifying mutant brutes that often dwell in caves."
 hd: 4
 hit_dice: 4d8
 hp: 18

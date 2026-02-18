@@ -6,6 +6,7 @@ name: Mermaid
 tl: 2.0
 size: Medium
 type: Fae
+description: "Half-human half-piscine fae who are venerated by all creatures of the sea. Their enrapturing beauty captivates all, notably the horrors of the sea that serve mermaids without question."
 hd: 3
 hit_dice: 3d8
 hp: 13
@@ -74,6 +75,7 @@ name: Mermaid
 tl: 2.0
 size: Medium
 type: Fae
+description: "Half-human half-piscine fae who are venerated by all creatures of the sea. Their enrapturing beauty captivates all, notably the horrors of the sea that serve mermaids without question."
 hd: 3
 hit_dice: 3d8
 hp: 13

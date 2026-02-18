@@ -6,6 +6,7 @@ name: False Hydra
 tl: 3.1
 size: Medium
 type: Outer (Beyonder)
+description: "Multi-headed, anti-memetic horrors of flesh."
 hd: 6
 hit_dice: 6d8
 hp: 27
@@ -62,6 +63,7 @@ name: False Hydra
 tl: 3.1
 size: Medium
 type: Outer (Beyonder)
+description: "Multi-headed, anti-memetic horrors of flesh."
 hd: 6
 hit_dice: 6d8
 hp: 27

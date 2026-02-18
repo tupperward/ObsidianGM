@@ -6,6 +6,7 @@ name: Vampire
 tl: 6.7
 size: Medium
 type: Undead (Shapechanger)
+description: "Blood-sucking, intelligent undead who bear the curse of vampirism."
 hd: 8
 hit_dice: 8d8
 hp: 36
@@ -75,6 +76,7 @@ name: Vampire
 tl: 6.7
 size: Medium
 type: Undead (Shapechanger)
+description: "Blood-sucking, intelligent undead who bear the curse of vampirism."
 hd: 8
 hit_dice: 8d8
 hp: 36

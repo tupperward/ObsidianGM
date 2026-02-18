@@ -6,6 +6,7 @@ name: Triffid
 tl: 1.6
 size: Medium
 type: Primordial (Plant)
+description: "Moving, human-sized plants that can launch a poisonous whorl from a cup atop their stem."
 hd: 2
 hit_dice: 2d8
 hp: 9
@@ -53,6 +54,7 @@ name: Triffid
 tl: 1.6
 size: Medium
 type: Primordial (Plant)
+description: "Moving, human-sized plants that can launch a poisonous whorl from a cup atop their stem."
 hd: 2
 hit_dice: 2d8
 hp: 9

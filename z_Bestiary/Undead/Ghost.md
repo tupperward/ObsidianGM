@@ -6,6 +6,7 @@ name: Ghost
 tl: 3.8
 size: Medium
 type: Undead
+description: "The spirit of someone who died under extremely tragic or harrowing circumstances."
 hd: 10
 hit_dice: 10d8
 hp: 45
@@ -63,6 +64,7 @@ name: Ghost
 tl: 3.8
 size: Medium
 type: Undead
+description: "The spirit of someone who died under extremely tragic or harrowing circumstances."
 hd: 10
 hit_dice: 10d8
 hp: 45

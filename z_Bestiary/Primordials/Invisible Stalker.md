@@ -6,6 +6,7 @@ name: Invisible Stalker
 tl: 4.1
 size: Medium
 type: Primordial
+description: "A relentless hunter of living air, capable of directly locating any scent that lingers in the winds."
 hd: 8
 hit_dice: 8d8
 hp: 36
@@ -55,6 +56,7 @@ name: Invisible Stalker
 tl: 4.1
 size: Medium
 type: Primordial
+description: "A relentless hunter of living air, capable of directly locating any scent that lingers in the winds."
 hd: 8
 hit_dice: 8d8
 hp: 36

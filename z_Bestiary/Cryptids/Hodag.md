@@ -6,6 +6,7 @@ name: Hodag
 tl: 3.1
 size: Medium
 type: Cryptid
+description: "A fearsome creature with a monkey-like head, gruesome claws and fangs, spikes along its back, and a mix of alligator scales and damp green fur. They're known to have a taste for small dogs."
 hd: 3
 hit_dice: 3d8
 hp: 13
@@ -65,6 +66,7 @@ name: Hodag
 tl: 3.1
 size: Medium
 type: Cryptid
+description: "A fearsome creature with a monkey-like head, gruesome claws and fangs, spikes along its back, and a mix of alligator scales and damp green fur. They're known to have a taste for small dogs."
 hd: 3
 hit_dice: 3d8
 hp: 13

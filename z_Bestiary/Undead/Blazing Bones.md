@@ -6,6 +6,7 @@ name: "Blazing Bones"
 tl: 1.6
 size: Small
 type: Undead
+description: "A charred skeleton which burns with an eternal flame for as long as the skeleton has animus. Something seems to keep them in constant pain, as they never stop screaming."
 hd: 1
 hit_dice: 1d8
 hp: 1
@@ -58,6 +59,7 @@ name: "Blazing Bones"
 tl: 1.6
 size: Small
 type: Undead
+description: "A charred skeleton which burns with an eternal flame for as long as the skeleton has animus. Something seems to keep them in constant pain, as they never stop screaming."
 hd: 1
 hit_dice: 1d8
 hp: 1

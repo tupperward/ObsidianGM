@@ -6,6 +6,7 @@ name: "Rock Living Statue"
 tl: 5.0
 size: Medium
 type: Artificial
+description: "An animated statue of igneous rock and magma."
 hd: 5
 hit_dice: 5d8
 hp: 22
@@ -58,6 +59,7 @@ name: "Rock Living Statue"
 tl: 5.0
 size: Medium
 type: Artificial
+description: "An animated statue of igneous rock and magma."
 hd: 5
 hit_dice: 5d8
 hp: 22

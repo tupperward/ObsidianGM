@@ -6,6 +6,7 @@ name: Troglodyte
 tl: 2.9
 size: Medium
 type: Cryptid
+description: "Reptilian humanoids that inhabit subterranean areas. Extremely hostile to any surface dwellers."
 hd: 2
 hit_dice: 2d8
 hp: 9
@@ -67,6 +68,7 @@ name: Troglodyte
 tl: 2.9
 size: Medium
 type: Cryptid
+description: "Reptilian humanoids that inhabit subterranean areas. Extremely hostile to any surface dwellers."
 hd: 2
 hit_dice: 2d8
 hp: 9

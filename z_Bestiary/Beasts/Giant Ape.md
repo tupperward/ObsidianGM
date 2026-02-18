@@ -6,6 +6,7 @@ name: "Giant Ape"
 tl: 2.3
 size: Large
 type: Beast
+description: "Gorillas and the cave-dwelling white apes."
 hd: 4
 hit_dice: 4d8
 hp: 18
@@ -45,6 +46,7 @@ name: "Giant Ape"
 tl: 2.3
 size: Large
 type: Beast
+description: "Gorillas and the cave-dwelling white apes."
 hd: 4
 hit_dice: 4d8
 hp: 18

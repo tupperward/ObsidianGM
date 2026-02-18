@@ -6,6 +6,7 @@ name: Joust Guardian
 tl: 6.3
 size: Large
 type: Artificial
+description: "A mechanical warrior from eons past, typically found guarding ruins of fallen advanced societies."
 hd: 6
 hit_dice: 6d8
 hp: 27
@@ -59,6 +60,7 @@ name: Joust Guardian
 tl: 6.3
 size: Large
 type: Artificial
+description: "A mechanical warrior from eons past, typically found guarding ruins of fallen advanced societies."
 hd: 6
 hit_dice: 6d8
 hp: 27

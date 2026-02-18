@@ -6,6 +6,7 @@ name: Dimension Ripper
 tl: 6.3
 size: Large
 type: Outer
+description: "Boogies capable of dimensional travel at-will, dimension rippers are many-mouthed, pale horrors who were cheats and double-talkers in life."
 hd: 10
 hit_dice: 10d8
 hp: 45
@@ -63,6 +64,7 @@ name: Dimension Ripper
 tl: 6.3
 size: Large
 type: Outer
+description: "Boogies capable of dimensional travel at-will, dimension rippers are many-mouthed, pale horrors who were cheats and double-talkers in life."
 hd: 10
 hit_dice: 10d8
 hp: 45

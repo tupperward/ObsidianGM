@@ -6,6 +6,7 @@ name: Darkmantle
 tl: 0.7
 size: Medium
 type: Cryptid
+description: "A floating, squid-like haunt of deep caverns."
 hd: 1
 hit_dice: 1d8
 hp: 4
@@ -47,6 +48,7 @@ name: Darkmantle
 tl: 0.7
 size: Medium
 type: Cryptid
+description: "A floating, squid-like haunt of deep caverns."
 hd: 1
 hit_dice: 1d8
 hp: 4

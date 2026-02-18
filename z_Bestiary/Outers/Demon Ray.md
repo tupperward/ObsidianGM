@@ -6,6 +6,7 @@ name: Demon Ray
 tl: 2.4
 size: Medium
 type: Outer (Beyonder)
+description: "Vampiric manta rays with razor sharp teeth and a remarkable bite force."
 hd: 1
 hit_dice: 1d8
 hp: 4
@@ -57,6 +58,7 @@ name: Demon Ray
 tl: 2.4
 size: Medium
 type: Outer (Beyonder)
+description: "Vampiric manta rays with razor sharp teeth and a remarkable bite force."
 hd: 1
 hit_dice: 1d8
 hp: 4

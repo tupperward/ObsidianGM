@@ -6,6 +6,7 @@ name: Dobar-Chú
 tl: 5.8
 size: Large
 type: Cryptid
+description: "The \"water devil\" is a semi-aquatic mammal that appears to be a huge otter"
 hd: 6
 hit_dice: 6d8
 hp: 27
@@ -50,6 +51,7 @@ name: Dobar-Chú
 tl: 5.8
 size: Large
 type: Cryptid
+description: "The \"water devil\" is a semi-aquatic mammal that appears to be a huge otter"
 hd: 6
 hit_dice: 6d8
 hp: 27

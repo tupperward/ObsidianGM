@@ -6,6 +6,7 @@ name: Brollachan
 tl: 2.2
 size: Large
 type: Fae
+description: "A formless, writhing mass of dark black smoke. Its only distinguishing characteristic is a pair of bright red eyes in the center of the mass."
 hd: 6
 hit_dice: 6d8
 hp: 27
@@ -62,6 +63,7 @@ name: Brollachan
 tl: 2.2
 size: Large
 type: Fae
+description: "A formless, writhing mass of dark black smoke. Its only distinguishing characteristic is a pair of bright red eyes in the center of the mass."
 hd: 6
 hit_dice: 6d8
 hp: 27

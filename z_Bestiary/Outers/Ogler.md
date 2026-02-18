@@ -6,6 +6,7 @@ name: Ogler
 tl: 11.2
 size: Large
 type: Outer (Beyonder)
+description: "Greedy, pompous creatures out-of-touch with reality by nature. They are always driven insane by arrogance and the insatiable desire to rule over all. They are known to claim the works of their subjects as their own, enforce overreaching taxes, and trick others into outrageous deals."
 hd: 12
 hit_dice: 12d8
 hp: 54
@@ -60,6 +61,7 @@ name: Ogler
 tl: 11.2
 size: Large
 type: Outer (Beyonder)
+description: "Greedy, pompous creatures out-of-touch with reality by nature. They are always driven insane by arrogance and the insatiable desire to rule over all. They are known to claim the works of their subjects as their own, enforce overreaching taxes, and trick others into outrageous deals."
 hd: 12
 hit_dice: 12d8
 hp: 54

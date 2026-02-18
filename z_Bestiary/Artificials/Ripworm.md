@@ -6,6 +6,7 @@ name: Ripworm
 tl: 3.1
 size: Medium
 type: Artificial
+description: "Tunneling automatons known to wreak havoc on structures by undermining its foundation. They can cut through solid rock and earth with ease."
 hd: 4
 hit_dice: 4d8
 hp: 18
@@ -58,6 +59,7 @@ name: Ripworm
 tl: 3.1
 size: Medium
 type: Artificial
+description: "Tunneling automatons known to wreak havoc on structures by undermining its foundation. They can cut through solid rock and earth with ease."
 hd: 4
 hit_dice: 4d8
 hp: 18

@@ -6,6 +6,7 @@ name: Death Knight
 tl: 9.6
 size: Medium
 type: Undead
+description: "An oathbroken knight, their soul corrupted by necromantic manipulation."
 hd: 11
 hit_dice: 11d8
 hp: 49
@@ -67,6 +68,7 @@ name: Death Knight
 tl: 9.6
 size: Medium
 type: Undead
+description: "An oathbroken knight, their soul corrupted by necromantic manipulation."
 hd: 11
 hit_dice: 11d8
 hp: 49

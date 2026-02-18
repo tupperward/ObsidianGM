@@ -6,6 +6,7 @@ name: "Giant Leech"
 tl: 1.0
 size: Medium
 type: Beast
+description: "Massive blood-sucking parasites that latch onto their prey and drain their vitals."
 hd: 1
 hit_dice: 1d8
 hp: 4
@@ -55,6 +56,7 @@ name: "Giant Leech"
 tl: 1.0
 size: Medium
 type: Beast
+description: "Massive blood-sucking parasites that latch onto their prey and drain their vitals."
 hd: 1
 hit_dice: 1d8
 hp: 4

@@ -6,6 +6,7 @@ name: Ettercap
 tl: 2.1
 size: Medium
 type: Cryptid
+description: "Humanoid spidermen."
 hd: 4
 hit_dice: 4d8
 hp: 18
@@ -54,6 +55,7 @@ name: Ettercap
 tl: 2.1
 size: Medium
 type: Cryptid
+description: "Humanoid spidermen."
 hd: 4
 hit_dice: 4d8
 hp: 18

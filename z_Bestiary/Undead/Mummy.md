@@ -6,6 +6,7 @@ name: Mummy
 tl: 2.8
 size: Medium
 type: Undead
+description: "Undead humanoid wrapped in enchanted bandages."
 hd: 6
 hit_dice: 6d8
 hp: 27
@@ -66,6 +67,7 @@ name: Mummy
 tl: 2.8
 size: Medium
 type: Undead
+description: "Undead humanoid wrapped in enchanted bandages."
 hd: 6
 hit_dice: 6d8
 hp: 27

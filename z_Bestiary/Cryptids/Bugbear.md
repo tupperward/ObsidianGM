@@ -6,6 +6,7 @@ name: Bugbear
 tl: 1.6
 size: Medium
 type: Cryptid
+description: "Long-limbed, tall goblinoids with bear-like fur."
 hd: 3
 hit_dice: 3d8
 hp: 13
@@ -51,6 +52,7 @@ name: Bugbear
 tl: 1.6
 size: Medium
 type: Cryptid
+description: "Long-limbed, tall goblinoids with bear-like fur."
 hd: 3
 hit_dice: 3d8
 hp: 13

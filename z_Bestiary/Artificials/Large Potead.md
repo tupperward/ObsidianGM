@@ -6,6 +6,7 @@ name: "Large Potead"
 tl: 3.4
 size: Large
 type: Artificial
+description: "A living planter, it could fit a tree."
 hd: 8
 hit_dice: 8d8
 hp: 36
@@ -53,6 +54,7 @@ name: "Large Potead"
 tl: 3.4
 size: Large
 type: Artificial
+description: "A living planter, it could fit a tree."
 hd: 8
 hit_dice: 8d8
 hp: 36

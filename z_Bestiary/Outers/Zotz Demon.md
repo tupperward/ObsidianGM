@@ -6,6 +6,7 @@ name: Zotz Demon
 tl: 9.2
 size: Huge
 type: Outer (Hellspawn)
+description: "Massive bats out of hell."
 hd: 14
 hit_dice: 14d8
 hp: 63
@@ -64,6 +65,7 @@ name: Zotz Demon
 tl: 9.2
 size: Huge
 type: Outer (Hellspawn)
+description: "Massive bats out of hell."
 hd: 14
 hit_dice: 14d8
 hp: 63

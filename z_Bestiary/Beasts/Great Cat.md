@@ -6,6 +6,7 @@ name: "Great Cat"
 tl: 3.2
 size: Medium
 type: Beast
+description: "All manner of lions, tigers, and panthers."
 hd: 5
 hit_dice: 5d8
 hp: 22
@@ -61,6 +62,7 @@ name: "Great Cat"
 tl: 3.2
 size: Medium
 type: Beast
+description: "All manner of lions, tigers, and panthers."
 hd: 5
 hit_dice: 5d8
 hp: 22

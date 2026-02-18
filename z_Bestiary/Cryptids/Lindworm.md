@@ -6,6 +6,7 @@ name: Lindworm
 tl: 5.7
 size: Huge
 type: Cryptid
+description: "A serpent with a set of forelegs, and an acidic spit known to also poison those it touches."
 hd: 7
 hit_dice: 7d8
 hp: 31
@@ -62,6 +63,7 @@ name: Lindworm
 tl: 5.7
 size: Huge
 type: Cryptid
+description: "A serpent with a set of forelegs, and an acidic spit known to also poison those it touches."
 hd: 7
 hit_dice: 7d8
 hp: 31

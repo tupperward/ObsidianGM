@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Ruinous League/Crawl.md",
+                "file": "z_Bestiary/Outers/Ogler.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Crawl"
+              "title": "Ogler"
             }
           }
         ]
@@ -228,7 +228,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 931.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,8 +251,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5fa22240cb22c565",
+  "active": "ca7306d5a357e699",
   "lastOpenFiles": [
+    "z_Bestiary/Cryptids/Troll.md",
+    "z_Bestiary/Fae/Beisht Kione Dhoo.md",
+    "z_Bestiary/Artificials/Necrophidius.md",
+    "z_Bestiary/Artificials/Bone Golem.md",
+    "z_Bestiary/Beasts/Blue Whale.md",
+    "The Ruinous League/Crawl.md",
     "z_Bestiary/Humanlike/Fire Mage.md",
     "z_Bestiary/Humanlike/Shock Mage.md",
     "z_Bestiary/Humanlike/Frost Mage.md",
@@ -272,12 +279,6 @@
     "z_Bestiary/Primordials/Water Elemental.md",
     "z_Bestiary/Primordials/Lesser Air Elemental.md",
     "z_Bestiary/Primordials/Greater Earth Elemental.md",
-    "z_Bestiary/Primordials/Lesser Fire Elemental.md",
-    "z_Bestiary/Primordials/Greater Water Elemental.md",
-    "z_Bestiary/Primordials/Quicksilver Ooze.md",
-    "z_Bestiary/Primordials/Earth Elemental.md",
-    "z_Bestiary/Primordials/Lesser Water Elemental.md",
-    "z_Bestiary/Primordials/Fire Elemental.md",
     "z_Ancestries/Traits",
     "z_Ancestries",
     "z_Rules/Adventuring Overview",

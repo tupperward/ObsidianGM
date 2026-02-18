@@ -6,6 +6,7 @@ name: Banshee
 tl: 3.6
 size: Medium
 type: Undead
+description: "The feminine spirit of an evil elf, known to kill with its scream. Often has a sort of guardianship over fae creatures."
 hd: 7
 hit_dice: 7d8
 hp: 31
@@ -60,6 +61,7 @@ name: Banshee
 tl: 3.6
 size: Medium
 type: Undead
+description: "The feminine spirit of an evil elf, known to kill with its scream. Often has a sort of guardianship over fae creatures."
 hd: 7
 hit_dice: 7d8
 hp: 31

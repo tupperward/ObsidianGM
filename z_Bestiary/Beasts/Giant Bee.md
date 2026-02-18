@@ -6,6 +6,7 @@ name: "Giant Bee"
 tl: 0.9
 size: Small
 type: Beast
+description: "Roughly 1' in length, these giant bees are extremely territorial, but otherwise non-aggressive."
 hd: 1
 hit_dice: 1d8
 hp: 1
@@ -42,6 +43,7 @@ name: "Giant Bee"
 tl: 0.9
 size: Small
 type: Beast
+description: "Roughly 1' in length, these giant bees are extremely territorial, but otherwise non-aggressive."
 hd: 1
 hit_dice: 1d8
 hp: 1

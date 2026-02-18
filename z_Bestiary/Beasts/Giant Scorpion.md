@@ -6,6 +6,7 @@ name: "Giant Scorpion"
 tl: 4.2
 size: Large
 type: Beast
+description: "Scorpions roughly the size of a cow. Extremely aggressive predators that kill on-sight."
 hd: 4
 hit_dice: 4d8
 hp: 18
@@ -48,6 +49,7 @@ name: "Giant Scorpion"
 tl: 4.2
 size: Large
 type: Beast
+description: "Scorpions roughly the size of a cow. Extremely aggressive predators that kill on-sight."
 hd: 4
 hit_dice: 4d8
 hp: 18

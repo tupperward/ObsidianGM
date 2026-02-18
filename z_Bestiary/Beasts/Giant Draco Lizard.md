@@ -6,6 +6,7 @@ name: "Giant Draco Lizard"
 tl: 2.4
 size: Large
 type: Beast
+description: "Massive lizards that glide in desert canyons and have a taste for human flesh."
 hd: 4
 hit_dice: 4d8
 hp: 18
@@ -44,6 +45,7 @@ name: "Giant Draco Lizard"
 tl: 2.4
 size: Large
 type: Beast
+description: "Massive lizards that glide in desert canyons and have a taste for human flesh."
 hd: 4
 hit_dice: 4d8
 hp: 18

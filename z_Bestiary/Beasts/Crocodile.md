@@ -6,6 +6,7 @@ name: "Crocodile"
 tl: 2.1
 size: Large
 type: Beast
+description: "An animal with more than 3 letters in its name."
 hd: 3
 hit_dice: 3d8
 hp: 13
@@ -49,6 +50,7 @@ name: "Crocodile"
 tl: 2.1
 size: Large
 type: Beast
+description: "An animal with more than 3 letters in its name."
 hd: 3
 hit_dice: 3d8
 hp: 13

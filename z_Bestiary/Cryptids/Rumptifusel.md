@@ -6,6 +6,7 @@ name: Rumptifusel
 tl: 1.7
 size: Medium
 type: Cryptid
+description: "Vicious, opportunistic hunter covered in mink-like fur. It resembles a rug, bedroll, or blanket, but its underside contains hundreds of tiny, sucker-like mouths."
 hd: 3
 hit_dice: 3d8
 hp: 13
@@ -59,6 +60,7 @@ name: Rumptifusel
 tl: 1.7
 size: Medium
 type: Cryptid
+description: "Vicious, opportunistic hunter covered in mink-like fur. It resembles a rug, bedroll, or blanket, but its underside contains hundreds of tiny, sucker-like mouths."
 hd: 3
 hit_dice: 3d8
 hp: 13

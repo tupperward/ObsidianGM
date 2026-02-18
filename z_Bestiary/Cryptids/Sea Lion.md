@@ -6,6 +6,7 @@ name: Sea Lion
 tl: 4.1
 size: Large
 type: Cryptid
+description: "A lion with the hind quarters of a shark or similar fish, and the ferocity of both."
 hd: 6
 hit_dice: 6d8
 hp: 27
@@ -63,6 +64,7 @@ name: Sea Lion
 tl: 4.1
 size: Large
 type: Cryptid
+description: "A lion with the hind quarters of a shark or similar fish, and the ferocity of both."
 hd: 6
 hit_dice: 6d8
 hp: 27

@@ -6,6 +6,7 @@ name: Sphinx
 tl: 5.7
 size: Large
 type: Outer (Beyonder)
+description: "Monsters with human faces, lion bodies, and the wings of eagles. Known to trade in knowledge and poetry, making riddles a valuable commodity to these creatures."
 hd: 12
 hit_dice: 12d8
 hp: 54
@@ -67,6 +68,7 @@ name: Sphinx
 tl: 5.7
 size: Large
 type: Outer (Beyonder)
+description: "Monsters with human faces, lion bodies, and the wings of eagles. Known to trade in knowledge and poetry, making riddles a valuable commodity to these creatures."
 hd: 12
 hit_dice: 12d8
 hp: 54

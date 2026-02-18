@@ -6,6 +6,7 @@ name: Agropelter
 tl: 1.5
 size: Medium
 type: Cryptid
+description: "A spindly, rubbery-limbed primate, known to attack from treetops. They have a particular distaste of woodcutters and, as the stories go, if you find a dead lumberjack with a log nearby, beware of agropelters in the area."
 hd: 2
 hit_dice: 2d8
 hp: 9
@@ -45,6 +46,7 @@ name: Agropelter
 tl: 1.5
 size: Medium
 type: Cryptid
+description: "A spindly, rubbery-limbed primate, known to attack from treetops. They have a particular distaste of woodcutters and, as the stories go, if you find a dead lumberjack with a log nearby, beware of agropelters in the area."
 hd: 2
 hit_dice: 2d8
 hp: 9

@@ -6,6 +6,7 @@ name: Harpy
 tl: 1.5
 size: Medium
 type: Cryptid
+description: "Hatched on the highest peaks of the land, harpies are a people with the wings and talons of predatory raptor birds."
 hd: 3
 hit_dice: 3d8
 hp: 13
@@ -48,6 +49,7 @@ name: Harpy
 tl: 1.5
 size: Medium
 type: Cryptid
+description: "Hatched on the highest peaks of the land, harpies are a people with the wings and talons of predatory raptor birds."
 hd: 3
 hit_dice: 3d8
 hp: 13

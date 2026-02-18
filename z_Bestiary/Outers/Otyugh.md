@@ -6,6 +6,7 @@ name: Otyugh
 tl: 4.6
 size: Large
 type: Outer (Beyonder)
+description: "The loathsome dung-eaters that inhabit city sewers. They stamp around on three clawed legs, and use a set of tentacles to grasp prey, with a forehead tentacle used to see."
 hd: 6
 hit_dice: 6d8
 hp: 27
@@ -61,6 +62,7 @@ name: Otyugh
 tl: 4.6
 size: Large
 type: Outer (Beyonder)
+description: "The loathsome dung-eaters that inhabit city sewers. They stamp around on three clawed legs, and use a set of tentacles to grasp prey, with a forehead tentacle used to see."
 hd: 6
 hit_dice: 6d8
 hp: 27

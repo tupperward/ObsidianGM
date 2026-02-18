@@ -6,6 +6,7 @@ name: Aurumvorax
 tl: 6.3
 size: Small
 type: Cryptid
+description: "The eight-legged golden gorger is a vicious gold- furred honeybadger-like creature with an appetite for metal."
 hd: 6
 hit_dice: 6d8
 hp: 6
@@ -52,6 +53,7 @@ name: Aurumvorax
 tl: 6.3
 size: Small
 type: Cryptid
+description: "The eight-legged golden gorger is a vicious gold- furred honeybadger-like creature with an appetite for metal."
 hd: 6
 hit_dice: 6d8
 hp: 6

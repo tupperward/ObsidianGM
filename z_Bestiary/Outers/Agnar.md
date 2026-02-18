@@ -6,6 +6,7 @@ name: Agnar
 tl: 3.9
 size: Huge
 type: Outer (Beyonder)
+description: "A jungle-dwelling monstrosity with a spherical torso and maw that surrounds its entire body. This sphere of horror is mounted atop four elephant-like legs, Its teeth enclose a donut-shaped gullet that forces any prey-paste through its abominable form."
 hd: 10
 hit_dice: 10d8
 hp: 45
@@ -60,6 +61,7 @@ name: Agnar
 tl: 3.9
 size: Huge
 type: Outer (Beyonder)
+description: "A jungle-dwelling monstrosity with a spherical torso and maw that surrounds its entire body. This sphere of horror is mounted atop four elephant-like legs, Its teeth enclose a donut-shaped gullet that forces any prey-paste through its abominable form."
 hd: 10
 hit_dice: 10d8
 hp: 45

@@ -6,6 +6,7 @@ name: "Stone Golem"
 tl: 7.5
 size: Large
 type: Artificial
+description: "Man-like stone statues, typically used as guardians of tombs and sacred sites."
 hd: 13
 hit_dice: 13d8
 hp: 58
@@ -66,6 +67,7 @@ name: "Stone Golem"
 tl: 7.5
 size: Large
 type: Artificial
+description: "Man-like stone statues, typically used as guardians of tombs and sacred sites."
 hd: 13
 hit_dice: 13d8
 hp: 58

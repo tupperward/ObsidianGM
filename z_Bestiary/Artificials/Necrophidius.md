@@ -6,6 +6,7 @@ name: Necrophidius
 tl: 2.0
 size: Large
 type: Artificial/Undead
+description: "Slithering, animated bones with a serpentine form and humanoid head."
 hd: 2
 hit_dice: 2d8
 hp: 9
@@ -60,6 +61,7 @@ name: Necrophidius
 tl: 2.0
 size: Large
 type: Artificial/Undead
+description: "Slithering, animated bones with a serpentine form and humanoid head."
 hd: 2
 hit_dice: 2d8
 hp: 9

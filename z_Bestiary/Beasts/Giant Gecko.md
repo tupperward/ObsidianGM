@@ -6,6 +6,7 @@ name: "Giant Gecko"
 tl: 1.9
 size: Large
 type: Beast
+description: "Overgrown reptiles, often used as mounts."
 hd: 3
 hit_dice: 3d8
 hp: 13
@@ -44,6 +45,7 @@ name: "Giant Gecko"
 tl: 1.9
 size: Large
 type: Beast
+description: "Overgrown reptiles, often used as mounts."
 hd: 3
 hit_dice: 3d8
 hp: 13

@@ -6,6 +6,7 @@ name: Phorusrhacos
 tl: 3.3
 size: Large
 type: Beast
+description: "Flightless, aggressive birds of impressive stature."
 hd: 7
 hit_dice: 7d8
 hp: 31
@@ -48,6 +49,7 @@ name: Phorusrhacos
 tl: 3.3
 size: Large
 type: Beast
+description: "Flightless, aggressive birds of impressive stature."
 hd: 7
 hit_dice: 7d8
 hp: 31

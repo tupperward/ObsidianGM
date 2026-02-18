@@ -6,6 +6,7 @@ name: Cloaker
 tl: 2.6
 size: Large
 type: Outer (Beyonder)
+description: "A flying manta ray with a taste for flesh."
 hd: 6
 hit_dice: 6d8
 hp: 27
@@ -57,6 +58,7 @@ name: Cloaker
 tl: 2.6
 size: Large
 type: Outer (Beyonder)
+description: "A flying manta ray with a taste for flesh."
 hd: 6
 hit_dice: 6d8
 hp: 27

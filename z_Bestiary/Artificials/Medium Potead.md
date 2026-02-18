@@ -6,6 +6,7 @@ name: "Medium Potead"
 tl: 2.3
 size: Medium
 type: Artificial
+description: "A living cauldron, possibly animated by a brew."
 hd: 5
 hit_dice: 5d8
 hp: 22
@@ -53,6 +54,7 @@ name: "Medium Potead"
 tl: 2.3
 size: Medium
 type: Artificial
+description: "A living cauldron, possibly animated by a brew."
 hd: 5
 hit_dice: 5d8
 hp: 22

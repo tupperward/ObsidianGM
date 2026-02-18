@@ -6,6 +6,7 @@ name: "Giant Boar"
 tl: 3.1
 size: Large
 type: Beast
+description: "Cow-sized boars known to give chase until they-or their target-dies of exhaustion."
 hd: 8
 hit_dice: 8d8
 hp: 36
@@ -49,6 +50,7 @@ name: "Giant Boar"
 tl: 3.1
 size: Large
 type: Beast
+description: "Cow-sized boars known to give chase until they-or their target-dies of exhaustion."
 hd: 8
 hit_dice: 8d8
 hp: 36

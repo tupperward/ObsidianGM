@@ -6,6 +6,7 @@ name: Almiraj
 tl: 1.0
 size: Small
 type: Cryptid (Beast)
+description: "A rabbit with a unicorn-like horn."
 hd: 1
 hit_dice: 1d8
 hp: 1
@@ -49,6 +50,7 @@ name: Almiraj
 tl: 1.0
 size: Small
 type: Cryptid (Beast)
+description: "A rabbit with a unicorn-like horn."
 hd: 1
 hit_dice: 1d8
 hp: 1

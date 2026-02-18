@@ -6,6 +6,7 @@ name: Ape
 tl: 1.3
 size: Medium
 type: Beast
+description: "Tropical forest-dwelling apes of intimidating size, strength, and demeanor. Extremely territorial, and will attack any invaders on-sight."
 hd: 4
 hit_dice: 4d8
 hp: 18
@@ -45,6 +46,7 @@ name: Ape
 tl: 1.3
 size: Medium
 type: Beast
+description: "Tropical forest-dwelling apes of intimidating size, strength, and demeanor. Extremely territorial, and will attack any invaders on-sight."
 hd: 4
 hit_dice: 4d8
 hp: 18

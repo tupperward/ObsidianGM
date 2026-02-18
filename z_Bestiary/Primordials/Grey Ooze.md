@@ -6,6 +6,7 @@ name: Grey Ooze
 tl: 1.9
 size: Medium
 type: Primordial (Slime)
+description: "This mass of ooze looks like liquid stone, allowing it to perfectly camoflague with gray rock walls."
 hd: 3
 hit_dice: 3d8
 hp: 13
@@ -60,6 +61,7 @@ name: Grey Ooze
 tl: 1.9
 size: Medium
 type: Primordial (Slime)
+description: "This mass of ooze looks like liquid stone, allowing it to perfectly camoflague with gray rock walls."
 hd: 3
 hit_dice: 3d8
 hp: 13

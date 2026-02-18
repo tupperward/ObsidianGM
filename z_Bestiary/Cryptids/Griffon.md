@@ -6,6 +6,7 @@ name: Griffon
 tl: 3.7
 size: Large
 type: Cryptid
+description: "Hybrid creatures with an eagle's head, wings, and forelegs, and hind-quarters of a lion."
 hd: 7
 hit_dice: 7d8
 hp: 31
@@ -50,6 +51,7 @@ name: Griffon
 tl: 3.7
 size: Large
 type: Cryptid
+description: "Hybrid creatures with an eagle's head, wings, and forelegs, and hind-quarters of a lion."
 hd: 7
 hit_dice: 7d8
 hp: 31

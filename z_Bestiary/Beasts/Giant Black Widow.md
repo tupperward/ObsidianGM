@@ -6,6 +6,7 @@ name: "Giant Black Widow"
 tl: 2.0
 size: Medium
 type: Beast
+description: "Man-sized venomous spiders distinguished by their red hourglass mark."
 hd: 3
 hit_dice: 3d8
 hp: 13
@@ -54,6 +55,7 @@ name: "Giant Black Widow"
 tl: 2.0
 size: Medium
 type: Beast
+description: "Man-sized venomous spiders distinguished by their red hourglass mark."
 hd: 3
 hit_dice: 3d8
 hp: 13

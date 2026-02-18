@@ -6,6 +6,7 @@ name: "Pit Viper"
 tl: 1.8
 size: Medium
 type: Beast
+description: "Other venomous snakes who only deliver their venom through bites."
 hd: 2
 hit_dice: 2d8
 hp: 9
@@ -42,6 +43,7 @@ name: "Pit Viper"
 tl: 1.8
 size: Medium
 type: Beast
+description: "Other venomous snakes who only deliver their venom through bites."
 hd: 2
 hit_dice: 2d8
 hp: 9

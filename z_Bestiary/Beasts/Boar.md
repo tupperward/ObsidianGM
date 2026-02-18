@@ -6,6 +6,7 @@ name: Boar
 tl: 2.7
 size: Medium
 type: Beast
+description: "More often found in forested areas. The boar is a feral pig with a notorious temper."
 hd: 3
 hit_dice: 3d8
 hp: 13
@@ -49,6 +50,7 @@ name: Boar
 tl: 2.7
 size: Medium
 type: Beast
+description: "More often found in forested areas. The boar is a feral pig with a notorious temper."
 hd: 3
 hit_dice: 3d8
 hp: 13

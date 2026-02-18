@@ -6,6 +6,7 @@ name: Flying Sword
 tl: 2.3
 size: Small
 type: Artificial
+description: "An enchanted sword that dances through the air."
 hd: 1
 hit_dice: 1d8
 hp: 1
@@ -58,6 +59,7 @@ name: Flying Sword
 tl: 2.3
 size: Small
 type: Artificial
+description: "An enchanted sword that dances through the air."
 hd: 1
 hit_dice: 1d8
 hp: 1

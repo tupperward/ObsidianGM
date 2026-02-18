@@ -6,6 +6,7 @@ name: Ankheg
 tl: 5.1
 size: Large
 type: Cryptid
+description: "Horse-sized, acid-spewing antlions that typically make their nests deep underground."
 hd: 5
 hit_dice: 5d8
 hp: 22
@@ -57,6 +58,7 @@ name: Ankheg
 tl: 5.1
 size: Large
 type: Cryptid
+description: "Horse-sized, acid-spewing antlions that typically make their nests deep underground."
 hd: 5
 hit_dice: 5d8
 hp: 22

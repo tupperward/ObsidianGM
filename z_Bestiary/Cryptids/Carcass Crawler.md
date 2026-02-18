@@ -6,6 +6,7 @@ name: Carcass Crawler
 tl: 2.2
 size: Large
 type: Cryptid
+description: "A scavenger worm that dwells in dark cavern passages. It feasts on any carcass it can find."
 hd: 3
 hit_dice: 3d8
 hp: 13
@@ -57,6 +58,7 @@ name: Carcass Crawler
 tl: 2.2
 size: Large
 type: Cryptid
+description: "A scavenger worm that dwells in dark cavern passages. It feasts on any carcass it can find."
 hd: 3
 hit_dice: 3d8
 hp: 13

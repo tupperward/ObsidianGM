@@ -6,6 +6,7 @@ name: Floating Eye
 tl: 0.1
 size: Small
 type: Outer
+description: "A single eye around 2' in height, typically with bat- like wings."
 hd: 1
 hit_dice: 1d8
 hp: 1
@@ -64,6 +65,7 @@ name: Floating Eye
 tl: 0.1
 size: Small
 type: Outer
+description: "A single eye around 2' in height, typically with bat- like wings."
 hd: 1
 hit_dice: 1d8
 hp: 1

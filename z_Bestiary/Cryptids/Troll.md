@@ -6,6 +6,7 @@ name: Troll
 tl: 3.9
 size: Large
 type: Cryptid
+description: "Twisted, green giants with long appendages and wart-covered skin. Their incredible regenerative power makes them a horrifying threat, but they never go out in daylight."
 hd: 7
 hit_dice: 7d8
 hp: 31
@@ -60,6 +61,7 @@ name: Troll
 tl: 3.9
 size: Large
 type: Cryptid
+description: "Twisted, green giants with long appendages and wart-covered skin. Their incredible regenerative power makes them a horrifying threat, but they never go out in daylight."
 hd: 7
 hit_dice: 7d8
 hp: 31

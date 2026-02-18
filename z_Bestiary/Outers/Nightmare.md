@@ -6,6 +6,7 @@ name: Nightmare
 tl: 5.6
 size: Large
 type: Outer (Hellspawn)
+description: "Black, semi-skeletal hell horses with manes of fire."
 hd: 6
 hit_dice: 6d8
 hp: 27
@@ -64,6 +65,7 @@ name: Nightmare
 tl: 5.6
 size: Large
 type: Outer (Hellspawn)
+description: "Black, semi-skeletal hell horses with manes of fire."
 hd: 6
 hit_dice: 6d8
 hp: 27

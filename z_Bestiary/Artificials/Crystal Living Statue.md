@@ -6,6 +6,7 @@ name: "Crystal Living Statue"
 tl: 2.6
 size: Medium
 type: Artificial
+description: "An animated crystal statue, capable of moving and attacking."
 hd: 3
 hit_dice: 3d8
 hp: 13
@@ -55,6 +56,7 @@ name: "Crystal Living Statue"
 tl: 2.6
 size: Medium
 type: Artificial
+description: "An animated crystal statue, capable of moving and attacking."
 hd: 3
 hit_dice: 3d8
 hp: 13

@@ -6,6 +6,7 @@ name: Wraith
 tl: 2.7
 size: Medium
 type: Undead
+description: "Wispy shades of pure malice and anti-life. Where it moves, blight follows."
 hd: 5
 hit_dice: 5d8
 hp: 22
@@ -63,6 +64,7 @@ name: Wraith
 tl: 2.7
 size: Medium
 type: Undead
+description: "Wispy shades of pure malice and anti-life. Where it moves, blight follows."
 hd: 5
 hit_dice: 5d8
 hp: 22

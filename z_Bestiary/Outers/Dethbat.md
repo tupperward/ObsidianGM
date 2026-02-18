@@ -6,6 +6,7 @@ name: Dethbat
 tl: 1.0
 size: Small
 type: Outer (Hellspawn)
+description: "Infernal bats with human faces and grotesque tongues that drag below them as they fly."
 hd: 1
 hit_dice: 1d8
 hp: 1
@@ -63,6 +64,7 @@ name: Dethbat
 tl: 1.0
 size: Small
 type: Outer (Hellspawn)
+description: "Infernal bats with human faces and grotesque tongues that drag below them as they fly."
 hd: 1
 hit_dice: 1d8
 hp: 1

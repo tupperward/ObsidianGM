@@ -6,6 +6,7 @@ name: Scarecrow
 tl: 2.2
 size: Medium
 type: Artificial (Undead)
+description: "A straw effigy meant to deter pests, now being given animus by spirit possession."
 hd: 5
 hit_dice: 5d8
 hp: 22
@@ -63,6 +64,7 @@ name: Scarecrow
 tl: 2.2
 size: Medium
 type: Artificial (Undead)
+description: "A straw effigy meant to deter pests, now being given animus by spirit possession."
 hd: 5
 hit_dice: 5d8
 hp: 22

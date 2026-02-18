@@ -76,6 +76,14 @@
                   ],
                   "display": "Threat Level",
                   "conditioned": true
+                },
+                {
+                  "type": "text",
+                  "id": "vb-description",
+                  "properties": [
+                    "description"
+                  ],
+                  "conditioned": true
                 }
               ],
               "conditioned": true

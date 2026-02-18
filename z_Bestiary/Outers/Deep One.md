@@ -6,6 +6,7 @@ name: Deep One
 tl: 2.5
 size: Medium
 type: Outer (Beyonder)
+description: "Fish-like humanoids known to venerate anything they can find a reason to worship."
 hd: 3
 hit_dice: 3d8
 hp: 13
@@ -62,6 +63,7 @@ name: Deep One
 tl: 2.5
 size: Medium
 type: Outer (Beyonder)
+description: "Fish-like humanoids known to venerate anything they can find a reason to worship."
 hd: 3
 hit_dice: 3d8
 hp: 13

@@ -6,6 +6,7 @@ name: Wererat
 tl: 2.0
 size: Medium
 type: Cryptid (Shapechanger)
+description: "A half-rat, half-human monster that haunts sewers and abandoned ruins."
 hd: 3
 hit_dice: 3d8
 hp: 13
@@ -61,6 +62,7 @@ name: Wererat
 tl: 2.0
 size: Medium
 type: Cryptid (Shapechanger)
+description: "A half-rat, half-human monster that haunts sewers and abandoned ruins."
 hd: 3
 hit_dice: 3d8
 hp: 13

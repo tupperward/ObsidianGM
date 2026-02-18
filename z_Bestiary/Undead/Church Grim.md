@@ -6,6 +6,7 @@ name: Church Grim
 tl: 4.6
 size: Medium
 type: Undead (Beast)
+description: "An animal buried in the walls of a church, and brought back to life as a guardian of the building."
 hd: 4
 hit_dice: 4d8
 hp: 18
@@ -66,6 +67,7 @@ name: Church Grim
 tl: 4.6
 size: Medium
 type: Undead (Beast)
+description: "An animal buried in the walls of a church, and brought back to life as a guardian of the building."
 hd: 4
 hit_dice: 4d8
 hp: 18

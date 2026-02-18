@@ -6,6 +6,7 @@ name: Crawling Claw
 tl: 1.0
 size: Small
 type: Undead
+description: "A necromantically-animated humanoid hand."
 hd: 2
 hit_dice: 2d8
 hp: 2
@@ -50,6 +51,7 @@ name: Crawling Claw
 tl: 1.0
 size: Small
 type: Undead
+description: "A necromantically-animated humanoid hand."
 hd: 2
 hit_dice: 2d8
 hp: 2

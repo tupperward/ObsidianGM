@@ -6,6 +6,7 @@ name: "Sea Hag"
 tl: 3.6
 size: Medium
 type: Fae
+description: "Ugly humanoid fae with a bloated, rotting corpse- like appearance. It tries to drag victims below the water to drown them."
 hd: 3
 hit_dice: 3d8
 hp: 13
@@ -60,6 +61,7 @@ name: "Sea Hag"
 tl: 3.6
 size: Medium
 type: Fae
+description: "Ugly humanoid fae with a bloated, rotting corpse- like appearance. It tries to drag victims below the water to drown them."
 hd: 3
 hit_dice: 3d8
 hp: 13

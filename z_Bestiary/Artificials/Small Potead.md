@@ -6,6 +6,7 @@ name: "Small Potead"
 tl: 1.5
 size: Small
 type: Artificial
+description: "A living pot, likely once held soup."
 hd: 1
 hit_dice: 1d8
 hp: 1
@@ -53,6 +54,7 @@ name: "Small Potead"
 tl: 1.5
 size: Small
 type: Artificial
+description: "A living pot, likely once held soup."
 hd: 1
 hit_dice: 1d8
 hp: 1

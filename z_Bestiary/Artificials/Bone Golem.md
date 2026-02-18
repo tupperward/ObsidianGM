@@ -6,6 +6,7 @@ name: "Bone Golem"
 tl: 4.3
 size: Large
 type: Artificial/Undead
+description: "A pile of animated bones, given animus as a configuration of corpses rather than a single entity. They typically serve as guardians to tombs."
 hd: 8
 hit_dice: 8d8
 hp: 36
@@ -66,6 +67,7 @@ name: "Bone Golem"
 tl: 4.3
 size: Large
 type: Artificial/Undead
+description: "A pile of animated bones, given animus as a configuration of corpses rather than a single entity. They typically serve as guardians to tombs."
 hd: 8
 hit_dice: 8d8
 hp: 36

@@ -6,6 +6,7 @@ name: Werewolf
 tl: 2.9
 size: Medium
 type: Cryptid (Shapechanger)
+description: "A half-wolf, half-humanlike monster with a taste for blood. They usually only transform under a full moon and return to their normal form in sunlight."
 hd: 4
 hit_dice: 4d8
 hp: 18
@@ -64,6 +65,7 @@ name: Werewolf
 tl: 2.9
 size: Medium
 type: Cryptid (Shapechanger)
+description: "A half-wolf, half-humanlike monster with a taste for blood. They usually only transform under a full moon and return to their normal form in sunlight."
 hd: 4
 hit_dice: 4d8
 hp: 18

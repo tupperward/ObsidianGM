@@ -6,6 +6,7 @@ name: "Archon Sphinx"
 tl: 12.6
 size: Huge
 type: Outer (Beyonder)
+description: "The highest of all sphinxes, the Archonsphinx is an alien mastermind and reality bender."
 hd: 24
 hit_dice: 24d8
 hp: 108
@@ -73,6 +74,7 @@ name: "Archon Sphinx"
 tl: 12.6
 size: Huge
 type: Outer (Beyonder)
+description: "The highest of all sphinxes, the Archonsphinx is an alien mastermind and reality bender."
 hd: 24
 hit_dice: 24d8
 hp: 108

@@ -6,6 +6,7 @@ name: Basilisk
 tl: 3.1
 size: Medium
 type: Cryptid (Wyrm)
+description: "Reptilian horrors with the ability to turn flesh to stone with a mere gaze."
 hd: 6
 hit_dice: 6d8
 hp: 27
@@ -47,6 +48,7 @@ name: Basilisk
 tl: 3.1
 size: Medium
 type: Cryptid (Wyrm)
+description: "Reptilian horrors with the ability to turn flesh to stone with a mere gaze."
 hd: 6
 hit_dice: 6d8
 hp: 27

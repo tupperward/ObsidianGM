@@ -6,6 +6,7 @@ name: Mimic
 tl: 2.6
 size: Medium
 type: Cryptid
+description: "Tends to shapeshift into chests, chairs, and doors, lying in wait for undiscerning prey. Some adventurers tell tales of intelligent mimics that have helped them on their journey."
 hd: 5
 hit_dice: 5d8
 hp: 22
@@ -57,6 +58,7 @@ name: Mimic
 tl: 2.6
 size: Medium
 type: Cryptid
+description: "Tends to shapeshift into chests, chairs, and doors, lying in wait for undiscerning prey. Some adventurers tell tales of intelligent mimics that have helped them on their journey."
 hd: 5
 hit_dice: 5d8
 hp: 22

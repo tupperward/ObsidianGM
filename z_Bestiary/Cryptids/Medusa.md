@@ -6,6 +6,7 @@ name: Medusa
 tl: 1.1
 size: Medium
 type: Cryptid
+description: "A snake-like human with feminine features, living snakes for hair, and its petrifying glare."
 hd: 4
 hit_dice: 4d8
 hp: 18
@@ -54,6 +55,7 @@ name: Medusa
 tl: 1.1
 size: Medium
 type: Cryptid
+description: "A snake-like human with feminine features, living snakes for hair, and its petrifying glare."
 hd: 4
 hit_dice: 4d8
 hp: 18

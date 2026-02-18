@@ -6,6 +6,7 @@ name: Thoom
 tl: 2.2
 size: Medium
 type: Outer (Beyonder)
+description: "A land-walking octopus creature able to launch calcified projectiles like cannonballs. Distinguishes itself with its massive eyes and 4 tentacles, rather than the standard 8 of an octopus."
 hd: 2
 hit_dice: 2d8
 hp: 9
@@ -57,6 +58,7 @@ name: Thoom
 tl: 2.2
 size: Medium
 type: Outer (Beyonder)
+description: "A land-walking octopus creature able to launch calcified projectiles like cannonballs. Distinguishes itself with its massive eyes and 4 tentacles, rather than the standard 8 of an octopus."
 hd: 2
 hit_dice: 2d8
 hp: 9

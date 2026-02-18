@@ -6,6 +6,7 @@ name: "Dire Werewolf"
 tl: 5.3
 size: Large
 type: Cryptid (Shapechanger)
+description: "Werewolves that live longer in their lycanthopic form than they have as a person lose themselves to the curse, becoming a dire and losing their humanity."
 hd: 8
 hit_dice: 8d8
 hp: 36
@@ -61,6 +62,7 @@ name: "Dire Werewolf"
 tl: 5.3
 size: Large
 type: Cryptid (Shapechanger)
+description: "Werewolves that live longer in their lycanthopic form than they have as a person lose themselves to the curse, becoming a dire and losing their humanity."
 hd: 8
 hit_dice: 8d8
 hp: 36

@@ -6,6 +6,7 @@ name: Dungeonheart
 tl: 1.7
 size: Huge
 type: Artificial
+description: "The creation of a dungeonheart involves opening a summoning portal within a living troll's heart. The troll must survive the initial process to guarantee its regeneration works. Over time, the troll's blood and tissue seeps through the portal, which spits out all manner of bizarre creatures."
 hd: 10
 hit_dice: 10d8
 hp: 45
@@ -52,6 +53,7 @@ name: Dungeonheart
 tl: 1.7
 size: Huge
 type: Artificial
+description: "The creation of a dungeonheart involves opening a summoning portal within a living troll's heart. The troll must survive the initial process to guarantee its regeneration works. Over time, the troll's blood and tissue seeps through the portal, which spits out all manner of bizarre creatures."
 hd: 10
 hit_dice: 10d8
 hp: 45

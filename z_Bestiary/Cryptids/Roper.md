@@ -6,6 +6,7 @@ name: Roper
 tl: 5.8
 size: Large
 type: Cryptid
+description: "Tentacled creatures that are indistinguishable from stalagmites or stalagtites."
 hd: 12
 hit_dice: 12d8
 hp: 54
@@ -54,6 +55,7 @@ name: Roper
 tl: 5.8
 size: Large
 type: Cryptid
+description: "Tentacled creatures that are indistinguishable from stalagmites or stalagtites."
 hd: 12
 hit_dice: 12d8
 hp: 54

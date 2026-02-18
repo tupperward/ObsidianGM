@@ -6,6 +6,7 @@ name: "Grove Hag"
 tl: 9.7
 size: Medium
 type: Fae (Shapechanger)
+description: "Nightmarish brutes of crones that reside in swamps and dead woods. They are known for devouring humans with their iron claws and teeth."
 hd: 8
 hit_dice: 8d8
 hp: 36
@@ -68,6 +69,7 @@ name: "Grove Hag"
 tl: 9.7
 size: Medium
 type: Fae (Shapechanger)
+description: "Nightmarish brutes of crones that reside in swamps and dead woods. They are known for devouring humans with their iron claws and teeth."
 hd: 8
 hit_dice: 8d8
 hp: 36

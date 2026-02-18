@@ -6,6 +6,7 @@ name: Owl Bear
 tl: 4.6
 size: Large
 type: Cryptid (Beast)
+description: "Monsters with the head of an owl and body of a bear. Often found in forests and caves."
 hd: 5
 hit_dice: 5d8
 hp: 22
@@ -50,6 +51,7 @@ name: Owl Bear
 tl: 4.6
 size: Large
 type: Cryptid (Beast)
+description: "Monsters with the head of an owl and body of a bear. Often found in forests and caves."
 hd: 5
 hit_dice: 5d8
 hp: 22

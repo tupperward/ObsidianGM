@@ -6,6 +6,7 @@ name: "Giant Fire Beetle"
 tl: 1.7
 size: Small
 type: Beast
+description: "Cat-sized beetles that illuminate dark, cavernous areas with the glowing glands across their bodies."
 hd: 2
 hit_dice: 2d8
 hp: 2
@@ -52,6 +53,7 @@ name: "Giant Fire Beetle"
 tl: 1.7
 size: Small
 type: Beast
+description: "Cat-sized beetles that illuminate dark, cavernous areas with the glowing glands across their bodies."
 hd: 2
 hit_dice: 2d8
 hp: 2

@@ -6,6 +6,7 @@ name: "Drowner Zombie"
 tl: 0.9
 size: Medium
 type: Undead
+description: "Corpses are at risk of becoming drowners if they are tossed to the sea, being reanimated by some unknown forces that lurk in the depths."
 hd: 2
 hit_dice: 2d8
 hp: 9
@@ -50,6 +51,7 @@ name: "Drowner Zombie"
 tl: 0.9
 size: Medium
 type: Undead
+description: "Corpses are at risk of becoming drowners if they are tossed to the sea, being reanimated by some unknown forces that lurk in the depths."
 hd: 2
 hit_dice: 2d8
 hp: 9

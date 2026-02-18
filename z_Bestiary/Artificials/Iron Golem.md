@@ -6,6 +6,7 @@ name: "Iron Golem"
 tl: 8.9
 size: Large
 type: Artificial
+description: "A massive warrior statue of iron or similar metal."
 hd: 18
 hit_dice: 18d8
 hp: 81
@@ -69,6 +70,7 @@ name: "Iron Golem"
 tl: 8.9
 size: Large
 type: Artificial
+description: "A massive warrior statue of iron or similar metal."
 hd: 18
 hit_dice: 18d8
 hp: 81

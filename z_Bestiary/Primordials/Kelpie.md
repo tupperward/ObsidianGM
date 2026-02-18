@@ -6,6 +6,7 @@ name: Kelpie
 tl: 2.4
 size: Medium
 type: Primordial (Shapechanger)
+description: "Intelligent, aquatic plant life that  normally only appear as lumps of wet kelp. It can change its form to that of a horse or beautiful woman."
 hd: 5
 hit_dice: 5d8
 hp: 22
@@ -57,6 +58,7 @@ name: Kelpie
 tl: 2.4
 size: Medium
 type: Primordial (Shapechanger)
+description: "Intelligent, aquatic plant life that  normally only appear as lumps of wet kelp. It can change its form to that of a horse or beautiful woman."
 hd: 5
 hit_dice: 5d8
 hp: 22

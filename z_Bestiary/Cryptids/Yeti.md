@@ -6,6 +6,7 @@ name: Yeti
 tl: 3.5
 size: Large
 type: Cryptid
+description: "Fuzzy, ape-like flesheaters that occupy the most extreme arctic areas. Their white fur and icy pale blue eyes embody wintry terror."
 hd: 5
 hit_dice: 5d8
 hp: 22
@@ -54,6 +55,7 @@ name: Yeti
 tl: 3.5
 size: Large
 type: Cryptid
+description: "Fuzzy, ape-like flesheaters that occupy the most extreme arctic areas. Their white fur and icy pale blue eyes embody wintry terror."
 hd: 5
 hit_dice: 5d8
 hp: 22

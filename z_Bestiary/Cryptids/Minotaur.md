@@ -6,6 +6,7 @@ name: Minotaur
 tl: 3.9
 size: Large
 type: Cryptid
+description: "Terrifying bull-like humanoids of gigantic stature and power. Usually found wandering labyrinths."
 hd: 6
 hit_dice: 6d8
 hp: 27
@@ -50,6 +51,7 @@ name: Minotaur
 tl: 3.9
 size: Large
 type: Cryptid
+description: "Terrifying bull-like humanoids of gigantic stature and power. Usually found wandering labyrinths."
 hd: 6
 hit_dice: 6d8
 hp: 27

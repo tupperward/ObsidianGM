@@ -6,6 +6,7 @@ name: Lich
 tl: 8.5
 size: Medium
 type: Undead
+description: "Undead wizards who give themselves over to necromancy and study the arcane for eternity."
 hd: 11
 hit_dice: 11d8
 hp: 49
@@ -67,6 +68,7 @@ name: Lich
 tl: 8.5
 size: Medium
 type: Undead
+description: "Undead wizards who give themselves over to necromancy and study the arcane for eternity."
 hd: 11
 hit_dice: 11d8
 hp: 49

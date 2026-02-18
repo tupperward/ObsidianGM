@@ -6,6 +6,7 @@ name: Viskyd
 tl: 1.2
 size: Small
 type: Outer (Hellspawn)
+description: "Lesser demons known to be extremely sticky, flammable, and disposable."
 hd: 1
 hit_dice: 1d8
 hp: 1
@@ -66,6 +67,7 @@ name: Viskyd
 tl: 1.2
 size: Small
 type: Outer (Hellspawn)
+description: "Lesser demons known to be extremely sticky, flammable, and disposable."
 hd: 1
 hit_dice: 1d8
 hp: 1

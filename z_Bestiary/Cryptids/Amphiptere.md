@@ -6,6 +6,7 @@ name: Amphiptere
 tl: 1.9
 size: Medium
 type: Cryptid (Wyrm)
+description: "A winged serpent of moderate size that shoots fire."
 hd: 3
 hit_dice: 3d8
 hp: 13
@@ -49,6 +50,7 @@ name: Amphiptere
 tl: 1.9
 size: Medium
 type: Cryptid (Wyrm)
+description: "A winged serpent of moderate size that shoots fire."
 hd: 3
 hit_dice: 3d8
 hp: 13

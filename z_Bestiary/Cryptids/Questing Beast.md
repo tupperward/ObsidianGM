@@ -6,6 +6,7 @@ name: Questing Beast
 tl: 4.8
 size: Large
 type: Cryptid (Beast)
+description: "A chimeric feline with a snake's head, a cheetah's body, and hooved hindquarters like a deer. Sounds like a pack of beagles on the hunt."
 hd: 8
 hit_dice: 8d8
 hp: 36
@@ -50,6 +51,7 @@ name: Questing Beast
 tl: 4.8
 size: Large
 type: Cryptid (Beast)
+description: "A chimeric feline with a snake's head, a cheetah's body, and hooved hindquarters like a deer. Sounds like a pack of beagles on the hunt."
 hd: 8
 hit_dice: 8d8
 hp: 36

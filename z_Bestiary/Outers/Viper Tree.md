@@ -6,6 +6,7 @@ name: Viper Tree
 tl: 3.2
 size: Large
 type: "Outer (Hellspawn, Plant)"
+description: "In the twisted chaos of Hell, viper trees thrive. Easily mistaken for beech trees."
 hd: 9
 hit_dice: 9d8
 hp: 40
@@ -46,6 +47,7 @@ name: Viper Tree
 tl: 3.2
 size: Large
 type: "Outer (Hellspawn, Plant)"
+description: "In the twisted chaos of Hell, viper trees thrive. Easily mistaken for beech trees."
 hd: 9
 hit_dice: 9d8
 hp: 40

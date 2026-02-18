@@ -6,6 +6,7 @@ name: Wight
 tl: 2.2
 size: Medium
 type: Undead
+description: "Life-draining spirits in the body of a dead humanoid."
 hd: 4
 hit_dice: 4d8
 hp: 18
@@ -60,6 +61,7 @@ name: Wight
 tl: 2.2
 size: Medium
 type: Undead
+description: "Life-draining spirits in the body of a dead humanoid."
 hd: 4
 hit_dice: 4d8
 hp: 18
