@@ -151,6 +151,21 @@
   font-family: "OldTypefaces", "Palatino Linotype", Palatino, Georgia, serif;
 }
 
+/* ── TextArea inputs — fill parent container ── */
+.hero-record .meta-bind-plugin-input-wrapper textarea,
+.hero-record textarea {
+  width: 100%;
+  min-height: 8em;
+  padding: 0.4em;
+  font-family: "OldTypefaces", "Palatino Linotype", Palatino, Georgia, serif;
+  font-size: 1em;
+  border: 1px solid #aaa;
+  border-radius: 2px;
+  background: transparent;
+  resize: vertical;
+  box-sizing: border-box;
+}
+
 /* ── HP / Mana slash separator ── */
 .hero-record td .meta-bind-plugin-input-wrapper + .meta-bind-plugin-input-wrapper {
   margin-left: 0;

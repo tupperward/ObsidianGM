@@ -82,25 +82,25 @@
   "version": "11.4.2",
   "viewResults": [
     {
-      "result": "21",
-      "original": "1d20+1d6",
-      "resultText": "1d20+1d6\n[15]+[6]",
-      "timestamp": 1771395786060,
-      "id": "PlhrFOlEy_-z"
+      "result": "6",
+      "original": "1d8",
+      "resultText": "1d8\n[6]",
+      "timestamp": 1771427015736,
+      "id": "0ypFqZzfbZaJ"
     },
     {
-      "result": "8",
-      "original": "1d20-1d6",
-      "resultText": "1d20-1d6\n[13]-[5]",
-      "timestamp": 1771395794744,
-      "id": "HD862ijiMxD2"
+      "result": "1",
+      "original": "1d8",
+      "resultText": "1d8\n[1]",
+      "timestamp": 1771427023835,
+      "id": "SxijxfUUK4l4"
     },
     {
-      "result": "13",
-      "original": "1d20",
-      "resultText": "1d20\n[13]",
-      "timestamp": 1771397193195,
-      "id": "uL6t10dSpGil"
+      "result": "3",
+      "original": "1d8",
+      "resultText": "1d8\n[3]",
+      "timestamp": 1771427024750,
+      "id": "f3ktUXo5-jrz"
     }
   ]
 }

@@ -36,15 +36,13 @@ trained_performance: false
 trained_sneak: false
 trained_survival: false
 weapon1_name: ""
-weapon1_attack: ""
 weapon1_traits: ""
 weapon2_name: ""
-weapon2_attack: ""
 weapon2_traits: ""
 weapon3_name: ""
-weapon3_attack: ""
 weapon3_traits: ""
 abilities: ""
+spells: ""
 wealth: 0G 0S 0C
 item_slots: 10
 inv1: ""
@@ -116,11 +114,12 @@ inv10_slots: 0
 | `VIEW[20 - {might}][math]` | `VIEW[20 - {awareness}][math]` | `VIEW[20 - {might} * (1 + number({trained_brawl}))][math]` | `VIEW[20 - {dexterity} * (1 + number({trained_finesse}))][math]` |
 ---
 ## Weapons
-| Weapon | Attack | Damage | Traits |
-|---|---|---|---|
-| `INPUT[text:weapon1_name]` | `INPUT[text:weapon1_attack]` |  | `INPUT[text:weapon1_traits]` |
-| `INPUT[text:weapon2_name]` | `INPUT[text:weapon2_attack]` |  | `INPUT[text:weapon2_traits]` |
-| `INPUT[text:weapon3_name]` | `INPUT[text:weapon3_attack]` |  | `INPUT[text:weapon3_traits]` |
+| Weapon                     | Damage      | Traits                       |
+| -------------------------- | ----------- | ---------------------------- |
+| `INPUT[text:weapon1_name]` | `dice: 1d4` | `INPUT[text:weapon1_traits]` |
+| `INPUT[text:weapon2_name]` | `dice: 1d6` | `INPUT[text:weapon2_traits]` |
+| `INPUT[text:weapon3_name]` | `dice: 1d8` | `INPUT[text:weapon3_traits]` |
+| `INPUT[text:weapon3_name]` |  | `INPUT[text:weapon3_traits]` |
 ---
 ## Abilities
 `INPUT[textArea:abilities]`
@@ -129,6 +128,7 @@ inv10_slots: 0
 | | | | |
 |---|---|---|---|
 | **Mana** | `INPUT[number:mana]` / `INPUT[number:mana_max]` | **Casting Max** | `INPUT[number:casting_max]` |
+`INPUT[textArea:spells]`
 ---
 ## Inventory
 | | | | |
