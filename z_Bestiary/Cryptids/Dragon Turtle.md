@@ -56,6 +56,7 @@ tl: 10.6
 size: Colossal
 type: Cryptid (Wyrm)
 hd: 30
+hit_dice: 30d8
 hp: 135
 speed: "10' (Swim 30')"
 zone: Frontline

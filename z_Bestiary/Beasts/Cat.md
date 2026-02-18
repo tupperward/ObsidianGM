@@ -52,6 +52,7 @@ tl: 0.2
 size: Small
 type: Beast
 hd: 1
+hit_dice: 1d8
 hp: 1
 speed: "40' (Climb)"
 zone: Midline

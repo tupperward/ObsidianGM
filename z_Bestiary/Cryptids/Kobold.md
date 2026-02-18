@@ -19,11 +19,11 @@ actions:
   - name: "Normal — Sling [Ranged Attack]"
     desc: "2 (1d4)"
   - name: "Normal — Dagger [Melee Attack, Thrown]"
-    desc: "2 (1d4)"
+    desc: "2 (1d4); Thrown (Near)"
   - name: "Alchemist — Alchemist's Fire [Melee Attack, Thrown] (5/Day)"
     desc: "3 (1d6) and Burning (Cd6)"
   - name: "Alchemist — Dagger [Melee Attack, Thrown]"
-    desc: "2 (1d4)"
+    desc: "2 (1d4); Thrown (Near), see Alchemist's Fire"
   - name: "Warrior — Spear [Melee Attack, Thrown]"
     desc: "3 (1d6)"
 abilities:
@@ -66,6 +66,7 @@ tl: 1.2
 size: Medium
 type: Cryptid (Wyrm)
 hd: 1
+hit_dice: 1d8
 hp: 4
 speed: "35'"
 zone: Midline
@@ -77,11 +78,11 @@ actions:
   - name: "Normal — Sling [Ranged Attack]"
     desc: "2 (1d4)"
   - name: "Normal — Dagger [Melee Attack, Thrown]"
-    desc: "2 (1d4)"
+    desc: "2 (1d4); Thrown (Near)"
   - name: "Alchemist — Alchemist's Fire [Melee Attack, Thrown] (5/Day)"
     desc: "3 (1d6) and Burning (Cd6)"
   - name: "Alchemist — Dagger [Melee Attack, Thrown]"
-    desc: "2 (1d4)"
+    desc: "2 (1d4); Thrown (Near), see Alchemist's Fire"
   - name: "Warrior — Spear [Melee Attack, Thrown]"
     desc: "3 (1d6)"
 abilities:

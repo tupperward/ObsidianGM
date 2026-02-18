@@ -46,6 +46,7 @@ tl: 10.5
 size: Colossal
 type: Beast
 hd: 35
+hit_dice: 35d8
 hp: 157
 speed: "30'"
 zone: Frontline

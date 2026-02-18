@@ -68,6 +68,7 @@ tl: 8.5
 size: Medium
 type: Undead
 hd: 11
+hit_dice: 11d8
 hp: 49
 speed: "20' (Fly 60')"
 zone: Frontline

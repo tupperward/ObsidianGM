@@ -63,6 +63,7 @@ tl: 10.5
 size: Huge
 type: "Outer (Beyonder, Wyrm)"
 hd: 15
+hit_dice: 15d8
 hp: 67
 speed: "60' (Fly 180')"
 zone: Midline

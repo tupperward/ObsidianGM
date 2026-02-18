@@ -38,7 +38,7 @@ bestiary: true
 ***ACTIONS***
 ---
 Spawn: At the start of its Turn, roll d4. On a roll of 2 to 4, this Being spawns an Ally Being (d6, roll two and take the highest if this Being is at half HP or lower), which appears in the nearest open space:
-1 - [[Spider, Giant]] (p. 132)
+1 - [[Giant Spider]] (p. 132)
 2 - [[Basilisk]] (p. 135)
 3 - [[Owl Bear]] (p. 145)
 4 - [[Rust Monster]] (p. 148)
@@ -53,6 +53,7 @@ tl: 1.7
 size: Huge
 type: Artificial
 hd: 10
+hit_dice: 10d8
 hp: 45
 speed: "0'"
 zone: "-"

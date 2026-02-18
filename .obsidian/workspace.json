@@ -87,7 +87,7 @@
       {
         "id": "127dace509e85b5c",
         "type": "tabs",
-        "dimension": 47.253787878787875,
+        "dimension": 46.391752577319586,
         "children": [
           {
             "id": "347bd78c357d3390",
@@ -210,26 +210,9 @@
         "currentTab": 5
       },
       {
-        "id": "5f3f43f3edabc220",
-        "type": "tabs",
-        "dimension": 19.412878787878785,
-        "children": [
-          {
-            "id": "8e5a2622bbabb4d7",
-            "type": "leaf",
-            "state": {
-              "type": "fantasy-statblocks-creature-pane",
-              "state": {},
-              "icon": "skull",
-              "title": "Combatant"
-            }
-          }
-        ]
-      },
-      {
         "id": "e2d3872172f57e67",
         "type": "tabs",
-        "dimension": 33.33333333333333,
+        "dimension": 53.608247422680414,
         "children": [
           {
             "id": "912b8b0a5d061600",
@@ -245,7 +228,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 407.5
+    "width": 775.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -267,34 +250,34 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ca7306d5a357e699",
+  "active": "5fa22240cb22c565",
   "lastOpenFiles": [
-    "Favor.md",
-    "The Ruinous League/Crawl.md",
-    "z_Bestiary/Cryptids/Bugbear.md",
-    "z_Gear/Personal Items.md",
-    "The Ruinous League/Hook & Play.md",
-    "The Ruinous League/Dungeon Map.md",
-    "z_Bestiary/Cryptids/Owl Bear.md",
-    "Campaigns/Untitled.md",
-    "z_Templates/Hero Record.md",
-    "Campaigns/Blood on the Chapparal/05. Locations/Cairn Bluff.md",
-    "Giant Spider.md",
-    "The Ruinous League/Character Sheet.md",
-    "z_Rules/Running Enemies.md",
-    "z_Rules/Combat.md",
-    "z_Rules/Armor.md",
-    "z_Rules/Casting Spells.md",
-    "z_Rules/Stats, Skills & Passives.md",
-    "z_Ancestries/Traits/Hulking.md",
-    "z_Ancestries/Traits/Beefy.md",
-    "z_Ancestries/Traits/Scavenger.md",
-    "z_Ancestries/Traits/Draconic Resilience.md",
-    "z_Ancestries/Traits/Scale.md",
-    "z_Ancestries/Traits/Breath Attack.md",
-    "z_Ancestries/Traits/Tricksy.md",
-    "z_Ancestries/Traits/Squat.md",
-    "z_Ancestries/Traits/Nimble.md",
+    "z_Bestiary/Humanlike/Fire Mage.md",
+    "z_Bestiary/Humanlike/Shock Mage.md",
+    "z_Bestiary/Humanlike/Frost Mage.md",
+    "z_Bestiary/Cryptids/Dire Werewolf.md",
+    "z_Bestiary/Cryptids/Elder Dragon.md",
+    "z_Bestiary/Cryptids/Ancient Dragon.md",
+    "z_Bestiary/Cryptids/Young Dragon.md",
+    "z_Bestiary/Cryptids/Hatchling Dragon.md",
+    "z_Bestiary/Undead/Boomer Zombie.md",
+    "z_Bestiary/Undead/Blazing Bones.md",
+    "z_Bestiary/Undead/Giant Skeleton.md",
+    "z_Bestiary/Undead/Drowner Zombie.md",
+    "z_Bestiary/Primordials/Blood Ooze.md",
+    "z_Bestiary/Primordials/Greater Fire Elemental.md",
+    "z_Bestiary/Primordials/Ectoplasmic Ooze.md",
+    "z_Bestiary/Primordials/Lesser Earth Elemental.md",
+    "z_Bestiary/Primordials/Greater Air Elemental.md",
+    "z_Bestiary/Primordials/Water Elemental.md",
+    "z_Bestiary/Primordials/Lesser Air Elemental.md",
+    "z_Bestiary/Primordials/Greater Earth Elemental.md",
+    "z_Bestiary/Primordials/Lesser Fire Elemental.md",
+    "z_Bestiary/Primordials/Greater Water Elemental.md",
+    "z_Bestiary/Primordials/Quicksilver Ooze.md",
+    "z_Bestiary/Primordials/Earth Elemental.md",
+    "z_Bestiary/Primordials/Lesser Water Elemental.md",
+    "z_Bestiary/Primordials/Fire Elemental.md",
     "z_Ancestries/Traits",
     "z_Ancestries",
     "z_Rules/Adventuring Overview",

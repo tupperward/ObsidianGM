@@ -59,6 +59,7 @@ tl: 1.7
 size: Medium
 type: Primordial (Slime)
 hd: 5
+hit_dice: 5d8
 hp: 22
 speed: "10' (Cling)"
 zone: Frontline

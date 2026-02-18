@@ -19,9 +19,9 @@ immune: Poison
 weak: Fire
 status_immunities: "Sickened, Suffocating"
 actions:
-  - name: "Freeze [Cast, Remote | Endure (Recharge Cd4)]"
+  - name: "[[Freeze]] [Cast, Remote | Endure (Recharge Cd4)]"
     desc: "3 (1d6) and its Speed is reduced by 10ft, Cd4."
-  - name: "Zap [Cast, Bolt | Reflex (Recharge Cd4)]"
+  - name: "[[Zap]] [Cast, Bolt | Reflex (Recharge Cd4)]"
     desc: 3 (1d6) and Dazed (Cd4)
 abilities:
   - name: Antimagic Vulnerability
@@ -64,6 +64,7 @@ tl: 0.7
 size: Small
 type: Artificial
 hd: 1
+hit_dice: 1d8
 hp: 1
 speed: "0' (Fly 30')"
 zone: Backline
@@ -75,9 +76,9 @@ immune: Poison
 weak: Fire
 status_immunities: "Sickened, Suffocating"
 actions:
-  - name: "Freeze [Cast, Remote | Endure (Recharge Cd4)]"
+  - name: "[[Freeze]] [Cast, Remote | Endure (Recharge Cd4)]"
     desc: "3 (1d6) and its Speed is reduced by 10ft, Cd4."
-  - name: "Zap [Cast, Bolt | Reflex (Recharge Cd4)]"
+  - name: "[[Zap]] [Cast, Bolt | Reflex (Recharge Cd4)]"
     desc: 3 (1d6) and Dazed (Cd4)
 abilities:
   - name: Antimagic Vulnerability

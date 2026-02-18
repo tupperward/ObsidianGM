@@ -52,6 +52,7 @@ tl: 2.0
 size: Large
 type: Primordial (Plant)
 hd: 4
+hit_dice: 4d8
 hp: 18
 speed: "5'"
 zone: Frontline

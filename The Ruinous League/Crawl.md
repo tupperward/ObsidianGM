@@ -33,7 +33,7 @@ Determine Random Encounters by rolling a number of d6s equal to 1 + the number o
 
 |  xd6  | Encounter                                             |
 | :---: | ----------------------------------------------------- |
-|  1-2  | `dice: 1d6` [[Potead, Small]] (p. 122)                |
+|  1-2  | `dice: 1d6` [[Small Potead]] (p. 122)                |
 |  3-4  | `dice: 1d2` [[Rust Monster]]s (p. 148)                |
 |  5-6  | `dice: 1d4` [[Goblin]] Warriors (p. 141); Goblin Mage |
 |  7-8  | [[Bugbear]] (p. 135); `dice: 1d4` [[Goblin]] Warriors |
@@ -47,11 +47,16 @@ Determine Random Encounters by rolling a number of d6s equal to 1 + the number o
 ```encounter
 creatures:
   - Goblin
-  - Owl Bear
-  - Goblin
-  - Goblin
-  - Goblin
+  - Grove Hag
+  - Unicorn
+  - Ghoul
+  - Triceratops
+  - Achaierai
+  - Small Potead
+  - Giant Spider
+  - Bone Golem
   - 
+  - Kobold 
 ```
 ### Event
 Roll: `dice: 2d6`

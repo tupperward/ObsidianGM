@@ -65,6 +65,7 @@ tl: 2.9
 size: Medium
 type: Cryptid (Shapechanger)
 hd: 4
+hit_dice: 4d8
 hp: 18
 speed: "40'"
 zone: Frontline

@@ -18,9 +18,9 @@ actions:
     desc: Feral Shift and 1 Action of the Beast it turns into
   - name: "Feral Shift [Cast, Self] (Focus)"
     desc: It turns into a HD 2 or lower Beast.
-  - name: "Cure Wounds [Cast, Touch (Ally)] (3/Day)"
+  - name: "[[Cure]] Wounds [Cast, Touch (Ally)] (3/Day)"
     desc: Regain 3 (1d6) HP
-  - name: "Polymorph [Cast | Will] (Focus)"
+  - name: "[[Polymorph]] [Cast | Will] (Focus)"
     desc: It becomes a Beast of this Being's choice with HD 2 or lower.
 columns: 2
 forceColumns: true
@@ -50,6 +50,7 @@ tl: 1.8
 size: Medium
 type: Humanlike
 hd: 2
+hit_dice: 2d8
 hp: 9
 speed: "30'"
 zone: Midline
@@ -63,8 +64,8 @@ actions:
     desc: Feral Shift and 1 Action of the Beast it turns into
   - name: "Feral Shift [Cast, Self] (Focus)"
     desc: It turns into a HD 2 or lower Beast.
-  - name: "Cure Wounds [Cast, Touch (Ally)] (3/Day)"
+  - name: "[[Cure]] Wounds [Cast, Touch (Ally)] (3/Day)"
     desc: Regain 3 (1d6) HP
-  - name: "Polymorph [Cast | Will] (Focus)"
+  - name: "[[Polymorph]] [Cast | Will] (Focus)"
     desc: It becomes a Beast of this Being's choice with HD 2 or lower.
 ```

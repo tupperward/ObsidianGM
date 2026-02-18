@@ -28,7 +28,7 @@ actions:
     desc: "10 (3d6) and pass — Endure with a -1 penalty or become Sickened (Cd6 damage) (+2) Mace — Melee Attack: 5 (1d6+2) and Burning (Cd6)"
   - name: "Wall of Fire [Cast, Line | Reflex (3/Day, Focus)]"
     desc: Burning (2d6)
-  - name: "Hold [Cast, Remote | Endure (Recharge Cd4)]"
+  - name: "[[Hold]] [Cast, Remote | Endure (Recharge Cd4)]"
     desc: Paralyzed (Cd4)
   - name: "Tail [Melee Attack]"
     desc: "5 (2d4) and Restrained, taking 5 (2d4) at the start of this Being's Turns while Restrained this way"
@@ -80,6 +80,7 @@ tl: 7.9
 size: Large
 type: Outer (Hellspawn)
 hd: 13
+hit_dice: 13d8
 hp: 58
 speed: "30' (Fly 60')"
 zone: Frontline
@@ -100,7 +101,7 @@ actions:
     desc: "10 (3d6) and pass — Endure with a -1 penalty or become Sickened (Cd6 damage) (+2) Mace — Melee Attack: 5 (1d6+2) and Burning (Cd6)"
   - name: "Wall of Fire [Cast, Line | Reflex (3/Day, Focus)]"
     desc: Burning (2d6)
-  - name: "Hold [Cast, Remote | Endure (Recharge Cd4)]"
+  - name: "[[Hold]] [Cast, Remote | Endure (Recharge Cd4)]"
     desc: Paralyzed (Cd4)
   - name: "Tail [Melee Attack]"
     desc: "5 (2d4) and Restrained, taking 5 (2d4) at the start of this Being's Turns while Restrained this way"

@@ -72,6 +72,7 @@ tl: 11.7
 size: Colossal
 type: Artificial
 hd: 25
+hit_dice: 25d8
 hp: 112
 speed: "50'"
 zone: Frontline

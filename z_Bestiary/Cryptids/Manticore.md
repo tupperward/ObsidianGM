@@ -57,6 +57,7 @@ tl: 3.8
 size: Large
 type: Cryptid
 hd: 6
+hit_dice: 6d8
 hp: 27
 speed: "30' (Fly 50')"
 zone: Midline

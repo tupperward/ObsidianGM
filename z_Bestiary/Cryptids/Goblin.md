@@ -18,14 +18,14 @@ armor: "1 [as Leather]"
 actions:
   - name: "Archer — Shortbow [Ranged Attack]"
     desc: "3 (1d6)"
-  - name: "Mage — Apoplex [Cast, Remote | Will] (3/Day)"
+  - name: "Mage — [[Apoplex]] [Cast, Remote | Will] (3/Day)"
     desc: "Berserk (Cd4)"
   - name: "Mage — Flare [Cast, 10' Sphere | Reflex] (3/Day)"
     desc: "7 (2d6)"
   - name: "Mage — Staff [Melee Attack]"
     desc: "2 (1d4)"
   - name: "Warrior — Dagger [Melee Attack, Thrown]"
-    desc: "2 (1d4)"
+    desc: "2 (1d4); Thrown (Near)"
 abilities:
   - name: Sun-Averse
     desc: "Is Vulnerable while in Sunlight"
@@ -46,13 +46,13 @@ bestiary: true
 
 ***ACTIONS***
 ---
-| Type | Actions |
-|---|---|
-| [[Archer]] | Shortbow [[[Ranged]] Attack]: 3 (1d6) |
-| Mage | [[Apoplex]] [Cast, Remote \| Will] (3/Day): [[Berserk]] (Cd4) |
-| Mage | Flare [Cast, 10' Sphere \| Reflex] (3/Day): 7 (2d6) |
-| Mage | Staff [[[Melee]] Attack]: 2 (1d4) |
-| Warrior | Dagger [[[Melee]] Attack, Thrown]: 2 (1d4) |
+| Type       | Actions                                                       |
+| ---------- | ------------------------------------------------------------- |
+| [[Archer]] | Shortbow [[[Ranged]] Attack]: 3 (1d6)                         |
+| Mage       | [[Apoplex]] [Cast, Remote \| Will] (3/Day): [[Berserk]] (Cd4) |
+| Mage       | [[Flare]] [Cast, 10' Sphere \| Reflex] (3/Day): 7 (2d6)       |
+| Mage       | Staff [[[Melee]] Attack]: 2 (1d4)                             |
+| Warrior    | Dagger [[[Melee]] Attack, Thrown]: 2 (1d4)                    |
 
 ***ABILITIES***
 ---
@@ -66,6 +66,7 @@ tl: 1.2
 size: Medium
 type: Cryptid
 hd: 1
+hit_dice: 1d8
 hp: 4
 speed: "30'"
 zone: Backline
@@ -76,14 +77,14 @@ armor: "1 [as Leather]"
 actions:
   - name: "Archer — Shortbow [Ranged Attack]"
     desc: "3 (1d6)"
-  - name: "Mage — Apoplex [Cast, Remote | Will] (3/Day)"
+  - name: "Mage — [[Apoplex]] [Cast, Remote | Will] (3/Day)"
     desc: "Berserk (Cd4)"
   - name: "Mage — Flare [Cast, 10' Sphere | Reflex] (3/Day)"
     desc: "7 (2d6)"
   - name: "Mage — Staff [Melee Attack]"
     desc: "2 (1d4)"
   - name: "Warrior — Dagger [Melee Attack, Thrown]"
-    desc: "2 (1d4)"
+    desc: "2 (1d4); Thrown (Near)"
 abilities:
   - name: Sun-Averse
     desc: "Is Vulnerable while in Sunlight"

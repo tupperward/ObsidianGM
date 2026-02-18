@@ -16,7 +16,7 @@ armor: "1 [as Leather]"
 actions:
   - name: "Command [Action (all Undead it controls)]"
     desc: Commands them to Attack the nearest Being.
-  - name: "Animate [Cast, Near Aura (all Corpses)] (2/Day)"
+  - name: "[[Animate]] [Cast, Near Aura (all Corpses)] (2/Day)"
     desc: Raised as a Zombie under its control.
   - name: "Necrotic Blast [Cast, Bolt]"
     desc: "7 (2d6) and pass [Endure] or become Sickened (Cd4 damage, Blinded and deafened)."
@@ -47,6 +47,7 @@ tl: 2.4
 size: Medium
 type: Humanlike
 hd: 2
+hit_dice: 2d8
 hp: 9
 speed: "30'"
 zone: Backline
@@ -58,7 +59,7 @@ bestiary: true
 actions:
   - name: "Command [Action (all Undead it controls)]"
     desc: Commands them to Attack the nearest Being.
-  - name: "Animate [Cast, Near Aura (all Corpses)] (2/Day)"
+  - name: "[[Animate]] [Cast, Near Aura (all Corpses)] (2/Day)"
     desc: Raised as a Zombie under its control.
   - name: "Necrotic Blast [Cast, Bolt]"
     desc: "7 (2d6) and pass [Endure] or become Sickened (Cd4 damage, Blinded and deafened)."

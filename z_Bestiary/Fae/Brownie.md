@@ -61,6 +61,7 @@ tl: 2.0
 size: Small
 type: Fae
 hd: 1
+hit_dice: 1d8
 hp: 1
 speed: "40'"
 zone: Backline

@@ -55,6 +55,7 @@ tl: 5.8
 size: Large
 type: Cryptid
 hd: 12
+hit_dice: 12d8
 hp: 54
 speed: "10' (Climb, Cling)"
 zone: Frontline

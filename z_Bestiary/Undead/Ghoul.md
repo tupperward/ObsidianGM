@@ -22,7 +22,7 @@ actions:
   - name: Combo
     desc: 2×Claws and 1×Bite
   - name: "Bite [Melee Attack]"
-    desc: "2 (1d4) and pass — Endure or be Paralyzed (Cd4)"
+    desc: "2 (1d4) and pass — Endure or be Paralyzed (Cd4); see Combo"
   - name: "Claw [Melee Attack]"
     desc: "2 (1d4) and pass — Endure or be Paralyzed (Cd4)"
 abilities:
@@ -64,6 +64,7 @@ tl: 2.0
 size: Medium
 type: Undead
 hd: 2
+hit_dice: 2d8
 hp: 9
 speed: "30'"
 zone: Frontline
@@ -78,7 +79,7 @@ actions:
   - name: Combo
     desc: 2×Claws and 1×Bite
   - name: "Bite [Melee Attack]"
-    desc: "2 (1d4) and pass — Endure or be Paralyzed (Cd4)"
+    desc: "2 (1d4) and pass — Endure or be Paralyzed (Cd4); see Combo"
   - name: "Claw [Melee Attack]"
     desc: "2 (1d4) and pass — Endure or be Paralyzed (Cd4)"
 abilities:

@@ -52,6 +52,7 @@ tl: 0.9
 size: Small
 type: Artificial
 hd: 1
+hit_dice: 1d8
 hp: 1
 speed: "10' (Fly 40')"
 zone: Midline

@@ -16,13 +16,13 @@ appearing: "4 (2d4)"
 armor: "2 [as Chain]"
 weak: Cold Iron Weapons
 actions:
-  - name: "Sleep [Cast, Beings who hear it (1/Day)]"
+  - name: "[[Sleep]] [Cast, Beings who hear it (1/Day)]"
     desc: Unconscious (Cd6 or until awoken)
-  - name: "Charm [Cast, Beings who hear it | Will (1/Day)]"
+  - name: "[[Charm]] [Cast, Beings who hear it | Will (1/Day)]"
     desc: Charmed (until this Being drops Focus). Those Charmed this way must Move toward this Being and use their Action to obey its commands.
   - name: "Horns [Melee Attack]"
     desc: 5 (2d4)
-  - name: "Fear [Cast, Beings who hear it | Will (1/Day)]"
+  - name: "[[Fear]] [Cast, Beings who hear it | Will (1/Day)]"
     desc: Frightened (Cd4)
 abilities:
   - name: Magic Ward I
@@ -64,6 +64,7 @@ tl: 2.3
 size: Medium
 type: Fae
 hd: 4
+hit_dice: 4d8
 hp: 18
 speed: "35'"
 zone: Frontline
@@ -72,13 +73,13 @@ appearing: "4 (2d4)"
 armor: "2 [as Chain]"
 weak: Cold Iron Weapons
 actions:
-  - name: "Sleep [Cast, Beings who hear it (1/Day)]"
+  - name: "[[Sleep]] [Cast, Beings who hear it (1/Day)]"
     desc: Unconscious (Cd6 or until awoken)
-  - name: "Charm [Cast, Beings who hear it | Will (1/Day)]"
+  - name: "[[Charm]] [Cast, Beings who hear it | Will (1/Day)]"
     desc: Charmed (until this Being drops Focus). Those Charmed this way must Move toward this Being and use their Action to obey its commands.
   - name: "Horns [Melee Attack]"
     desc: 5 (2d4)
-  - name: "Fear [Cast, Beings who hear it | Will (1/Day)]"
+  - name: "[[Fear]] [Cast, Beings who hear it | Will (1/Day)]"
     desc: Frightened (Cd4)
 abilities:
   - name: Magic Ward I

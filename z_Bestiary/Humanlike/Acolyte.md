@@ -14,9 +14,9 @@ zone: Backline
 morale: 7
 armor: "0 [as Unarmored]"
 actions:
-  - name: "Cure Wounds [Cast, Touch (Ally)] (3/Day)"
+  - name: "[[Cure]] Wounds [Cast, Touch (Ally)] (3/Day)"
     desc: Regain 3 (1d6) HP
-  - name: "Ward [Cast, Aura Near] (Focus, 1/Day)"
+  - name: "[[Ward]] [Cast, Aura Near] (Focus, 1/Day)"
     desc: Targets reduce damage by 1d6. This reduction can occur up to 2 times per Round.
   - name: "Holy Flame [Cast, Aura Near | Endure]"
     desc: 7 (2d6) and Blinded (Cd4)
@@ -50,6 +50,7 @@ tl: 1.3
 size: Medium
 type: Humanlike
 hd: 1
+hit_dice: 1d8
 hp: 4
 speed: "30'"
 zone: Backline
@@ -59,9 +60,9 @@ columns: 2
 forceColumns: true
 bestiary: true
 actions:
-  - name: "Cure Wounds [Cast, Touch (Ally)] (3/Day)"
+  - name: "[[Cure]] Wounds [Cast, Touch (Ally)] (3/Day)"
     desc: Regain 3 (1d6) HP
-  - name: "Ward [Cast, Aura Near] (Focus, 1/Day)"
+  - name: "[[Ward]] [Cast, Aura Near] (Focus, 1/Day)"
     desc: Targets reduce damage by 1d6. This reduction can occur up to 2 times per Round.
   - name: "Holy Flame [Cast, Aura Near | Endure]"
     desc: 7 (2d6) and Blinded (Cd4)

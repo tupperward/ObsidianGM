@@ -75,6 +75,7 @@ tl: 2.0
 size: Medium
 type: Fae
 hd: 3
+hit_dice: 3d8
 hp: 13
 speed: "10' (Swim 40')"
 zone: Backline

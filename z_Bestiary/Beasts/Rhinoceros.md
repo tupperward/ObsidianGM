@@ -53,6 +53,7 @@ tl: 3.6
 size: Large
 type: Beast
 hd: 8
+hit_dice: 8d8
 hp: 36
 speed: "40'"
 zone: Frontline

@@ -18,7 +18,7 @@ actions:
   - name: "Horn [Melee Attack]"
     desc: 10 (3d6)
   - name: "Stomp [Melee Attack]"
-    desc: 10 (3d6)
+    desc: "10 (3d6); Prone on Crit"
 abilities:
   - name: Rampant
     desc: "If it Moves at least 20ft in a straight line, it can automatically make one Horn Attack against anything in its path for the rest of the Turn (no Action)."
@@ -53,6 +53,7 @@ tl: 4.5
 size: Large
 type: Beast
 hd: 11
+hit_dice: 11d8
 hp: 49
 speed: "30'"
 zone: Frontline
@@ -63,7 +64,7 @@ actions:
   - name: "Horn [Melee Attack]"
     desc: 10 (3d6)
   - name: "Stomp [Melee Attack]"
-    desc: 10 (3d6)
+    desc: "10 (3d6); Prone on Crit"
 abilities:
   - name: Rampant
     desc: "If it Moves at least 20ft in a straight line, it can automatically make one Horn Attack against anything in its path for the rest of the Turn (no Action)."

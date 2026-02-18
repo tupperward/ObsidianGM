@@ -18,7 +18,7 @@ armor: "2 [as Chain]"
 actions:
   - name: "Bite [Melee Attack]"
     desc: 7 (3d4)
-  - name: "Leech [Cast, Remote | Endure]"
+  - name: "[[Leech]] [Cast, Remote | Endure]"
     desc: "3 (1d6) and Sickened (Cd6, any healing that affects it heals this Being instead)"
 abilities:
   - name: Amphibious
@@ -58,6 +58,7 @@ tl: 2.4
 size: Medium
 type: Outer (Beyonder)
 hd: 1
+hit_dice: 1d8
 hp: 4
 speed: "0' (Swim 30')"
 zone: Midline
@@ -68,7 +69,7 @@ armor: "2 [as Chain]"
 actions:
   - name: "Bite [Melee Attack]"
     desc: 7 (3d4)
-  - name: "Leech [Cast, Remote | Endure]"
+  - name: "[[Leech]] [Cast, Remote | Endure]"
     desc: "3 (1d6) and Sickened (Cd6, any healing that affects it heals this Being instead)"
 abilities:
   - name: Amphibious

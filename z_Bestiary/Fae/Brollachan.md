@@ -63,6 +63,7 @@ tl: 2.2
 size: Large
 type: Fae
 hd: 6
+hit_dice: 6d8
 hp: 27
 speed: "20' (Fly)"
 zone: Frontline

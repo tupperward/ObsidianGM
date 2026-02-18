@@ -67,6 +67,7 @@ tl: 0.7
 size: Small
 type: Primordial (Slime)
 hd: 1
+hit_dice: 1d8
 hp: 1
 speed: "5'"
 zone: Frontline

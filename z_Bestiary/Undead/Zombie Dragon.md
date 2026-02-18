@@ -73,6 +73,7 @@ tl: 9.1
 size: Huge
 type: Undead (Wyrm)
 hd: 16
+hit_dice: 16d8
 hp: 72
 speed: "20' (Fly 80')"
 zone: Frontline

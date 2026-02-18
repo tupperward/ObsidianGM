@@ -54,6 +54,7 @@ tl: 1.6
 size: Medium
 type: Primordial (Plant)
 hd: 2
+hit_dice: 2d8
 hp: 9
 speed: "10'"
 zone: Midline

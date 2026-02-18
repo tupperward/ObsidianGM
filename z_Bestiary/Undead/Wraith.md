@@ -64,6 +64,7 @@ tl: 2.7
 size: Medium
 type: Undead
 hd: 5
+hit_dice: 5d8
 hp: 22
 speed: "30' (Phase)"
 zone: Frontline

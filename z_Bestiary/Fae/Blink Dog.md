@@ -52,6 +52,7 @@ tl: 2.1
 size: Medium
 type: Fae (Beast)
 hd: 4
+hit_dice: 4d8
 hp: 18
 speed: "40' (Phase)"
 zone: Midline

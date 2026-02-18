@@ -25,7 +25,7 @@ actions:
   - name: "Hoof [Melee Attack]"
     desc: 4 (1d8)
   - name: "Horn [Melee Attack]"
-    desc: 4 (1d8)
+    desc: "4 (1d8); see Combo"
   - name: "Teleport [Cast (1/Day)]"
     desc: Teleports itself and any Being mounting it up to Far
 abilities:
@@ -71,6 +71,7 @@ tl: 4.2
 size: Large
 type: Fae (Divine)
 hd: 4
+hit_dice: 4d8
 hp: 18
 speed: "80'"
 zone: Midline
@@ -88,7 +89,7 @@ actions:
   - name: "Hoof [Melee Attack]"
     desc: 4 (1d8)
   - name: "Horn [Melee Attack]"
-    desc: 4 (1d8)
+    desc: "4 (1d8); see Combo"
   - name: "Teleport [Cast (1/Day)]"
     desc: Teleports itself and any Being mounting it up to Far
 abilities:

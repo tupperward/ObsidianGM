@@ -46,6 +46,7 @@ tl: 1.5
 size: Medium
 type: Cryptid
 hd: 2
+hit_dice: 2d8
 hp: 9
 speed: "30' (Climb)"
 zone: Backline

@@ -61,6 +61,7 @@ tl: 3.4
 size: Large
 type: Cryptid (Beast)
 hd: 6
+hit_dice: 6d8
 hp: 27
 speed: "40'"
 zone: Frontline

@@ -43,6 +43,7 @@ tl: 0.5
 size: Medium
 type: Beast
 hd: 1
+hit_dice: 1d8
 hp: 4
 speed: "50'"
 zone: Midline

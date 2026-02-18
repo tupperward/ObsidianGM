@@ -26,7 +26,7 @@ actions:
     desc: "7 (2d6) and Burning (Cd4, or Cd6 if failed as a 1)"
   - name: "Ice Knife [Cast, Bolt | Reflex (Focus)]"
     desc: 7 (2d6) and its Speed is reduced by half for the duration
-  - name: "Zap [Cast, Bolt | Reflex]"
+  - name: "[[Zap]] [Cast, Bolt | Reflex]"
     desc: "7 (2d6) and Dazed (Cd4, or Cd6 if failed as a 1)"
 abilities:
   - name: Magic Ward II
@@ -66,6 +66,7 @@ tl: 7.1
 size: Medium
 type: Humanlike
 hd: 9
+hit_dice: 9d8
 hp: 40
 speed: "30'"
 zone: Backline
@@ -84,7 +85,7 @@ actions:
     desc: "7 (2d6) and Burning (Cd4, or Cd6 if failed as a 1)"
   - name: "Ice Knife [Cast, Bolt | Reflex (Focus)]"
     desc: 7 (2d6) and its Speed is reduced by half for the duration
-  - name: "Zap [Cast, Bolt | Reflex]"
+  - name: "[[Zap]] [Cast, Bolt | Reflex]"
     desc: "7 (2d6) and Dazed (Cd4, or Cd6 if failed as a 1)"
 abilities:
   - name: Magic Ward II

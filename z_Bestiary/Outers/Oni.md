@@ -18,11 +18,11 @@ armor: "2 [as Chain]"
 actions:
   - name: "Cone of Cold [Cast, 60ft Cone | Endure (1/Day)]"
     desc: 36 (8d8)
-  - name: "Charm Person [Cast, a Remote Humanlike | Will (1/Day, Focus)]"
+  - name: "[[Charm]] Person [Cast, a Remote Humanlike | Will (1/Day, Focus)]"
     desc: Charmed
   - name: "Darkness [Cast, 20ft Sphere]"
     desc: "The Area becomes magical darkness, and snuffs out any light sources."
-  - name: "Sleep [Cast, 20ft Sphere | Endure (1/Day)]"
+  - name: "[[Sleep]] [Cast, 20ft Sphere | Endure (1/Day)]"
     desc: "Unconscious (Cd4, or woken up)"
   - name: "Gaseous Form [Cast, Touch | Endure (1/Day)]"
     desc: Turns into an incorporeal cloud of gas for the duration.
@@ -73,6 +73,7 @@ tl: 7.9
 size: Large
 type: Outer (Hellspawn)
 hd: 8
+hit_dice: 8d8
 hp: 36
 speed: "30' (Fly)"
 zone: Backline
@@ -83,11 +84,11 @@ armor: "2 [as Chain]"
 actions:
   - name: "Cone of Cold [Cast, 60ft Cone | Endure (1/Day)]"
     desc: 36 (8d8)
-  - name: "Charm Person [Cast, a Remote Humanlike | Will (1/Day, Focus)]"
+  - name: "[[Charm]] Person [Cast, a Remote Humanlike | Will (1/Day, Focus)]"
     desc: Charmed
   - name: "Darkness [Cast, 20ft Sphere]"
     desc: "The Area becomes magical darkness, and snuffs out any light sources."
-  - name: "Sleep [Cast, 20ft Sphere | Endure (1/Day)]"
+  - name: "[[Sleep]] [Cast, 20ft Sphere | Endure (1/Day)]"
     desc: "Unconscious (Cd4, or woken up)"
   - name: "Gaseous Form [Cast, Touch | Endure (1/Day)]"
     desc: Turns into an incorporeal cloud of gas for the duration.

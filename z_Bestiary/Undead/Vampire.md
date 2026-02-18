@@ -76,6 +76,7 @@ tl: 6.7
 size: Medium
 type: Undead (Shapechanger)
 hd: 8
+hit_dice: 8d8
 hp: 36
 speed: "35' (Fly 30')"
 zone: Midline

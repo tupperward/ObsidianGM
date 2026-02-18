@@ -43,6 +43,7 @@ tl: 2.6
 size: Huge
 type: Beast
 hd: 3
+hit_dice: 3d8
 hp: 13
 speed: "10' (Fly 60')"
 zone: Midline

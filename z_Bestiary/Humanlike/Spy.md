@@ -54,6 +54,7 @@ tl: 1.5
 size: Medium
 type: Humanlike
 hd: 1
+hit_dice: 1d8
 hp: 4
 speed: "35'"
 zone: Midline

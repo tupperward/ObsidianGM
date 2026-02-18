@@ -66,6 +66,7 @@ tl: 5.7
 size: Large
 type: Primordial (Djinn)
 hd: 10
+hit_dice: 10d8
 hp: 45
 speed: "30' (Fly 80')"
 zone: Frontline

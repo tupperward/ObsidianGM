@@ -64,6 +64,7 @@ tl: 2.2
 size: Medium
 type: Artificial (Undead)
 hd: 5
+hit_dice: 5d8
 hp: 22
 speed: "30'"
 zone: Frontline

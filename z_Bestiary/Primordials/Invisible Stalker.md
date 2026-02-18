@@ -56,6 +56,7 @@ tl: 4.1
 size: Medium
 type: Primordial
 hd: 8
+hit_dice: 8d8
 hp: 36
 speed: "40'"
 zone: Frontline

@@ -51,6 +51,7 @@ tl: 1.0
 size: Small
 type: Undead
 hd: 2
+hit_dice: 2d8
 hp: 2
 speed: "25'"
 zone: Frontline

@@ -19,7 +19,7 @@ immune: Physical
 weak: Cold Iron Weapons
 status_immunities: "Charmed, Fatigue, Paralyzed, Prone, Restrained, Sickened, Suffocating"
 actions:
-  - name: "Life Zap [Cast, Touch | Endure]"
+  - name: "[[Life]] [[Zap]] [Cast, Touch | Endure]"
     desc: "5 (1d10), healing this Being for the damage dealt"
   - name: "Dissipate [Cast, Self (Focus)]"
     desc: Invisible for the duration.
@@ -76,6 +76,7 @@ tl: 3.6
 size: Small
 type: Fae
 hd: 6
+hit_dice: 6d8
 hp: 27
 speed: "0' (Fly 50', Phase)"
 zone: Backline
@@ -87,7 +88,7 @@ immune: Physical
 weak: Cold Iron Weapons
 status_immunities: "Charmed, Fatigue, Paralyzed, Prone, Restrained, Sickened, Suffocating"
 actions:
-  - name: "Life Zap [Cast, Touch | Endure]"
+  - name: "[[Life]] [[Zap]] [Cast, Touch | Endure]"
     desc: "5 (1d10), healing this Being for the damage dealt"
   - name: "Dissipate [Cast, Self (Focus)]"
     desc: Invisible for the duration.

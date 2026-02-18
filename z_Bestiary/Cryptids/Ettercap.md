@@ -55,6 +55,7 @@ tl: 2.1
 size: Medium
 type: Cryptid
 hd: 4
+hit_dice: 4d8
 hp: 18
 speed: "40' (Cling)"
 zone: Frontline

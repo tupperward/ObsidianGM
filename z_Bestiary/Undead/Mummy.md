@@ -67,6 +67,7 @@ tl: 2.8
 size: Medium
 type: Undead
 hd: 6
+hit_dice: 6d8
 hp: 27
 speed: "25'"
 zone: Midline

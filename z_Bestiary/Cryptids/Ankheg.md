@@ -58,6 +58,7 @@ tl: 5.1
 size: Large
 type: Cryptid
 hd: 5
+hit_dice: 5d8
 hp: 22
 speed: "40'"
 zone: Frontline

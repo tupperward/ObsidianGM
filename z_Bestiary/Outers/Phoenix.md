@@ -77,6 +77,7 @@ tl: 10.5
 size: Giant
 type: Outer (Divine)
 hd: 20
+hit_dice: 20d8
 hp: 90
 speed: "50' (Fly 150')"
 zone: Backline

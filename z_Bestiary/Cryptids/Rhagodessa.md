@@ -51,6 +51,7 @@ tl: 3.0
 size: Large
 type: Cryptid (Beast)
 hd: 4
+hit_dice: 4d8
 hp: 20
 speed: "50' (Cling)"
 zone: Frontline

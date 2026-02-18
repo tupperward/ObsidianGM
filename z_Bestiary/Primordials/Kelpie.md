@@ -58,6 +58,7 @@ tl: 2.4
 size: Medium
 type: Primordial (Shapechanger)
 hd: 5
+hit_dice: 5d8
 hp: 22
 speed: "30' (Swim)"
 zone: Backline

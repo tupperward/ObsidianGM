@@ -24,7 +24,7 @@ actions:
     desc: "Frightened (Cd4, and Dazed if within Near)"
   - name: "Claw [Melee Attack]"
     desc: 7 (2d6)
-  - name: "Dispel Magic [Cast, Remote | Will (2/Day)]"
+  - name: "[[Dispel]] Magic [Cast, Remote | Will (2/Day)]"
     desc: A magic effect of its choice is dispelled or suspended for 2d6 hours if it is a Curse or Relic Power
 abilities:
   - name: Future Sight
@@ -68,6 +68,7 @@ tl: 5.7
 size: Large
 type: Outer (Beyonder)
 hd: 12
+hit_dice: 12d8
 hp: 54
 speed: "60' (Fly 120')"
 zone: Frontline
@@ -84,7 +85,7 @@ actions:
     desc: "Frightened (Cd4, and Dazed if within Near)"
   - name: "Claw [Melee Attack]"
     desc: 7 (2d6)
-  - name: "Dispel Magic [Cast, Remote | Will (2/Day)]"
+  - name: "[[Dispel]] Magic [Cast, Remote | Will (2/Day)]"
     desc: A magic effect of its choice is dispelled or suspended for 2d6 hours if it is a Curse or Relic Power
 abilities:
   - name: Future Sight

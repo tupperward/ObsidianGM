@@ -64,6 +64,7 @@ tl: 1.0
 size: Small
 type: Outer (Hellspawn)
 hd: 1
+hit_dice: 1d8
 hp: 1
 speed: "5' (Fly 30')"
 zone: Midline

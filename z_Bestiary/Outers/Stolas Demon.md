@@ -66,6 +66,7 @@ tl: 11.2
 size: Giant
 type: Outer (Hellspawn)
 hd: 27
+hit_dice: 27d8
 hp: 121
 speed: "40' (Cling; Fly 160')"
 zone: Frontline

@@ -53,6 +53,7 @@ tl: 3.8
 size: Medium
 type: Outer (Divine)
 hd: 9
+hit_dice: 9d8
 hp: 40
 speed: "20' (Fly 60')"
 zone: Backline

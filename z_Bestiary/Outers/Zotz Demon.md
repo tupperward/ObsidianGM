@@ -65,6 +65,7 @@ tl: 9.2
 size: Huge
 type: Outer (Hellspawn)
 hd: 14
+hit_dice: 14d8
 hp: 63
 speed: "20' (Fly 80')"
 zone: Frontline

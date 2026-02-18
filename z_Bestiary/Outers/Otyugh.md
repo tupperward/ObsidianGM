@@ -62,6 +62,7 @@ tl: 4.6
 size: Large
 type: Outer (Beyonder)
 hd: 6
+hit_dice: 6d8
 hp: 27
 speed: "30'"
 zone: Frontline

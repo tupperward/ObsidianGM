@@ -16,7 +16,7 @@ appearing: "4 (1d8)"
 armor: "4 — (+1) Plate"
 weak: "Fire, Poison; Damage from axes"
 actions:
-  - name: "Animate Trees [Cast, a tree in Far] (Focus)"
+  - name: "[[Animate]] Trees [Cast, a tree in Far] (Focus)"
     desc: "The tree acts as a Treant, though it has a Speed of 10' and doesn't have this Animate Trees Action."
   - name: Combo
     desc: 2×Slams
@@ -51,6 +51,7 @@ tl: 5.3
 size: Huge
 type: Primordial (Plant)
 hd: 8
+hit_dice: 8d8
 hp: 36
 speed: "20'"
 zone: Frontline
@@ -62,7 +63,7 @@ columns: 2
 forceColumns: true
 bestiary: true
 actions:
-  - name: "Animate Trees [Cast, a tree in Far] (Focus)"
+  - name: "[[Animate]] Trees [Cast, a tree in Far] (Focus)"
     desc: "The tree acts as a Treant, though it has a Speed of 10' and doesn't have this Animate Trees Action."
   - name: Combo
     desc: 2×Slams

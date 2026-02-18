@@ -57,6 +57,7 @@ tl: 2.6
 size: Medium
 type: Fae (Shapechanger)
 hd: 4
+hit_dice: 4d8
 hp: 18
 speed: "30'"
 zone: Frontline

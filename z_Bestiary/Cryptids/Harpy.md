@@ -49,6 +49,7 @@ tl: 1.5
 size: Medium
 type: Cryptid
 hd: 3
+hit_dice: 3d8
 hp: 13
 speed: "10' (Fly 30')"
 zone: Frontline

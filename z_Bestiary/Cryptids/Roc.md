@@ -58,6 +58,7 @@ tl: 11.4
 size: Colossal
 type: Cryptid (Beast)
 hd: 36
+hit_dice: 36d8
 hp: 162
 speed: "20' (Fly 160')"
 zone: Frontline

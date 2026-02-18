@@ -62,6 +62,7 @@ tl: 1.6
 size: Large
 type: Primordial (Slime)
 hd: 6
+hit_dice: 6d8
 hp: 27
 speed: "0' (Fly 20')"
 zone: Frontline
