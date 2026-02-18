@@ -98,9 +98,46 @@
   "playerMarker": "default",
   "monsterMarker": "default",
   "state": {
-    "creatures": [],
+    "creatures": [
+      {
+        "name": "Goblin",
+        "initiative": 4,
+        "static": false,
+        "modifier": 0,
+        "hp": 4,
+        "currentMaxHP": 4,
+        "path": "z_Bestiary/Cryptids/Goblin.md",
+        "id": "ID_2a5a8a5bf8fb",
+        "currentHP": 4,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "rollHP": false
+      },
+      {
+        "name": "Owl Bear",
+        "initiative": 7,
+        "static": false,
+        "modifier": 0,
+        "hp": 22,
+        "currentMaxHP": 22,
+        "path": "z_Bestiary/Cryptids/Owl Bear.md",
+        "id": "ID_6ae9581baa2b",
+        "currentHP": 22,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "rollHP": false
+      }
+    ],
     "state": false,
-    "name": null,
+    "name": "Encounter",
     "round": 1,
     "logFile": "",
     "rollHP": false

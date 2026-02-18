@@ -31,20 +31,25 @@ Roll: `dice: 1d6`
 Roll: `dice: 1d6`
 Determine Random Encounters by rolling a number of d6s equal to 1 + the number of filled Progress Clocks. An Encounter occurs on a roll of 1 on any of the dice.
 
-| xd6 | Encounter |
-|:---:|---|
-| 1-2 | d6 Poteads [S] (p. 122) |
-| 3-4 | d2 Rust Monsters (p. 148) |
-| 5-6 | d4 Goblin Warriors (p. 141); Goblin Mage |
-| 7-8 | Bugbear (p. 135); d4 Goblin Warriors |
-| 9-10 | d4 Skeletons (p. 179) |
-| 11 | Ogre (p. 145) |
-| 12 | Grey Ooze (p. 173) |
-| 13 | d6 Floating Eye (p. 161) |
-| 14-15 | d2 Ochre Jellies (p. 174) |
-| 16-17 | Owl Bear (p. 145) |
-| 18+ | See: Confrontation (next page) |
-
+|  xd6  | Encounter                                    |
+| :---: | -------------------------------------------- |
+|  1-2  | d6 [[Potead, Small]] (p. 122)                |
+|  3-4  | d2 [[Rust Monster]]s (p. 148)                |
+|  5-6  | d4 [[Goblin]] Warriors (p. 141); Goblin Mage |
+|  7-8  | [[Bugbear]] (p. 135); d4 [[Goblin]] Warriors |
+| 9-10  | d4 [[Skeletons]] (p. 179)                    |
+|  11   | [[Ogre]] (p. 145)                            |
+|  12   | [[Grey Ooze]] (p. 173)                       |
+|  13   | d6 [[Floating Eye]] (p. 161)                 |
+| 14-15 | d2 [[Ochre Jellies]] (p. 174)                |
+| 16-17 | [[Owl Bear]] (p. 145)                        |
+|  18+  | See: Confrontation (next page)               |
+```encounter
+creatures:
+  - Goblin
+  - Owl Bear
+  - 
+```
 ### Event
 Roll: `dice: 2d6`
 
@@ -90,3 +95,17 @@ Roll: `dice: 2d6`
 | 10 | 3d6g and a (+1) Enchant Scroll |
 | 11 | Jade amulet worth 50g |
 | 12 | Diamond worth 100g |
+### CONFRONTATION
+
+```ad-quote
+The door opens to reveal a chamber lined with grotesque tissue and a massive, glowing heart. As it beats, you see a surge of arcane energy from a crack in the floor below as a leyline feeds into the heart.
+```
+
+### RESOLUTION
+
+When the dungeonheart is destroyed, the ruins freeze in their current form and the cycle of shifting ends. The town of Llerirell likely has mixed reactions to this happening, but the Heroes will most surely go down as legends for toppling such a renowned delve.
+
+```ad-important
+󰯈 Heart: 1 [[Dungeonheart]] (p. 118)
+󰙴 Leyline: Grants Favor to Cast Checks in the area and those with Mana regain 1 Mana at the start of their Turns.
+```
