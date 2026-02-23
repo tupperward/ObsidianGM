@@ -2,24 +2,24 @@
 cssclasses:
   - hero-record
 layout: Hero Record
-name: ""
+name: Llewyn Davis
 type: Humanlike
-ancestry: ""
-class: ""
+ancestry: "[[Elf]]"
+class: "[[Gunslinger]]"
 level: 1
 xp: 0
 might: 2
-dexterity: 2
-awareness: 2
-reason: 2
-presence: 2
-luck: 2
+dexterity: 7
+awareness: 4
+reason: 4
+presence: 4
+luck: 4
 hp: 0
-hp_max: 0
+hp_max: 3
 armor: 0
-speed: 25'
+speed: 35'
 fatigue: 0
-current_luck: 2
+current_luck: 4
 trained_melee: false
 trained_ranged: false
 trained_arcana: false
@@ -35,8 +35,6 @@ trained_performance: false
 trained_sneak: false
 trained_survival: false
 ---
-<div class="hr-box">
-
 # `= this.name`
 *`= this.ancestry` · `= this.class` · Level `= this.level`*
 ---
@@ -63,13 +61,26 @@ trained_survival: false
 |:---:|:---:|:---:|:---:|
 | `= choice(this.trained_melee, 20 - this.might * 2, 20 - this.might)` | `= choice(this.trained_ranged, 20 - this.awareness * 2, 20 - this.awareness)` | `= choice(this.trained_brawl, 20 - this.might * 2, 20 - this.might)` | `= choice(this.trained_finesse, 20 - this.dexterity * 2, 20 - this.dexterity)` |
 
-</div>
+---
+## Attacks
+
+| Weapon | Grip | Damage | Properties |
+| ------ | ---- | ------ | ---------- |
+|        |      |        |            |
 
 ---
-## Weapons
-
+## Perks
+- 
+---
 ## Abilities
-
+-
+---
 ## Magic
 
+---
 ## Inventory
+Max Slots: `=this.might + 8`
+
+| Item | Slots |
+| ---- | ----- |
+|      |       |

@@ -6,21 +6,21 @@ In Guided play, GMs control Enemies. Enemies have a sequence of prioritized Acti
 
 ### NPC Distance
 
-| d6 | Distance from You |
-|----|-------------------|
-| 1 | Close |
-| 2-4 | Near |
-| 5-6 | Far, if possible |
+| `dice: 1d6` | Distance from You |
+| ----------- | ----------------- |
+| 1           | Close             |
+| 2-4         | Near              |
+| 5-6         | Far, if possible  |
 
 ### NPC Reaction
 
-| 2d6 | Reaction |
-|-----|----------|
-| 2-3 | Violent, attacks immediately |
-| 4-6 | Hostile, likely to attack |
-| 7-9 | Untrusting, possibly confused |
-| 10-11 | Neutral, open to leaving peacefully |
-| 12+ | Friendly, willing to become an Ally |
+| `dice: 2d6` | Reaction                            |
+| ----------- | ----------------------------------- |
+| 2-3         | Violent, attacks immediately        |
+| 4-6         | Hostile, likely to attack           |
+| 7-9         | Untrusting, possibly confused       |
+| 10-11       | Neutral, open to leaving peacefully |
+| 12+         | Friendly, willing to become an Ally |
 
 You can also use the Reaction table when determining if you convince an Enemy to end [[Combat]] or for other interactions, adding the Hero's Presence to the 2d6 roll on a passed [[Influence]] Check.
 

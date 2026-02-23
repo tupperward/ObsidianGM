@@ -1,19 +1,18 @@
 /* Hero Record Form Styling — scoped to hero-record cssclass */
 
-/* ── Gold border frame around the note ── */
-.hero-record .markdown-preview-sizer,
-.hero-record .cm-sizer {
+/* ── Gold border — wraps only the stat block div ── */
+.hero-record .hr-box {
   border: 3px solid #dbc906;
   border-radius: 4px;
-  padding: 1.2em 1.5em;
-  margin: 0.5em;
+  padding: 0.8em 1.2em;
+  margin: 0.5em 0;
 }
 
-/* ── Blue horizontal rules between sections ── */
+/* ── Blue horizontal rules ── */
 .hero-record hr {
   border: none;
   border-top: 2px solid #1c65c4;
-  margin: 0.8em 0;
+  margin: 0.4em 0;
 }
 
 /* ── Section headings ── */
@@ -21,10 +20,10 @@
 .hero-record .markdown-preview-view h2,
 .hero-record .HyperMD-header-2 {
   font-family: "Eskapade Fraktur", "UnifrakturMaguntia", serif !important;
-  font-size: 1.3em;
+  font-size: 1.1em;
   font-weight: 900;
-  margin-bottom: 0.3em;
-  margin-top: 0.2em;
+  margin-bottom: 0.2em;
+  margin-top: 0.4em;
 }
 
 /* ── Character name heading ── */
@@ -32,13 +31,13 @@
 .hero-record .markdown-preview-view h1,
 .hero-record .HyperMD-header-1 {
   font-family: "Eskapade Fraktur", "UnifrakturMaguntia", serif !important;
-  font-size: 2em;
+  font-size: 1.6em;
   font-weight: 900;
   text-align: center;
   margin-bottom: 0;
 }
 
-/* ── Identity subtitle line ── */
+/* ── Subtitle line ── */
 .hero-record .markdown-preview-view p > em:first-child,
 .hero-record .cm-em {
   display: block;
@@ -51,134 +50,41 @@
 .hero-record table {
   width: 100%;
   border-collapse: collapse;
-  margin: 0.3em 0;
+  margin: 0.2em 0;
 }
 
 .hero-record th,
 .hero-record td {
-  padding: 0.2em 0.5em;
+  padding: 0.15em 0.4em;
   border: 1px solid #ccc;
   vertical-align: middle;
   font-family: "OldTypefaces", "Palatino Linotype", Palatino, Georgia, serif;
+  font-size: 0.9em;
 }
 
 .hero-record th {
   font-family: "Eskapade Fraktur", "UnifrakturMaguntia", serif !important;
   font-weight: 900;
-  font-size: 1.05em;
+  font-size: 1em;
   background-color: rgba(28, 101, 196, 0.08);
   text-align: center;
 }
 
-/* ── Label cells (bold text in td) ── */
-.hero-record td strong {
-  white-space: nowrap;
-}
-
-/* ── Meta Bind number inputs — narrow ── */
-.hero-record .meta-bind-plugin-input-wrapper input[type="number"],
-.hero-record input[type="number"] {
-  width: 4ch;
-  text-align: center;
-  padding: 0.1em 0.2em;
-  font-family: "OldTypefaces", "Palatino Linotype", Palatino, Georgia, serif;
-  font-size: 1em;
-  border: 1px solid #aaa;
-  border-radius: 2px;
-  background: transparent;
-}
-
-/* ── Meta Bind text inputs — wider ── */
-.hero-record .meta-bind-plugin-input-wrapper input[type="text"],
-.hero-record input[type="text"] {
-  width: 100%;
-  max-width: 16ch;
-  padding: 0.1em 0.3em;
-  font-family: "OldTypefaces", "Palatino Linotype", Palatino, Georgia, serif;
-  font-size: 1em;
-  border: 1px solid #aaa;
-  border-radius: 2px;
-  background: transparent;
-}
-
-/* ── Skills table — trained toggle column narrow ── */
-.hero-record table:has(th:nth-child(6)) th:nth-child(2),
-.hero-record table:has(th:nth-child(6)) th:nth-child(5),
-.hero-record table:has(th:nth-child(6)) td:nth-child(2),
-.hero-record table:has(th:nth-child(6)) td:nth-child(5) {
-  width: 2.5em;
-  text-align: center;
-  padding: 0.1em;
-}
-
-/* ── Stat table — equal columns, centered ── */
-.hero-record table:has(th:first-child:nth-last-child(6)) td {
-  text-align: center;
-  width: 16.66%;
-}
-
-/* ── Saves table — equal columns, centered ── */
-.hero-record table:has(th:first-child:nth-last-child(3)) td {
-  text-align: center;
-  width: 33.33%;
-}
-
-/* ── Attacks table — equal columns, centered ── */
-.hero-record table:has(th:first-child:nth-last-child(4)):not(:has(td:nth-child(4) strong)) td {
-  text-align: center;
-  width: 25%;
-}
-
-/* ── Skills table — alternating label/value columns ── */
-.hero-record table:has(th:first-child:nth-last-child(4):nth-child(1)) td:nth-child(odd) {
-  width: 20%;
-  white-space: nowrap;
-}
-
-.hero-record table:has(th:first-child:nth-last-child(4):nth-child(1)) td:nth-child(even) {
-  width: 30%;
+.hero-record td {
   text-align: center;
 }
 
-/* ── VIEW calculated values — distinct styling ── */
-.hero-record .meta-bind-plugin-view-wrapper,
-.hero-record .meta-bind-plugin-view {
-  font-weight: 700;
-  color: #1c65c4;
-  background-color: rgba(28, 101, 196, 0.06);
-  padding: 0.1em 0.4em;
-  border-radius: 3px;
-  font-family: "OldTypefaces", "Palatino Linotype", Palatino, Georgia, serif;
+.hero-record td:first-child {
+  text-align: left;
 }
 
-/* ── TextArea inputs — fill parent container ── */
-.hero-record .meta-bind-plugin-input-wrapper textarea,
-.hero-record textarea {
-  width: 100%;
-  min-height: 8em;
-  padding: 0.4em;
-  font-family: "OldTypefaces", "Palatino Linotype", Palatino, Georgia, serif;
-  font-size: 1em;
-  border: 1px solid #aaa;
-  border-radius: 2px;
-  background: transparent;
-  resize: vertical;
-  box-sizing: border-box;
-}
-
-/* ── HP / Mana slash separator ── */
-.hero-record td .meta-bind-plugin-input-wrapper + .meta-bind-plugin-input-wrapper {
-  margin-left: 0;
-}
-
-/* ── Remove default table stripes if theme adds them ── */
+/* ── Remove default table stripes ── */
 .hero-record tr:nth-child(even) {
   background: transparent;
 }
 
 /* ── Dark theme overrides ── */
-.theme-dark .hero-record .markdown-preview-sizer,
-.theme-dark .hero-record .cm-sizer {
+.theme-dark .hero-record .hr-box {
   border-color: #b8a206;
 }
 
@@ -192,18 +98,6 @@
 
 .theme-dark .hero-record hr {
   border-top-color: #3a7ae0;
-}
-
-.theme-dark .hero-record input[type="number"],
-.theme-dark .hero-record input[type="text"] {
-  border-color: #666;
-  color: #d4d4d4;
-}
-
-.theme-dark .hero-record .meta-bind-plugin-view-wrapper,
-.theme-dark .hero-record .meta-bind-plugin-view {
-  color: #5a9cf5;
-  background-color: rgba(90, 156, 245, 0.1);
 }
 
 .theme-dark .hero-record .markdown-preview-view p > em:first-child {

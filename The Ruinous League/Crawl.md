@@ -5,8 +5,6 @@ type: quest
 
 To begin, draw a stairway leading down to the ruins and a 20'-by-20' square room with 3 doors in any direction.
 
-`clock 1 / 6`
-
 ![[Dungeon Map]]
 
 ### Unexplored Areas
@@ -16,6 +14,7 @@ Follow these steps when moving to new areas:
 2. Roll to determine Encounters.
 3. If no Encounter occurs, roll Event.
 
+`clock 0/6`
 ### Elements
 Roll: `dice: 1d6`
 
@@ -33,7 +32,7 @@ Determine Random Encounters by rolling a number of d6s equal to 1 + the number o
 
 |  xd6  | Encounter                                             |
 | :---: | ----------------------------------------------------- |
-|  1-2  | `dice: 1d6` [[Small Potead]] (p. 122)                |
+|  1-2  | `dice: 1d6` [[Small Potead]] (p. 122)                 |
 |  3-4  | `dice: 1d2` [[Rust Monster]]s (p. 148)                |
 |  5-6  | `dice: 1d4` [[Goblin]] Warriors (p. 141); Goblin Mage |
 |  7-8  | [[Bugbear]] (p. 135); `dice: 1d4` [[Goblin]] Warriors |
@@ -44,20 +43,50 @@ Determine Random Encounters by rolling a number of d6s equal to 1 + the number o
 | 14-15 | `dice: 1d2` [[Ochre Jellies]] (p. 174)                |
 | 16-17 | [[Owl Bear]] (p. 145)                                 |
 |  18+  | See: Confrontation (next page)                        |
-```encounter
+|       |                                                       |
+```encounter-table
+name: Kitchen Staff
 creatures:
-  - Goblin
-  - 
-  - Grove Hag
-  - Unicorn
-  - Ghoul
-  - Triceratops
-  - Achaierai
-  - Small Potead
-  - Giant Spider
-  - Bone Golem
-  - 
-  - Kobold 
+- 1d6: Small Potead
+---
+name: Ferrous Hunger
+creatures:
+- 1d2: Rust Monster
+---
+name: Goblin Party w/ Mage
+creatures:
+- 1d4: Goblin
+- Goblin
+---
+name: Goblin Party w/ Bugbear
+creatures:
+- 1d4: Goblin
+- Bugbear
+---
+name: The Bones Are Their Money
+creatures:
+- 1d4: Skeleton
+---
+name: Ogre
+creatures:
+- Ogre
+--- 
+name: Grey Ooze
+creatures:
+- Grey Ooze
+---
+name: Keese Attack
+creatures:
+- 1d6: Floating Eye
+---
+name: Ochre Jellies
+creatures:
+- 1d2: Ochre Jellies
+---
+name: Owl Bear
+creatures:
+- Owl Bear
+---
 ```
 ### Event
 Roll: `dice: 2d6`

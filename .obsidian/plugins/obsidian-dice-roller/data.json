@@ -101,6 +101,41 @@
       "resultText": "1d8\n[3]",
       "timestamp": 1771427024750,
       "id": "f3ktUXo5-jrz"
+    },
+    {
+      "result": "2",
+      "original": "1d6",
+      "resultText": "1d6\n[2]",
+      "timestamp": 1771474805692,
+      "id": "Bw-LzPFWFu79"
+    },
+    {
+      "result": "4",
+      "original": "1d6",
+      "resultText": "1d6\n[4]",
+      "timestamp": 1771474810731,
+      "id": "xiFctghcd8c0"
+    },
+    {
+      "result": "7",
+      "original": "1d8",
+      "resultText": "1d8\n[7]",
+      "timestamp": 1771474835750,
+      "id": "ptBOEGs79Jo_"
+    },
+    {
+      "result": "11",
+      "original": "1d12",
+      "resultText": "1d12\n[11]",
+      "timestamp": 1771474922445,
+      "id": "WoT7SHYR4yM2"
+    },
+    {
+      "result": "8",
+      "original": "1d12",
+      "resultText": "1d12\n[8]",
+      "timestamp": 1771474928772,
+      "id": "Tzfd9bmWcv0h"
     }
   ]
 }
