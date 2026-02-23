@@ -5,10 +5,10 @@ layout: Vagabond
 name: "Bonescythe Sliver"
 tl: 2.7
 size: Medium
-type: Beast
+type: Sliver
 hd: 2
 hp: 9
-speed: "30'"
+speed: "25'"
 zone: Frontline
 morale: 7
 appearing: 1
@@ -23,7 +23,7 @@ actions:
     desc: 0 (1d6)
 abilities:
   - name: "Bonescythe Sweep"
-    desc: "All Slivers within 30' have: 'Combo: 3x Claw'"
+    desc: "All Slivers within 25' have: 'Combo: 3x Claw'"
 columns: 2
 forceColumns: true
 bestiary: true
@@ -32,7 +32,7 @@ bestiary: true
 **TL**: 0
 
 **HD**: 1 (0 HP)
-**Speed:** 30'
+**Speed:** 25'
 **Zone**: Frontline
 **Morale:** 7
 **\# Appearing:** 1
@@ -51,10 +51,10 @@ layout: Vagabond
 name: "Bonescythe Sliver"
 tl: 2.7
 size: Medium
-type: Beast
+type: Sliver
 hd: 1
 hp: 0
-speed: "30'"
+speed: "25'"
 zone: Frontline
 morale: 7
 appearing: 1
@@ -69,7 +69,7 @@ actions:
     desc: 0 (1d6)
 abilities:
   - name: "Bonescythe Sweep"
-    desc: "All Slivers within 30' have: 'Combo: 3x Claw'"
+    desc: "All Slivers within 25' have: 'Combo: 3x Claw'"
 columns: 2
 forceColumns: true
 bestiary: true

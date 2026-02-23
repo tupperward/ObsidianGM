@@ -5,10 +5,10 @@ layout: Vagabond
 name: "Galerider Sliver"
 tl: 0.6
 size: Medium
-type: Beast
+type: Sliver
 hd: 1
 hp: 4
-speed: "30'"
+speed: "25'"
 zone: Midline
 morale: 6
 appearing: 1
@@ -22,7 +22,7 @@ actions:
     desc: 0 (1d6)
 abilities:
   - name: "Swarm"
-    desc: "All Slivers within 30' have: 'Speed: Fly (same)')"
+    desc: "All Slivers within 25' have: 'Speed: Fly (same)')"
 columns: 2
 forceColumns: true
 bestiary: true
@@ -31,7 +31,7 @@ bestiary: true
 **TL**: 0
 
 **HD**: 1 (0 HP)
-**Speed:** 30'
+**Speed:** 25'
 **Zone**: Frontline
 **Morale:** 7
 **\# Appearing:** 1
@@ -50,10 +50,10 @@ layout: Vagabond
 name: "Galerider Sliver"
 tl: 0.6
 size: Medium
-type: Beast
+type: Sliver
 hd: 1
 hp: 4
-speed: "30'"
+speed: "25'"
 zone: Midline
 morale: 6
 appearing: 1
@@ -67,7 +67,7 @@ actions:
     desc: 0 (1d6)
 abilities:
   - name: "Swarm"
-    desc: "All Slivers within 30' have: 'Speed: Fly (same)')"
+    desc: "All Slivers within 25' have: 'Speed: Fly (same)')"
 columns: 2
 forceColumns: true
 bestiary: true

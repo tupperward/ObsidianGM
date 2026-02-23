@@ -5,10 +5,10 @@ layout: Vagabond
 name: "Leeching Sliver"
 tl: 0.9
 size: Medium
-type: Beast
+type: Sliver
 hd: 1
 hp: 4
-speed: "30'"
+speed: "25'"
 zone: Frontline
 morale: 6
 appearing: 1
@@ -22,7 +22,7 @@ actions:
     desc: 0 (1d6+1d4)
 abilities:
   - name: "Acid Strike"
-    desc: "All slivers within 30' have: 'Claws deal 2 (1d4) acid damage"
+    desc: "All slivers within 25' have: 'Claws deal 2 (1d4) acid damage"
 columns: 2
 forceColumns: true
 bestiary: true
@@ -31,7 +31,7 @@ bestiary: true
 **TL**: 0
 
 **HD**: 1 (0 HP)
-**Speed:** 30'
+**Speed:** 25'
 **Zone**: Frontline
 **Morale:** 7
 **\# Appearing:** 1
@@ -50,10 +50,10 @@ layout: Vagabond
 name: "Leeching Sliver"
 tl: 0.9
 size: Medium
-type: Beast
+type: Sliver
 hd: 1
 hp: 4
-speed: "30'"
+speed: "25'"
 zone: Frontline
 morale: 6
 appearing: 1
@@ -67,7 +67,7 @@ actions:
     desc: 0 (1d6+1d4)
 abilities:
   - name: "Acid Strike"
-    desc: "All slivers within 30' have: 'Claws deal 2 (1d4) acid damage"
+    desc: "All slivers within 25' have: 'Claws deal 2 (1d4) acid damage"
 columns: 2
 forceColumns: true
 bestiary: true

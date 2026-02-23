@@ -5,10 +5,10 @@ layout: Vagabond
 name: "Striking Sliver"
 tl: 0.6
 size: Medium
-type: Beast
+type: Sliver
 hd: 1
 hp: 0
-speed: "30'"
+speed: "25'"
 zone: Frontline
 morale: 7
 appearing: 1
@@ -31,7 +31,7 @@ bestiary: true
 **TL**: 0
 
 **HD**: 1 (0 HP)
-**Speed:** 30'
+**Speed:** 25'
 **Zone**: Frontline
 **Morale:** 7
 **\# Appearing:** 1
@@ -50,10 +50,10 @@ layout: Vagabond
 name: ""
 tl: 0
 size: Medium
-type: Beast
+type: Sliver
 hd: 1
 hp: 0
-speed: "30'"
+speed: "25'"
 zone: Frontline
 morale: 7
 appearing: 1

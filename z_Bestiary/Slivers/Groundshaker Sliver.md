@@ -5,10 +5,10 @@ layout: Vagabond
 name: "Groundshaker Sliver"
 tl: 1.6
 size: Large
-type: Beast
+type: Sliver
 hd: 4
 hp: 18
-speed: "30'"
+speed: "25'"
 zone: Frontline
 morale: 7
 appearing: 1
@@ -22,7 +22,7 @@ actions:
     desc: 0 (1d6)
 abilities:
   - name: "Craterclaws"
-    desc: "All Slivers within 30' have: 'HD: 4 (18HP) and Size: Large"
+    desc: "All Slivers within 25' have: 'HD: 4 (18HP) and Size: Large"
 columns: 2
 forceColumns: true
 bestiary: true
@@ -31,7 +31,7 @@ bestiary: true
 **TL**: 0
 
 **HD**: 1 (0 HP)
-**Speed:** 30'
+**Speed:** 25'
 **Zone**: Frontline
 **Morale:** 7
 **\# Appearing:** 1
@@ -50,10 +50,10 @@ layout: Vagabond
 name: "Groundshaker Sliver"
 tl: 1.6
 size: Large
-type: Beast
+type: Sliver
 hd: 4
 hp: 18
-speed: "30'"
+speed: "25'"
 zone: Frontline
 morale: 7
 appearing: 1
@@ -67,7 +67,7 @@ actions:
     desc: 0 (1d6)
 abilities:
   - name: "Craterclaws"
-    desc: "All Slivers within 30' have: 'HD: 4 (18HP) and Size: Large"
+    desc: "All Slivers within 25' have: 'HD: 4 (18HP) and Size: Large"
 columns: 2
 forceColumns: true
 bestiary: true
