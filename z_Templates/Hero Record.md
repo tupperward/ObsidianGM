@@ -5,7 +5,7 @@ layout: Hero Record
 name: ""
 type: Humanlike
 ancestry: ""
-class: ""
+hero_class: ""
 level: 1
 xp: 0
 might: 2
@@ -35,12 +35,11 @@ trained_performance: false
 trained_sneak: false
 trained_survival: false
 ---
-<div class="hr-box">
 
 # `= this.name`
-*`= this.ancestry` · `= this.class` · Level `= this.level`*
+*`= this.ancestry` · `= this.hero_class` · Level `= this.level`*
 ---
-**HP** `= this.hp`/`= this.hp_max` · **Armor** `= this.armor` · **Speed** `= this.speed` · **Fatigue** `= this.fatigue` · **Luck** `= this.current_luck`/`= this.luck`
+**HP** 0/`= this.hp_max` · **Armor** `= this.armor` · **Speed** `= this.speed` · **Fatigue** 0 · **Luck** 0/`= this.luck`
 
 | MIT | DEX | AWR | RSN | PRS | LCK |
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -63,10 +62,10 @@ trained_survival: false
 |:---:|:---:|:---:|:---:|
 | `= choice(this.trained_melee, 20 - this.might * 2, 20 - this.might)` | `= choice(this.trained_ranged, 20 - this.awareness * 2, 20 - this.awareness)` | `= choice(this.trained_brawl, 20 - this.might * 2, 20 - this.might)` | `= choice(this.trained_finesse, 20 - this.dexterity * 2, 20 - this.dexterity)` |
 
-</div>
-
 ---
 ## Weapons
+
+## Traits
 
 ## Abilities
 

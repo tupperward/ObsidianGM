@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Ruinous League/PC/Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "The Ruinous League/PC/Llewyn Davis.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "dd7098bd77e44778",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "z_Ancestries/Elf.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Elf"
+              "title": "Llewyn Davis"
             }
           },
           {
@@ -41,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Bestiary/Slivers/Lesser Hiverlord.md",
+                "file": "z_Gear/Trade Goods.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Lesser Hiverlord"
+              "title": "Trade Goods"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -234,9 +219,19 @@
               "icon": "d20",
               "title": "RPG Manager"
             }
+          },
+          {
+            "id": "25bc13d96b67e777",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       },
       {
         "id": "e2d3872172f57e67",
@@ -280,37 +275,36 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "958aa7d8f566a736",
+  "active": "ca7306d5a357e699",
   "lastOpenFiles": [
-    "z_Bestiary/Slivers/Thrum.md",
+    "z_Rules/Weapon Properties.md",
+    "The Ruinous League/PC/Llewyn Davis.md",
+    "The Ruinous League/PC/Llewyn Token.png",
+    "z_Templates/Hero Record.md",
+    "z_Rules/Spells.md",
+    "The Ruinous League/PC/Untitled.md",
+    "z_Gear/Trade Goods.md",
+    "z_Gear/Starting Packs.md",
+    "z_Gear/Personal Items.md",
+    "z_Gear/Musical Instruments.md",
+    "z_Gear/Liquor & Spirits.md",
+    "z_Gear/Hardware.md",
+    "z_Gear/Gems, Jewelry & Smithing.md",
+    "z_Gear/Games & Toys.md",
+    "z_Gear/Books & Magic.md",
+    "z_Gear/Clothing, Hygiene & Textiles.md",
+    "z_Gear/Outdoors.md",
+    "z_Gear/Tools.md",
+    "z_Gear/Weapons.md",
+    "The Ruinous League/Dungeon Map.md",
     "z_Bestiary/Slivers/Lesser Hiverlord.md",
+    "z_Ancestries/Elf.md",
+    "z_Bestiary/Slivers/Thrum.md",
     "z_Bestiary/Slivers/Groundshaker Sliver.md",
     "z_Bestiary/Slivers/Diffusion Sliver.md",
     "z_Bestiary/Slivers/Bonescythe Sliver.md",
-    "z_Templates/Creature Record.md",
-    "z_Bestiary/Slivers/Plated Sliver.md",
-    "z_Bestiary/Slivers/Striking Sliver.md",
-    "z_Bestiary/Slivers/Battle Sliver.md",
-    "z_Bestiary/Slivers/Belligerent Sliver.md",
-    "z_Bestiary/Slivers/Predatory Sliver.md",
     "z_Bestiary/Slivers",
-    "z_Bestiary/Slivers/Leeching Sliver.md",
     "Vagabond - Hero Record [Interactive PDF].pdf",
-    "z_Bestiary/Slivers/Galerider Sliver.md",
-    "z_Bestiary/Slivers/Constricting Sliver.md",
-    "z_Bestiary/Slivers/Blur Sliver.md",
-    "Punchman.md",
-    "Hero Record.md",
-    "`VIEW[{ancestry}][text]`.md",
-    "The Ruinous League/PC/Llewyn Davis.md",
-    "z_Templates/Hero Record.md",
-    "z_Rules/Running Enemies.md",
-    "z_Rules/Saves.md",
-    "z_Classes/Gunslinger.md",
-    "z_Ancestries/Elf.md",
-    "The Ruinous League/PC/Untitled.md",
-    "The Ruinous League/PC/Llewyn Token.png",
-    "The Ruinous League/Dungeon Map.md",
     "The Ruinous League/PC",
     "z_Ancestries/Traits",
     "z_Ancestries",

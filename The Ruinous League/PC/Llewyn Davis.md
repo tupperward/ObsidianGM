@@ -5,40 +5,40 @@ layout: Hero Record
 name: Llewyn Davis
 type: Humanlike
 ancestry: "[[Elf]]"
-class: "[[Gunslinger]]"
+hero_class: "[[Gunslinger]]"
 level: 1
 xp: 0
-might: 2
-dexterity: 7
-awareness: 4
+might: 4
+dexterity: 4
+awareness: 7
 reason: 4
 presence: 4
-luck: 4
+luck: 2
 hp: 0
 hp_max: 3
-armor: 0
+armor: 1
 speed: 35'
 fatigue: 0
 current_luck: 4
 trained_melee: false
-trained_ranged: false
+trained_ranged: true
 trained_arcana: false
-trained_brawl: false
+trained_brawl: true
 trained_craft: false
-trained_detect: false
+trained_detect: true
 trained_finesse: false
 trained_influence: false
 trained_leadership: false
 trained_medicine: false
-trained_mysticism: false
+trained_mysticism: true
 trained_performance: false
-trained_sneak: false
-trained_survival: false
+trained_sneak: true
+trained_survival: true
 ---
 # `= this.name`
-*`= this.ancestry` · `= this.class` · Level `= this.level`*
+*`= this.ancestry` · `= this.hero_class` · Level `= this.level`*
 ---
-**HP** `= this.hp`/`= this.hp_max` · **Armor** `= this.armor` · **Speed** `= this.speed` · **Fatigue** `= this.fatigue` · **Luck** `= this.current_luck`/`= this.luck`
+**HP** 3/`= this.hp_max` · **[[Armor]]** `= this.armor` · **Speed** `= this.speed` · **Fatigue** 0 · **Luck** 2/`= this.luck`
 
 | MIT | DEX | AWR | RSN | PRS | LCK |
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -64,23 +64,39 @@ trained_survival: false
 ---
 ## Attacks
 
-| Weapon | Grip | Damage | Properties |
-| ------ | ---- | ------ | ---------- |
-|        |      |        |            |
+| Weapon  | Grip | Damage                             | Properties   | Range |
+| ------- | ---- | ---------------------------------- | ------------ | ----- |
+| Rifle   | 2H   | `dice: 1d8` / Marksman: `dice: 1d10` | Keen, Ranged | Far   |
+| Handgun | 1H   | `dice: 1d4` / Marksman: `dice: 1d6`      | Ranged       | Far   |
 
 ---
 ## Perks
-- 
+- [[Marksmanship]]
+---
+## Traits
+- [[Elven Eyes]]
+- [[Naturally Attuned]]
 ---
 ## Abilities
--
+- [[Quick Draw]]
+- [[Deadeye]] `dice: 1d20`
 ---
 ## Magic
-
+- [[Dispel]]
 ---
 ## Inventory
 Max Slots: `=this.might + 8`
 
-| Item | Slots |
-| ---- | ----- |
-|      |       |
+| Item            | Slots |
+| --------------- | ----- |
+| Rifle           | 2     |
+| Handgun         | 1     |
+| Box of Bullets  | 1     |
+| Rope            | 1     |
+| Manacles        | 1     |
+| Lockpicks (3)   | 1     |
+| L. Armor        | 2     |
+| **Total Slots** | 9     |
+<!-- TBLFM: @>$2=sum(@I..@-1) -->
+
+

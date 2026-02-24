@@ -7,7 +7,7 @@ You start with 3g (300s) of Wealth. Choose any pack you like, or roll d66. Class
 
 In addition to the Items listed, each Starting Pack also includes a backpack, bedroll, 5 days of rations, 2 torches, and a waterskin. You are assumed to begin the game with at least one set of casual clothes and a pouch, which don't count against your Starting Wealth.
 
-| d66 | Starting Pack  | Items                                                                    | Wealth  |
+| d66 `dice: 1d6` `dice: 1d6` | Starting Pack  | Items                                                                    | Wealth  |
 |-----|----------------|--------------------------------------------------------------------------|---------|
 | 11  | [[Alchemist]]      | alchemy tools, materials (1g), l. armor                                  | 87s     |
 | 12  | [[Assassin]]       | alchemy tools, materials (1g), dagger (2), basic poison, l. armor        | 60s     |
